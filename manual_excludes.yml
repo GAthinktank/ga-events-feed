@@ -1,0 +1,15 @@
+# =====================================================================
+#  GA! Events Feed — Manual excludes
+# =====================================================================
+#  When the scraper detects a false-positive "event" or you simply
+#  don't want a recurring event in the calendar, paste its ID here.
+#
+#  IDs are visible in data/calendar.json under each event's "id" field,
+#  and on the public site you can reveal them with the admin URL
+#  trick (?admin=1).
+#
+#  Format: a YAML list, one ID per line.
+# =====================================================================
+
+# - g7-2027        # uncomment to hide the auto-generated 2027 G7 entry
+# - eu-council-2026-12

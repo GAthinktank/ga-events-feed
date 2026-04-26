@@ -1,0 +1,42 @@
+# =====================================================================
+#  GA! Events Feed — Manual events
+# =====================================================================
+#  Add one-off or specially curated events here. They will appear in
+#  the calendar alongside auto-detected and recurring events.
+#
+#  After editing this file and committing, GitHub Actions will
+#  automatically re-run the scraper and update the public feed.
+#
+#  Required fields:  title, date
+#  Optional fields:  end_date, location, organizer, region, theme,
+#                    link, summary, featured, kind
+#
+#  region values: Global, EU, US, UK, NL, FR, DE, ES, IT, RU, IN, CN,
+#                 JP, KR, AU, Asia, MENA, Africa, LatAm
+#  theme values:  security, diplomacy, economy, climate, technology,
+#                 development
+#  kind values:   diplomatic-event (default), publication-cycle
+# =====================================================================
+
+# --- Example entries (delete or edit) ---
+- title: "EU–Japan Summit"
+  date: 2026-07-23
+  end_date: 2026-07-23
+  location: "Tokyo, Japan"
+  organizer: "EU / Japan"
+  region: EU
+  theme: diplomacy
+  link: "https://www.consilium.europa.eu/"
+  summary: "Annual EU–Japan leaders' summit covering trade, security, and Indo-Pacific cooperation."
+  featured: true
+
+- title: "AI Action Summit follow-up"
+  date: 2026-09-15
+  end_date: 2026-09-16
+  location: "Paris, France"
+  organizer: "France / India"
+  region: Global
+  theme: technology
+  link: ""
+  summary: "Continuation of AI governance dialogue first launched in 2024–25."
+  featured: false
