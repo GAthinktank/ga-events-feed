@@ -1,17 +1,33 @@
 {
   "meta": {
-    "generated_at": "2026-04-27T19:09:46.967478+00:00",
-    "duration_seconds": 174.312822,
+    "generated_at": "2026-04-27T19:42:36.540697+00:00",
+    "duration_seconds": 100.508236,
     "stats": {
-      "ok": 18,
-      "fail": 76,
-      "items_total": 251,
-      "items_strict": 70,
-      "events_detected": 4
+      "ok": 88,
+      "fail": 11,
+      "items_total": 2010,
+      "items_strict": 461,
+      "events_detected": 3
     },
-    "source_count": 94
+    "source_count": 99
   },
   "items": [
+    {
+      "id": "wef-2026",
+      "title": "World Economic Forum Annual Meeting 2026",
+      "date": "2026-01-19",
+      "end_date": "2026-01-23",
+      "location": "Davos-Klosters, Switzerland",
+      "organizer": "WEF",
+      "region": "Global",
+      "theme": "economy",
+      "link": "https://www.weforum.org/",
+      "summary": "Annual gathering of heads of state, finance leaders, and diplomats.",
+      "featured": true,
+      "confirmed": true,
+      "source": "manual",
+      "kind": "diplomatic-event"
+    },
     {
       "id": "c585fb52ae99d4b3-evt",
       "title": "Commissioner Roswall's address at a Structured Dialogue with Members of the European Parliament's Committee for Environment, Climate and Food Safety (ENVI)",
@@ -64,23 +80,6 @@
       "lang": "en"
     },
     {
-      "id": "2cd08ead7beafac9-evt",
-      "title": "The ASEAN-EU Senior Officials’ Preparatory Meeting convenes in Bandar Seri Begawan",
-      "date": "2026-04-28",
-      "end_date": "2026-04-28",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "Asia",
-      "theme": "diplomacy",
-      "link": "https://asean.org/the-asean-eu-senior-officials-preparatory-meeting-convenes-in-bandar-seri-begawan/",
-      "summary": "The ASEAN-EU Senior Officials’ Preparatory Meeting was held earlier today in Bandar Seri Begawan to discuss preparations for the 25th ASEAN-EU Ministerial Meeting (AEMM), scheduled for 28 April 2026. The post The ASEAN-EU Senior Officials’ Preparatory Meeting convenes in Bandar Seri Begawan appeared",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
       "id": "shangri-la-2026",
       "title": "Shangri-La Dialogue 2026",
       "date": "2026-06-05",
@@ -99,17 +98,17 @@
     {
       "id": "g7-2026",
       "title": "G7 Leaders' Summit 2026",
-      "date": "2026-06-13",
-      "end_date": "2026-06-15",
-      "location": "Rotating host country",
-      "organizer": "G7",
+      "date": "2026-06-14",
+      "end_date": "2026-06-16",
+      "location": "Évian-les-Bains, France",
+      "organizer": "G7 (French presidency)",
       "region": "Global",
       "theme": "diplomacy",
       "link": "",
-      "summary": "",
+      "summary": "Annual gathering of the seven major advanced economies, hosted by France in 2026.",
       "featured": true,
-      "confirmed": false,
-      "source": "recurring-template",
+      "confirmed": true,
+      "source": "manual",
       "kind": "diplomatic-event"
     },
     {
@@ -129,22 +128,6 @@
       "kind": "publication-cycle"
     },
     {
-      "id": "nato-2026",
-      "title": "NATO Summit 2026",
-      "date": "2026-06-24",
-      "end_date": "2026-06-25",
-      "location": "Rotating host",
-      "organizer": "NATO",
-      "region": "Global",
-      "theme": "security",
-      "link": "https://www.nato.int/",
-      "summary": "",
-      "featured": true,
-      "confirmed": false,
-      "source": "recurring-template",
-      "kind": "diplomatic-event"
-    },
-    {
       "id": "eu-council-2026-06",
       "title": "European Council 2026-06",
       "date": "2026-06-25",
@@ -161,6 +144,22 @@
       "kind": "diplomatic-event"
     },
     {
+      "id": "nato-2026",
+      "title": "NATO Summit 2026",
+      "date": "2026-07-07",
+      "end_date": "2026-07-08",
+      "location": "Ankara, Turkey",
+      "organizer": "NATO",
+      "region": "Global",
+      "theme": "security",
+      "link": "https://www.nato.int/",
+      "summary": "Annual NATO heads-of-state and -government meeting, hosted by Turkey in 2026.",
+      "featured": true,
+      "confirmed": true,
+      "source": "manual",
+      "kind": "diplomatic-event"
+    },
+    {
       "id": "aspen-2026",
       "title": "Aspen Security Forum 2026",
       "date": "2026-07-15",
@@ -172,6 +171,22 @@
       "link": "https://www.aspensecurityforum.org/",
       "summary": "",
       "featured": false,
+      "confirmed": false,
+      "source": "recurring-template",
+      "kind": "diplomatic-event"
+    },
+    {
+      "id": "brics-2026",
+      "title": "BRICS Summit 2026",
+      "date": "2026-07-15",
+      "end_date": "2026-07-17",
+      "location": "Rotating host",
+      "organizer": "BRICS",
+      "region": "Global",
+      "theme": "diplomacy",
+      "link": "",
+      "summary": "",
+      "featured": true,
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
@@ -234,6 +249,22 @@
       "region": "Global",
       "theme": "climate",
       "link": "https://unfccc.int/",
+      "summary": "",
+      "featured": true,
+      "confirmed": false,
+      "source": "recurring-template",
+      "kind": "diplomatic-event"
+    },
+    {
+      "id": "apec-2026",
+      "title": "APEC Leaders' Meeting 2026",
+      "date": "2026-11-14",
+      "end_date": "2026-11-16",
+      "location": "Rotating host",
+      "organizer": "APEC",
+      "region": "Asia",
+      "theme": "economy",
+      "link": "https://www.apec.org/",
       "summary": "",
       "featured": true,
       "confirmed": false,
@@ -513,6 +544,22 @@
       "kind": "diplomatic-event"
     },
     {
+      "id": "brics-2027",
+      "title": "BRICS Summit 2027",
+      "date": "2027-07-15",
+      "end_date": "2027-07-17",
+      "location": "Rotating host",
+      "organizer": "BRICS",
+      "region": "Global",
+      "theme": "diplomacy",
+      "link": "",
+      "summary": "",
+      "featured": true,
+      "confirmed": false,
+      "source": "recurring-template",
+      "kind": "diplomatic-event"
+    },
+    {
       "id": "wb-imf-annual-2027",
       "title": "World Bank / IMF Annual Meetings 2027",
       "date": "2027-10-13",
@@ -554,6 +601,22 @@
       "region": "Global",
       "theme": "climate",
       "link": "https://unfccc.int/",
+      "summary": "",
+      "featured": true,
+      "confirmed": false,
+      "source": "recurring-template",
+      "kind": "diplomatic-event"
+    },
+    {
+      "id": "apec-2027",
+      "title": "APEC Leaders' Meeting 2027",
+      "date": "2027-11-14",
+      "end_date": "2027-11-16",
+      "location": "Rotating host",
+      "organizer": "APEC",
+      "region": "Asia",
+      "theme": "economy",
+      "link": "https://www.apec.org/",
       "summary": "",
       "featured": true,
       "confirmed": false,
