@@ -1,7 +1,7 @@
 """
-Main scraper. Fetches all RSS/Atom feeds, normalizes entries,
-applies filters, detects events from publications, and merges with
-recurring event templates.
+Main scraper. Fetches all RSS/Atom feeds (direct + Google News),
+normalizes entries, applies filters, detects events from publications,
+and merges with recurring event templates.
 
 Outputs three JSON files:
   data/publications.json       (strict-filtered, public)
@@ -32,12 +32,22 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "data"
 DATA_DIR.mkdir(exist_ok=True)
 
-USER_AGENT = "GA-ThinkTank-EventsBot/2.0 (+https://gathinktank.com)"
+# Use a realistic browser UA. Google News tolerates anything; direct feeds
+# increasingly require this to avoid 403s.
+USER_AGENT = (
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+)
+BROWSER_HEADERS = {
+    "User-Agent": USER_AGENT,
+    "Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.8, */*;q=0.5",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Accept-Encoding": "gzip, deflate, br",
+    "DNT": "1",
+}
 TIMEOUT = 25
-MAX_PER_SOURCE = 25  # cap entries per feed to avoid noise floods
+MAX_PER_SOURCE = 30  # cap entries per feed to avoid noise floods
 
-# Patterns to detect an event date inside a press-release title or summary,
-# e.g. "Foreign Affairs Council on 12 March 2026" / "12-13 mars 2026"
 EVENT_DATE_PATTERNS = [
     r"\b(\d{1,2})[\.\-– ]+(\d{1,2})\s+(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec|january|february|march|april|may|june|july|august|september|october|november|december|janvier|février|fevrier|mars|avril|juin|juillet|août|aout|septembre|octobre|novembre|décembre|decembre|januar|februar|märz|maerz|juni|juli|oktober|dezember|enero|febrero|marzo|junio|julio|septiembre|octubre|noviembre|diciembre|gennaio|febbraio|aprile|maggio|giugno|luglio|settembre|ottobre|dicembre)\s+(\d{4})\b",
     r"\b(\d{1,2})\s+(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec|january|february|march|april|may|june|july|august|september|october|november|december)\s+(\d{4})\b",
@@ -49,7 +59,6 @@ EVENT_DATE_PATTERNS = [
 ]
 EVENT_DATE_RE = re.compile("|".join(EVENT_DATE_PATTERNS), re.IGNORECASE)
 
-# Words that indicate "this is an event, not a paper"
 EVENT_INDICATORS = re.compile(
     r"\b(meet(ing|s)|summit|conference|forum|council|dialogue|hosts?|"
     r"r[eé]union|conseil|sommet|conf[eé]rence|"
@@ -64,10 +73,20 @@ EVENT_INDICATORS = re.compile(
 def normalize_text(s):
     if not s:
         return ""
-    # Strip HTML tags crudely
     s = re.sub(r"<[^>]+>", " ", s)
     s = re.sub(r"\s+", " ", s).strip()
     return s
+
+
+def clean_gnews_title(title):
+    """Google News titles look like 'Real title here - Source Name'.
+    Strip the trailing ' - Source' so the display title is clean."""
+    if not title:
+        return title
+    m = re.search(r"\s+-\s+([^-]+)$", title)
+    if m:
+        return title[:m.start()].strip()
+    return title
 
 
 def make_id(*parts):
@@ -93,15 +112,17 @@ def parse_entry_date(entry):
     return None
 
 
+def is_gnews(source):
+    return "news.google.com" in source.get("url", "")
+
+
 def fetch_feed(source):
     """Returns a list of normalized entries, or [] on error."""
-    headers = {"User-Agent": USER_AGENT, "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml"}
     try:
-        r = requests.get(source["url"], headers=headers, timeout=TIMEOUT, allow_redirects=True)
+        r = requests.get(source["url"], headers=BROWSER_HEADERS, timeout=TIMEOUT, allow_redirects=True)
         if r.status_code != 200:
             print(f"  ✗ HTTP {r.status_code} from {source['name']}", file=sys.stderr)
             return []
-        # Use bytes so feedparser handles encoding
         feed = feedparser.parse(r.content)
     except Exception as e:
         print(f"  ✗ {source['name']}: {e}", file=sys.stderr)
@@ -111,25 +132,28 @@ def fetch_feed(source):
         print(f"  ✗ {source['name']}: malformed feed ({feed.bozo_exception})", file=sys.stderr)
         return []
 
+    gnews = is_gnews(source)
     entries = []
     for raw in feed.entries[:MAX_PER_SOURCE]:
         title = normalize_text(raw.get("title", ""))
         if not title:
             continue
+        if gnews:
+            title = clean_gnews_title(title)
         link = raw.get("link") or ""
         summary = normalize_text(raw.get("summary") or raw.get("description") or "")
+        if gnews and summary:
+            summary = re.sub(r"<[^>]+>", " ", summary)
+            summary = re.sub(r"\s+", " ", summary).strip()
         pubdate = parse_entry_date(raw)
 
         text = f"{title} {summary}"
         if is_noise(text):
             continue
 
-        # Region: source default, but override if a strong country hint appears
-        # in the text (Russia/China/India). This is what catches "EEAS on Russia."
         region = source["region"]
         hint = detect_region_hint(text)
         if hint and source["type"] != "gov":
-            # Only override for non-government sources, since gov region IS the source
             region = hint
 
         theme = detect_theme(text)
@@ -145,36 +169,33 @@ def fetch_feed(source):
             "region": region,
             "lang": source["lang"],
             "theme": theme,
+            "via_gnews": gnews,
         }
         entries.append(item)
+    if entries:
+        print(f"    {len(entries)} items")
     return entries
 
 
 def extract_event_from_entry(entry):
-    """If the entry text contains an event date and event indicator,
-    emit a calendar event. Returns dict or None."""
     text = f"{entry['title']} {entry.get('summary','')}"
     if not EVENT_INDICATORS.search(text):
         return None
 
-    # Try the regex patterns in order until one matches
     m = EVENT_DATE_RE.search(text)
     if not m:
         return None
 
-    # Try to coerce the matched substring into a date via dateutil
     matched = m.group(0)
     try:
-        # dateutil handles many languages via fuzzy parse
         parsed = dtparser.parse(matched, fuzzy=True, dayfirst=True)
     except Exception:
         return None
 
     today = date.today()
     if parsed.date() < today:
-        return None  # past event
+        return None
 
-    # Calendar event derived from a publication
     return {
         "id": entry["id"] + "-evt",
         "title": entry["title"],
@@ -210,8 +231,10 @@ def load_manual_yaml(filename, key):
 
 def main():
     started = datetime.now(timezone.utc)
+    direct_n = sum(1 for s in SOURCES if not is_gnews(s))
+    gnews_n = sum(1 for s in SOURCES if is_gnews(s))
     print(f"=== GA Events Feed scrape — {started.isoformat()} ===")
-    print(f"Sources: {len(SOURCES)}")
+    print(f"Sources: {len(SOURCES)} ({direct_n} direct + {gnews_n} via Google News)")
 
     all_pubs = []
     public_pubs = []
@@ -219,7 +242,8 @@ def main():
     stats = {"ok": 0, "fail": 0, "items_total": 0, "items_strict": 0, "events_detected": 0}
 
     for src in SOURCES:
-        print(f"→ {src['name']} ({src['region']}, {src['lang']})")
+        marker = "[GN]" if is_gnews(src) else "[D ]"
+        print(f"{marker} {src['name']} ({src['region']}, {src['lang']})")
         entries = fetch_feed(src)
         if not entries:
             stats["fail"] += 1
@@ -229,33 +253,41 @@ def main():
 
         for e in entries:
             all_pubs.append(e)
-
-            # Strict filter for public feed
             text = f"{e['title']} {e.get('summary','')}"
             if is_strict(text):
                 public_pubs.append(e)
                 stats["items_strict"] += 1
-
-            # Try to extract event
             evt = extract_event_from_entry(e)
             if evt:
                 detected_events.append(evt)
                 stats["events_detected"] += 1
 
-        time.sleep(0.5)  # be gentle to servers
+        time.sleep(0.4)
 
-    # Sort publications by date desc, fallback to title
+    # Deduplicate by id
+    def dedup(lst):
+        seen = set()
+        out = []
+        for it in lst:
+            if it["id"] in seen:
+                continue
+            seen.add(it["id"])
+            out.append(it)
+        return out
+
+    all_pubs = dedup(all_pubs)
+    public_pubs = dedup(public_pubs)
+
     def sort_key(p):
         return (p.get("date") or "0000-00-00", p["title"])
     all_pubs.sort(key=sort_key, reverse=True)
     public_pubs.sort(key=sort_key, reverse=True)
 
-    # ==== Calendar: recurring + detected + manual ====
+    # ==== Calendar ====
     recurring = generate_recurring()
     manual = load_manual_yaml("manual_events.yml", "events")
     excludes = set(load_manual_yaml("manual_excludes.yml", "ids"))
 
-    # Normalize manual events to the same shape; manual entries override featured/etc.
     manual_normalized = []
     for m in manual:
         if not m.get("title") or not m.get("date"):
@@ -277,19 +309,15 @@ def main():
             "kind": m.get("kind", "diplomatic-event"),
         })
 
-    # Merge: manual > recurring > detected (later overwrites earlier on duplicate IDs).
     by_id = {}
     for evt in detected_events + recurring + manual_normalized:
         if evt["id"] in excludes:
             continue
-        # If a recurring event matches a manual entry by approximate title+year,
-        # prefer the manual one.
         by_id[evt["id"]] = evt
 
     calendar = list(by_id.values())
     calendar.sort(key=lambda e: e["date"])
 
-    # ==== Write outputs ====
     finished = datetime.now(timezone.utc)
     meta = {
         "generated_at": finished.isoformat(),
