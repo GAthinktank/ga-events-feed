@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generated_at": "2026-04-27T19:21:54.112409+00:00",
-    "duration_seconds": 118.918697,
+    "generated_at": "2026-04-27T19:42:36.540697+00:00",
+    "duration_seconds": 100.508236,
     "stats": {
-      "ok": 18,
-      "fail": 76,
-      "items_total": 251,
-      "items_strict": 70,
-      "events_detected": 4
+      "ok": 88,
+      "fail": 11,
+      "items_total": 2010,
+      "items_strict": 461,
+      "events_detected": 3
     },
-    "source_count": 94
+    "source_count": 99
   },
   "items": [
     {
@@ -76,23 +76,6 @@
       "featured": false,
       "confirmed": true,
       "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "2cd08ead7beafac9-evt",
-      "title": "The ASEAN-EU Senior Officials’ Preparatory Meeting convenes in Bandar Seri Begawan",
-      "date": "2026-04-28",
-      "end_date": "2026-04-28",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "Asia",
-      "theme": "diplomacy",
-      "link": "https://asean.org/the-asean-eu-senior-officials-preparatory-meeting-convenes-in-bandar-seri-begawan/",
-      "summary": "The ASEAN-EU Senior Officials’ Preparatory Meeting was held earlier today in Bandar Seri Begawan to discuss preparations for the 25th ASEAN-EU Ministerial Meeting (AEMM), scheduled for 28 April 2026. The post The ASEAN-EU Senior Officials’ Preparatory Meeting convenes in Bandar Seri Begawan appeared",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
       "kind": "diplomatic-event",
       "lang": "en"
     },
