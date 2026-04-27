@@ -1,17 +1,68 @@
 {
   "meta": {
-    "generated_at": "2026-04-27T08:00:55.560994+00:00",
-    "duration_seconds": 187.500152,
+    "generated_at": "2026-04-27T17:14:01.861980+00:00",
+    "duration_seconds": 140.618767,
     "stats": {
-      "ok": 17,
-      "fail": 77,
-      "items_total": 239,
-      "items_strict": 57,
-      "events_detected": 0
+      "ok": 18,
+      "fail": 76,
+      "items_total": 250,
+      "items_strict": 70,
+      "events_detected": 3
     },
     "source_count": 94
   },
   "items": [
+    {
+      "id": "7f657f9b4c6d9861-evt",
+      "title": "Welcome address by Commissioner Kubilius in the high-level conference \"Road to URC – Security and Defense Dimension\" (via VTC)",
+      "date": "2026-04-27",
+      "end_date": "2026-04-27",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "security",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_893",
+      "summary": "European Commission Speech Brussels, 27 Apr 2026 Good morning to everybody. Good morning, Prime Ministers, Dear Donald, Dear Yulia Good morning also to the participants of the conference and the people of Rzes...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "99a7e5ba894b2433-evt",
+      "title": "Statement by President von der Leyen at the meeting of the board of the CDU/CSU group in the German Bundestag",
+      "date": "2026-04-27",
+      "end_date": "2026-04-27",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_891",
+      "summary": "European Commission Statement Berlin, 27 Apr 2026 Dear Jens Spahn, Dear Alexander Hoffmann, I am very pleased to be here with you today to discuss with you and the group executive committee. Competitiveness is ...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "2cd08ead7beafac9-evt",
+      "title": "The ASEAN-EU Senior Officials’ Preparatory Meeting convenes in Bandar Seri Begawan",
+      "date": "2026-04-28",
+      "end_date": "2026-04-28",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/the-asean-eu-senior-officials-preparatory-meeting-convenes-in-bandar-seri-begawan/",
+      "summary": "The ASEAN-EU Senior Officials’ Preparatory Meeting was held earlier today in Bandar Seri Begawan to discuss preparations for the 25th ASEAN-EU Ministerial Meeting (AEMM), scheduled for 28 April 2026. The post The ASEAN-EU Senior Officials’ Preparatory Meeting convenes in Bandar Seri Begawan appeared",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
     {
       "id": "shangri-la-2026",
       "title": "Shangri-La Dialogue 2026",
