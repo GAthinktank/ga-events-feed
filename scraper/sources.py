@@ -1,222 +1,285 @@
 """
-GA! Events Feed — Source list.
-Each source: name, type, region, language, url, kind ('rss' or 'atom').
-Edit this file to add/remove sources, then commit. The next scheduled
-run will pick them up.
-"""
+GA! Events Feed — Source list (hybrid: direct RSS + Google News).
 
-SOURCES = [
-    # ============== UNITED STATES ==============
-    {"name": "US State Department", "type": "gov", "region": "US", "lang": "en",
-     "url": "https://www.state.gov/rss-feeds/press-releases-feed/", "kind": "rss"},
-    {"name": "US White House", "type": "gov", "region": "US", "lang": "en",
-     "url": "https://www.whitehouse.gov/feed/", "kind": "rss"},
+Sources are split into two groups:
+
+  DIRECT_SOURCES — institutional RSS feeds that we know work directly.
+                   These give us the cleanest, most authoritative items.
+
+  GOOGLE_NEWS_SOURCES — wrapped Google News searches. These cover everything
+                       else (NATO, UN, ministries that block scrapers, etc.).
+                       Items come from news outlets reporting on the
+                       institution, often including the institution's own
+                       press releases at the top.
+
+Both lists feed into the same scraper pipeline.
+"""
+from urllib.parse import quote
+
+# Google News RSS endpoint format. We always use English-language Google News
+# regardless of source language, because it has the broadest indexing. The
+# `lang` field below is for UI tagging, not the search itself.
+GNEWS = "https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en"
+
+
+def gn(query):
+    """Build a Google News RSS URL from a search query."""
+    return GNEWS.format(q=quote(query))
+
+
+# ============================================================
+# DIRECT FEEDS — verified working from previous scrape runs
+# ============================================================
+DIRECT_SOURCES = [
+    # ---- US ----
     {"name": "US Department of Defense", "type": "gov", "region": "US", "lang": "en",
      "url": "https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=945&max=20", "kind": "rss"},
-    {"name": "Congressional Research Service", "type": "gov", "region": "US", "lang": "en",
-     "url": "https://crsreports.congress.gov/rss/AllNew.xml", "kind": "rss"},
 
-    # ============== UNITED KINGDOM ==============
-    {"name": "UK Government — All news", "type": "gov", "region": "UK", "lang": "en",
-     "url": "https://www.gov.uk/government/announcements.atom", "kind": "atom"},
+    # ---- UK ----
     {"name": "UK FCDO", "type": "gov", "region": "UK", "lang": "en",
      "url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office.atom", "kind": "atom"},
     {"name": "UK Ministry of Defence", "type": "gov", "region": "UK", "lang": "en",
      "url": "https://www.gov.uk/government/organisations/ministry-of-defence.atom", "kind": "atom"},
 
-    # ============== EUROPEAN UNION ==============
+    # ---- EU institutions ----
     {"name": "European Commission — Press", "type": "gov", "region": "EU", "lang": "en",
      "url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en", "kind": "rss"},
-    {"name": "European External Action Service", "type": "gov", "region": "EU", "lang": "en",
-     "url": "https://www.eeas.europa.eu/eeas/press-material_en/rss.xml", "kind": "rss"},
-    {"name": "European Council", "type": "gov", "region": "EU", "lang": "en",
-     "url": "https://www.consilium.europa.eu/en/press/press-releases/?Format=RSS", "kind": "rss"},
     {"name": "European Parliament — News", "type": "gov", "region": "EU", "lang": "en",
      "url": "https://www.europarl.europa.eu/rss/doc/top-stories/en.xml", "kind": "rss"},
 
-    # ============== EUROPE — INDIVIDUAL COUNTRIES ==============
-    {"name": "France — MEAE (Diplomatie)", "type": "gov", "region": "FR", "lang": "fr",
-     "url": "https://www.diplomatie.gouv.fr/spip.php?page=backend&lang=fr", "kind": "rss"},
-    {"name": "France — Ministère des Armées", "type": "gov", "region": "FR", "lang": "fr",
-     "url": "https://www.defense.gouv.fr/rss-actualites.xml", "kind": "rss"},
-    {"name": "Germany — Auswärtiges Amt", "type": "gov", "region": "DE", "lang": "de",
-     "url": "https://www.auswaertiges-amt.de/rss/aktuelles", "kind": "rss"},
-    {"name": "Germany — Bundesregierung", "type": "gov", "region": "DE", "lang": "de",
-     "url": "https://www.bundesregierung.de/breg-de/-rss-1014066", "kind": "rss"},
-    {"name": "Netherlands — Min. van Buitenlandse Zaken", "type": "gov", "region": "NL", "lang": "nl",
-     "url": "https://www.rijksoverheid.nl/ministeries/ministerie-van-buitenlandse-zaken/nieuws.rss", "kind": "rss"},
-    {"name": "Netherlands — Min. van Defensie", "type": "gov", "region": "NL", "lang": "nl",
-     "url": "https://www.rijksoverheid.nl/ministeries/ministerie-van-defensie/nieuws.rss", "kind": "rss"},
-    {"name": "Spain — Ministerio Asuntos Exteriores", "type": "gov", "region": "ES", "lang": "es",
-     "url": "https://www.exteriores.gob.es/_layouts/15/listfeed.aspx?List=%7B7E472D75-3D9E-4E2C-8D5A-2A7E5A7F7E4D%7D", "kind": "rss"},
-    {"name": "Italy — Ministero degli Esteri", "type": "gov", "region": "IT", "lang": "it",
-     "url": "https://www.esteri.it/it/sala_stampa/rss/", "kind": "rss"},
-    {"name": "Poland — MFA", "type": "gov", "region": "PL", "lang": "en",
-     "url": "https://www.gov.pl/web/diplomacy/rss", "kind": "rss"},
-    {"name": "Sweden — Government", "type": "gov", "region": "SE", "lang": "en",
-     "url": "https://www.government.se/api/feed/", "kind": "rss"},
+    # ---- European countries ----
     {"name": "Norway — Government", "type": "gov", "region": "NO", "lang": "en",
      "url": "https://www.regjeringen.no/en/rss/Rss/2581615/", "kind": "rss"},
-    {"name": "Finland — Valtioneuvosto (Government)", "type": "gov", "region": "FI", "lang": "en",
-     "url": "https://valtioneuvosto.fi/en/rss", "kind": "rss"},
-    {"name": "Denmark — MFA", "type": "gov", "region": "DK", "lang": "en",
-     "url": "https://um.dk/en/rss/news.aspx", "kind": "rss"},
     {"name": "Belgium — Diplomatie", "type": "gov", "region": "BE", "lang": "fr",
      "url": "https://diplomatie.belgium.be/fr/rss.xml", "kind": "rss"},
-    {"name": "Ireland — DFA", "type": "gov", "region": "IE", "lang": "en",
-     "url": "https://www.dfa.ie/our-role-policies/rss/news/", "kind": "rss"},
-    {"name": "Austria — BMEIA", "type": "gov", "region": "AT", "lang": "de",
-     "url": "https://www.bmeia.gv.at/rss/aktuelles/", "kind": "rss"},
 
-    # ============== INTERNATIONAL ORGANIZATIONS ==============
-    {"name": "NATO — Press releases", "type": "io", "region": "Global", "lang": "en",
-     "url": "https://www.nato.int/cps/en/natohq/news.rss", "kind": "rss"},
-    {"name": "United Nations — News", "type": "io", "region": "Global", "lang": "en",
-     "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml", "kind": "rss"},
-    {"name": "UN Security Council", "type": "io", "region": "Global", "lang": "en",
-     "url": "https://press.un.org/en/security-council/rss.xml", "kind": "rss"},
-    {"name": "World Bank", "type": "io", "region": "Global", "lang": "en",
-     "url": "https://www.worldbank.org/en/news/all.rss", "kind": "rss"},
+    # ---- IOs ----
     {"name": "IMF", "type": "io", "region": "Global", "lang": "en",
      "url": "https://www.imf.org/en/News/RSS?Language=ENG", "kind": "rss"},
-    {"name": "OECD", "type": "io", "region": "Global", "lang": "en",
-     "url": "https://www.oecd.org/newsroom/index.xml", "kind": "rss"},
-    {"name": "OSCE", "type": "io", "region": "EU", "lang": "en",
-     "url": "https://www.osce.org/press_releases/feed.xml", "kind": "rss"},
-    {"name": "WTO", "type": "io", "region": "Global", "lang": "en",
-     "url": "https://www.wto.org/english/news_e/news_rss_e.xml", "kind": "rss"},
-    {"name": "Council of Europe", "type": "io", "region": "EU", "lang": "en",
-     "url": "https://www.coe.int/en/web/portal/full-news?p_p_id=101_INSTANCE_LkjxN5tg2KIK&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_101_INSTANCE_LkjxN5tg2KIK_format=rss", "kind": "rss"},
-    {"name": "African Union", "type": "io", "region": "Africa", "lang": "en",
-     "url": "https://au.int/en/pressreleases/rss.xml", "kind": "rss"},
     {"name": "ASEAN", "type": "io", "region": "Asia", "lang": "en",
      "url": "https://asean.org/feed/", "kind": "rss"},
-    {"name": "OAS — Organization of American States", "type": "io", "region": "LatAm", "lang": "en",
-     "url": "https://www.oas.org/en/media_center/press_releases.asp?sCodigo=RSS", "kind": "rss"},
 
-    # ============== US THINK TANKS ==============
-    {"name": "Brookings", "type": "tt", "region": "US", "lang": "en",
-     "url": "https://www.brookings.edu/feed/", "kind": "rss"},
+    # ---- US think tanks ----
     {"name": "Carnegie Endowment", "type": "tt", "region": "US", "lang": "en",
      "url": "https://carnegieendowment.org/rss/solr/?fa=publications&maxRows=20", "kind": "rss"},
-    {"name": "Council on Foreign Relations", "type": "tt", "region": "US", "lang": "en",
-     "url": "https://www.cfr.org/feeds/all", "kind": "rss"},
-    {"name": "CSIS", "type": "tt", "region": "US", "lang": "en",
-     "url": "https://www.csis.org/analysis/feed", "kind": "rss"},
-    {"name": "RAND", "type": "tt", "region": "US", "lang": "en",
-     "url": "https://www.rand.org/topics.xml", "kind": "rss"},
     {"name": "Atlantic Council", "type": "tt", "region": "US", "lang": "en",
      "url": "https://www.atlanticcouncil.org/feed/", "kind": "rss"},
     {"name": "Hudson Institute", "type": "tt", "region": "US", "lang": "en",
      "url": "https://www.hudson.org/rss.xml", "kind": "rss"},
-    {"name": "Wilson Center", "type": "tt", "region": "US", "lang": "en",
-     "url": "https://www.wilsoncenter.org/rss.xml", "kind": "rss"},
-    {"name": "Peterson Institute (PIIE)", "type": "tt", "region": "US", "lang": "en",
-     "url": "https://www.piie.com/rss/research", "kind": "rss"},
     {"name": "GMF — German Marshall Fund", "type": "tt", "region": "US", "lang": "en",
      "url": "https://www.gmfus.org/rss.xml", "kind": "rss"},
     {"name": "CEPA", "type": "tt", "region": "US", "lang": "en",
      "url": "https://cepa.org/feed/", "kind": "rss"},
 
-    # ============== UK & EUROPEAN THINK TANKS ==============
-    {"name": "Chatham House", "type": "tt", "region": "UK", "lang": "en",
-     "url": "https://www.chathamhouse.org/rss/feed.xml", "kind": "rss"},
-    {"name": "IISS", "type": "tt", "region": "UK", "lang": "en",
-     "url": "https://www.iiss.org/rss/", "kind": "rss"},
-    {"name": "RUSI", "type": "tt", "region": "UK", "lang": "en",
-     "url": "https://rusi.org/rss/explore-our-research", "kind": "rss"},
+    # ---- European think tanks ----
     {"name": "ECFR", "type": "tt", "region": "EU", "lang": "en",
      "url": "https://ecfr.eu/feed/", "kind": "rss"},
-    {"name": "Bruegel", "type": "tt", "region": "EU", "lang": "en",
-     "url": "https://www.bruegel.org/rss.xml", "kind": "rss"},
-    {"name": "CEPS", "type": "tt", "region": "EU", "lang": "en",
-     "url": "https://www.ceps.eu/feed/", "kind": "rss"},
-    {"name": "Centre for European Reform (CER)", "type": "tt", "region": "UK", "lang": "en",
-     "url": "https://www.cer.eu/rss-feed.xml", "kind": "rss"},
-    {"name": "European Policy Centre (EPC)", "type": "tt", "region": "EU", "lang": "en",
-     "url": "https://www.epc.eu/en/Feed", "kind": "rss"},
     {"name": "Egmont Institute (BE)", "type": "tt", "region": "EU", "lang": "en",
      "url": "https://www.egmontinstitute.be/feed/", "kind": "rss"},
-    {"name": "Clingendael (NL)", "type": "tt", "region": "NL", "lang": "en",
-     "url": "https://www.clingendael.org/rss.xml", "kind": "rss"},
     {"name": "HCSS (NL)", "type": "tt", "region": "NL", "lang": "en",
      "url": "https://hcss.nl/feed/", "kind": "rss"},
     {"name": "IFRI (FR)", "type": "tt", "region": "FR", "lang": "fr",
      "url": "https://www.ifri.org/fr/rss.xml", "kind": "rss"},
-    {"name": "FRS — Fondation pour la Recherche Stratégique (FR)", "type": "tt", "region": "FR", "lang": "fr",
-     "url": "https://www.frstrategie.org/rss.xml", "kind": "rss"},
     {"name": "DGAP (DE)", "type": "tt", "region": "DE", "lang": "en",
      "url": "https://dgap.org/en/rss.xml", "kind": "rss"},
-    {"name": "SWP — Stiftung Wissenschaft und Politik (DE)", "type": "tt", "region": "DE", "lang": "en",
-     "url": "https://www.swp-berlin.org/en/rss/publications.xml", "kind": "rss"},
     {"name": "Real Instituto Elcano (ES)", "type": "tt", "region": "ES", "lang": "es",
      "url": "https://www.realinstitutoelcano.org/feed/", "kind": "rss"},
     {"name": "CIDOB (ES)", "type": "tt", "region": "ES", "lang": "es",
      "url": "https://www.cidob.org/en/rss.xml", "kind": "rss"},
-    {"name": "IAI — Istituto Affari Internazionali (IT)", "type": "tt", "region": "IT", "lang": "en",
+    {"name": "IAI (IT)", "type": "tt", "region": "IT", "lang": "en",
      "url": "https://www.iai.it/en/rss.xml", "kind": "rss"},
-    {"name": "PISM (PL)", "type": "tt", "region": "PL", "lang": "en",
-     "url": "https://pism.pl/rss/publications", "kind": "rss"},
-    {"name": "GLOBSEC (SK)", "type": "tt", "region": "EU", "lang": "en",
-     "url": "https://www.globsec.org/rss.xml", "kind": "rss"},
-    {"name": "SIPRI", "type": "tt", "region": "EU", "lang": "en",
-     "url": "https://www.sipri.org/rss.xml", "kind": "rss"},
-    {"name": "DIIS — Danish Institute for Int. Studies", "type": "tt", "region": "DK", "lang": "en",
-     "url": "https://www.diis.dk/rss/publications", "kind": "rss"},
-    {"name": "NUPI (NO)", "type": "tt", "region": "NO", "lang": "en",
-     "url": "https://www.nupi.no/en/rss/all", "kind": "rss"},
     {"name": "FIIA (FI)", "type": "tt", "region": "FI", "lang": "en",
      "url": "https://www.fiia.fi/en/feed", "kind": "rss"},
-    {"name": "International Crisis Group", "type": "tt", "region": "Global", "lang": "en",
-     "url": "https://www.crisisgroup.org/rss.xml", "kind": "rss"},
-    {"name": "MERICS (DE) — China analysis", "type": "tt", "region": "DE", "lang": "en",
-     "url": "https://merics.org/en/rss.xml", "kind": "rss"},
 
-    # ============== RUSSIA ==============
-    {"name": "Russia — MFA (English)", "type": "gov", "region": "RU", "lang": "en",
-     "url": "https://mid.ru/en/rss.php?rid=240", "kind": "rss"},
-    {"name": "Valdai Club", "type": "tt", "region": "RU", "lang": "en",
-     "url": "https://valdaiclub.com/multimedia/rss/", "kind": "rss"},
-
-    # ============== INDIA ==============
-    {"name": "India — MEA", "type": "gov", "region": "IN", "lang": "en",
-     "url": "https://www.mea.gov.in/press-releases.htm?51/Press_Releases", "kind": "rss"},
-    {"name": "ORF — Observer Research Foundation", "type": "tt", "region": "IN", "lang": "en",
-     "url": "https://www.orfonline.org/feed/", "kind": "rss"},
-    {"name": "IDSA — Manohar Parrikar Institute", "type": "tt", "region": "IN", "lang": "en",
-     "url": "https://www.idsa.in/rss.xml", "kind": "rss"},
-
-    # ============== CHINA (Western analysis) ==============
-    {"name": "China — MFA (English)", "type": "gov", "region": "CN", "lang": "en",
-     "url": "https://www.fmprc.gov.cn/eng/xwfw_665399/s2510_665401/rss.xml", "kind": "rss"},
-
-    # ============== ASIA-PACIFIC ==============
-    {"name": "Japan — MOFA", "type": "gov", "region": "JP", "lang": "en",
-     "url": "https://www.mofa.go.jp/files/rss/whatsnew.rdf", "kind": "rss"},
-    {"name": "South Korea — MOFA", "type": "gov", "region": "KR", "lang": "en",
-     "url": "https://www.mofa.go.kr/eng/rss.do?menuId=ENGM01_01", "kind": "rss"},
-    {"name": "Australia — DFAT", "type": "gov", "region": "AU", "lang": "en",
-     "url": "https://www.dfat.gov.au/rss/news.xml", "kind": "rss"},
-    {"name": "Lowy Institute (AU)", "type": "tt", "region": "AU", "lang": "en",
-     "url": "https://www.lowyinstitute.org/feed", "kind": "rss"},
+    # ---- Asia-Pacific ----
     {"name": "ASPI (AU)", "type": "tt", "region": "AU", "lang": "en",
      "url": "https://www.aspi.org.au/feed", "kind": "rss"},
-    {"name": "RSIS (Singapore)", "type": "tt", "region": "Asia", "lang": "en",
-     "url": "https://www.rsis.edu.sg/feed/", "kind": "rss"},
-
-    # ============== AFRICA ==============
-    {"name": "ISS Africa", "type": "tt", "region": "Africa", "lang": "en",
-     "url": "https://issafrica.org/rss/iss-today", "kind": "rss"},
-    {"name": "South Africa — DIRCO", "type": "gov", "region": "Africa", "lang": "en",
-     "url": "https://www.dirco.gov.za/rss-feeds/", "kind": "rss"},
-
-    # ============== LATIN AMERICA ==============
-    {"name": "Brazil — Itamaraty", "type": "gov", "region": "LatAm", "lang": "pt",
-     "url": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/RSS", "kind": "rss"},
-    {"name": "Mexico — SRE", "type": "gov", "region": "LatAm", "lang": "es",
-     "url": "https://www.gob.mx/sre/articulos.rss", "kind": "rss"},
-    {"name": "Argentina — Cancillería", "type": "gov", "region": "LatAm", "lang": "es",
-     "url": "https://www.cancilleria.gob.ar/feed", "kind": "rss"},
-    {"name": "CARI — Consejo Argentino para Relaciones Internacionales", "type": "tt", "region": "LatAm", "lang": "es",
-     "url": "https://www.cari.com.ar/feed/", "kind": "rss"},
 ]
+
+
+# ============================================================
+# GOOGLE NEWS-BACKED SOURCES
+# Each query targets either site:domain.tld or institution name.
+# 'lang' field is for UI display; the search runs in en-US.
+# ============================================================
+GOOGLE_NEWS_SOURCES = [
+    # ---- US Government ----
+    {"name": "US State Department", "type": "gov", "region": "US", "lang": "en",
+     "url": gn('site:state.gov (strategy OR statement OR briefing OR communique OR readout OR review)'), "kind": "rss"},
+    {"name": "US White House", "type": "gov", "region": "US", "lang": "en",
+     "url": gn('site:whitehouse.gov (statement OR fact-sheet OR readout OR strategy)'), "kind": "rss"},
+    {"name": "US Congressional Research", "type": "gov", "region": "US", "lang": "en",
+     "url": gn('site:crsreports.congress.gov OR "CRS report"'), "kind": "rss"},
+
+    # ---- UK ----
+    {"name": "UK gov.uk announcements", "type": "gov", "region": "UK", "lang": "en",
+     "url": gn('site:gov.uk (foreign OR defence OR strategy OR review OR communique)'), "kind": "rss"},
+
+    # ---- EU institutions ----
+    {"name": "European External Action Service", "type": "gov", "region": "EU", "lang": "en",
+     "url": gn('"EEAS" OR "European External Action Service" (statement OR communique OR strategy)'), "kind": "rss"},
+    {"name": "European Council", "type": "gov", "region": "EU", "lang": "en",
+     "url": gn('site:consilium.europa.eu (conclusions OR statement OR meeting)'), "kind": "rss"},
+
+    # ---- European individual countries ----
+    {"name": "France — MEAE (Diplomatie)", "type": "gov", "region": "FR", "lang": "fr",
+     "url": gn('site:diplomatie.gouv.fr OR ("Ministere Europe Affaires etrangeres" declaration)'), "kind": "rss"},
+    {"name": "France — Ministère des Armées", "type": "gov", "region": "FR", "lang": "fr",
+     "url": gn('site:defense.gouv.fr OR "Ministere des Armees" strategie'), "kind": "rss"},
+    {"name": "Germany — Auswärtiges Amt", "type": "gov", "region": "DE", "lang": "de",
+     "url": gn('site:auswaertiges-amt.de OR "Auswartiges Amt" (Strategie OR Erklarung)'), "kind": "rss"},
+    {"name": "Germany — Bundesregierung", "type": "gov", "region": "DE", "lang": "de",
+     "url": gn('site:bundesregierung.de (Sicherheit OR Aussenpolitik OR Strategie)'), "kind": "rss"},
+    {"name": "Netherlands — Buitenlandse Zaken", "type": "gov", "region": "NL", "lang": "nl",
+     "url": gn('site:rijksoverheid.nl "Buitenlandse Zaken" (verklaring OR strategie OR beleid)'), "kind": "rss"},
+    {"name": "Netherlands — Defensie", "type": "gov", "region": "NL", "lang": "nl",
+     "url": gn('site:defensie.nl OR site:rijksoverheid.nl "Ministerie van Defensie"'), "kind": "rss"},
+    {"name": "Spain — MAEC", "type": "gov", "region": "ES", "lang": "es",
+     "url": gn('site:exteriores.gob.es OR "Ministerio de Asuntos Exteriores" Espana'), "kind": "rss"},
+    {"name": "Italy — Esteri", "type": "gov", "region": "IT", "lang": "it",
+     "url": gn('site:esteri.it (dichiarazione OR strategia OR vertice)'), "kind": "rss"},
+    {"name": "Poland — MFA", "type": "gov", "region": "PL", "lang": "en",
+     "url": gn('"Polish Foreign Ministry" OR site:gov.pl/web/diplomacy'), "kind": "rss"},
+    {"name": "Sweden — Government", "type": "gov", "region": "SE", "lang": "en",
+     "url": gn('site:government.se (foreign OR defence OR strategy)'), "kind": "rss"},
+    {"name": "Finland — Government", "type": "gov", "region": "FI", "lang": "en",
+     "url": gn('site:valtioneuvosto.fi/en (foreign OR defence)'), "kind": "rss"},
+    {"name": "Denmark — MFA", "type": "gov", "region": "DK", "lang": "en",
+     "url": gn('site:um.dk OR "Danish Ministry of Foreign Affairs"'), "kind": "rss"},
+    {"name": "Ireland — DFA", "type": "gov", "region": "IE", "lang": "en",
+     "url": gn('site:dfa.ie OR "Irish Department of Foreign Affairs"'), "kind": "rss"},
+    {"name": "Austria — BMEIA", "type": "gov", "region": "AT", "lang": "de",
+     "url": gn('site:bmeia.gv.at OR "Aussenministerium" Osterreich'), "kind": "rss"},
+
+    # ---- International Organizations ----
+    {"name": "NATO", "type": "io", "region": "Global", "lang": "en",
+     "url": gn('site:nato.int OR ("NATO" (summit OR communique OR statement OR declaration OR strategy))'), "kind": "rss"},
+    {"name": "United Nations", "type": "io", "region": "Global", "lang": "en",
+     "url": gn('site:un.org (statement OR resolution OR Security Council OR Secretary-General)'), "kind": "rss"},
+    {"name": "UN Security Council", "type": "io", "region": "Global", "lang": "en",
+     "url": gn('"UN Security Council" (resolution OR statement OR meeting)'), "kind": "rss"},
+    {"name": "World Bank", "type": "io", "region": "Global", "lang": "en",
+     "url": gn('site:worldbank.org (report OR strategy OR statement)'), "kind": "rss"},
+    {"name": "OECD", "type": "io", "region": "Global", "lang": "en",
+     "url": gn('site:oecd.org (report OR communique OR ministerial)'), "kind": "rss"},
+    {"name": "OSCE", "type": "io", "region": "EU", "lang": "en",
+     "url": gn('site:osce.org OR "OSCE" (statement OR meeting OR mission)'), "kind": "rss"},
+    {"name": "WTO", "type": "io", "region": "Global", "lang": "en",
+     "url": gn('site:wto.org (ministerial OR communique OR dispute OR decision)'), "kind": "rss"},
+    {"name": "Council of Europe", "type": "io", "region": "EU", "lang": "en",
+     "url": gn('site:coe.int OR "Council of Europe" (declaration OR resolution)'), "kind": "rss"},
+    {"name": "African Union", "type": "io", "region": "Africa", "lang": "en",
+     "url": gn('"African Union" (summit OR communique OR statement OR declaration)'), "kind": "rss"},
+    {"name": "OAS — Organization of American States", "type": "io", "region": "LatAm", "lang": "en",
+     "url": gn('"Organization of American States" OR "OEA" (resolution OR declaration)'), "kind": "rss"},
+
+    # ---- US think tanks ----
+    {"name": "Brookings", "type": "tt", "region": "US", "lang": "en",
+     "url": gn('site:brookings.edu (report OR analysis OR policy OR brief)'), "kind": "rss"},
+    {"name": "Council on Foreign Relations", "type": "tt", "region": "US", "lang": "en",
+     "url": gn('site:cfr.org (report OR analysis OR brief)'), "kind": "rss"},
+    {"name": "CSIS", "type": "tt", "region": "US", "lang": "en",
+     "url": gn('site:csis.org (report OR analysis OR brief)'), "kind": "rss"},
+    {"name": "RAND", "type": "tt", "region": "US", "lang": "en",
+     "url": gn('site:rand.org (report OR research)'), "kind": "rss"},
+    {"name": "Wilson Center", "type": "tt", "region": "US", "lang": "en",
+     "url": gn('site:wilsoncenter.org (report OR analysis)'), "kind": "rss"},
+    {"name": "PIIE — Peterson Institute", "type": "tt", "region": "US", "lang": "en",
+     "url": gn('site:piie.com (working paper OR policy brief OR analysis)'), "kind": "rss"},
+
+    # ---- UK / European think tanks ----
+    {"name": "Chatham House", "type": "tt", "region": "UK", "lang": "en",
+     "url": gn('site:chathamhouse.org (report OR research OR briefing)'), "kind": "rss"},
+    {"name": "IISS", "type": "tt", "region": "UK", "lang": "en",
+     "url": gn('site:iiss.org (report OR analysis OR Military Balance OR Strategic Survey)'), "kind": "rss"},
+    {"name": "RUSI", "type": "tt", "region": "UK", "lang": "en",
+     "url": gn('site:rusi.org (report OR analysis OR commentary)'), "kind": "rss"},
+    {"name": "Bruegel", "type": "tt", "region": "EU", "lang": "en",
+     "url": gn('site:bruegel.org (policy brief OR working paper OR analysis)'), "kind": "rss"},
+    {"name": "CEPS", "type": "tt", "region": "EU", "lang": "en",
+     "url": gn('site:ceps.eu (policy brief OR working paper OR report)'), "kind": "rss"},
+    {"name": "Centre for European Reform (CER)", "type": "tt", "region": "UK", "lang": "en",
+     "url": gn('site:cer.eu (report OR brief OR insight)'), "kind": "rss"},
+    {"name": "European Policy Centre (EPC)", "type": "tt", "region": "EU", "lang": "en",
+     "url": gn('site:epc.eu (commentary OR analysis OR report)'), "kind": "rss"},
+    {"name": "Clingendael (NL)", "type": "tt", "region": "NL", "lang": "en",
+     "url": gn('site:clingendael.org (report OR policy brief OR commentary)'), "kind": "rss"},
+    {"name": "FRS — Recherche Stratégique (FR)", "type": "tt", "region": "FR", "lang": "fr",
+     "url": gn('site:frstrategie.org OR "Fondation pour la Recherche Strategique"'), "kind": "rss"},
+    {"name": "SWP Berlin (DE)", "type": "tt", "region": "DE", "lang": "en",
+     "url": gn('site:swp-berlin.org (analysis OR comment OR research paper)'), "kind": "rss"},
+    {"name": "PISM (PL)", "type": "tt", "region": "PL", "lang": "en",
+     "url": gn('site:pism.pl (analysis OR brief OR strategic file)'), "kind": "rss"},
+    {"name": "GLOBSEC", "type": "tt", "region": "EU", "lang": "en",
+     "url": gn('site:globsec.org (report OR brief OR analysis)'), "kind": "rss"},
+    {"name": "SIPRI", "type": "tt", "region": "EU", "lang": "en",
+     "url": gn('site:sipri.org OR "SIPRI" (yearbook OR report OR analysis)'), "kind": "rss"},
+    {"name": "DIIS (DK)", "type": "tt", "region": "DK", "lang": "en",
+     "url": gn('site:diis.dk (report OR analysis OR brief)'), "kind": "rss"},
+    {"name": "NUPI (NO)", "type": "tt", "region": "NO", "lang": "en",
+     "url": gn('site:nupi.no (report OR analysis OR brief)'), "kind": "rss"},
+    {"name": "International Crisis Group", "type": "tt", "region": "Global", "lang": "en",
+     "url": gn('site:crisisgroup.org (report OR briefing OR statement)'), "kind": "rss"},
+    {"name": "MERICS — China analysis", "type": "tt", "region": "DE", "lang": "en",
+     "url": gn('site:merics.org OR "MERICS" (report OR analysis)'), "kind": "rss"},
+
+    # ---- Russia ----
+    {"name": "Russia — MFA", "type": "gov", "region": "RU", "lang": "en",
+     "url": gn('"Russian Foreign Ministry" OR "Lavrov" (statement OR press OR briefing)'), "kind": "rss"},
+    {"name": "Valdai Club", "type": "tt", "region": "RU", "lang": "en",
+     "url": gn('site:valdaiclub.com OR "Valdai Discussion Club"'), "kind": "rss"},
+    {"name": "RIAC — Russian Int. Affairs Council", "type": "tt", "region": "RU", "lang": "en",
+     "url": gn('site:russiancouncil.ru OR "Russian International Affairs Council"'), "kind": "rss"},
+
+    # ---- India ----
+    {"name": "India — MEA", "type": "gov", "region": "IN", "lang": "en",
+     "url": gn('site:mea.gov.in OR "Indian Ministry of External Affairs"'), "kind": "rss"},
+    {"name": "ORF — Observer Research Foundation", "type": "tt", "region": "IN", "lang": "en",
+     "url": gn('site:orfonline.org (report OR analysis OR brief)'), "kind": "rss"},
+    {"name": "IDSA — Manohar Parrikar Institute", "type": "tt", "region": "IN", "lang": "en",
+     "url": gn('site:idsa.in OR "Manohar Parrikar Institute"'), "kind": "rss"},
+
+    # ---- China analysis ----
+    {"name": "China — MFA", "type": "gov", "region": "CN", "lang": "en",
+     "url": gn('"Chinese Foreign Ministry" (briefing OR statement OR press conference)'), "kind": "rss"},
+    {"name": "Carnegie China", "type": "tt", "region": "CN", "lang": "en",
+     "url": gn('"Carnegie China" OR "carnegieendowment.org/china"'), "kind": "rss"},
+
+    # ---- Asia-Pacific ----
+    {"name": "Japan — MOFA", "type": "gov", "region": "JP", "lang": "en",
+     "url": gn('site:mofa.go.jp (statement OR press OR communique)'), "kind": "rss"},
+    {"name": "South Korea — MOFA", "type": "gov", "region": "KR", "lang": "en",
+     "url": gn('"South Korean Foreign Ministry" OR "Korea MOFA"'), "kind": "rss"},
+    {"name": "Australia — DFAT", "type": "gov", "region": "AU", "lang": "en",
+     "url": gn('site:dfat.gov.au (statement OR strategy)'), "kind": "rss"},
+    {"name": "Lowy Institute (AU)", "type": "tt", "region": "AU", "lang": "en",
+     "url": gn('site:lowyinstitute.org (analysis OR report)'), "kind": "rss"},
+    {"name": "RSIS Singapore", "type": "tt", "region": "Asia", "lang": "en",
+     "url": gn('site:rsis.edu.sg (commentary OR working paper OR policy report)'), "kind": "rss"},
+
+    # ---- Africa ----
+    {"name": "ISS Africa", "type": "tt", "region": "Africa", "lang": "en",
+     "url": gn('site:issafrica.org (report OR analysis OR ISS today)'), "kind": "rss"},
+    {"name": "South Africa — DIRCO", "type": "gov", "region": "Africa", "lang": "en",
+     "url": gn('site:dirco.gov.za OR "South African Department of International Relations"'), "kind": "rss"},
+    {"name": "Nigeria — MFA", "type": "gov", "region": "Africa", "lang": "en",
+     "url": gn('"Nigerian Ministry of Foreign Affairs" OR site:foreignaffairs.gov.ng'), "kind": "rss"},
+    {"name": "Kenya — MFA", "type": "gov", "region": "Africa", "lang": "en",
+     "url": gn('"Kenya Ministry of Foreign Affairs" OR site:mfa.go.ke'), "kind": "rss"},
+
+    # ---- Latin America ----
+    {"name": "Brazil — Itamaraty", "type": "gov", "region": "LatAm", "lang": "pt",
+     "url": gn('site:gov.br/mre OR "Itamaraty" (declaracao OR comunicado)'), "kind": "rss"},
+    {"name": "Mexico — SRE", "type": "gov", "region": "LatAm", "lang": "es",
+     "url": gn('site:gob.mx/sre OR "Secretaria de Relaciones Exteriores"'), "kind": "rss"},
+    {"name": "Argentina — Cancillería", "type": "gov", "region": "LatAm", "lang": "es",
+     "url": gn('site:cancilleria.gob.ar OR "Cancilleria argentina"'), "kind": "rss"},
+    {"name": "Chile — Cancillería", "type": "gov", "region": "LatAm", "lang": "es",
+     "url": gn('site:minrel.gob.cl OR "Cancilleria de Chile"'), "kind": "rss"},
+    {"name": "CARI Argentina", "type": "tt", "region": "LatAm", "lang": "es",
+     "url": gn('site:cari.com.ar OR "Consejo Argentino para las Relaciones Internacionales"'), "kind": "rss"},
+]
+
+
+# Combined master list (this is what main.py imports)
+SOURCES = DIRECT_SOURCES + GOOGLE_NEWS_SOURCES
