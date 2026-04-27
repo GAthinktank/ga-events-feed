@@ -96,6 +96,18 @@ def _doha_forum(year):
     return start, date(year, 12, 8)
 
 
+def _apec(year):
+    # APEC Leaders' Meeting — typically mid-November
+    start = date(year, 11, 14)
+    return start, date(year, 11, 16)
+
+
+def _brics(year):
+    # BRICS Summit — typically July (but varies; Brazil 2025 was July, India 2026 likely Aug-Sep)
+    start = date(year, 7, 15)
+    return start, date(year, 7, 17)
+
+
 def _wb_imf_spring(year):
     # World Bank / IMF Spring Meetings — mid-April
     start = date(year, 4, 18)
@@ -178,6 +190,14 @@ TEMPLATES = [
      "fn": _doha_forum, "location": "Doha, Qatar", "organizer": "Qatar MFA",
      "region": "MENA", "theme": "diplomacy", "featured": False,
      "link": "https://dohaforum.org/"},
+    {"key": "apec", "title": "APEC Leaders' Meeting",
+     "fn": _apec, "location": "Rotating host", "organizer": "APEC",
+     "region": "Asia", "theme": "economy", "featured": True,
+     "link": "https://www.apec.org/"},
+    {"key": "brics", "title": "BRICS Summit",
+     "fn": _brics, "location": "Rotating host", "organizer": "BRICS",
+     "region": "Global", "theme": "diplomacy", "featured": True,
+     "link": ""},
     {"key": "wb-imf-spring", "title": "World Bank / IMF Spring Meetings",
      "fn": _wb_imf_spring, "location": "Washington, DC", "organizer": "WB / IMF",
      "region": "Global", "theme": "economy", "featured": False,
