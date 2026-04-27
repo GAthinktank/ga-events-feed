@@ -9,7 +9,6 @@
 (function () {
   'use strict';
 
-  // ----- Config -----
   var FEED_BASE = 'https://cdn.jsdelivr.net/gh/GAthinktank/ga-events-feed@main/data';
   var CAL_URL  = FEED_BASE + '/calendar.json';
   var PUBS_URL = FEED_BASE + '/publications.json';
@@ -42,11 +41,10 @@
     var b = parseDate(ev.end_date) || a;
     if (+a === +b) return a.getDate() + ' ' + MONTHS_LONG[a.getMonth()] + ' ' + a.getFullYear();
     if (a.getMonth() === b.getMonth() && a.getFullYear() === b.getFullYear())
-      return a.getDate() + '-' + b.getDate() + ' ' + MONTHS_LONG[a.getMonth()] + ' ' + a.getFullYear();
-    return a.getDate() + ' ' + MONTHS[a.getMonth()] + ' - ' + b.getDate() + ' ' + MONTHS[b.getMonth()] + ' ' + a.getFullYear();
+      return a.getDate() + '\u2013' + b.getDate() + ' ' + MONTHS_LONG[a.getMonth()] + ' ' + a.getFullYear();
+    return a.getDate() + ' ' + MONTHS[a.getMonth()] + ' \u2013 ' + b.getDate() + ' ' + MONTHS[b.getMonth()] + ' ' + a.getFullYear();
   }
 
-  // ----- State -----
   var now = new Date();
   var state = {
     tab: 'calendar',
@@ -181,12 +179,12 @@
         wrap.innerHTML = '<h3>' + d.getDate() + ' ' + MONTHS_LONG[d.getMonth()] + ' ' + d.getFullYear() + '</h3>' +
           matching.map(function (ev) {
             var titleHtml = ev.link
-              ? '<a href="' + esc(ev.link) + '" target="_blank" rel="noopener" style="color:var(--navy);text-decoration:none;border-bottom:1px solid var(--accent);">' + esc(ev.title) + '</a>'
+              ? '<a href="' + esc(ev.link) + '" target="_blank" rel="noopener" class="ga-day-link">' + esc(ev.title) + '</a>'
               : esc(ev.title);
-            return '<div style="padding:14px 0;border-top:1px solid var(--rule);">' +
-              '<div style="font-family:Fraunces,Georgia,serif;font-size:18px;color:var(--navy);margin-bottom:4px;">' + titleHtml + '</div>' +
-              '<div style="font-size:13px;color:var(--muted);">' + (ev.location ? esc(ev.location) : '') + (ev.organizer ? ' &middot; ' + esc(ev.organizer) : '') + '</div>' +
-              (ev.summary ? '<p style="margin:8px 0 0;font-size:14px;">' + esc(ev.summary) + '</p>' : '') +
+            return '<div class="ga-day-item">' +
+              '<div class="ga-day-title">' + titleHtml + '</div>' +
+              '<div class="ga-day-meta">' + (ev.location ? esc(ev.location) : '') + (ev.organizer ? ' &middot; ' + esc(ev.organizer) : '') + '</div>' +
+              (ev.summary ? '<p class="ga-day-summary">' + esc(ev.summary) + '</p>' : '') +
             '</div>';
           }).join('');
         wrap.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
@@ -235,7 +233,7 @@
         : esc(p.title);
       var dayBlock = d
         ? '<span class="ga-day">' + d.getDate() + '</span><span class="ga-mon">' + MONTHS[d.getMonth()] + '</span><span class="ga-yr">' + d.getFullYear() + '</span>'
-        : '<span class="ga-mon" style="color:var(--muted);">no date</span>';
+        : '<span class="ga-mon ga-no-date">no date</span>';
       return '<div class="ga-row">' +
         '<div class="ga-date">' + dayBlock + '</div>' +
         '<div class="ga-body">' +
@@ -283,7 +281,7 @@
     var d = new Date(meta.generated_at);
     function pad(n) { return String(n).padStart(2, '0'); }
     var fmt = d.getUTCFullYear() + '-' + pad(d.getUTCMonth() + 1) + '-' + pad(d.getUTCDate()) + ' ' + pad(d.getUTCHours()) + ':' + pad(d.getUTCMinutes()) + ' UTC';
-    $('#ga-updated').textContent = 'Updated: ' + fmt + (meta.stats ? ' \u00b7 ' + meta.stats.ok + '/' + meta.source_count + ' sources' : '');
+    $('#ga-updated').textContent = 'Updated ' + fmt + (meta.stats ? ' \u00b7 ' + meta.stats.ok + '/' + meta.source_count + ' sources' : '');
   }
 
   function loadCalendar() {
@@ -296,7 +294,7 @@
       })
       .catch(function (e) {
         console.error('[ga-feed] Calendar load failed:', e);
-        $('#ga-cal-list').innerHTML = '<div class="ga-empty">Could not load calendar. The feed may be initialising - try again in a few minutes.</div>';
+        $('#ga-cal-list').innerHTML = '<div class="ga-empty">Could not load calendar. The feed may be initialising \u2014 try again in a few minutes.</div>';
       });
   }
   function loadPubs() {
@@ -308,7 +306,7 @@
       })
       .catch(function (e) {
         console.error('[ga-feed] Publications load failed:', e);
-        $('#ga-pub-list').innerHTML = '<div class="ga-empty">Could not load publications. The feed may be initialising - try again in a few minutes.</div>';
+        $('#ga-pub-list').innerHTML = '<div class="ga-empty">Could not load publications. The feed may be initialising \u2014 try again in a few minutes.</div>';
       });
   }
 
