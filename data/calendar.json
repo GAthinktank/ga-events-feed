@@ -1,34 +1,17 @@
 {
   "meta": {
-    "generated_at": "2026-04-26T21:49:07.371857+00:00",
-    "duration_seconds": 119.9441,
+    "generated_at": "2026-04-27T08:00:55.560994+00:00",
+    "duration_seconds": 187.500152,
     "stats": {
-      "ok": 18,
-      "fail": 76,
-      "items_total": 249,
-      "items_strict": 68,
-      "events_detected": 1
+      "ok": 17,
+      "fail": 77,
+      "items_total": 239,
+      "items_strict": 57,
+      "events_detected": 0
     },
     "source_count": 94
   },
   "items": [
-    {
-      "id": "df3d630a8e0b25fe-evt",
-      "title": "Remarks by Commissioner Dombrovskis at International Conference on Chornobyl Recovery and Nuclear Safety",
-      "date": "2026-04-26",
-      "end_date": "2026-04-26",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "security",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_890",
-      "summary": "European Commission Speech Kyiv, 26 Apr 2026 President Zelensky, President Sandu, President Renaud-Basso, Director General Grossi, Excellencies, ladies and gentlemen. Since Russia launched its full-scale i...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
     {
       "id": "shangri-la-2026",
       "title": "Shangri-La Dialogue 2026",
