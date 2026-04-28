@@ -9,9 +9,12 @@
 (function () {
   'use strict';
 
-  var FEED_BASE = 'https://cdn.jsdelivr.net/gh/GAthinktank/ga-events-feed@main/data';
-  var CAL_URL  = FEED_BASE + '/calendar.json';
-  var PUBS_URL = FEED_BASE + '/publications.json';
+  // Fetch JSON directly from GitHub raw (no aggressive caching) so the
+  // page always reflects the latest scrape. The widget.js itself stays
+  // on jsDelivr for CDN speed.
+  var DATA_BASE = 'https://raw.githubusercontent.com/GAthinktank/ga-events-feed/main/data';
+  var CAL_URL  = DATA_BASE + '/calendar.json';
+  var PUBS_URL = DATA_BASE + '/publications.json';
 
   function $(s, r) { return (r || document).querySelector(s); }
   function $$(s, r) { return Array.prototype.slice.call((r || document).querySelectorAll(s)); }
