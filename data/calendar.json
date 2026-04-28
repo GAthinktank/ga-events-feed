@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-04-28T06:55:10.094312+00:00",
-    "duration_seconds": 91.39351,
+    "generated_at": "2026-04-28T16:26:35.346637+00:00",
+    "duration_seconds": 99.322973,
     "stats": {
-      "ok": 86,
-      "fail": 13,
-      "items_total": 2359,
-      "items_strict": 561,
-      "events_detected": 3
+      "ok": 87,
+      "fail": 12,
+      "items_total": 2363,
+      "items_strict": 554,
+      "events_detected": 5
     },
     "source_count": 99
   },
@@ -446,6 +446,40 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "a2ef7b189f4b34a2-evt",
+      "title": "Joint Ministerial Statement of the 25th ASEAN-EU Ministerial Meeting",
+      "date": "2027-04-28",
+      "end_date": "2027-04-28",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/joint-ministerial-statement-of-the-25th-asean-eu-ministerial-meeting/",
+      "summary": "The Association of Southeast Asian Nations (ASEAN) and the European Union (EU) convened the 25th ASEAN-EU Ministerial Meeting (AEMM) on 27-28 April 2026 in Bandar Seri Begawan, Brunei Darussalam. The Meeting was co-chaired by The Honourable Dato Erywan Pehin Yusof, Minister of Foreign Affairs II The",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "bad66471c78c53b8-evt",
+      "title": "JOINT MINISTERIAL STATEMENT 25TH ASEAN-EU MINISTERIAL MEETING 27-28 APRIL 2026 1. The Association of Southeast Asian Nations (AS",
+      "date": "2027-04-28",
+      "end_date": "2027-04-28",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMzVXdVh3WURad2o0RVR5Y1VkQklnNDAyNWNPS1psSFcyMDZRXzREWlRQR2M0aEtISVkwWF81TzdWdVBEM2VUbzFORDVaSWZwVzFoTmlIWTFGeEZnMWplNGFEZno5dUtwekhZTl85Qkh1RHNOd1N0MURrU2VjWHVnYg?oc=5",
+      "summary": "JOINT MINISTERIAL STATEMENT 25TH ASEAN-EU MINISTERIAL MEETING 27-28 APRIL 2026 1. The Association of Southeast Asian Nations (AS &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "shangri-la-2027",
