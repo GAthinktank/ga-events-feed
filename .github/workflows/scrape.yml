@@ -48,5 +48,10 @@ jobs:
             echo "No changes."
           else
             git commit -m "chore: refresh feed data $(date -u +'%Y-%m-%dT%H:%MZ')"
+            git add data/*.json
+         if git diff --staged --quiet; then
+           echo "No changes."
+         else
+           git commit -m "chore: refresh feed data $(date -u +'%Y-%m-%dT%H:%MZ')"
             git push
           fi
