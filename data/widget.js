@@ -165,9 +165,12 @@
       var dots = dayEvents.slice(0, 3).map(function (e) {
         return '<span class="ga-cal-dot' + (e.featured ? ' featured' : '') + (e.confirmed ? '' : ' unconfirmed') + '"></span>';
       }).join('');
-      var pad2 = function (n) { return String(n).padStart(2, '0'); };
-      var localISO = cellDate.getFullYear() + '-' + pad2(cellDate.getMonth() + 1) + '-' + pad2(cellDate.getDate());
-      var dataAttr = dayEvents.length ? ' data-date="' + localISO + '"' : '';
+      var dataAttr = '';
+      if (cellDate && dayEvents.length) {
+        var pad2 = function (n) { return String(n).padStart(2, '0'); };
+        var localISO = cellDate.getFullYear() + '-' + pad2(cellDate.getMonth() + 1) + '-' + pad2(cellDate.getDate());
+        dataAttr = ' data-date="' + localISO + '"';
+      }
       html += '<div class="' + cls.join(' ') + '"' + dataAttr + '><span class="ga-day-num">' + dayNum + '</span>' + (dots ? '<div>' + dots + '</div>' : '') + '</div>';
     }
     grid.innerHTML = html;
