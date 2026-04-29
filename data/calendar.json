@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-04-29T07:53:29.747665+00:00",
-    "duration_seconds": 91.98327,
+    "generated_at": "2026-04-29T16:06:51.031765+00:00",
+    "duration_seconds": 114.424731,
     "stats": {
-      "ok": 86,
-      "fail": 13,
-      "items_total": 2355,
-      "items_strict": 552,
-      "events_detected": 4
+      "ok": 85,
+      "fail": 14,
+      "items_total": 2339,
+      "items_strict": 532,
+      "events_detected": 7
     },
     "source_count": 99
   },
@@ -27,6 +27,40 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "53bccb0074f8aee7-evt",
+      "title": "Remarks by Executive Vice-President Ribera at the press conference on the Middle East crisis Temporary State aid Framework",
+      "date": "2026-04-29",
+      "end_date": "2026-04-29",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "security",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_931",
+      "summary": "European Commission Speech Brussels, 29 Apr 2026 Good afternoon. It has been two months since the conflict in the Middle East drew us to the biggest disruption to oil and gas supply. How and when this conflic...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "fb06da6e87cc51fd-evt",
+      "title": "Commissioner Roswall's keynote address at the LOOP Forum 2026",
+      "date": "2026-04-29",
+      "end_date": "2026-04-29",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_926",
+      "summary": "European Commission Speech Copenhagen, 29 Apr 2026 Ladies and Gentlemen, I am delighted to be part of this important event. I am also very happy to be back in a Nordic context. As some of you may know, I was the...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "49d264dcc4409801-evt",
@@ -55,6 +89,23 @@
       "region": "EU",
       "theme": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNTlBWRnhfQ3hjU1pSX25nT3IwUkVDVzNLcXRQRUl5NjhWZkxtRHUzMjVxZkh6VVBjY2txNHF0R1g1LVgwVEZTa0VrSmFKV0dsTkVxTGUwbjF0dVJpbXlyUUpQZDAyeHREa0ZOT19YdGRCaEV5QWpnbEdFR3Q0WFNBWUhTVl9aMkZkY3V5U3VKRy1YX0NLTVE5UkprcFZEaUFCY3piT0VGc1dTQ1ljNmpWTG9RVXluYWVad2gxNGJ0ck9EcVJNRzJjaWtJRXlJYVotM3Q0S0QxZHZlUmJGazBWRWU0cUNGUm42bU5FVGlaQldPZDlMRHpvNjVoOEpTcjhrZFFkMUJhcC1wM2YxaU1J?oc=5",
+      "summary": "Press briefing - Meeting of the European Political Community of 4 May 2026 and the EU-Armenia summit of 4-5 May 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "118d93b9fbdd08a0-evt",
+      "title": "Press briefing - Meeting of the European Political Community of 4 May 2026 and the EU-Armenia summit of 4-5 May 2026",
+      "date": "2026-05-04",
+      "end_date": "2026-05-04",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNSXpkWXl0cjYtSFdYa0lWcXhxNUFhWmhBUVpkZ3poclI4Z0VZX3NKTklXSDMwdk5Sa1lvTGdCN1NxeVhETVVuOEdkYkFPRERsNXc5eFZ0R2FaUEZSSTF4Z0VuUkFtcGhBR08tMWg2MGhVU0t4YnBlN2NDcWNabXJOWWM0MUJoS0tJdGplcU8yOWtFVDBZZ2pxTm5wM0FoRXhxS0hTVE5HM1k0ZE1WNFF4Z2VyMTRYUzV4eGZsVHB5T3lTbFBjMnBHQ2RucW1xaG45enhfZWdFeGFzZm9ha1M1WFMzSElNeWZGZGNLRnUtNEhoWlpqaU10ZVNyUGk0NHd6dUVzU3hqV1JuMkcxTU9hUlY5V3c?oc=5",
       "summary": "Press briefing - Meeting of the European Political Community of 4 May 2026 and the EU-Armenia summit of 4-5 May 2026 &nbsp;&nbsp; consilium.europa.eu",
       "featured": false,
       "confirmed": true,
@@ -335,6 +386,23 @@
       "kind": "diplomatic-event"
     },
     {
+      "id": "6b52439b9408724e-evt",
+      "title": "France-Australia Track 1.5 Strategic Dialogue (Paris, 27-28 January 2026) | Meeting | Foundation for Strategic Research",
+      "date": "2027-01-28",
+      "end_date": "2027-01-28",
+      "location": "",
+      "organizer": "FRS — Recherche Stratégique (FR)",
+      "region": "FR",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUNBMFdtY3lhWHlTNFAxenFWc2RtU0pqSXBHdUJnOHA2RUhCbndFXy01Z3NKQk56QVZNOUFxZ0kzR1QteFRUSWZqeWlGWE84OG0xRmltOU1aX05lMVJaZVdoMkRXRFZuMm1oVFRWN0lndk5yN0FNNGtZcmNQRUV2Z3ZsNGVEUjhZcHdaSTVjWHhfZFBVeElkdWZwaU43ZjBKQTJTOXpzZFpBRzlzeFhpeWd5NU1fZ3FtTnc?oc=5",
+      "summary": "France-Australia Track 1.5 Strategic Dialogue (Paris, 27-28 January 2026) | Meeting | Foundation for Strategic Research &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
+      "featured": false,
+      "confirmed": true,
+      "source": "FRS — Recherche Stratégique (FR)",
+      "kind": "diplomatic-event",
+      "lang": "fr"
+    },
+    {
       "id": "msc-report-2027",
       "title": "Munich Security Report (publication window) 2027",
       "date": "2027-02-10",
@@ -444,23 +512,6 @@
       "featured": false,
       "confirmed": true,
       "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "bad66471c78c53b8-evt",
-      "title": "JOINT MINISTERIAL STATEMENT 25TH ASEAN-EU MINISTERIAL MEETING 27-28 APRIL 2026 1. The Association of Southeast Asian Nations (AS",
-      "date": "2027-04-28",
-      "end_date": "2027-04-28",
-      "location": "",
-      "organizer": "European Council",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMzVXdVh3WURad2o0RVR5Y1VkQklnNDAyNWNPS1psSFcyMDZRXzREWlRQR2M0aEtISVkwWF81TzdWdVBEM2VUbzFORDVaSWZwVzFoTmlIWTFGeEZnMWplNGFEZno5dUtwekhZTl85Qkh1RHNOd1N0MURrU2VjWHVnYg?oc=5",
-      "summary": "JOINT MINISTERIAL STATEMENT 25TH ASEAN-EU MINISTERIAL MEETING 27-28 APRIL 2026 1. The Association of Southeast Asian Nations (AS &nbsp;&nbsp; consilium.europa.eu",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Council",
       "kind": "diplomatic-event",
       "lang": "en"
     },
