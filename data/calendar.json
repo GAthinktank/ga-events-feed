@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-05-01T12:07:50.380056+00:00",
-    "duration_seconds": 85.871536,
+    "generated_at": "2026-05-01T18:16:38.726019+00:00",
+    "duration_seconds": 100.649251,
     "stats": {
       "ok": 86,
       "fail": 13,
       "items_total": 2357,
-      "items_strict": 557,
-      "events_detected": 3
+      "items_strict": 554,
+      "events_detected": 5
     },
     "source_count": 99
   },
@@ -27,6 +27,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "a30f8f745cea7dc6-evt",
+      "title": "EU leaders reaffirm solidarity with Middle East partners and double down on support to Ukraine",
+      "date": "2026-05-01",
+      "end_date": "2026-05-01",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_943",
+      "summary": "European Commission News Brussels, 01 May 2026 President Ursula von der Leyen was in Cyprus last week to attend the informal meeting of European Heads of State and Government and meet with Middle Eastern pa...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "405ca0e7df2a2fb7-evt",
@@ -55,6 +72,23 @@
       "region": "EU",
       "theme": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQYVktdDd2aGVlY2Y5TVl6OWVsRFRjb3Q4bHV0djJlZ1ZPc3JhaTdSQlJXNDZ4bmFWbjFyTFFuOXlmWWc0c0xIejNpdnJ4aUhSc2thaTh3d1RyYThZUFR5d29WMndBeEFnWXk3WXNPc29ya2g1UkNZX1ZnUVM2T2Ytc2NLTEFKTm5aa2o0Mkt6RXFjUUtLWEFiYk94NkphNWNyMm9ZUzFIM1VRbmZZN2R5MEtnbXBEZTJUX2I3aHRpSDRFVVU5OXRQeWE0YzZKRFdnY3dxdkZWVThZUjc0WUJjT3I2WlhETWtIbVhSODVkWDlxR2l5b0llckVB?oc=5",
+      "summary": "Media advisory – Eurogroup meeting of 4 May and Economic and Financial Affairs Council of 5 May 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "5fe328b2972a6db0-evt",
+      "title": "Media advisory – Eurogroup meeting of 4 May and Economic and Financial Affairs Council of 5 May 2026",
+      "date": "2026-05-05",
+      "end_date": "2026-05-05",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNQTEwZDZsc2lTRktXOTVVVDhHS0V5QzNHWU9pNnhLMWltUHVrNnFTcFlDTlUyY251RFVWc0p5aXJLeUtZTlNvcE51QUlvSGhPamVnakVaU0U2bzY2TmJSTVdodHZrSjFMWWV1NXRFamk0N3BRdEx3UmJhbHFmQjUxUlJndmVYNERiYmMzZUR3bU82NkRZbmpOZVhkUl9sVTdRaU5vcVczS2UycV9jWWRvaHg5XzVDZWZTdC1nTlNGZWtUTWpCV0ZFUzk3QW9rSkFyRUI1X2ZYVmZWWXIzNU9mTlBQRzB2N3pxUTVmX3BGU3NDeDFlTzhDVmRR?oc=5",
       "summary": "Media advisory – Eurogroup meeting of 4 May and Economic and Financial Affairs Council of 5 May 2026 &nbsp;&nbsp; consilium.europa.eu",
       "featured": false,
       "confirmed": true,
