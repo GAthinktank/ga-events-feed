@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-05-02T20:05:15.466128+00:00",
-    "duration_seconds": 94.164162,
+    "generated_at": "2026-05-02T23:29:40.720612+00:00",
+    "duration_seconds": 87.298623,
     "stats": {
       "ok": 86,
       "fail": 13,
       "items_total": 2356,
-      "items_strict": 547,
-      "events_detected": 0
+      "items_strict": 544,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -395,6 +395,23 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "bad66471c78c53b8-evt",
+      "title": "JOINT MINISTERIAL STATEMENT 25TH ASEAN-EU MINISTERIAL MEETING 27-28 APRIL 2026 1. The Association of Southeast Asian Nations (AS",
+      "date": "2027-04-28",
+      "end_date": "2027-04-28",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMzVXdVh3WURad2o0RVR5Y1VkQklnNDAyNWNPS1psSFcyMDZRXzREWlRQR2M0aEtISVkwWF81TzdWdVBEM2VUbzFORDVaSWZwVzFoTmlIWTFGeEZnMWplNGFEZno5dUtwekhZTl85Qkh1RHNOd1N0MURrU2VjWHVnYg?oc=5",
+      "summary": "JOINT MINISTERIAL STATEMENT 25TH ASEAN-EU MINISTERIAL MEETING 27-28 APRIL 2026 1. The Association of Southeast Asian Nations (AS &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "shangri-la-2027",
