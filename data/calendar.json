@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-05-01T23:40:58.145722+00:00",
-    "duration_seconds": 122.625552,
+    "generated_at": "2026-05-02T06:33:03.268661+00:00",
+    "duration_seconds": 89.192604,
     "stats": {
       "ok": 86,
       "fail": 13,
-      "items_total": 2345,
-      "items_strict": 535,
-      "events_detected": 2
+      "items_total": 2354,
+      "items_strict": 542,
+      "events_detected": 0
     },
     "source_count": 99
   },
@@ -27,40 +27,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "a30f8f745cea7dc6-evt",
-      "title": "EU leaders reaffirm solidarity with Middle East partners and double down on support to Ukraine",
-      "date": "2026-05-01",
-      "end_date": "2026-05-01",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_943",
-      "summary": "European Commission News Brussels, 01 May 2026 President Ursula von der Leyen was in Cyprus last week to attend the informal meeting of European Heads of State and Government and meet with Middle Eastern pa...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "405ca0e7df2a2fb7-evt",
-      "title": "EU and Armenia deepen their relations in a first Summit in Yerevan",
-      "date": "2026-05-01",
-      "end_date": "2026-05-01",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_942",
-      "summary": "European Commission Press release Brussels, 01 May 2026 The first-ever EU-Armenia Summit will take place on 4-5 May, in Yerevan. This marks a significant step forward in their relations, reaffirming the European Union's strong commitment to Armenia's sovereignty, resilience and reform agenda.",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "shangri-la-2026",
