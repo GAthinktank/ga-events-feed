@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-05-03T07:32:04.021746+00:00",
-    "duration_seconds": 91.942269,
+    "generated_at": "2026-05-03T11:30:24.842010+00:00",
+    "duration_seconds": 84.399702,
     "stats": {
       "ok": 86,
       "fail": 13,
-      "items_total": 2354,
-      "items_strict": 558,
-      "events_detected": 1
+      "items_total": 2355,
+      "items_strict": 559,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -27,6 +27,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "f31dba1bc69b4545-evt",
+      "title": "Media advisory - EU-Armenia summit of 5 May 2026",
+      "date": "2026-05-05",
+      "end_date": "2026-05-05",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUczejNESmd1dDFhTmNxcTdQQWs1am04ZkJldGtzTXpLd1hjSVV5V29BVm4tQ1h6QnBGcFJOUzZDZGxhSF9ZY1pXRDRtUjROdVR0VVR3ems2djFRMUlYLURiVGUyeVNtaWwteTFzUzRMeEZNN044bVB5dWRxenRqOVRRRHAxZ1lia0ZoV1pzU2FHZklKY2NvR29scFZ1VXRlWmdIREp4ZENiQkFZUmpRUDJRNXc?oc=5",
+      "summary": "Media advisory - EU-Armenia summit of 5 May 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "shangri-la-2026",
