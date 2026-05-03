@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-05-03T11:30:24.842010+00:00",
-    "duration_seconds": 84.399702,
+    "generated_at": "2026-05-03T14:40:25.087336+00:00",
+    "duration_seconds": 88.282085,
     "stats": {
       "ok": 86,
       "fail": 13,
       "items_total": 2355,
-      "items_strict": 559,
-      "events_detected": 2
+      "items_strict": 555,
+      "events_detected": 4
     },
     "source_count": 99
   },
@@ -27,6 +27,40 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "704d5798a59ba994-evt",
+      "title": "Meeting of the European Political Community, 4 May 2026",
+      "date": "2026-05-04",
+      "end_date": "2026-05-04",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdmVDUTk4ZVU4bk1ZVmhFVlNnenk3VjN4RHdILUdNYkFkMUxac3FoR3ZOZS1Zb0gyUGVzZW5kT2ZPSkU4RjJ6Nm9XRm1oQldpWVZPLXJWOEFhMzZkRFFseGxYR1VPTV94eURlZU54NDBsbkYzOTFGR0ZCV1FleU5wT1lJa2hpaFk?oc=5",
+      "summary": "Meeting of the European Political Community, 4 May 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "07b139064054d21b-evt",
+      "title": "Press briefing - Meeting of the European Political Community of 4 May 2026 and the EU-Armenia summit of 4-5 May 2026",
+      "date": "2026-05-04",
+      "end_date": "2026-05-04",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNTlBWRnhfQ3hjU1pSX25nT3IwUkVDVzNLcXRQRUl5NjhWZkxtRHUzMjVxZkh6VVBjY2txNHF0R1g1LVgwVEZTa0VrSmFKV0dsTkVxTGUwbjF0dVJpbXlyUUpQZDAyeHREa0ZOT19YdGRCaEV5QWpnbEdFR3Q0WFNBWUhTVl9aMkZkY3V5U3VKRy1YX0NLTVE5UkprcFZEaUFCY3piT0VGc1dTQ1ljNmpWTG9RVXluYWVad2gxNGJ0ck9EcVJNRzJjaWtJRXlJYVotM3Q0S0QxZHZlUmJGazBWRWU0cUNGUm42bU5FVGlaQldPZDlMRHpvNjVoOEpTcjhrZFFkMUJhcC1wM2YxaU1J?oc=5",
+      "summary": "Press briefing - Meeting of the European Political Community of 4 May 2026 and the EU-Armenia summit of 4-5 May 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "f31dba1bc69b4545-evt",
