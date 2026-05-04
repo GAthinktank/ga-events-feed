@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-05-03T23:31:30.533918+00:00",
-    "duration_seconds": 115.147831,
+    "generated_at": "2026-05-04T09:08:05.148960+00:00",
+    "duration_seconds": 86.823388,
     "stats": {
-      "ok": 85,
-      "fail": 14,
-      "items_total": 2344,
-      "items_strict": 543,
-      "events_detected": 4
+      "ok": 86,
+      "fail": 13,
+      "items_total": 2354,
+      "items_strict": 558,
+      "events_detected": 5
     },
     "source_count": 99
   },
@@ -27,6 +27,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "697a9e53e8591813-evt",
+      "title": "Doorstep by President von der Leyen ahead of the meeting of the European Political Community",
+      "date": "2026-05-04",
+      "end_date": "2026-05-04",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_944",
+      "summary": "European Commission Statement Yerevan, 04 May 2026 I am very glad to be here in Armenia. It is the eighth EPC. We will mainly discuss the topic of an independent Europe. We have to reduce our overdependencies in...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "704d5798a59ba994-evt",
