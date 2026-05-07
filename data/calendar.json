@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-05-07T09:46:37.862605+00:00",
-    "duration_seconds": 85.769799,
+    "generated_at": "2026-05-07T18:02:04.109214+00:00",
+    "duration_seconds": 90.154495,
     "stats": {
       "ok": 85,
       "fail": 14,
-      "items_total": 2319,
-      "items_strict": 535,
-      "events_detected": 3
+      "items_total": 2307,
+      "items_strict": 550,
+      "events_detected": 5
     },
     "source_count": 99
   },
@@ -29,16 +29,16 @@
       "kind": "diplomatic-event"
     },
     {
-      "id": "54bcf7761fe2d81d-evt",
-      "title": "EU agrees to simplify AI rules to boost innovation and ban ‘nudification' apps to protect citizens",
+      "id": "0e1d4a2af0358b43-evt",
+      "title": "Keynote speech by Commissioner Albuquerque at the joint conference of the European Commission and the European Central Bank on European Financial Integration",
       "date": "2026-05-07",
       "end_date": "2026-05-07",
       "location": "",
       "organizer": "European Commission — Press",
       "region": "EU",
-      "theme": "technology",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1024",
-      "summary": "European Commission Press release Brussels, 07 May 2026 The European Commission welcomes the political agreement reached today between the European Parliament and the Council of the EU on simpler, innovation-friendly rules for artificial intelligence (AI).",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1031",
+      "summary": "European Commission Speech Frankfurt, 07 May 2026 Good afternoon, ladies and gentlemen. It is a pleasure to be here among elected officials, esteemed colleagues from the European Central Bank, other EU and nati...",
       "featured": false,
       "confirmed": true,
       "source": "European Commission — Press",
@@ -63,6 +63,23 @@
       "lang": "fr"
     },
     {
+      "id": "093b96395bb2be13-evt",
+      "title": "Secretary-General of ASEAN Delivers Pre-recorded Remarks at the ASEAN–EU Sustainability Summit",
+      "date": "2026-05-07",
+      "end_date": "2026-05-07",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/secretary-general-of-asean-delivers-pre-recorded-remarks-at-the-asean-eu-sustainability-summit/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, delivered pre-recorded remarks at the ASEAN–EU Sustainability Summit, held in in Cebu, the Philippines, on 7 May 2026. In his remarks, SG Dr. Kao underscored the importance of strengthening ASEAN–EU cooperation to advance sustainable and inclusive The p",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
       "id": "efb951d0e00d557d-evt",
       "title": "FIIA takes part in European Studies Day 11 May",
       "date": "2026-05-11",
@@ -76,6 +93,23 @@
       "featured": false,
       "confirmed": true,
       "source": "FIIA (FI)",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "9ba2804a56e79399-evt",
+      "title": "Education, Youth, Culture and Sport Council (Education and Youth), 11 May 2026",
+      "date": "2026-05-11",
+      "end_date": "2026-05-11",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ncVBqMzZjR2tsVUwtWGpyMWlTbS1JR2JrU25rYlJaMkZWcDRTdHpUNzZrRVVSc3RyU3BINnNkWlVIUEl3RzNKQk8wMmpTNXZ0TWdWeG1xWDFocmxkdTNQbWtucDFTRlFqTjc5bQ?oc=5",
+      "summary": "Education, Youth, Culture and Sport Council (Education and Youth), 11 May 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
       "kind": "diplomatic-event",
       "lang": "en"
     },
