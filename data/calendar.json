@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-05-08T08:16:40.171820+00:00",
-    "duration_seconds": 95.688202,
+    "generated_at": "2026-05-08T15:10:03.672215+00:00",
+    "duration_seconds": 102.585337,
     "stats": {
       "ok": 86,
       "fail": 13,
-      "items_total": 2347,
-      "items_strict": 557,
-      "events_detected": 4
+      "items_total": 2346,
+      "items_strict": 563,
+      "events_detected": 7
     },
     "source_count": 99
   },
@@ -29,6 +29,40 @@
       "kind": "diplomatic-event"
     },
     {
+      "id": "f8ec96c43d648b28-evt",
+      "title": "EU leaders discuss peace and stability at 8th EPC Summit and take EU-Armenia partnership to a whole new level",
+      "date": "2026-05-08",
+      "end_date": "2026-05-08",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_1046",
+      "summary": "European Commission News Brussels, 08 May 2026 The President of the Commission, Ursula von der Leyen, was in Yerevan on the 4 and 5 May to attend the eighth Summit of the European Political Community as w...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "cc9e9cac4a11a21e-evt",
+      "title": "Statement by Commissioner Lahbib following meeting with Lebanese President Aoun",
+      "date": "2026-05-08",
+      "end_date": "2026-05-08",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/fr/statement_26_1043",
+      "summary": "European Commission Déclaration Beirut, 08 May 2026 Sabah el kheir ya Beyrouth. Je voudrais commencer par remercier le Président Aoun pour son accueil et pour la qualité de nos échanges. Je suis venue à Beyrouth,...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
       "id": "f7258682bd14c587-evt",
       "title": "Belgisch mensenrechtenbeleid onder de loep in Genève",
       "date": "2026-05-08",
@@ -44,6 +78,23 @@
       "source": "Belgium — Diplomatie",
       "kind": "diplomatic-event",
       "lang": "fr"
+    },
+    {
+      "id": "bc6f005b2e5a22e1-evt",
+      "title": "ASEAN Leaders’ Statement on the Response to the Middle East Crisis",
+      "date": "2026-05-08",
+      "end_date": "2026-05-08",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/asean-leaders-statement-on-the-response-to-the-middle-east-crisis/",
+      "summary": "We, the Association of Southeast Asian Nations (ASEAN), gathered in Cebu on the occasion of the 48th ASEAN Summit on 8 May 2026, amidst rising geopolitical tensions and growing uncertainty in the geo-economic landscape. We exchanged views on the evolving situation in the Middle East and ways to The ",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "efb951d0e00d557d-evt",
