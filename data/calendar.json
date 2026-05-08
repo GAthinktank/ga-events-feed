@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-05-08T15:10:03.672215+00:00",
-    "duration_seconds": 102.585337,
+    "generated_at": "2026-05-08T21:38:12.409607+00:00",
+    "duration_seconds": 104.732816,
     "stats": {
-      "ok": 86,
-      "fail": 13,
-      "items_total": 2346,
-      "items_strict": 563,
-      "events_detected": 7
+      "ok": 87,
+      "fail": 12,
+      "items_total": 2360,
+      "items_strict": 560,
+      "events_detected": 9
     },
     "source_count": 99
   },
@@ -78,6 +78,23 @@
       "source": "Belgium — Diplomatie",
       "kind": "diplomatic-event",
       "lang": "fr"
+    },
+    {
+      "id": "1e9deb81e2970637-evt",
+      "title": "Special ASEAN Senior Officials Meeting Convene to Strengthens Regional Cooperation on Health Development",
+      "date": "2026-05-08",
+      "end_date": "2026-05-08",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/special-asean-senior-officials-meeting-convene-to-strengthens-regional-cooperation-on-health-development/",
+      "summary": "The Special Senior Officials Meeting on Health Development (SOMHD) convenes at the ASEAN Secretariat/ASEAN Headquarters in Jakarta from 6 to 8 May 2026 to finalise the 2026–2030 Work Programmes of the ASEAN Health Sector. The meeting is chaired by SOMHD Chair Malaysia H.E. Dr Ismuni bin Bo The post ",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "bc6f005b2e5a22e1-evt",
@@ -194,6 +211,23 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "publication-cycle"
+    },
+    {
+      "id": "812ccafc4a84494c-evt",
+      "title": "Media advisory - European Council meeting of 18 and 19 June 2026",
+      "date": "2026-06-19",
+      "end_date": "2026-06-19",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUWdXb3A3S2RwU011d0hLUWRaaDZtelRNUEE0eThyTEhMOFBPdFpIcEx0WnRNRzN6RV9ZVF83cXB6RURnZEQ5eWd3MC16ckhiaGpkS0pUMVkydWpUZkE5NVdaeGtYeE4xekZXdkpoVnA1aFhLckNWVV9XSnI1RER4bFo5UV9rczZCNG5DX2RIRkFhWkROY1M1RXBKQXRvOW1YOHFGX25ValdVZlUwbkJVM2djMnVtTkphM25BWnl2aU5IYnpyVlBEeGxR?oc=5",
+      "summary": "Media advisory - European Council meeting of 18 and 19 June 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "eu-council-2026-06",
