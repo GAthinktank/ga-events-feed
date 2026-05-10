@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-05-10T20:12:54.849491+00:00",
-    "duration_seconds": 94.753974,
+    "generated_at": "2026-05-10T23:39:04.407533+00:00",
+    "duration_seconds": 100.276999,
     "stats": {
-      "ok": 86,
-      "fail": 13,
-      "items_total": 2344,
-      "items_strict": 572,
-      "events_detected": 4
+      "ok": 87,
+      "fail": 12,
+      "items_total": 2329,
+      "items_strict": 545,
+      "events_detected": 5
     },
     "source_count": 99
   },
@@ -59,6 +59,23 @@
       "featured": false,
       "confirmed": true,
       "source": "FIIA (FI)",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "9ba2804a56e79399-evt",
+      "title": "Education, Youth, Culture and Sport Council (Education and Youth), 11 May 2026",
+      "date": "2026-05-11",
+      "end_date": "2026-05-11",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ncVBqMzZjR2tsVUwtWGpyMWlTbS1JR2JrU25rYlJaMkZWcDRTdHpUNzZrRVVSc3RyU3BINnNkWlVIUEl3RzNKQk8wMmpTNXZ0TWdWeG1xWDFocmxkdTNQbWtucDFTRlFqTjc5bQ?oc=5",
+      "summary": "Education, Youth, Culture and Sport Council (Education and Youth), 11 May 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
       "kind": "diplomatic-event",
       "lang": "en"
     },
