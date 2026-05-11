@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-05-11T11:49:53.165213+00:00",
-    "duration_seconds": 85.715413,
+    "generated_at": "2026-05-11T18:25:08.831760+00:00",
+    "duration_seconds": 100.43809,
     "stats": {
-      "ok": 86,
-      "fail": 13,
-      "items_total": 2342,
-      "items_strict": 558,
-      "events_detected": 8
+      "ok": 87,
+      "fail": 12,
+      "items_total": 2329,
+      "items_strict": 538,
+      "events_detected": 11
     },
     "source_count": 99
   },
@@ -27,6 +27,40 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "30d16615bb002c6d-evt",
+      "title": "EU, Ukraine, Canada and partners join efforts to return forcibly transferred and unlawfully deported Ukrainian children",
+      "date": "2026-05-11",
+      "end_date": "2026-05-11",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1062",
+      "summary": "European Commission Press release Brussels, 11 May 2026 Today, representatives of the European Union together with Ukraine and Canada hosted a ‘High-level Meeting of the International Coalition for the Return of Ukrainian Children'. This initiative was announced by European Commission President, Urs",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "1394f8d68d967797-evt",
+      "title": "Speech by President von der Leyen at the High-level Meeting of the International Coalition for the Return of Ukrainian Children",
+      "date": "2026-05-11",
+      "end_date": "2026-05-11",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1055",
+      "summary": "European Commission Speech Brussels, 11 May 2026 President Zelenskyy, dear Volodymyr, Prime Minister Carney, dear Mark, Thank you for hosting this event together on an issue that is so dear to our hearts. Mini...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "015c80096bafd9e7-evt",
@@ -158,6 +192,23 @@
       "theme": "security",
       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPLUdFYlYzcloyZFZ4SUc4RTY5dVZVbFlqQ3V0VVpfbG9wcVlhMUZqMlRSdUxCeU1VMGN1bWhjTWF6NjFXWlBiY0dENkt1YW5LNmZfZHJUMmxWX0ZWWTV3MmhUMkEteUtFMXNiRTVJNnRPQjhPT2dQZU9vcE9BT054aXN2RkpJOUFVeUYzVjBZZGNiNjRhS1RqZmlsaEZjV0o5MWhRak5NS1dleWxnUl9tZ1RQWmF3QmRPdUtWODZGSUxDR0l1NjhQZUVkYVBib2lSdklnNkY3cHJEdkZvcWI3aFFxMnhmQ0kzWVdLTXhQOHRERU1Nb19BTURhMkc2bHdlNjRYWlk1RFBtRDUySEE?oc=5",
       "summary": "Press briefing ahead of the Foreign Affairs Council and the Foreign Affairs (Defence) Council of 11 and 12 May 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "60a106b69ff7a3bc-evt",
+      "title": "Press briefing - EU-Mexico summit of 22 May 2026",
+      "date": "2026-05-22",
+      "end_date": "2026-05-22",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZW9BUS01UmVZWWxBR0gtSzFmX214VUswX3FudktvQ1h6SGRxRlBkb2ZrTEVjR0lLeENoTHFRSEVBdzVkcU1IaWtmWVdzWmFwbi13YkZRdUJvOWRaQURCUFFBVXBHZlVoRkpmLUp4WTZTTE1DR25aMEx4czVsVXV2ZU1QRnJLaTJ3MnUxLUwtUkMzMUtrcGlzMEZpZ2JoOV91RVR3WHczN1JkRElRa01ENTJrSUE?oc=5",
+      "summary": "Press briefing - EU-Mexico summit of 22 May 2026 &nbsp;&nbsp; consilium.europa.eu",
       "featured": false,
       "confirmed": true,
       "source": "European Council",
