@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-05-12T00:14:44.751722+00:00",
-    "duration_seconds": 87.850008,
+    "generated_at": "2026-05-12T11:28:55.400969+00:00",
+    "duration_seconds": 130.799967,
     "stats": {
       "ok": 86,
       "fail": 13,
-      "items_total": 2289,
-      "items_strict": 537,
-      "events_detected": 4
+      "items_total": 2311,
+      "items_strict": 541,
+      "events_detected": 6
     },
     "source_count": 99
   },
@@ -27,6 +27,40 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "e8a219c85fffd898-evt",
+      "title": "Keynote address by President von der Leyen at the European Summit on Artificial Intelligence and Children",
+      "date": "2026-05-12",
+      "end_date": "2026-05-12",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1060",
+      "summary": "European Commission Speech Copenhagen, 12 May 2026 Your Royal Highness, Excellencies, Ladies and Gentlemen, Thank you for putting the spotlight on this topic, protecting children in a digital world. This is an...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "7ed4be51d6b47678-evt",
+      "title": "Commission welcomes political agreement on Critical Medicines Act",
+      "date": "2026-05-12",
+      "end_date": "2026-05-12",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1017",
+      "summary": "European Commission Press release Brussels, 12 May 2026 The European Commission welcomes the landmark political agreement on the Critical Medicines Act (CMA), last night by the Council and the European Parliament. This marks an important milestone in strengthening the resilience of Europe's health s",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "f7258682bd14c587-evt",
