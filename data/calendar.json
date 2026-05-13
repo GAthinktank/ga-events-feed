@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-05-13T00:17:31.382274+00:00",
-    "duration_seconds": 95.793104,
+    "generated_at": "2026-05-13T11:38:53.225769+00:00",
+    "duration_seconds": 91.239588,
     "stats": {
-      "ok": 85,
-      "fail": 14,
-      "items_total": 2292,
-      "items_strict": 541,
-      "events_detected": 1
+      "ok": 86,
+      "fail": 13,
+      "items_total": 2331,
+      "items_strict": 535,
+      "events_detected": 3
     },
     "source_count": 99
   },
@@ -27,6 +27,40 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "c078f544318bcb7f-evt",
+      "title": "Remarks by Commissioner Síkela at the press conference on the Global Health Resilience Initiative",
+      "date": "2026-05-13",
+      "end_date": "2026-05-13",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1079",
+      "summary": "European Commission Speech Brussels, 13 May 2026 Good afternoon to all of you. I am very pleased to be in the press room today to present the Global Health Resilience Initiative. It was announced by the Presid...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "f7258682bd14c587-evt",
+      "title": "Belgisch mensenrechtenbeleid onder de loep in Genève",
+      "date": "2026-05-13",
+      "end_date": "2026-05-13",
+      "location": "",
+      "organizer": "Belgium — Diplomatie",
+      "region": "BE",
+      "theme": "development",
+      "link": "http://diplomatie.belgium.be/nl/nieuws/belgisch-mensenrechtenbeleid-onder-de-loep-geneve",
+      "summary": "La politique belge en matière de droits humains passée au crible à Genève lien.horemans Tue 05/05/2026 - 09:26 Type d'actualité Communiqué de presse Sujets Droits humains Carte diplomatique Dernière mise à jour le 5 mai 2026 Le 6 mai 2026, la politique belge en matière de droits humains sera examiné",
+      "featured": false,
+      "confirmed": true,
+      "source": "Belgium — Diplomatie",
+      "kind": "diplomatic-event",
+      "lang": "fr"
     },
     {
       "id": "60a106b69ff7a3bc-evt",
