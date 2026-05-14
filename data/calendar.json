@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-05-14T16:29:24.912032+00:00",
-    "duration_seconds": 91.597738,
+    "generated_at": "2026-05-14T21:56:48.366568+00:00",
+    "duration_seconds": 89.733168,
     "stats": {
       "ok": 86,
       "fail": 13,
       "items_total": 2335,
-      "items_strict": 543,
-      "events_detected": 3
+      "items_strict": 539,
+      "events_detected": 4
     },
     "source_count": 99
   },
@@ -76,6 +76,23 @@
       "featured": false,
       "confirmed": true,
       "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "dd19fd178c5c57d6-evt",
+      "title": "Apply for ECOSOC Consultative Status – Deadline: 1 June 2026",
+      "date": "2026-06-01",
+      "end_date": "2026-06-01",
+      "location": "",
+      "organizer": "United Nations",
+      "region": "Global",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR0ZWZVc4eTVTdUE5VG01T2dIZ1kzOGt5bXlsYW15ZnhhdmRKa1c0aFRkQzBwVjd2Q09MYzlIOWlhVVQ4d2dXejNwZFZwMk43T0VBUVZhTzJETFdXZWpid0RoTGM0N0QxeC1LZmE2NFZwSUU3UEYzSm9NczVqSmNic1g3WlhDUjZyU0VscU1IbGxxenpuazcw?oc=5",
+      "summary": "Apply for ECOSOC Consultative Status – Deadline: 1 June 2026 &nbsp;&nbsp; Economic and Social Council",
+      "featured": false,
+      "confirmed": true,
+      "source": "United Nations",
       "kind": "diplomatic-event",
       "lang": "en"
     },
