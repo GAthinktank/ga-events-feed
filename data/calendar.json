@@ -1,12 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-14T21:56:48.366568+00:00",
-    "duration_seconds": 89.733168,
+    "generated_at": "2026-05-15T10:01:51.479587+00:00",
+    "duration_seconds": 87.51238,
     "stats": {
-      "ok": 86,
-      "fail": 13,
-      "items_total": 2335,
-      "items_strict": 539,
+      "ok": 87,
+      "fail": 12,
+      "items_total": 2322,
+      "items_strict": 529,
       "events_detected": 4
     },
     "source_count": 99
@@ -29,10 +29,27 @@
       "kind": "diplomatic-event"
     },
     {
+      "id": "4f348e7355372f12-evt",
+      "title": "Commission welcomes the Council of Europe declaration on migration",
+      "date": "2026-05-15",
+      "end_date": "2026-05-15",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1085",
+      "summary": "European Commission Press release Brussels, 15 May 2026 The European Commission welcomes the political declaration on migration adopted today by the Council of Europe, at the Ministerial conference in Chișinău. The declaration highlights the importance of the European Convention on Human Rights and ",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
       "id": "f7258682bd14c587-evt",
       "title": "Belgisch mensenrechtenbeleid onder de loep in Genève",
-      "date": "2026-05-14",
-      "end_date": "2026-05-14",
+      "date": "2026-05-15",
+      "end_date": "2026-05-15",
       "location": "",
       "organizer": "Belgium — Diplomatie",
       "region": "BE",
@@ -44,23 +61,6 @@
       "source": "Belgium — Diplomatie",
       "kind": "diplomatic-event",
       "lang": "fr"
-    },
-    {
-      "id": "979b27c80317c283-evt",
-      "title": "Welcome Remarks by EAM at BRICS Foreign Ministers’ Meeting (14 May 2026, New Delhi)",
-      "date": "2026-05-14",
-      "end_date": "2026-05-14",
-      "location": "",
-      "organizer": "India — MEA",
-      "region": "IN",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYkRvNHUtTmgwQkNhdElYVE55elFQbG9TbC13em5RdFRHQnd1VDNjaUVjbk1xVWZiX3lqc2JuX1NVcldGclpxTmJmbXFkUm14WkZHZHRKMDJmdk5neG1vVE82MVp0bEstTDZoaDU4WDYxUjhSajNpT0VHcXdyTGNEc1M2VFh3MmhzM0JWZ09QSGZhb3NkWUQxMndaVWR1a2lnZFZIYmt4c1liektoaHo0bTdjb0xwNmtZcmJTby1xejhDbHQ2Uk41MkNUSnFEMFZEVXc?oc=5",
-      "summary": "Welcome Remarks by EAM at BRICS Foreign Ministers’ Meeting (14 May 2026, New Delhi) &nbsp;&nbsp; Ministry of External Affairs",
-      "featured": false,
-      "confirmed": true,
-      "source": "India — MEA",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "60a106b69ff7a3bc-evt",
