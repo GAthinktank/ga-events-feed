@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-05-17T08:35:56.609191+00:00",
-    "duration_seconds": 87.757241,
+    "generated_at": "2026-05-17T12:06:55.668536+00:00",
+    "duration_seconds": 92.891018,
     "stats": {
       "ok": 86,
       "fail": 13,
       "items_total": 2341,
-      "items_strict": 529,
-      "events_detected": 2
+      "items_strict": 534,
+      "events_detected": 3
     },
     "source_count": 99
   },
@@ -109,6 +109,23 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "publication-cycle"
+    },
+    {
+      "id": "88b3fc0c7a5b3e24-evt",
+      "title": "Media advisory - European Council meeting of 18 and 19 June 2026",
+      "date": "2026-06-19",
+      "end_date": "2026-06-19",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOUM4QlBFRUZLVDZ2cnRIQkxmZXJwQVRzRTI4RjYzTHVlS3lFSUFjSDZ6a1BGY3cyYVdHLTdyYWlMOS1oVzFoVDRJZy0yb214bGdEY2NmRmFiQVo5VDVMTGQycnRlV2xKZi1DeWdNQjlDeHcwTlpjODRIeHkyUWkzMnNZclI0aTRKRk1vYmJBOUJQMkprVEpySXlzbTYtc0dBSm9oTkZGWXNYbzRyZmtoemM0cGlfTWpCM0JCUnI2SzBQc0RpelBQc3pGZEJ5Yjg?oc=5",
+      "summary": "Media advisory - European Council meeting of 18 and 19 June 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "eu-council-2026-06",
