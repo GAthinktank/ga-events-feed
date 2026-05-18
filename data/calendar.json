@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-05-18T14:47:23.079544+00:00",
-    "duration_seconds": 91.53202,
+    "generated_at": "2026-05-18T20:22:49.310264+00:00",
+    "duration_seconds": 87.015486,
     "stats": {
       "ok": 86,
       "fail": 13,
-      "items_total": 2338,
+      "items_total": 2340,
       "items_strict": 519,
-      "events_detected": 2
+      "events_detected": 3
     },
     "source_count": 99
   },
@@ -27,6 +27,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "e7a6d5cb12cc9b27-evt",
+      "title": "European Innovation Council selects EQT to lead €5 Billion Scaleup Europe Fund",
+      "date": "2026-05-18",
+      "end_date": "2026-05-18",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "economy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1102",
+      "summary": "European Commission Press release Brussels, 18 May 2026 The European Innovation Council (EIC) Fund Board has chosen EQT as the preferred investment adviser and fund manager for the Scaleup Europe Fund, following a rigorous and highly competitive selection process to lead the EU's €5 billion initiati",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "f7258682bd14c587-evt",
