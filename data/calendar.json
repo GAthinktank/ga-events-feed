@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-05-19T08:48:13.790842+00:00",
-    "duration_seconds": 94.317047,
+    "generated_at": "2026-05-19T17:44:25.121365+00:00",
+    "duration_seconds": 94.37613,
     "stats": {
       "ok": 86,
       "fail": 13,
-      "items_total": 2305,
-      "items_strict": 508,
-      "events_detected": 2
+      "items_total": 2335,
+      "items_strict": 542,
+      "events_detected": 4
     },
     "source_count": 99
   },
@@ -27,6 +27,40 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "1d3c7fee58b06a8c-evt",
+      "title": "Foreign Secretary's keynote speech at the Global Partnerships Conference: 19 May 2026",
+      "date": "2026-05-19",
+      "end_date": "2026-05-19",
+      "location": "",
+      "organizer": "UK FCDO",
+      "region": "UK",
+      "theme": "diplomacy",
+      "link": "https://www.gov.uk/government/speeches/foreign-secretarys-keynote-speech-at-the-global-partnerships-conference-19-may-2026",
+      "summary": "Keynote speech by Foreign Secretary, Yvette Cooper MP, at the Global Partnerships Conference",
+      "featured": false,
+      "confirmed": true,
+      "source": "UK FCDO",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "dee4304ba321be5e-evt",
+      "title": "Baroness Chapman's speech at the Global Partnerships Conference: 19 May 2026",
+      "date": "2026-05-19",
+      "end_date": "2026-05-19",
+      "location": "",
+      "organizer": "UK FCDO",
+      "region": "UK",
+      "theme": "diplomacy",
+      "link": "https://www.gov.uk/government/speeches/baroness-chapmans-speech-at-the-global-partnerships-conference-19-may-2026",
+      "summary": "Opening speech by Baroness Chapman at the Global Partnerships Conference",
+      "featured": false,
+      "confirmed": true,
+      "source": "UK FCDO",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "4d2e597bd2262e1f-evt",
