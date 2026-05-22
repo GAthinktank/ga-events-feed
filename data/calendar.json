@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-05-22T10:38:04.324547+00:00",
-    "duration_seconds": 85.223336,
+    "generated_at": "2026-05-22T18:23:39.921652+00:00",
+    "duration_seconds": 91.158242,
     "stats": {
-      "ok": 87,
-      "fail": 12,
-      "items_total": 2346,
-      "items_strict": 548,
-      "events_detected": 8
+      "ok": 85,
+      "fail": 14,
+      "items_total": 2325,
+      "items_strict": 550,
+      "events_detected": 10
     },
     "source_count": 99
   },
@@ -27,6 +27,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "145ccf09ec22ac4a-evt",
+      "title": "Opening remarks by President von der Leyen at the EU-Mexico Summit",
+      "date": "2026-05-22",
+      "end_date": "2026-05-22",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1148",
+      "summary": "European Commission Statement Mexico City, 22 May 2026 Thank you, President Sheinbaum, for hosting us at the 8th EU-Mexico Summit. It is an important moment, a moment of renewal for our partnership. As we entered th...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "acb600fa6ea1c32e-evt",
@@ -63,7 +80,7 @@
       "lang": "fr"
     },
     {
-      "id": "7255471b517bb88c-evt",
+      "id": "a9cce1fccce53f88-evt",
       "title": "Remarks by Kyriakos Pierrakakis following the Eurogroup meeting of 22 May 2026",
       "date": "2026-05-22",
       "end_date": "2026-05-22",
@@ -71,7 +88,7 @@
       "organizer": "European Council",
       "region": "EU",
       "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQckktd0E0U3I1NkFON0xOZFZ2Q1MwbF9CQWJaQnZxUXlKcjdvdm9fc0VsQjVtcWI2Qmt4cTNNTVZxUzFNdTN2Z0l6cUMyNWZPcXY3cXI0ZnhMc0pfekV1R2JIMmxVMklCOXBZYVBKWkhoYXJQWEc1ZXVMNS02a0JKWXJBUG4yblQtMnhSR2FfNm02Q3BSeWswR2dMUk41OFFwRTZLZEpPSGozRnFvcHJvVmpwRkd2NkJBMzNSZ3hlTUotb2w5Zm56c0NmektJOHQ5OWUzZXY5VjhIcG85aW1jNDdpazd6WkU?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZkdfSUlfajc5THRCTEpnNnRDdWxZa2pMUFZneGZseTd2YVNrMFRQOWpwUzF1OTdkb1JRMVNacm1OV3Z2NnNjaVptNkFOTUtTZEFyX1NOdmZRZ0I4MHVuZzZjTjBlc016aXEza1JEbGRISWhKM25SWURCZVJSYkFtVXNkSGVRRG5rMVh6dTFsdDJfVXlFSjg1NFRNTnBBemJpSldLbWJhWjdDYVJoRVJuekoyaUFKMUx3OTBEU0dHOVFYZVMtdVpiZ0VZTkdJWk15NDh4SzRSbUFKM19OVzhmc1A3SnJ5bGc?oc=5",
       "summary": "Remarks by Kyriakos Pierrakakis following the Eurogroup meeting of 22 May 2026 &nbsp;&nbsp; consilium.europa.eu",
       "featured": false,
       "confirmed": true,
@@ -141,6 +158,23 @@
       "theme": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPZUVZWjcwMi1MbGhxMTViWXAwbm0tOTNpcEFiTjVBVEd4RXFnRy1NdlhJbFZwNG8zdWYwdWpjM19KdmZlTkFqeHBPZHlZa3Nwc3cweThpNzF4c2U5ZUpfMDFQWFRycjNjdnhvRlB5WWJHRW9iLXRENDl4UjJIUEhIcS1tTHVCdFp3X0FBLThkM2FTMjdhZHVqWkJ3UkZWa25fSkNWUlFSa3RLOWRvd0JZNlhFVlJMT0paTDBONnJYdWNMd1l4azJXY25vUTA1Z0R6ZnNwQ1NQMjBOdlJLd3ZGdml3NnBNVjFjdnlqMkVkYmFJV1hnaXoySEFBTDU1Z0R5dUREMTFZMWNQYURDNFVWTHIzT1huRDM4ZnU2NHZJUTVtUHBHVTZuZFFWbw?oc=5",
       "summary": "Media advisory - Eurogroup meeting and Informal meeting of Economic and Financial Affairs Ministers of 22 and 23 May 2026, Lefkosia, Cyprus &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "138e5f8fcc42a566-evt",
+      "title": "8th Accession Conference with Albania, 26 May 2026",
+      "date": "2026-05-26",
+      "end_date": "2026-05-26",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzVXbFVUZGhWM3lHdmdkOHpiTnB2M3hBX25oMjNybW0taERIeUxHSTVXbGg2WFFScnFxa0d4X0daYlZNVnctcGRYa2o0bXVaZnd1bWczQVlyQVlzY0s5VElVRnNMTGRQdHp4M0E3aGo3eXp3a3ZabGRHTHhyVl91QzJ6V1V3MWhzeWhMWWdqYUlxM0Q3?oc=5",
+      "summary": "8th Accession Conference with Albania, 26 May 2026 &nbsp;&nbsp; consilium.europa.eu",
       "featured": false,
       "confirmed": true,
       "source": "European Council",
