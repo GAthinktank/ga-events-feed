@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-05-23T06:46:09.070651+00:00",
-    "duration_seconds": 89.748453,
+    "generated_at": "2026-05-23T12:10:05.742244+00:00",
+    "duration_seconds": 88.622294,
     "stats": {
       "ok": 86,
       "fail": 13,
       "items_total": 2335,
-      "items_strict": 548,
-      "events_detected": 3
+      "items_strict": 545,
+      "events_detected": 5
     },
     "source_count": 99
   },
@@ -29,6 +29,23 @@
       "kind": "diplomatic-event"
     },
     {
+      "id": "6f75d84a9f0c4753-evt",
+      "title": "Remarks by Commissioner Dombrovskis at informal ECOFIN press conference",
+      "date": "2026-05-23",
+      "end_date": "2026-05-23",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1151",
+      "summary": "European Commission Statement Nicosia, 23 May 2026 Thank you, Minister. Good morning, everyone. It's a pleasure to be back here in Nicosia. We held a number of constructive exchanges over the course of this info...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
       "id": "f7258682bd14c587-evt",
       "title": "Belgisch mensenrechtenbeleid onder de loep in Genève",
       "date": "2026-05-23",
@@ -44,6 +61,23 @@
       "source": "Belgium — Diplomatie",
       "kind": "diplomatic-event",
       "lang": "fr"
+    },
+    {
+      "id": "6a7752dadbae0ef2-evt",
+      "title": "Media advisory - Eurogroup meeting and Informal meeting of Economic and Financial Affairs Ministers of 22 and 23 May 2026, Lefkosia, Cyprus",
+      "date": "2026-05-23",
+      "end_date": "2026-05-23",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNMWUySjYtdWxVZUJ6bTNEYnd4ZHJwcE55TVEwcXJ0VW1WZjdyT1ZkM3dHcWtaTE9wZnR3alBxcTJWNXFDaG1NSGdZWC1BYUVDNW5ZYTBrcnh2V3ktYlFzLUhFaVJrMGRKYk1ZUVpCUG1pVHJQSFlqUzFOZk5BMGp5M0tQVERBRmlCLWRuMHdVYmtyaDVjRHVqT3FfNGt0eXJGUUVnTVRtTTNEdEYwb2djMHBackY2S0pXN0xhN1A3QTBwM19DdFpoRU5Jemp1TERqblJaWEYwbVN0VHJOLTRzS2VEUWF4a1pCSHN0VmNaTklqX05tTTN5N2N1V3FmNF93Vkg3TjlIMUp4OWl4a1V1SWV3U29qbG01empYWVdTRVEyUkhxVlFETE5NUQ?oc=5",
+      "summary": "Media advisory - Eurogroup meeting and Informal meeting of Economic and Financial Affairs Ministers of 22 and 23 May 2026, Lefkosia, Cyprus &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "138e5f8fcc42a566-evt",
