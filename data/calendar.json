@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-05-25T11:40:29.103777+00:00",
-    "duration_seconds": 92.459373,
+    "generated_at": "2026-05-25T18:12:20.485163+00:00",
+    "duration_seconds": 87.992716,
     "stats": {
-      "ok": 86,
-      "fail": 13,
-      "items_total": 2328,
-      "items_strict": 549,
-      "events_detected": 3
+      "ok": 85,
+      "fail": 14,
+      "items_total": 2326,
+      "items_strict": 536,
+      "events_detected": 4
     },
     "source_count": 99
   },
@@ -56,6 +56,23 @@
       "theme": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzVXbFVUZGhWM3lHdmdkOHpiTnB2M3hBX25oMjNybW0taERIeUxHSTVXbGg2WFFScnFxa0d4X0daYlZNVnctcGRYa2o0bXVaZnd1bWczQVlyQVlzY0s5VElVRnNMTGRQdHp4M0E3aGo3eXp3a3ZabGRHTHhyVl91QzJ6V1V3MWhzeWhMWWdqYUlxM0Q3?oc=5",
       "summary": "8th Accession Conference with Albania, 26 May 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "1fdb865a57ee74eb-evt",
+      "title": "General Affairs Council, 26 May 2026",
+      "date": "2026-05-26",
+      "end_date": "2026-05-26",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYYTQtSHNYNWFqSTdYdjVnMVZYcXlnVzh0SDEtSmNwb1hZSkhPOEtVaHdOOUN6TXV1ei1RckcyZG54Vk1LUnc5R2luak8xM2xvRGs4OUNKNlVZMmRES0RMZ2NFYnZtUHJjYnlv?oc=5",
+      "summary": "General Affairs Council, 26 May 2026 &nbsp;&nbsp; consilium.europa.eu",
       "featured": false,
       "confirmed": true,
       "source": "European Council",
