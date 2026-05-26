@@ -192,8 +192,7 @@ def extract_event_from_entry(entry):
     except Exception:
         return None
 
-    today = date.today()
-    if parsed.date() < today:
+if parsed.date() < date.today() - __import__('datetime').timedelta(days=365):
         return None
 
     return {
