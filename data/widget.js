@@ -51,8 +51,8 @@
   var now = new Date();
   var state = {
     tab: 'calendar',
-    cal: { view: 'list', region: '', theme: '', month: now.getMonth(), year: now.getFullYear(), data: [] },
-    pub: { region: '', theme: '', type: '', data: [] }
+    cal: { view: 'list', period: 'upcoming', region: '', theme: '', month: now.getMonth(), year: now.getFullYear(), data: [] },
+    pub: { region: '', theme: '', type: '', data: [] } 
   };
 
   // ----- Tabs -----
@@ -69,18 +69,22 @@
   });
 
   // ===== CALENDAR =====
-  function getCalFiltered() {
-    var today = new Date(); today.setHours(0, 0, 0, 0);
-    return state.cal.data
-      .filter(function (e) { return parseDate(e.date); })
-      .filter(function (e) {
-        var end = parseDate(e.end_date) || parseDate(e.date);
-        return end >= today;
-      })
-      .filter(function (e) { return !state.cal.region || e.region === state.cal.region; })
-      .filter(function (e) { return !state.cal.theme  || e.theme  === state.cal.theme; })
-      .sort(function (a, b) { return parseDate(a.date) - parseDate(b.date); });
-  }
+function getCalFiltered() {
+  var today = new Date(); today.setHours(0, 0, 0, 0);
+  var past = state.cal.period === 'past';
+  return state.cal.data
+    .filter(function (e) { return parseDate(e.date); })
+    .filter(function (e) {
+      var end = parseDate(e.end_date) || parseDate(e.date);
+      return past ? end < today : end >= today;
+    })
+    .filter(function (e) { return !state.cal.region || e.region === state.cal.region; })
+    .filter(function (e) { return !state.cal.theme  || e.theme  === state.cal.theme; })
+    .sort(function (a, b) {
+      var d = parseDate(a.date) - parseDate(b.date);
+      return past ? -d : d;
+    });
+}
 
   function renderCalFeatured() {
     var featured = getCalFiltered().filter(function (e) { return e.featured; }).slice(0, 3);
@@ -200,10 +204,13 @@
     });
   }
 
-  function renderCalCount() {
-    var n = getCalFiltered().length;
-    $('#ga-cal-count').textContent = n + ' upcoming event' + (n === 1 ? '' : 's');
-  }
+function renderCalCount() {
+  var n = getCalFiltered().length;
+  var label = state.cal.period === 'past'
+    ? n + ' past event' + (n === 1 ? '' : 's')
+    : n + ' upcoming event' + (n === 1 ? '' : 's');
+  $('#ga-cal-count').textContent = label;
+}
 
   function renderCal() {
     renderCalCount();
@@ -262,6 +269,37 @@
   $$('.ga-views button').forEach(function (btn) {
     btn.addEventListener('click', function () {
       $$('.ga-views button').forEach(function (b) { b.classList.remove('active'); });
+      // ── Period toggle (Upcoming / Past) — injected dynamically ──────────
+(function () {
+  var calPane = $$('.ga-pane').filter(function (p) {
+    return p.getAttribute('data-pane') === 'calendar';
+  })[0];
+  if (!calPane) return;
+  var toolbar = $('.ga-toolbar', calPane);
+  if (!toolbar) return;
+
+  var wrap = document.createElement('div');
+  wrap.className = 'ga-views';
+  wrap.setAttribute('role', 'tablist');
+  wrap.style.marginLeft = '0';
+  wrap.innerHTML =
+    '<button data-period="upcoming" class="active">Upcoming</button>' +
+    '<button data-period="past">Past</button>';
+
+  var viewsEl = $('.ga-views', toolbar);
+  viewsEl
+    ? viewsEl.parentNode.insertBefore(wrap, viewsEl.nextSibling)
+    : toolbar.insertBefore(wrap, toolbar.firstChild);
+
+  $$('button', wrap).forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      $$('button', wrap).forEach(function (b) { b.classList.remove('active'); });
+      btn.classList.add('active');
+      state.cal.period = btn.getAttribute('data-period');
+      renderCal();
+    });
+  });
+})();
       btn.classList.add('active');
       state.cal.view = btn.getAttribute('data-view');
       renderCal();
