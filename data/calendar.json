@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-05-27T08:55:13.651952+00:00",
-    "duration_seconds": 93.246938,
+    "generated_at": "2026-05-27T12:18:37.829525+00:00",
+    "duration_seconds": 85.397394,
     "stats": {
-      "ok": 86,
-      "fail": 13,
-      "items_total": 2342,
-      "items_strict": 545,
-      "events_detected": 4
+      "ok": 85,
+      "fail": 14,
+      "items_total": 2327,
+      "items_strict": 541,
+      "events_detected": 5
     },
     "source_count": 99
   },
@@ -76,6 +76,23 @@
       "featured": false,
       "confirmed": true,
       "source": "UK gov.uk announcements",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "7ae05abfef6fae37-evt",
+      "title": "Press briefing - EU-Western Balkans summit of 5 June 2026",
+      "date": "2026-06-05",
+      "end_date": "2026-06-05",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVUp4M0szcHF4TWNkZnBYdzFIb2VsQTNQbTI1eTB2Wm90MnpISEVjVDhEYW5CRkp0ZlhHLUJGcEVfazBMeEpybDFVcTRPQUVSUlA3dXVMZWN0X1NHODE1aC11MGNZR1ZNU0kyZ0lhbHRqdFMyVFd1cTA2S2RrRzZZZE9aZnNWekFDVlJBVXBmT1BrMVdpeVVuWEhjVW5XSDB6UExtNlQ2Rmp1cDRUV3Fac1RndmNhWDJyY25lbEpjdjU?oc=5",
+      "summary": "Press briefing - EU-Western Balkans summit of 5 June 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
       "kind": "diplomatic-event",
       "lang": "en"
     },
