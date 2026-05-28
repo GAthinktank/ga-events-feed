@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-05-28T12:24:22.577673+00:00",
-    "duration_seconds": 91.973972,
+    "generated_at": "2026-05-28T18:09:22.732714+00:00",
+    "duration_seconds": 98.359321,
     "stats": {
       "ok": 85,
       "fail": 14,
-      "items_total": 2294,
-      "items_strict": 535,
-      "events_detected": 5
+      "items_total": 2292,
+      "items_strict": 526,
+      "events_detected": 6
     },
     "source_count": 99
   },
@@ -27,6 +27,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "59d2846e46cfe94c-evt",
+      "title": "Opening address by Commissioner Hansen at the EU–Thailand Agri-Food Business Forum during the High-Level Agri-food business Mission to Thailand",
+      "date": "2026-05-28",
+      "end_date": "2026-05-28",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1184",
+      "summary": "European Commission Speech Bangkok, 28 May 2026 Distinguished Ministers, Excellencies, Business leaders, Ladies and gentlemen, It is a great pleasure to welcome you today to the EU–Thailand Agri-Food Business...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "f7258682bd14c587-evt",
