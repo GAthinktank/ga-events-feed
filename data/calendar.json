@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-05-28T06:52:50.039876+00:00",
-    "duration_seconds": 86.690609,
+    "generated_at": "2026-05-28T12:24:22.577673+00:00",
+    "duration_seconds": 91.973972,
     "stats": {
       "ok": 85,
       "fail": 14,
-      "items_total": 2295,
-      "items_strict": 520,
-      "events_detected": 3
+      "items_total": 2294,
+      "items_strict": 535,
+      "events_detected": 5
     },
     "source_count": 99
   },
@@ -44,6 +44,40 @@
       "source": "Belgium — Diplomatie",
       "kind": "diplomatic-event",
       "lang": "fr"
+    },
+    {
+      "id": "3d29025816896b3c-evt",
+      "title": "Secretary-General of ASEAN Delivers Pre-Recorded Remarks at the 2026 RCEP Local Government and Friendship Cities Cooperation Forum",
+      "date": "2026-05-28",
+      "end_date": "2026-05-28",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "CN",
+      "theme": "diplomacy",
+      "link": "https://asean.org/secretary-general-of-asean-delivers-pre-recorded-remarks-at-the-2026-rcep-local-government-and-friendship-cities-cooperation-forum/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 28 May 2026, delivered pre-recorded remarks at the Opening Ceremony of the 2026 Regional Comprehensive Economic Partnership (RCEP) Local Government and Friendship Cities Cooperation (Huangshan) Forum, held in Huangshan City, China. In his remarks, Th",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "7ae05abfef6fae37-evt",
+      "title": "Press briefing - EU-Western Balkans summit of 5 June 2026",
+      "date": "2026-06-05",
+      "end_date": "2026-06-05",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVUp4M0szcHF4TWNkZnBYdzFIb2VsQTNQbTI1eTB2Wm90MnpISEVjVDhEYW5CRkp0ZlhHLUJGcEVfazBMeEpybDFVcTRPQUVSUlA3dXVMZWN0X1NHODE1aC11MGNZR1ZNU0kyZ0lhbHRqdFMyVFd1cTA2S2RrRzZZZE9aZnNWekFDVlJBVXBmT1BrMVdpeVVuWEhjVW5XSDB6UExtNlQ2Rmp1cDRUV3Fac1RndmNhWDJyY25lbEpjdjU?oc=5",
+      "summary": "Press briefing - EU-Western Balkans summit of 5 June 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "shangri-la-2026",
