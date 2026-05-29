@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-05-29T18:12:13.452713+00:00",
-    "duration_seconds": 122.609701,
+    "generated_at": "2026-05-29T22:27:39.492195+00:00",
+    "duration_seconds": 91.78612,
     "stats": {
-      "ok": 83,
-      "fail": 16,
-      "items_total": 2239,
-      "items_strict": 507,
-      "events_detected": 6
+      "ok": 85,
+      "fail": 14,
+      "items_total": 2299,
+      "items_strict": 525,
+      "events_detected": 5
     },
     "source_count": 99
   },
@@ -90,23 +90,6 @@
       "theme": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQYXFNcFRXUTVfaXlYQXZ4a2pKdzlCQ0RZazZyNlFTbF9qeUZHX243WG4ta0VGZkZOeU5TUTE2ME1NNU8tazNjbmFZNUVpYktrcC1VWjNOZlNjQmJTblJkMU9KaVd4MXlaTUNUMFNpSDNxOVZSSlRPSmxXTC1KZWRtMXhlNS1yVjFad2w4cm1Ba1YtQ1VPUEtYTTBrZjZhYk9jcEZrNTNSeUVvU3FMYmp3TnRHUXE2LUQ0aGZLSlpEaDlUeEl0YlhMUmI1RHc5d25KUmdMaGpyNUhrdDVfTExTaGRnczVZQTBEcnFENVJBZDRqSVRrZVpELWxCdldXXzJDQmc?oc=5",
       "summary": "Media advisory - Competitiveness Council (Internal market, Industry, Research and Space) of 28 and 29 May 2026 &nbsp;&nbsp; consilium.europa.eu",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Council",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "7ae05abfef6fae37-evt",
-      "title": "Press briefing - EU-Western Balkans summit of 5 June 2026",
-      "date": "2026-06-05",
-      "end_date": "2026-06-05",
-      "location": "",
-      "organizer": "European Council",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVUp4M0szcHF4TWNkZnBYdzFIb2VsQTNQbTI1eTB2Wm90MnpISEVjVDhEYW5CRkp0ZlhHLUJGcEVfazBMeEpybDFVcTRPQUVSUlA3dXVMZWN0X1NHODE1aC11MGNZR1ZNU0kyZ0lhbHRqdFMyVFd1cTA2S2RrRzZZZE9aZnNWekFDVlJBVXBmT1BrMVdpeVVuWEhjVW5XSDB6UExtNlQ2Rmp1cDRUV3Fac1RndmNhWDJyY25lbEpjdjU?oc=5",
-      "summary": "Press briefing - EU-Western Balkans summit of 5 June 2026 &nbsp;&nbsp; consilium.europa.eu",
       "featured": false,
       "confirmed": true,
       "source": "European Council",
@@ -224,6 +207,23 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "ddcbbd0e1fd22c4c-evt",
+      "title": "Nota informativa – Vertice NATO (Ankara, 7-8 luglio 2026)",
+      "date": "2026-08-07",
+      "end_date": "2026-08-07",
+      "location": "",
+      "organizer": "Italy — Esteri",
+      "region": "IT",
+      "theme": "security",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS1ZaajBxeXZYaEFjM3lsdlo3WktqdWQ2RWtvWjdZaDJuemswUHZudEJGOW5rN1l6R0xxMnFBTUc0d1FaSzBhdkYwazg4VmpuMjJvZzgtejlQRGxvRDNscGpmVzRCdmV0NGhpSXZwNGxUb0F5ZXB1blNIRV9zUHM2WTdmQkJTdWswcHZSYmU4S1JIY1Y3MjFtUHhDWTQySTBidmlrZWhKTzFFR19RbGYyZW5XbW5ya1ktangtMGZyQlhyeEU?oc=5",
+      "summary": "Nota informativa – Vertice NATO (Ankara, 7-8 luglio 2026) &nbsp;&nbsp; Ministero degli Affari Esteri e della Cooperazione Internazionale",
+      "featured": false,
+      "confirmed": true,
+      "source": "Italy — Esteri",
+      "kind": "diplomatic-event",
+      "lang": "it"
     },
     {
       "id": "unga-2026",
@@ -480,23 +480,6 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "269db14f8803eb82-evt",
-      "title": "Informal meeting of foreign affairs ministers - Gymnich, 27-28 May 2026",
-      "date": "2027-05-28",
-      "end_date": "2027-05-28",
-      "location": "",
-      "organizer": "European Council",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBibmlOaFdrcjBQazI2WU5pbWVrMTVfTm9obUhyWW9ybGNGdmt3cGlfN3hCVWQydFVtZ2pjbk5mUU1xWElQajVvRWVhUWhOTnVzR18ydXhrb3VsX3dIQnZ2bV8tVldtN3ptZk9YU2FlQQ?oc=5",
-      "summary": "Informal meeting of foreign affairs ministers - Gymnich, 27-28 May 2026 &nbsp;&nbsp; consilium.europa.eu",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Council",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "shangri-la-2027",
