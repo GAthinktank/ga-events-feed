@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-05-28T22:41:06.543471+00:00",
-    "duration_seconds": 88.00663,
+    "generated_at": "2026-05-29T02:49:54.687626+00:00",
+    "duration_seconds": 106.494525,
     "stats": {
-      "ok": 85,
-      "fail": 14,
-      "items_total": 2322,
-      "items_strict": 531,
-      "events_detected": 7
+      "ok": 84,
+      "fail": 15,
+      "items_total": 2249,
+      "items_strict": 514,
+      "events_detected": 5
     },
     "source_count": 99
   },
@@ -29,27 +29,10 @@
       "kind": "diplomatic-event"
     },
     {
-      "id": "59d2846e46cfe94c-evt",
-      "title": "Opening address by Commissioner Hansen at the EU–Thailand Agri-Food Business Forum during the High-Level Agri-food business Mission to Thailand",
-      "date": "2026-05-28",
-      "end_date": "2026-05-28",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1184",
-      "summary": "European Commission Speech Bangkok, 28 May 2026 Distinguished Ministers, Excellencies, Business leaders, Ladies and gentlemen, It is a great pleasure to welcome you today to the EU–Thailand Agri-Food Business...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
       "id": "f7258682bd14c587-evt",
       "title": "Belgisch mensenrechtenbeleid onder de loep in Genève",
-      "date": "2026-05-28",
-      "end_date": "2026-05-28",
+      "date": "2026-05-29",
+      "end_date": "2026-05-29",
       "location": "",
       "organizer": "Belgium — Diplomatie",
       "region": "BE",
@@ -61,23 +44,6 @@
       "source": "Belgium — Diplomatie",
       "kind": "diplomatic-event",
       "lang": "fr"
-    },
-    {
-      "id": "3d29025816896b3c-evt",
-      "title": "Secretary-General of ASEAN Delivers Pre-Recorded Remarks at the 2026 RCEP Local Government and Friendship Cities Cooperation Forum",
-      "date": "2026-05-28",
-      "end_date": "2026-05-28",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "CN",
-      "theme": "diplomacy",
-      "link": "https://asean.org/secretary-general-of-asean-delivers-pre-recorded-remarks-at-the-2026-rcep-local-government-and-friendship-cities-cooperation-forum/",
-      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 28 May 2026, delivered pre-recorded remarks at the Opening Ceremony of the 2026 Regional Comprehensive Economic Partnership (RCEP) Local Government and Friendship Cities Cooperation (Huangshan) Forum, held in Huangshan City, China. In his remarks, Th",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "7ae05abfef6fae37-evt",
@@ -143,23 +109,6 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "publication-cycle"
-    },
-    {
-      "id": "88b3fc0c7a5b3e24-evt",
-      "title": "Media advisory - European Council meeting of 18 and 19 June 2026",
-      "date": "2026-06-19",
-      "end_date": "2026-06-19",
-      "location": "",
-      "organizer": "European Council",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOUM4QlBFRUZLVDZ2cnRIQkxmZXJwQVRzRTI4RjYzTHVlS3lFSUFjSDZ6a1BGY3cyYVdHLTdyYWlMOS1oVzFoVDRJZy0yb214bGdEY2NmRmFiQVo5VDVMTGQycnRlV2xKZi1DeWdNQjlDeHcwTlpjODRIeHkyUWkzMnNZclI0aTRKRk1vYmJBOUJQMkprVEpySXlzbTYtc0dBSm9oTkZGWXNYbzRyZmtoemM0cGlfTWpCM0JCUnI2SzBQc0RpelBQc3pGZEJ5Yjg?oc=5",
-      "summary": "Media advisory - European Council meeting of 18 and 19 June 2026 &nbsp;&nbsp; consilium.europa.eu",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Council",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "eu-council-2026-06",
@@ -754,6 +703,23 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "e10446168ea47374-evt",
+      "title": "17-1401 ./. WTO/AIR/DSB/43 10 MARCH 2017 SUBJECT: DISPUTE SETTLEMENT BODY THE NEXT MEETING OF THE DISPUTE SETTLEMENT BODY WILL B",
+      "date": "2043-03-10",
+      "end_date": "2043-03-10",
+      "location": "",
+      "organizer": "WTO",
+      "region": "Global",
+      "theme": "economy",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ob1ZYVS01Slc4UXItakwxd08tc0dBem53ajEyNEx5UXREUHdPRERNMGJsdk1VSnVzS3ZrWjlza2E3Zjg4MmpjNHJnTV9DNjNMU21OSmpjMWFCa1R4T0Q3aGotZTdmQ2taUUhmWEVudENJS1E1eHc0?oc=5",
+      "summary": "17-1401 ./. WTO/AIR/DSB/43 10 MARCH 2017 SUBJECT: DISPUTE SETTLEMENT BODY THE NEXT MEETING OF THE DISPUTE SETTLEMENT BODY WILL B &nbsp;&nbsp; World Trade Organization",
+      "featured": false,
+      "confirmed": true,
+      "source": "WTO",
+      "kind": "diplomatic-event",
+      "lang": "en"
     }
   ]
 }
