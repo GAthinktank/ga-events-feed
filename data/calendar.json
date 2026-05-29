@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-05-29T12:13:22.734173+00:00",
-    "duration_seconds": 86.728328,
+    "generated_at": "2026-05-29T18:12:13.452713+00:00",
+    "duration_seconds": 122.609701,
     "stats": {
-      "ok": 86,
-      "fail": 13,
-      "items_total": 2308,
-      "items_strict": 523,
-      "events_detected": 5
+      "ok": 83,
+      "fail": 16,
+      "items_total": 2239,
+      "items_strict": 507,
+      "events_detected": 6
     },
     "source_count": 99
   },
@@ -27,6 +27,40 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "452dd948e47bbff5-evt",
+      "title": "Speech by Commissioner Ekaterina Zaharieva at the Competitiveness Council (COMPET) - 29.05.2026",
+      "date": "2026-05-29",
+      "end_date": "2026-05-29",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1202",
+      "summary": "European Commission Speech Brussels, 29 May 2026 Thank you very much, Minister Damianou. Today we advanced on two key priorities for Europe's competitiveness and global leadership: the next Horizon Europe prog...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "1b19889708a6f084-evt",
+      "title": "Commission approves €9 billion Spanish capacity mechanism for security of electricity supply",
+      "date": "2026-05-29",
+      "end_date": "2026-05-29",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1163",
+      "summary": "European Commission Press release Brussels, 29 May 2026 The European Commission has approved, under EU State aid rules, a €9 billion capacity mechanism for electricity supply for Spain. This aid measure aims to ensure that there is sufficient capacity to produce, store or flexibly consume electricit",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "f7258682bd14c587-evt",
@@ -190,23 +224,6 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "ddcbbd0e1fd22c4c-evt",
-      "title": "Nota informativa – Vertice NATO (Ankara, 7-8 luglio 2026)",
-      "date": "2026-08-07",
-      "end_date": "2026-08-07",
-      "location": "",
-      "organizer": "Italy — Esteri",
-      "region": "IT",
-      "theme": "security",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS1ZaajBxeXZYaEFjM3lsdlo3WktqdWQ2RWtvWjdZaDJuemswUHZudEJGOW5rN1l6R0xxMnFBTUc0d1FaSzBhdkYwazg4VmpuMjJvZzgtejlQRGxvRDNscGpmVzRCdmV0NGhpSXZwNGxUb0F5ZXB1blNIRV9zUHM2WTdmQkJTdWswcHZSYmU4S1JIY1Y3MjFtUHhDWTQySTBidmlrZWhKTzFFR19RbGYyZW5XbW5ya1ktangtMGZyQlhyeEU?oc=5",
-      "summary": "Nota informativa – Vertice NATO (Ankara, 7-8 luglio 2026) &nbsp;&nbsp; Ministero degli Affari Esteri e della Cooperazione Internazionale",
-      "featured": false,
-      "confirmed": true,
-      "source": "Italy — Esteri",
-      "kind": "diplomatic-event",
-      "lang": "it"
     },
     {
       "id": "unga-2026",
