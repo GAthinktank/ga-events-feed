@@ -1,12 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-29T02:49:54.687626+00:00",
-    "duration_seconds": 106.494525,
+    "generated_at": "2026-05-29T06:52:57.954478+00:00",
+    "duration_seconds": 94.655397,
     "stats": {
-      "ok": 84,
-      "fail": 15,
-      "items_total": 2249,
-      "items_strict": 514,
+      "ok": 85,
+      "fail": 14,
+      "items_total": 2293,
+      "items_strict": 522,
       "events_detected": 5
     },
     "source_count": 99
@@ -44,6 +44,23 @@
       "source": "Belgium — Diplomatie",
       "kind": "diplomatic-event",
       "lang": "fr"
+    },
+    {
+      "id": "be2ae42354d1d564-evt",
+      "title": "Media advisory - Competitiveness Council (Internal market, Industry, Research and Space) of 28 and 29 May 2026",
+      "date": "2026-05-29",
+      "end_date": "2026-05-29",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQYXFNcFRXUTVfaXlYQXZ4a2pKdzlCQ0RZazZyNlFTbF9qeUZHX243WG4ta0VGZkZOeU5TUTE2ME1NNU8tazNjbmFZNUVpYktrcC1VWjNOZlNjQmJTblJkMU9KaVd4MXlaTUNUMFNpSDNxOVZSSlRPSmxXTC1KZWRtMXhlNS1yVjFad2w4cm1Ba1YtQ1VPUEtYTTBrZjZhYk9jcEZrNTNSeUVvU3FMYmp3TnRHUXE2LUQ0aGZLSlpEaDlUeEl0YlhMUmI1RHc5d25KUmdMaGpyNUhrdDVfTExTaGRnczVZQTBEcnFENVJBZDRqSVRrZVpELWxCdldXXzJDQmc?oc=5",
+      "summary": "Media advisory - Competitiveness Council (Internal market, Industry, Research and Space) of 28 and 29 May 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "7ae05abfef6fae37-evt",
@@ -703,23 +720,6 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "e10446168ea47374-evt",
-      "title": "17-1401 ./. WTO/AIR/DSB/43 10 MARCH 2017 SUBJECT: DISPUTE SETTLEMENT BODY THE NEXT MEETING OF THE DISPUTE SETTLEMENT BODY WILL B",
-      "date": "2043-03-10",
-      "end_date": "2043-03-10",
-      "location": "",
-      "organizer": "WTO",
-      "region": "Global",
-      "theme": "economy",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ob1ZYVS01Slc4UXItakwxd08tc0dBem53ajEyNEx5UXREUHdPRERNMGJsdk1VSnVzS3ZrWjlza2E3Zjg4MmpjNHJnTV9DNjNMU21OSmpjMWFCa1R4T0Q3aGotZTdmQ2taUUhmWEVudENJS1E1eHc0?oc=5",
-      "summary": "17-1401 ./. WTO/AIR/DSB/43 10 MARCH 2017 SUBJECT: DISPUTE SETTLEMENT BODY THE NEXT MEETING OF THE DISPUTE SETTLEMENT BODY WILL B &nbsp;&nbsp; World Trade Organization",
-      "featured": false,
-      "confirmed": true,
-      "source": "WTO",
-      "kind": "diplomatic-event",
-      "lang": "en"
     }
   ]
 }
