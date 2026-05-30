@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-05-30T06:21:50.042850+00:00",
-    "duration_seconds": 86.864255,
+    "generated_at": "2026-05-30T10:55:50.586866+00:00",
+    "duration_seconds": 589.666738,
     "stats": {
-      "ok": 85,
-      "fail": 14,
-      "items_total": 2330,
-      "items_strict": 543,
-      "events_detected": 4
+      "ok": 11,
+      "fail": 88,
+      "items_total": 155,
+      "items_strict": 43,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -44,23 +44,6 @@
       "source": "Belgium — Diplomatie",
       "kind": "diplomatic-event",
       "lang": "fr"
-    },
-    {
-      "id": "7ae05abfef6fae37-evt",
-      "title": "Press briefing - EU-Western Balkans summit of 5 June 2026",
-      "date": "2026-06-05",
-      "end_date": "2026-06-05",
-      "location": "",
-      "organizer": "European Council",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVUp4M0szcHF4TWNkZnBYdzFIb2VsQTNQbTI1eTB2Wm90MnpISEVjVDhEYW5CRkp0ZlhHLUJGcEVfazBMeEpybDFVcTRPQUVSUlA3dXVMZWN0X1NHODE1aC11MGNZR1ZNU0kyZ0lhbHRqdFMyVFd1cTA2S2RrRzZZZE9aZnNWekFDVlJBVXBmT1BrMVdpeVVuWEhjVW5XSDB6UExtNlQ2Rmp1cDRUV3Fac1RndmNhWDJyY25lbEpjdjU?oc=5",
-      "summary": "Press briefing - EU-Western Balkans summit of 5 June 2026 &nbsp;&nbsp; consilium.europa.eu",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Council",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "shangri-la-2026",
@@ -173,23 +156,6 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "ddcbbd0e1fd22c4c-evt",
-      "title": "Nota informativa – Vertice NATO (Ankara, 7-8 luglio 2026)",
-      "date": "2026-08-07",
-      "end_date": "2026-08-07",
-      "location": "",
-      "organizer": "Italy — Esteri",
-      "region": "IT",
-      "theme": "security",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS1ZaajBxeXZYaEFjM3lsdlo3WktqdWQ2RWtvWjdZaDJuemswUHZudEJGOW5rN1l6R0xxMnFBTUc0d1FaSzBhdkYwazg4VmpuMjJvZzgtejlQRGxvRDNscGpmVzRCdmV0NGhpSXZwNGxUb0F5ZXB1blNIRV9zUHM2WTdmQkJTdWswcHZSYmU4S1JIY1Y3MjFtUHhDWTQySTBidmlrZWhKTzFFR19RbGYyZW5XbW5ya1ktangtMGZyQlhyeEU?oc=5",
-      "summary": "Nota informativa – Vertice NATO (Ankara, 7-8 luglio 2026) &nbsp;&nbsp; Ministero degli Affari Esteri e della Cooperazione Internazionale",
-      "featured": false,
-      "confirmed": true,
-      "source": "Italy — Esteri",
-      "kind": "diplomatic-event",
-      "lang": "it"
     },
     {
       "id": "unga-2026",
@@ -686,23 +652,6 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "e10446168ea47374-evt",
-      "title": "17-1401 ./. WTO/AIR/DSB/43 10 MARCH 2017 SUBJECT: DISPUTE SETTLEMENT BODY THE NEXT MEETING OF THE DISPUTE SETTLEMENT BODY WILL B",
-      "date": "2043-03-10",
-      "end_date": "2043-03-10",
-      "location": "",
-      "organizer": "WTO",
-      "region": "Global",
-      "theme": "economy",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ob1ZYVS01Slc4UXItakwxd08tc0dBem53ajEyNEx5UXREUHdPRERNMGJsdk1VSnVzS3ZrWjlza2E3Zjg4MmpjNHJnTV9DNjNMU21OSmpjMWFCa1R4T0Q3aGotZTdmQ2taUUhmWEVudENJS1E1eHc0?oc=5",
-      "summary": "17-1401 ./. WTO/AIR/DSB/43 10 MARCH 2017 SUBJECT: DISPUTE SETTLEMENT BODY THE NEXT MEETING OF THE DISPUTE SETTLEMENT BODY WILL B &nbsp;&nbsp; World Trade Organization",
-      "featured": false,
-      "confirmed": true,
-      "source": "WTO",
-      "kind": "diplomatic-event",
-      "lang": "en"
     }
   ]
 }
