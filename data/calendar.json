@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-05-29T22:27:39.492195+00:00",
-    "duration_seconds": 91.78612,
+    "generated_at": "2026-05-30T02:43:04.228459+00:00",
+    "duration_seconds": 91.081913,
     "stats": {
       "ok": 85,
       "fail": 14,
-      "items_total": 2299,
-      "items_strict": 525,
-      "events_detected": 5
+      "items_total": 2329,
+      "items_strict": 554,
+      "events_detected": 3
     },
     "source_count": 99
   },
@@ -29,44 +29,10 @@
       "kind": "diplomatic-event"
     },
     {
-      "id": "452dd948e47bbff5-evt",
-      "title": "Speech by Commissioner Ekaterina Zaharieva at the Competitiveness Council (COMPET) - 29.05.2026",
-      "date": "2026-05-29",
-      "end_date": "2026-05-29",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1202",
-      "summary": "European Commission Speech Brussels, 29 May 2026 Thank you very much, Minister Damianou. Today we advanced on two key priorities for Europe's competitiveness and global leadership: the next Horizon Europe prog...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "1b19889708a6f084-evt",
-      "title": "Commission approves €9 billion Spanish capacity mechanism for security of electricity supply",
-      "date": "2026-05-29",
-      "end_date": "2026-05-29",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1163",
-      "summary": "European Commission Press release Brussels, 29 May 2026 The European Commission has approved, under EU State aid rules, a €9 billion capacity mechanism for electricity supply for Spain. This aid measure aims to ensure that there is sufficient capacity to produce, store or flexibly consume electricit",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
       "id": "f7258682bd14c587-evt",
       "title": "Belgisch mensenrechtenbeleid onder de loep in Genève",
-      "date": "2026-05-29",
-      "end_date": "2026-05-29",
+      "date": "2026-05-30",
+      "end_date": "2026-05-30",
       "location": "",
       "organizer": "Belgium — Diplomatie",
       "region": "BE",
@@ -78,23 +44,6 @@
       "source": "Belgium — Diplomatie",
       "kind": "diplomatic-event",
       "lang": "fr"
-    },
-    {
-      "id": "be2ae42354d1d564-evt",
-      "title": "Media advisory - Competitiveness Council (Internal market, Industry, Research and Space) of 28 and 29 May 2026",
-      "date": "2026-05-29",
-      "end_date": "2026-05-29",
-      "location": "",
-      "organizer": "European Council",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQYXFNcFRXUTVfaXlYQXZ4a2pKdzlCQ0RZazZyNlFTbF9qeUZHX243WG4ta0VGZkZOeU5TUTE2ME1NNU8tazNjbmFZNUVpYktrcC1VWjNOZlNjQmJTblJkMU9KaVd4MXlaTUNUMFNpSDNxOVZSSlRPSmxXTC1KZWRtMXhlNS1yVjFad2w4cm1Ba1YtQ1VPUEtYTTBrZjZhYk9jcEZrNTNSeUVvU3FMYmp3TnRHUXE2LUQ0aGZLSlpEaDlUeEl0YlhMUmI1RHc5d25KUmdMaGpyNUhrdDVfTExTaGRnczVZQTBEcnFENVJBZDRqSVRrZVpELWxCdldXXzJDQmc?oc=5",
-      "summary": "Media advisory - Competitiveness Council (Internal market, Industry, Research and Space) of 28 and 29 May 2026 &nbsp;&nbsp; consilium.europa.eu",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Council",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "shangri-la-2026",
@@ -143,6 +92,23 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "publication-cycle"
+    },
+    {
+      "id": "88b3fc0c7a5b3e24-evt",
+      "title": "Media advisory - European Council meeting of 18 and 19 June 2026",
+      "date": "2026-06-19",
+      "end_date": "2026-06-19",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOUM4QlBFRUZLVDZ2cnRIQkxmZXJwQVRzRTI4RjYzTHVlS3lFSUFjSDZ6a1BGY3cyYVdHLTdyYWlMOS1oVzFoVDRJZy0yb214bGdEY2NmRmFiQVo5VDVMTGQycnRlV2xKZi1DeWdNQjlDeHcwTlpjODRIeHkyUWkzMnNZclI0aTRKRk1vYmJBOUJQMkprVEpySXlzbTYtc0dBSm9oTkZGWXNYbzRyZmtoemM0cGlfTWpCM0JCUnI2SzBQc0RpelBQc3pGZEJ5Yjg?oc=5",
+      "summary": "Media advisory - European Council meeting of 18 and 19 June 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "eu-council-2026-06",
