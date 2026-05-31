@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-05-31T03:00:10.838681+00:00",
-    "duration_seconds": 85.765199,
+    "generated_at": "2026-05-31T07:02:52.704687+00:00",
+    "duration_seconds": 96.018644,
     "stats": {
       "ok": 85,
       "fail": 14,
-      "items_total": 2330,
-      "items_strict": 562,
-      "events_detected": 3
+      "items_total": 2329,
+      "items_strict": 547,
+      "events_detected": 4
     },
     "source_count": 99
   },
@@ -44,6 +44,23 @@
       "source": "Belgium — Diplomatie",
       "kind": "diplomatic-event",
       "lang": "fr"
+    },
+    {
+      "id": "26b8dc81e396a1ca-evt",
+      "title": "Secretary-General of ASEAN to Participate in the Inaugural Phnom Penh Strategic Dialogue",
+      "date": "2026-06-02",
+      "end_date": "2026-06-02",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/secretary-general-of-asean-to-participate-in-the-inaugural-phnom-penh-strategic-dialogue/",
+      "summary": "At the invitation of Mr. Huy Kanthoul Vora, Executive Director of Cambodian Institute for Cooperation and Peace (CICP), Secretary-General of ASEAN, Dr. Kao Kim Hourn, will participate in the Inaugural Phnom Penh Strategic Dialogue, to be held on 2 June 2026, in Phnom Penh, Cambodia, where he will d ",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "7ae05abfef6fae37-evt",
