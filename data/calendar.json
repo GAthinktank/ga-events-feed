@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-05-30T21:58:55.640859+00:00",
-    "duration_seconds": 87.271005,
+    "generated_at": "2026-05-31T03:00:10.838681+00:00",
+    "duration_seconds": 85.765199,
     "stats": {
       "ok": 85,
       "fail": 14,
       "items_total": 2330,
       "items_strict": 562,
-      "events_detected": 2
+      "events_detected": 3
     },
     "source_count": 99
   },
@@ -31,8 +31,8 @@
     {
       "id": "f7258682bd14c587-evt",
       "title": "Belgisch mensenrechtenbeleid onder de loep in Genève",
-      "date": "2026-05-30",
-      "end_date": "2026-05-30",
+      "date": "2026-05-31",
+      "end_date": "2026-05-31",
       "location": "",
       "organizer": "Belgium — Diplomatie",
       "region": "BE",
@@ -44,6 +44,23 @@
       "source": "Belgium — Diplomatie",
       "kind": "diplomatic-event",
       "lang": "fr"
+    },
+    {
+      "id": "7ae05abfef6fae37-evt",
+      "title": "Press briefing - EU-Western Balkans summit of 5 June 2026",
+      "date": "2026-06-05",
+      "end_date": "2026-06-05",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVUp4M0szcHF4TWNkZnBYdzFIb2VsQTNQbTI1eTB2Wm90MnpISEVjVDhEYW5CRkp0ZlhHLUJGcEVfazBMeEpybDFVcTRPQUVSUlA3dXVMZWN0X1NHODE1aC11MGNZR1ZNU0kyZ0lhbHRqdFMyVFd1cTA2S2RrRzZZZE9aZnNWekFDVlJBVXBmT1BrMVdpeVVuWEhjVW5XSDB6UExtNlQ2Rmp1cDRUV3Fac1RndmNhWDJyY25lbEpjdjU?oc=5",
+      "summary": "Press briefing - EU-Western Balkans summit of 5 June 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "shangri-la-2026",
