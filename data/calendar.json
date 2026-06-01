@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-01T11:25:47.703469+00:00",
-    "duration_seconds": 85.975445,
+    "generated_at": "2026-06-01T17:31:27.297815+00:00",
+    "duration_seconds": 92.996398,
     "stats": {
-      "ok": 85,
-      "fail": 14,
-      "items_total": 2330,
-      "items_strict": 556,
-      "events_detected": 5
+      "ok": 84,
+      "fail": 15,
+      "items_total": 2297,
+      "items_strict": 548,
+      "events_detected": 6
     },
     "source_count": 99
   },
@@ -27,6 +27,40 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "f086eb857654ab5d-evt",
+      "title": "Keynote speech by Commissioner Kubilius at NATO-Ukraine Defence Innovators Forum",
+      "date": "2026-06-01",
+      "end_date": "2026-06-01",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "security",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1218",
+      "summary": "European Commission Speech Vilnius, 01 Jun 2026 Dear all, I will not surprise you by making the statement, that the Ukrainian army is the best in Europe and, perhaps, in the world. Because I am just repeating...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "94570ca38bf69c57-evt",
+      "title": "Opening speech by Commissioner Síkela at the Africa Smart Mobility Forum",
+      "date": "2026-06-01",
+      "end_date": "2026-06-01",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1217",
+      "summary": "European Commission Speech Prague, 01 Jun 2026 Ministers, Distinguished guests, Thank you for the invitation to this event, here in the beautiful halls of the Černín Palace, a building that has been walked b...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "de647114703d3aa2-evt",
@@ -56,23 +90,6 @@
       "theme": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zNjJTaHFTOWM1N1d2NERvN3BmRHItUXBkUFRyWWFFREtaVlJ1Q1kweE9jY3VxWWVyUHV0QlFReWJ6cHRhdXJ0WmlaUENHekVrdGowY3VuYm9TN1M0UlNsUG5NeUhTU3lxT05n?oc=5",
       "summary": "Justice and Home Affairs Council (Home Affairs), 4 June 2026 &nbsp;&nbsp; consilium.europa.eu",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Council",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "7ae05abfef6fae37-evt",
-      "title": "Press briefing - EU-Western Balkans summit of 5 June 2026",
-      "date": "2026-06-05",
-      "end_date": "2026-06-05",
-      "location": "",
-      "organizer": "European Council",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVUp4M0szcHF4TWNkZnBYdzFIb2VsQTNQbTI1eTB2Wm90MnpISEVjVDhEYW5CRkp0ZlhHLUJGcEVfazBMeEpybDFVcTRPQUVSUlA3dXVMZWN0X1NHODE1aC11MGNZR1ZNU0kyZ0lhbHRqdFMyVFd1cTA2S2RrRzZZZE9aZnNWekFDVlJBVXBmT1BrMVdpeVVuWEhjVW5XSDB6UExtNlQ2Rmp1cDRUV3Fac1RndmNhWDJyY25lbEpjdjU?oc=5",
-      "summary": "Press briefing - EU-Western Balkans summit of 5 June 2026 &nbsp;&nbsp; consilium.europa.eu",
       "featured": false,
       "confirmed": true,
       "source": "European Council",
