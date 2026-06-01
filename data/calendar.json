@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-01T03:37:13.330856+00:00",
-    "duration_seconds": 96.257217,
+    "generated_at": "2026-06-01T11:25:47.703469+00:00",
+    "duration_seconds": 85.975445,
     "stats": {
-      "ok": 86,
-      "fail": 13,
-      "items_total": 2344,
-      "items_strict": 551,
-      "events_detected": 2
+      "ok": 85,
+      "fail": 14,
+      "items_total": 2330,
+      "items_strict": 556,
+      "events_detected": 5
     },
     "source_count": 99
   },
@@ -27,6 +27,40 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "de647114703d3aa2-evt",
+      "title": "Keynote speech by Commissioner Kubilius at the European Business Angel Network Congress",
+      "date": "2026-06-01",
+      "end_date": "2026-06-01",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "security",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1215",
+      "summary": "European Commission Speech Vilnius, 01 Jun 2026 Good morning, Welcome, everyone to my home country, Lithuania, and my home town, Vilnius. Happy to speak at a conference of business angels. War and angels - do...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "d9de5cb891e3138d-evt",
+      "title": "Justice and Home Affairs Council (Home Affairs), 4 June 2026",
+      "date": "2026-06-04",
+      "end_date": "2026-06-04",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zNjJTaHFTOWM1N1d2NERvN3BmRHItUXBkUFRyWWFFREtaVlJ1Q1kweE9jY3VxWWVyUHV0QlFReWJ6cHRhdXJ0WmlaUENHekVrdGowY3VuYm9TN1M0UlNsUG5NeUhTU3lxT05n?oc=5",
+      "summary": "Justice and Home Affairs Council (Home Affairs), 4 June 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "7ae05abfef6fae37-evt",
@@ -429,6 +463,23 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "edfa51db3653cec6-evt",
+      "title": "Statement of the Chairperson of the ASEAN Senior Economic Officials (SEOM) on the Conclusion of ASEAN DEFA Negotiations",
+      "date": "2027-05-29",
+      "end_date": "2027-05-29",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "technology",
+      "link": "https://asean.org/statement-of-the-chairperson-of-the-asean-senior-economic-officials-seom-on-the-conclusion-of-asean-defa-negotiations/",
+      "summary": "1. The Senior Economic Officials Meeting (SEOM) of ASEAN successfully resolved all outstanding issues in the negotiations of the ASEAN Digital Economy Framework Agreement (DEFA) during its Second Meeting of the 57th ASEAN SEOM, held in Manila, Philippines on 27-29 May 2026. This marks the suc The po",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "shangri-la-2027",
