@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-05-31T21:57:41.899715+00:00",
-    "duration_seconds": 85.839721,
+    "generated_at": "2026-06-01T03:37:13.330856+00:00",
+    "duration_seconds": 96.257217,
     "stats": {
-      "ok": 85,
-      "fail": 14,
-      "items_total": 2328,
-      "items_strict": 550,
-      "events_detected": 3
+      "ok": 86,
+      "fail": 13,
+      "items_total": 2344,
+      "items_strict": 551,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -27,23 +27,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "f7258682bd14c587-evt",
-      "title": "Belgisch mensenrechtenbeleid onder de loep in Genève",
-      "date": "2026-05-31",
-      "end_date": "2026-05-31",
-      "location": "",
-      "organizer": "Belgium — Diplomatie",
-      "region": "BE",
-      "theme": "development",
-      "link": "http://diplomatie.belgium.be/nl/nieuws/belgisch-mensenrechtenbeleid-onder-de-loep-geneve",
-      "summary": "La politique belge en matière de droits humains passée au crible à Genève lien.horemans Tue 05/05/2026 - 09:26 Type d'actualité Communiqué de presse Sujets Droits humains Carte diplomatique Dernière mise à jour le 5 mai 2026 Le 6 mai 2026, la politique belge en matière de droits humains sera examiné",
-      "featured": false,
-      "confirmed": true,
-      "source": "Belgium — Diplomatie",
-      "kind": "diplomatic-event",
-      "lang": "fr"
     },
     {
       "id": "7ae05abfef6fae37-evt",
