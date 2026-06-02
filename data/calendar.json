@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-02T10:16:29.923143+00:00",
-    "duration_seconds": 88.891321,
+    "generated_at": "2026-06-02T16:16:04.381626+00:00",
+    "duration_seconds": 95.372218,
     "stats": {
       "ok": 86,
       "fail": 13,
-      "items_total": 2333,
-      "items_strict": 550,
-      "events_detected": 6
+      "items_total": 2313,
+      "items_strict": 536,
+      "events_detected": 7
     },
     "source_count": 99
   },
@@ -93,6 +93,23 @@
       "featured": false,
       "confirmed": true,
       "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "8f62bb43605ac853-evt",
+      "title": "Press briefing - Justice and Home Affairs Council of 4 and 5 June 2026",
+      "date": "2026-06-05",
+      "end_date": "2026-06-05",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONVp2UU1JRHJYU280YlI1V29aSzJHanVkdkt0clRfR1hHZW5xc3B3WkpYcVUySi13QXNidEdPcVdHWEViaFBSbXowSlU4YUxJNnlBcU5RMFcwbExjajlNX1NweF96YWx2OExCUHdEbG96Q2xucEdMdFZjSWVVSlItNVRmNVFuczZEQVVURGNkakx1a00tRnRsWWdfNnhPamI5ZTU4Wm9HYlQzVUNFaThxNGdWWW1pNS1tTXhwWjlrNF9sc3FWLXF5X3VEd05lZFNEQkE?oc=5",
+      "summary": "Press briefing - Justice and Home Affairs Council of 4 and 5 June 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
       "kind": "diplomatic-event",
       "lang": "en"
     },
