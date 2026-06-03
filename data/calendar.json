@@ -1,12 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-02T23:01:17.489194+00:00",
-    "duration_seconds": 110.597063,
+    "generated_at": "2026-06-03T03:40:57.888448+00:00",
+    "duration_seconds": 93.717999,
     "stats": {
-      "ok": 81,
-      "fail": 18,
-      "items_total": 2256,
-      "items_strict": 500,
+      "ok": 85,
+      "fail": 14,
+      "items_total": 2329,
+      "items_strict": 546,
       "events_detected": 3
     },
     "source_count": 99
@@ -27,40 +27,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "41191aade4bd7fe0-evt",
-      "title": "Remarks by Commissioner Dombrovskis to the 2026 Government Borrowers Forum",
-      "date": "2026-06-02",
-      "end_date": "2026-06-02",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1227",
-      "summary": "European Commission Speech Brussels, 02 Jun 2026 Labrīt, Rīga! Good morning from Brussels. I regret that I am unable to join you in Riga in person. But I'm grateful that I can still contribute to this year's ...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "6d798f7801d24d3e-evt",
-      "title": "Opening Remarks by Commissioner Kadis at the High-Level Conference: Navigating the RFMO-BBNJ Interface – Dialogue on Cooperation & Coherence",
-      "date": "2026-06-02",
-      "end_date": "2026-06-02",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1226",
-      "summary": "European Commission Speech Brussels, 02 Jun 2026 Good morning, esteemed colleagues, representatives of Regional Fisheries Management Organisations, and distinguished guests, It is a pleasure to join you today ...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "8f62bb43605ac853-evt",
@@ -190,6 +156,23 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "ddcbbd0e1fd22c4c-evt",
+      "title": "Nota informativa – Vertice NATO (Ankara, 7-8 luglio 2026)",
+      "date": "2026-08-07",
+      "end_date": "2026-08-07",
+      "location": "",
+      "organizer": "Italy — Esteri",
+      "region": "IT",
+      "theme": "security",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS1ZaajBxeXZYaEFjM3lsdlo3WktqdWQ2RWtvWjdZaDJuemswUHZudEJGOW5rN1l6R0xxMnFBTUc0d1FaSzBhdkYwazg4VmpuMjJvZzgtejlQRGxvRDNscGpmVzRCdmV0NGhpSXZwNGxUb0F5ZXB1blNIRV9zUHM2WTdmQkJTdWswcHZSYmU4S1JIY1Y3MjFtUHhDWTQySTBidmlrZWhKTzFFR19RbGYyZW5XbW5ya1ktangtMGZyQlhyeEU?oc=5",
+      "summary": "Nota informativa – Vertice NATO (Ankara, 7-8 luglio 2026) &nbsp;&nbsp; Ministero degli Affari Esteri e della Cooperazione Internazionale",
+      "featured": false,
+      "confirmed": true,
+      "source": "Italy — Esteri",
+      "kind": "diplomatic-event",
+      "lang": "it"
     },
     {
       "id": "unga-2026",
@@ -446,6 +429,23 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "edfa51db3653cec6-evt",
+      "title": "Statement of the Chairperson of the ASEAN Senior Economic Officials (SEOM) on the Conclusion of ASEAN DEFA Negotiations",
+      "date": "2027-05-29",
+      "end_date": "2027-05-29",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "technology",
+      "link": "https://asean.org/statement-of-the-chairperson-of-the-asean-senior-economic-officials-seom-on-the-conclusion-of-asean-defa-negotiations/",
+      "summary": "1. The Senior Economic Officials Meeting (SEOM) of ASEAN successfully resolved all outstanding issues in the negotiations of the ASEAN Digital Economy Framework Agreement (DEFA) during its Second Meeting of the 57th ASEAN SEOM, held in Manila, Philippines on 27-29 May 2026. This marks the suc The po",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "shangri-la-2027",
