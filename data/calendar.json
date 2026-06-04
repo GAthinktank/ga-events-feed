@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-04T03:36:56.452176+00:00",
-    "duration_seconds": 112.529929,
+    "generated_at": "2026-06-04T09:52:12.429291+00:00",
+    "duration_seconds": 91.852369,
     "stats": {
-      "ok": 83,
-      "fail": 16,
-      "items_total": 2312,
-      "items_strict": 531,
-      "events_detected": 2
+      "ok": 85,
+      "fail": 14,
+      "items_total": 2330,
+      "items_strict": 544,
+      "events_detected": 3
     },
     "source_count": 99
   },
@@ -27,6 +27,40 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "822299d0d4dc7668-evt",
+      "title": "Speech by Commissioner Marta Kos at EU-Moldova Investment Conference",
+      "date": "2026-06-04",
+      "end_date": "2026-06-04",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "economy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1261",
+      "summary": "European Commission Speech Chișinău, 04 Jun 2026 Dear President, dear Maia Sandu, Dear Prime Minister, dear Alexandru Munteanu, Honorable Ministers, ladies and gentlemen, It is good to be back in Moldova. It ...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "10380c0f73fb6d46-evt",
+      "title": "Foreign Minister Valtonen to chair OECD Ministerial Council Meeting in Paris on 4 June 2026",
+      "date": "2026-06-04",
+      "end_date": "2026-06-04",
+      "location": "",
+      "organizer": "Finland — Government",
+      "region": "FI",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMnR2S3NUN0k0aklnOWJiazhnamw1TTlrRHJoUE53eV9hZnNoU0xON1NpcDBYUE5oa2k4dUlaMWZDY0ZjSkZiRTlwLUxNUXNOejVPY2U4TWlGOHU0UUJWRWx2bmxqbWpreE5DN1Mxc2ctSXZwZXpLOS02WFdFRGFRbmtSU1BzcEdSWHZ0TlNmazlacWlHejlSS013c3ZtdlltZFJPTUdtRWpVbzlyODR1RFV5SGpXQXJJYWdLU3Y4QQ?oc=5",
+      "summary": "Foreign Minister Valtonen to chair OECD Ministerial Council Meeting in Paris on 4 June 2026 &nbsp;&nbsp; Valtioneuvosto",
+      "featured": false,
+      "confirmed": true,
+      "source": "Finland — Government",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "shangri-la-2026",
@@ -412,23 +446,6 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "edfa51db3653cec6-evt",
-      "title": "Statement of the Chairperson of the ASEAN Senior Economic Officials (SEOM) on the Conclusion of ASEAN DEFA Negotiations",
-      "date": "2027-05-29",
-      "end_date": "2027-05-29",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "Asia",
-      "theme": "technology",
-      "link": "https://asean.org/statement-of-the-chairperson-of-the-asean-senior-economic-officials-seom-on-the-conclusion-of-asean-defa-negotiations/",
-      "summary": "1. The Senior Economic Officials Meeting (SEOM) of ASEAN successfully resolved all outstanding issues in the negotiations of the ASEAN Digital Economy Framework Agreement (DEFA) during its Second Meeting of the 57th ASEAN SEOM, held in Manila, Philippines on 27-29 May 2026. This marks the suc The po",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "shangri-la-2027",
