@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-04T09:52:12.429291+00:00",
-    "duration_seconds": 91.852369,
+    "generated_at": "2026-06-04T14:51:22.832839+00:00",
+    "duration_seconds": 135.284656,
     "stats": {
-      "ok": 85,
-      "fail": 14,
-      "items_total": 2330,
+      "ok": 82,
+      "fail": 17,
+      "items_total": 2311,
       "items_strict": 544,
-      "events_detected": 3
+      "events_detected": 6
     },
     "source_count": 99
   },
@@ -27,6 +27,40 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "308d7a8ae40e0398-evt",
+      "title": "Remarks by Commissioner Šefčovič at the press conference following the OECD Ministerial Council Meeting",
+      "date": "2026-06-04",
+      "end_date": "2026-06-04",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1268",
+      "summary": "European Commission Speech Paris, 04 Jun 2026 Good afternoon. I am wrapping up two intensive days at the OECD – back-to-back Ministerial sessions and a packed schedule of bilateral meetings. This year's Min...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "51168bd2964a1643-evt",
+      "title": "European Prize for Women Innovators 2026 celebrates visionary women",
+      "date": "2026-06-04",
+      "end_date": "2026-06-04",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1263",
+      "summary": "European Commission Press release Brussels, 04 Jun 2026 Today, the European Commission revealed the winners of the 12th edition of the European Prize for Women Innovators at the European Innovation Council (EIC) Summit in Brussels.",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "822299d0d4dc7668-evt",
@@ -59,6 +93,23 @@
       "featured": false,
       "confirmed": true,
       "source": "Finland — Government",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "58fb28c6c1e7230c-evt",
+      "title": "Media advisory – EU-Western Balkans summit of 5 June 2026",
+      "date": "2026-06-05",
+      "end_date": "2026-06-05",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVS1sS0Y2OXhJLVdDaF9nSmNvT0U2azlON0pnMGdxR2tYMzh0SjhNNUkzTmNmUjFxMkNVc0ZiRDJiZ1QtUVpUeHBaQUs1aS0wblpKa21RNVhOYlhlemhzMmtLZDlNb0wtNUJxc1dQemNmQ01iQkMyUkdWbldlSXk3dk9YMmF4VUI1LTd2b25GZW5CX01oSVdtT0RXUmxRTjhPSlJJZ29RT1F6ZXgzNE1NRW5OT1N4TExvOUFsSjE3SXo?oc=5",
+      "summary": "Media advisory – EU-Western Balkans summit of 5 June 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
       "kind": "diplomatic-event",
       "lang": "en"
     },
