@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-05T07:10:48.112618+00:00",
-    "duration_seconds": 90.605433,
+    "generated_at": "2026-06-05T12:00:25.056838+00:00",
+    "duration_seconds": 86.519242,
     "stats": {
-      "ok": 86,
-      "fail": 13,
-      "items_total": 2358,
-      "items_strict": 545,
-      "events_detected": 2
+      "ok": 84,
+      "fail": 15,
+      "items_total": 2332,
+      "items_strict": 530,
+      "events_detected": 5
     },
     "source_count": 99
   },
@@ -27,6 +27,57 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "8ee74b079b4b4347-evt",
+      "title": "Opening remarks by President von der Leyen at the EU-Western Balkans Summit",
+      "date": "2026-06-05",
+      "end_date": "2026-06-05",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1274",
+      "summary": "European Commission Statement Tivat, 05 Jun 2026 Fellow leaders, It is a pleasure to be here in this wonderful bay, a place where – when you look outside the window, the blue waters meet majestic mountains. Bu...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "26772965a6d815d0-evt",
+      "title": "Doorstep by President von der Leyen ahead of the EU-Western Balkans Summit",
+      "date": "2026-06-05",
+      "end_date": "2026-06-05",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1272",
+      "summary": "European Commission Statement Tivat, 05 Jun 2026 Good morning, it is good to be here for the EU-Western Balkans Summit. It is, in the last six months, the second time that we are meeting our Western Balkan par...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "f64e7441fef21d33-evt",
+      "title": "The 79th IAI Task Force Meeting convenes to strengthen future strategic directions for Work Plan V (2026–2030)",
+      "date": "2026-06-05",
+      "end_date": "2026-06-05",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/the-79th-iai-task-force-meeting-convenes-to-strengthen-future-strategic-directions-for-work-plan-v-2026-2030/",
+      "summary": "JAKARTA, 5 June 2026 – The 79th Meeting of the Initiative for ASEAN Integration (IAI) Task Force was convened today at the ASEAN Headquarters/ASEAN Secretariat in Jakarta. The Meeting was chaired by Noy Choumneanh, Permanent Representative of the Kingdom of Cambodia to ASEAN and Chair of the IAI The",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "aefc51a4e3e88057-evt",
