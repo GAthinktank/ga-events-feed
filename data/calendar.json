@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-07T19:17:02.306795+00:00",
-    "duration_seconds": 87.551801,
+    "generated_at": "2026-06-07T22:02:28.078968+00:00",
+    "duration_seconds": 111.386416,
     "stats": {
-      "ok": 85,
-      "fail": 14,
-      "items_total": 2338,
-      "items_strict": 562,
-      "events_detected": 0
+      "ok": 84,
+      "fail": 15,
+      "items_total": 2326,
+      "items_strict": 554,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -43,6 +43,23 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "a88e9228b153dfd3-evt",
+      "title": "Secretary-General of ASEAN to participate in the 18th Annual Research Conference by the Alliance for Research on Corporate Sustainability (ARCS) in Singapore",
+      "date": "2026-06-08",
+      "end_date": "2026-06-08",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/secretary-general-of-asean-to-participate-in-the-18th-annual-research-conference-by-the-alliance-for-research-on-corporate-sustainability-arcs-in-singapore/",
+      "summary": "At the invitation of the Alliance for Research on Corporate Sustainability (ARCS), Secretary-General of ASEAN, Dr. Kao Kim Hourn, will participate in the 18th Annual Research Conference by the Alliance for Research on Corporate Sustainability (ARCS) to be held on 8 June 2026, at the Nanyang Busines ",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "g7-2026",
