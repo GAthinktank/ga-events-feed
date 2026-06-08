@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-08T15:43:02.771056+00:00",
-    "duration_seconds": 116.708842,
+    "generated_at": "2026-06-08T20:10:17.521917+00:00",
+    "duration_seconds": 93.263,
     "stats": {
-      "ok": 83,
-      "fail": 16,
-      "items_total": 2285,
-      "items_strict": 544,
-      "events_detected": 6
+      "ok": 80,
+      "fail": 19,
+      "items_total": 2187,
+      "items_strict": 545,
+      "events_detected": 7
     },
     "source_count": 99
   },
@@ -56,6 +56,23 @@
       "theme": "diplomacy",
       "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1299",
       "summary": "European Commission Speech Brussels, 08 Jun 2026 Good afternoon, ladies and gentlemen. My thanks for inviting me to take part in your anniversary event. Let me start by congratulating EFRAG on 25 years of shap...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "dabb4f55d7a12bc6-evt",
+      "title": "Opening speech by President von der Leyen at the Conference ‘Advancing Brain Cancer Research: From policy action to scientific breakthroughs'",
+      "date": "2026-06-08",
+      "end_date": "2026-06-08",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1298",
+      "summary": "European Commission Speech Brussels, 08 Jun 2026 Thank you so much, dear Sophie. Dear guests, Thank you very much for giving me the opportunity to offer a very brief introduction. It was very important for me ...",
       "featured": false,
       "confirmed": true,
       "source": "European Commission — Press",
