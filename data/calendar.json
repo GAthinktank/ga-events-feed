@@ -1,12 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-07T22:02:28.078968+00:00",
-    "duration_seconds": 111.386416,
+    "generated_at": "2026-06-08T03:34:51.202962+00:00",
+    "duration_seconds": 111.268333,
     "stats": {
-      "ok": 84,
-      "fail": 15,
-      "items_total": 2326,
-      "items_strict": 554,
+      "ok": 85,
+      "fail": 14,
+      "items_total": 2339,
+      "items_strict": 541,
       "events_detected": 1
     },
     "source_count": 99
@@ -26,22 +26,6 @@
       "featured": true,
       "confirmed": true,
       "source": "manual",
-      "kind": "diplomatic-event"
-    },
-    {
-      "id": "shangri-la-2026",
-      "title": "Shangri-La Dialogue 2026",
-      "date": "2026-06-05",
-      "end_date": "2026-06-07",
-      "location": "Singapore",
-      "organizer": "IISS",
-      "region": "Asia",
-      "theme": "security",
-      "link": "https://www.iiss.org/events/shangri-la-dialogue/",
-      "summary": "",
-      "featured": true,
-      "confirmed": false,
-      "source": "recurring-template",
       "kind": "diplomatic-event"
     },
     {
