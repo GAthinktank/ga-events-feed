@@ -1,12 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-06-09T14:54:20.057507+00:00",
-    "duration_seconds": 97.557235,
+    "generated_at": "2026-06-09T17:24:18.767835+00:00",
+    "duration_seconds": 93.869588,
     "stats": {
-      "ok": 84,
-      "fail": 15,
-      "items_total": 2293,
-      "items_strict": 548,
+      "ok": 85,
+      "fail": 14,
+      "items_total": 2310,
+      "items_strict": 551,
       "events_detected": 4
     },
     "source_count": 99
@@ -29,6 +29,23 @@
       "kind": "diplomatic-event"
     },
     {
+      "id": "e498b7bdb20cddd6-evt",
+      "title": "Speech by Commissioner Micallef at Creative FLIP Final Conference",
+      "date": "2026-06-09",
+      "end_date": "2026-06-09",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1324",
+      "summary": "European Commission Speech Brussels, 09 Jun 2026 Ladies and gentlemen, Dear friends, We often talk about the future as if it were waiting for us around the corner. But with this performance, it is like we just...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
       "id": "48566187c8129722-evt",
       "title": "Commissioner Tzitzikostas delivers a Video Message for the European Sustainable Tourism Mobility Forum",
       "date": "2026-06-09",
@@ -39,23 +56,6 @@
       "theme": "diplomacy",
       "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1307",
       "summary": "European Commission Speech Brussels, 09 Jun 2026 Ladies and gentlemen, Thank you for your invitation to speak at the European Sustainable Tourism Mobility Forum. Unfortunately, I cannot be with you in person t...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "1b969bb2b762e79f-evt",
-      "title": "Keynote speech by Commissioner Albuquerque at AMLA's Conference: Building Trust, Enhancing Integrity: A New Chapter in the EU's Fight Against Financial Crime",
-      "date": "2026-06-09",
-      "end_date": "2026-06-09",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1304",
-      "summary": "European Commission Speech Frankfurt, 09 Jun 2026 Good morning, ladies and gentlemen. First, I want to thank you, Bruna, for your welcoming words and for the opportunity to take part in AMLA's inaugural confere...",
       "featured": false,
       "confirmed": true,
       "source": "European Commission — Press",
