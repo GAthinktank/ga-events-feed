@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-09T22:21:55.039110+00:00",
-    "duration_seconds": 91.933483,
+    "generated_at": "2026-06-10T02:57:48.436880+00:00",
+    "duration_seconds": 93.792953,
     "stats": {
       "ok": 85,
       "fail": 14,
-      "items_total": 2340,
-      "items_strict": 553,
-      "events_detected": 4
+      "items_total": 2313,
+      "items_strict": 535,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -27,57 +27,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "e498b7bdb20cddd6-evt",
-      "title": "Speech by Commissioner Micallef at Creative FLIP Final Conference",
-      "date": "2026-06-09",
-      "end_date": "2026-06-09",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1324",
-      "summary": "European Commission Speech Brussels, 09 Jun 2026 Ladies and gentlemen, Dear friends, We often talk about the future as if it were waiting for us around the corner. But with this performance, it is like we just...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "48566187c8129722-evt",
-      "title": "Commissioner Tzitzikostas delivers a Video Message for the European Sustainable Tourism Mobility Forum",
-      "date": "2026-06-09",
-      "end_date": "2026-06-09",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1307",
-      "summary": "European Commission Speech Brussels, 09 Jun 2026 Ladies and gentlemen, Thank you for your invitation to speak at the European Sustainable Tourism Mobility Forum. Unfortunately, I cannot be with you in person t...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "6290f3da3e721b2d-evt",
-      "title": "Media advisory - Transport, Telecommunications and Energy Council (Transport and Telecommunications) of 8 and 9 June 2026",
-      "date": "2026-06-09",
-      "end_date": "2026-06-09",
-      "location": "",
-      "organizer": "European Council",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPcmxRR1FDaVBsSjlORDZZVUIwS0hZcnk4em4xYjNyNmh1dm9ZSW1lX0dmeDk5VVlRdHRzdldySkp2alROQUNQd2N2RzVLeUkyWjJPcnNMeVZSR280dDBoeEt3VE1yT0NhV2VSb2pwMzc0TU11LXRtb1owSEpKS09IY1hYYmIxeEpEb1g5bVlQcW9KQ1FRRUprMTRYUEFzV2h1NjBENmU0N1R0bDNRcktjZjlRZGF4dHFKQ09lR1NEUkhnVVVkbXpWbTZidy1WNDg3OGZvVlRnTTY0OGx3aFlmQ3NLY0xXNWRUSzJ0OUsta041U1pZQWdJS0VSRUdyRG5GbThlcDlueExHWThGVUUxUXl3?oc=5",
-      "summary": "Media advisory - Transport, Telecommunications and Energy Council (Transport and Telecommunications) of 8 and 9 June 2026 &nbsp;&nbsp; consilium.europa.eu",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Council",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "7f9b69c3bbcbd4fe-evt",
@@ -191,6 +140,23 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "ddcbbd0e1fd22c4c-evt",
+      "title": "Nota informativa – Vertice NATO (Ankara, 7-8 luglio 2026)",
+      "date": "2026-08-07",
+      "end_date": "2026-08-07",
+      "location": "",
+      "organizer": "Italy — Esteri",
+      "region": "IT",
+      "theme": "security",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS1ZaajBxeXZYaEFjM3lsdlo3WktqdWQ2RWtvWjdZaDJuemswUHZudEJGOW5rN1l6R0xxMnFBTUc0d1FaSzBhdkYwazg4VmpuMjJvZzgtejlQRGxvRDNscGpmVzRCdmV0NGhpSXZwNGxUb0F5ZXB1blNIRV9zUHM2WTdmQkJTdWswcHZSYmU4S1JIY1Y3MjFtUHhDWTQySTBidmlrZWhKTzFFR19RbGYyZW5XbW5ya1ktangtMGZyQlhyeEU?oc=5",
+      "summary": "Nota informativa – Vertice NATO (Ankara, 7-8 luglio 2026) &nbsp;&nbsp; Ministero degli Affari Esteri e della Cooperazione Internazionale",
+      "featured": false,
+      "confirmed": true,
+      "source": "Italy — Esteri",
+      "kind": "diplomatic-event",
+      "lang": "it"
     },
     {
       "id": "unga-2026",
