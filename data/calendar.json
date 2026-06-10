@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-10T12:18:40.683665+00:00",
-    "duration_seconds": 84.930296,
+    "generated_at": "2026-06-10T17:57:03.458220+00:00",
+    "duration_seconds": 114.765709,
     "stats": {
-      "ok": 85,
-      "fail": 14,
-      "items_total": 2343,
-      "items_strict": 546,
-      "events_detected": 3
+      "ok": 83,
+      "fail": 16,
+      "items_total": 2322,
+      "items_strict": 553,
+      "events_detected": 7
     },
     "source_count": 99
   },
@@ -29,6 +29,40 @@
       "kind": "diplomatic-event"
     },
     {
+      "id": "e75d5411a9855860-evt",
+      "title": "Statement by President von der Leyen with President Costa and President Lee Jae Myung following the EU-Republic of Korea Summit",
+      "date": "2026-06-10",
+      "end_date": "2026-06-10",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1335",
+      "summary": "European Commission Statement Brussels, 10 Jun 2026 Dear President Lee, It is my honour, together with my friend António, to welcome you to Brussels for the 11th EU-Korean summit. Europe and the Republic of Korea...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "52ab64e0e3c81c47-evt",
+      "title": "EU agrees to accelerate defence industrial base ramp-up and simplify defence procurement",
+      "date": "2026-06-10",
+      "end_date": "2026-06-10",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "security",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1332",
+      "summary": "European Commission Press release Brussels, 10 Jun 2026 The European Commission welcomes the provisional political agreement reached today between the European Parliament and the Council of the EU to simplify security and defence procurement, facilitate defence investments and support the defence in",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
       "id": "d9bf65ae47a296b3-evt",
       "title": "Commissioner Tzitzikostas delivers a Video Message for Feuls Europe Annual Conference",
       "date": "2026-06-10",
@@ -46,6 +80,23 @@
       "lang": "en"
     },
     {
+      "id": "463ddb649c3b3a4a-evt",
+      "title": "Joint Statement following the 11th European Union - Republic of Korea Summit",
+      "date": "2026-06-10",
+      "end_date": "2026-06-10",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1326",
+      "summary": "European Commission Statement Brussels, 10 Jun 2026 We, the Leaders of the European Union (EU) and the Republic of Korea (ROK), held our 11th Summit in Brussels on 10 June 2026 and concluded the following:",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
       "id": "7f9b69c3bbcbd4fe-evt",
       "title": "EU-Republic of Korea summit, 10 June 2026",
       "date": "2026-06-10",
@@ -56,6 +107,23 @@
       "theme": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObEJpVTR2NXEtTGduQXJRbzBlUFBSZTZNMWFpUG4tZ0NIS1ZiZWtrQjBxQlhXRFlPUzJ1QnhPb0M1SkZOaFpBZGtKZFF5RU9nR19kd3VNYnp4OEJTYXhSVzNVVUctXzBBX2l2eW8xMGdua3ZDc19LeTdWQVR4RWpfWFhn?oc=5",
       "summary": "EU-Republic of Korea summit, 10 June 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "f5b445f2d3c8f43b-evt",
+      "title": "Press briefings - Eurogroup meeting of 11 June and Economic and Financial Affairs Council of 12 June 2026",
+      "date": "2026-06-12",
+      "end_date": "2026-06-12",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPX0t0M1NvT3FrVVlqc1F6eElva3dQbE8xUmdiX0VTOHhERVdHNkFHTlYxeVN4WkJwZFVFTE41cXhORmtkY0c5RVVvNko4aU5nLV9sLTJOOWpfWmlYdElOTE12Q1hUTjJROHRfYlhoc0FtdUJ3LU5vbHRlM0JiMDBNcWM5eDhnNmFnWnVLYlZLalZoTkk4dkxET3NpSnQtajFiaExlWFRhbDB4VkpRclBkaHBIb0VlRHNVc0Vaam01OUJWaHRLQkVQWUc1bFVkYUU3QWZsUWFOWTF2VUlDNGJaY09RRnBiVWJ0eWpsd3dfYVFQSGZDc3VxWW52T0pjUlFN?oc=5",
+      "summary": "Press briefings - Eurogroup meeting of 11 June and Economic and Financial Affairs Council of 12 June 2026 &nbsp;&nbsp; consilium.europa.eu",
       "featured": false,
       "confirmed": true,
       "source": "European Council",
