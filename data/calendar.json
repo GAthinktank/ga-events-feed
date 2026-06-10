@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-10T07:09:50.414048+00:00",
-    "duration_seconds": 91.063171,
+    "generated_at": "2026-06-10T12:18:40.683665+00:00",
+    "duration_seconds": 84.930296,
     "stats": {
       "ok": 85,
       "fail": 14,
-      "items_total": 2324,
-      "items_strict": 553,
-      "events_detected": 2
+      "items_total": 2343,
+      "items_strict": 546,
+      "events_detected": 3
     },
     "source_count": 99
   },
@@ -27,6 +27,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "d9bf65ae47a296b3-evt",
+      "title": "Commissioner Tzitzikostas delivers a Video Message for Feuls Europe Annual Conference",
+      "date": "2026-06-10",
+      "end_date": "2026-06-10",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1306",
+      "summary": "European Commission Speech Brussels, 10 Jun 2026 Ladies and gentlemen, Unfortunately I cannot be with you in person today, but I am glad to participate to the Fuels Europe Annual Conference, to discuss what is...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "7f9b69c3bbcbd4fe-evt",
