@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-11T20:16:27.344344+00:00",
-    "duration_seconds": 118.183078,
+    "generated_at": "2026-06-11T22:49:50.756404+00:00",
+    "duration_seconds": 89.682413,
     "stats": {
-      "ok": 85,
-      "fail": 14,
-      "items_total": 2348,
-      "items_strict": 545,
-      "events_detected": 6
+      "ok": 86,
+      "fail": 13,
+      "items_total": 2361,
+      "items_strict": 579,
+      "events_detected": 7
     },
     "source_count": 99
   },
@@ -93,6 +93,23 @@
       "featured": false,
       "confirmed": true,
       "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "9f6905f65758f8e8-evt",
+      "title": "Remarks by Kyriakos Pierrakakis following the Eurogroup meeting of 11 June 2026",
+      "date": "2026-06-11",
+      "end_date": "2026-06-11",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNGM0NlU5dXF1M0tLbDk4bFpVdHVoZXJ3eldvaXEzSklQYXRGWjFReVNZVTBhRWVOUnA5UGQzOVE3ZmJxRWgtTGZHTmRsaV9CWWpHOGluYmYtZHJWREphZjdiNUhMZ2lsc1JFemtjbmZNWG1vM3d6RWhUSW1abjJTZE9HX1dWbXVrU2JJbWZ0RVBfSVFOSkd5WHdhb1lSbkxqQm5XNkVXei1kekU2clVEc2V5ckVjZWVkOTRmN3RvWmJiRUVCWHpMclNlenJSbU1xNkR4SEpueGdQTlhUS3Bqcg?oc=5",
+      "summary": "Remarks by Kyriakos Pierrakakis following the Eurogroup meeting of 11 June 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
       "kind": "diplomatic-event",
       "lang": "en"
     },
