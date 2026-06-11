@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-11T10:18:00.774349+00:00",
-    "duration_seconds": 107.824372,
+    "generated_at": "2026-06-11T15:53:27.096536+00:00",
+    "duration_seconds": 91.884121,
     "stats": {
-      "ok": 85,
-      "fail": 14,
-      "items_total": 2342,
-      "items_strict": 549,
-      "events_detected": 4
+      "ok": 86,
+      "fail": 13,
+      "items_total": 2350,
+      "items_strict": 557,
+      "events_detected": 5
     },
     "source_count": 99
   },
@@ -27,6 +27,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "e2a1dbceed338419-evt",
+      "title": "\"The EU will not be complete without the Western Balkans”, von der Leyen says at the EU-Western Balkan Summit.",
+      "date": "2026-06-11",
+      "end_date": "2026-06-11",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_1340",
+      "summary": "European Commission News Brussels, 11 Jun 2026 The President of the European Commission, Ursula von der Leyen, was in Tivat, Montenegro, last week to take part in the EU-Western Balkans Summit. This was the...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "e75d5411a9855860-evt",
