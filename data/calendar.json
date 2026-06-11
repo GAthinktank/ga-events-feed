@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-11T03:32:25.712436+00:00",
-    "duration_seconds": 88.573813,
+    "generated_at": "2026-06-11T10:18:00.774349+00:00",
+    "duration_seconds": 107.824372,
     "stats": {
-      "ok": 86,
-      "fail": 13,
-      "items_total": 2353,
-      "items_strict": 562,
-      "events_detected": 2
+      "ok": 85,
+      "fail": 14,
+      "items_total": 2342,
+      "items_strict": 549,
+      "events_detected": 4
     },
     "source_count": 99
   },
@@ -27,6 +27,40 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "e75d5411a9855860-evt",
+      "title": "Statement by President von der Leyen with President Costa and President Lee Jae Myung following the EU-Republic of Korea Summit",
+      "date": "2026-06-11",
+      "end_date": "2026-06-11",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1335",
+      "summary": "European Commission Statement Brussels, 11 Jun 2026 Dear President Lee, It is my honour, together with my friend António, to welcome you to Brussels for the 11th EU-Korean summit. Europe and the Republic of Korea...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "e2b2e828300ad88f-evt",
+      "title": "Joint Press Release of the 33rd ASEAN Joint Cooperation Committee (JCC) Meeting",
+      "date": "2026-06-11",
+      "end_date": "2026-06-11",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/joint-press-release-of-the-33rd-asean-joint-cooperation-committee-jcc-meeting/",
+      "summary": "The Association of Southeast Asian Nations (ASEAN) and the European Union (EU) held their 33rd Joint Cooperation Committee (JCC) Meeting on Thursday, 11 June 2026 in Jakarta, Republic of Indonesia. ASEAN and the EU reviewed recent developments in their respective regions since the last JCC The post ",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "9949c848a7261303-evt",
