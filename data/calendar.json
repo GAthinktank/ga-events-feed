@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-12T14:51:12.239336+00:00",
-    "duration_seconds": 93.705463,
+    "generated_at": "2026-06-12T17:36:28.968570+00:00",
+    "duration_seconds": 89.416499,
     "stats": {
       "ok": 85,
       "fail": 14,
-      "items_total": 2341,
-      "items_strict": 570,
-      "events_detected": 4
+      "items_total": 2347,
+      "items_strict": 543,
+      "events_detected": 5
     },
     "source_count": 99
   },
@@ -59,6 +59,23 @@
       "featured": false,
       "confirmed": true,
       "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "1e00191d77a68d48-evt",
+      "title": "Media advisory – Eurogroup meeting of 11 June and Economic and Financial Affairs Council of 12 June 2026",
+      "date": "2026-06-12",
+      "end_date": "2026-06-12",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOY3VrZnN3SWlPVzBDSk5ONVJXeHlKc1dQV3JYMmxmc2pfTkFVd0RyYVpuTkJGWXBPVzJ5NEpja2ptTVFkRlZ4dnE0UWNzeFlyaUlqLXhQczZVcTRPSWZfUENlRDZPZ2Fud0tBRXF1SVJ6LW5zS21TZWVDTUM2MzZPazRLbjFZMVNXU3NKSFFsa1cybHhNZkJNZ2lZZWVLQXdqUllzVWNwREN6VkpFZ2JGN19WNmF5Qm9NMlZGVUxjZFFPUlhJb256SENzTWZLTGptazYxS2RXd29Yb0I0Yk54cW5icGNYWkFsUFphYTBKbjNWUGxjb2xfWGZZYmhnRXM?oc=5",
+      "summary": "Media advisory – Eurogroup meeting of 11 June and Economic and Financial Affairs Council of 12 June 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
       "kind": "diplomatic-event",
       "lang": "en"
     },
