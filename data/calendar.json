@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-12T10:05:07.797936+00:00",
-    "duration_seconds": 91.664516,
+    "generated_at": "2026-06-12T14:51:12.239336+00:00",
+    "duration_seconds": 93.705463,
     "stats": {
       "ok": 85,
       "fail": 14,
-      "items_total": 2315,
-      "items_strict": 568,
-      "events_detected": 3
+      "items_total": 2341,
+      "items_strict": 570,
+      "events_detected": 4
     },
     "source_count": 99
   },
@@ -27,6 +27,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "0581960d6004a8d5-evt",
+      "title": "Remarks by Commissioner Dombrovskis at the ECOFIN press conference",
+      "date": "2026-06-12",
+      "end_date": "2026-06-12",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1355",
+      "summary": "European Commission Statement Luxembourg, 12 Jun 2026 Thank you, Minister. Good afternoon, everyone. First of all, I would like to thank the Cypriot Presidency and you personally, Makis, for all the work during thi...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "550b48b3bd2ff45e-evt",
