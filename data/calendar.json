@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-13T06:59:19.022975+00:00",
-    "duration_seconds": 114.949258,
+    "generated_at": "2026-06-13T11:13:41.097848+00:00",
+    "duration_seconds": 110.933225,
     "stats": {
-      "ok": 84,
-      "fail": 15,
-      "items_total": 2320,
-      "items_strict": 540,
-      "events_detected": 2
+      "ok": 85,
+      "fail": 14,
+      "items_total": 2345,
+      "items_strict": 553,
+      "events_detected": 3
     },
     "source_count": 99
   },
@@ -76,6 +76,23 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "publication-cycle"
+    },
+    {
+      "id": "f16ccdfbcf613858-evt",
+      "title": "Secretary-General of ASEAN to Participate in the ASEAN-Russia Commemorative Summit in Kazan, Russia, on the Occasion of the 35th Anniversary of ASEAN-Russia Relations",
+      "date": "2026-06-18",
+      "end_date": "2026-06-18",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "RU",
+      "theme": "diplomacy",
+      "link": "https://asean.org/secretary-general-of-asean-to-participate-in-the-asean-russia-commemorative-summit-in-kazan-russia-on-the-occasion-of-the-35th-anniversary-of-asean-russia-relations/",
+      "summary": "At the invitation of H.E. Vladimir Putin, President of the Russian Federation, Secretary-General of ASEAN, Dr. Kao Kim Hourn, will lead the ASEAN Secretariat Delegation to participate in the ASEAN-Russia Commemorative Summit, to be held in Kazan, Russia, on 18 June 2026, on the occasion of the 35th ",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "eu-council-2026-06",
