@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-12T22:23:03.295844+00:00",
-    "duration_seconds": 88.909422,
+    "generated_at": "2026-06-13T02:57:52.120497+00:00",
+    "duration_seconds": 111.656337,
     "stats": {
-      "ok": 85,
-      "fail": 14,
-      "items_total": 2340,
-      "items_strict": 574,
-      "events_detected": 5
+      "ok": 84,
+      "fail": 15,
+      "items_total": 2330,
+      "items_strict": 556,
+      "events_detected": 3
     },
     "source_count": 99
   },
@@ -29,57 +29,6 @@
       "kind": "diplomatic-event"
     },
     {
-      "id": "0581960d6004a8d5-evt",
-      "title": "Remarks by Commissioner Dombrovskis at the ECOFIN press conference",
-      "date": "2026-06-12",
-      "end_date": "2026-06-12",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1355",
-      "summary": "European Commission Statement Luxembourg, 12 Jun 2026 Thank you, Minister. Good afternoon, everyone. First of all, I would like to thank the Cypriot Presidency and you personally, Makis, for all the work during thi...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "550b48b3bd2ff45e-evt",
-      "title": "Commissioner Roswall's address at a High-Level Stakeholder Dialogue; 'From Strategy to Action: Accelerating Europe's Bioeconomy Revolution' as part of the New European Bauhaus Festival 2026",
-      "date": "2026-06-12",
-      "end_date": "2026-06-12",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1351",
-      "summary": "European Commission Speech Brussels, 12 Jun 2026 Thank you all for being here. Thank you also for your great interest in the bioeconomy. Not only as an environmental topic, but as part of the transformation we...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "1e00191d77a68d48-evt",
-      "title": "Media advisory – Eurogroup meeting of 11 June and Economic and Financial Affairs Council of 12 June 2026",
-      "date": "2026-06-12",
-      "end_date": "2026-06-12",
-      "location": "",
-      "organizer": "European Council",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOY3VrZnN3SWlPVzBDSk5ONVJXeHlKc1dQV3JYMmxmc2pfTkFVd0RyYVpuTkJGWXBPVzJ5NEpja2ptTVFkRlZ4dnE0UWNzeFlyaUlqLXhQczZVcTRPSWZfUENlRDZPZ2Fud0tBRXF1SVJ6LW5zS21TZWVDTUM2MzZPazRLbjFZMVNXU3NKSFFsa1cybHhNZkJNZ2lZZWVLQXdqUllzVWNwREN6VkpFZ2JGN19WNmF5Qm9NMlZGVUxjZFFPUlhJb256SENzTWZLTGptazYxS2RXd29Yb0I0Yk54cW5icGNYWkFsUFphYTBKbjNWUGxjb2xfWGZZYmhnRXM?oc=5",
-      "summary": "Media advisory – Eurogroup meeting of 11 June and Economic and Financial Affairs Council of 12 June 2026 &nbsp;&nbsp; consilium.europa.eu",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Council",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
       "id": "g7-2026",
       "title": "G7 Leaders' Summit 2026",
       "date": "2026-06-14",
@@ -94,6 +43,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "f10cfd1044fd3029-evt",
+      "title": "27th Accession Conference with Montenegro, 15 June 2026",
+      "date": "2026-06-15",
+      "end_date": "2026-06-15",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSXJ5SFpmdUE3QzNsdTZ6ZWh0WE5EVmE3XzhiRE9PYllFa3lxXzZNT1VUZjZyTTNZYmVEVXV1MEJKMWN3VG1fV2J1SVdpeEFkeG12M0UwOUdHVHZuZFJPMldXTlhSam14ZGlRYmJmckVSa0E4b1dqcmVMbG5UQjNPdzJGU0l5aEdPWDI0akl3WXVyeDF3cWVpQ3ZJMkRuQVpnLWtn?oc=5",
+      "summary": "27th Accession Conference with Montenegro, 15 June 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "sipri-2026",
