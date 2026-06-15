@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-15T17:11:36.016379+00:00",
-    "duration_seconds": 114.240926,
+    "generated_at": "2026-06-15T20:52:54.404560+00:00",
+    "duration_seconds": 109.928267,
     "stats": {
-      "ok": 85,
-      "fail": 14,
-      "items_total": 2335,
-      "items_strict": 561,
-      "events_detected": 6
+      "ok": 84,
+      "fail": 15,
+      "items_total": 2338,
+      "items_strict": 545,
+      "events_detected": 7
     },
     "source_count": 99
   },
@@ -72,6 +72,23 @@
       "theme": "diplomacy",
       "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1212",
       "summary": "European Commission Press release Brussels, 15 Jun 2026 The European Commission welcomes the political agreement reached by the European Parliament and the Council of the EU on the revision of EU air passenger rights.",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "2e5c839a0789d094-evt",
+      "title": "Statement by Commissioner Dombrovskis at the Recovery and Resilience Dialogue",
+      "date": "2026-06-15",
+      "end_date": "2026-06-15",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1353",
+      "summary": "European Commission Statement Strasbourg, 15 Jun 2026 Honourable Co-Chairs, Honourable Members, I welcome the opportunity to address this House at our 23rd Recovery and Resilience Dialogue. The amount disbursed und...",
       "featured": false,
       "confirmed": true,
       "source": "European Commission — Press",
