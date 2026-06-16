@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-16T11:04:36.936392+00:00",
-    "duration_seconds": 82.828252,
+    "generated_at": "2026-06-16T16:44:24.359293+00:00",
+    "duration_seconds": 90.877447,
     "stats": {
-      "ok": 86,
-      "fail": 13,
-      "items_total": 2351,
-      "items_strict": 551,
-      "events_detected": 5
+      "ok": 85,
+      "fail": 14,
+      "items_total": 2328,
+      "items_strict": 552,
+      "events_detected": 6
     },
     "source_count": 99
   },
@@ -43,6 +43,40 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "ee774332a5314e32-evt",
+      "title": "Remarks by Commissioner Serafin at the General Affairs Council in Luxembourg",
+      "date": "2026-06-16",
+      "end_date": "2026-06-16",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1371",
+      "summary": "European Commission Speech Brussels, 16 Jun 2026 Dear Marilena, dear Presidency, dear Ministers, Let me start by thanking the Presidency for having brought us a step closer to reaching a timely agreement on th...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "90d027ae14f49c64-evt",
+      "title": "Final meeting of the Special Panel on child safety online as Eurobarometer confirms link between social media use and wellbeing",
+      "date": "2026-06-16",
+      "end_date": "2026-06-16",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1361",
+      "summary": "European Commission Press release Brussels, 16 Jun 2026 Today, the Special Panel on child safety online met for the third and final time. On 13 July, the Panel's Co-chairs will present recommendations to President Ursula von der Leyen on how to further strengthen the EU's trailblazing framework for ",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "a704d7d840e53fbe-evt",
@@ -92,23 +126,6 @@
       "featured": false,
       "confirmed": true,
       "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "312354ade5a10a8b-evt",
-      "title": "Press briefing - EU-Moldova summit of 22 June 2026",
-      "date": "2026-06-22",
-      "end_date": "2026-06-22",
-      "location": "",
-      "organizer": "European Council",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQXB5OVFWd3FMUVRKZkh1a1FoeFF4eVJ0UWNJRlg2M2kxa3JpZVV5UkZLX2locmxCTUllMW9vM1B2ZVBaVTVKNHZWblBWVUQ0Vjk2akZtWHJiQ1d6ckJjeGZDNFVxQkowLUJsdEJ2VFNjbjdGU3dTYTEtVzVxN0U4TENSYnk3SG5SN2RoNWRaUG5jU2Y0UDJhU0ZieWdfN01xTXFjQnRjQU5GZVlraVMtZHZOUkhya00?oc=5",
-      "summary": "Press briefing - EU-Moldova summit of 22 June 2026 &nbsp;&nbsp; consilium.europa.eu",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Council",
       "kind": "diplomatic-event",
       "lang": "en"
     },
