@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-16T03:40:13.838541+00:00",
-    "duration_seconds": 106.589992,
+    "generated_at": "2026-06-16T11:04:36.936392+00:00",
+    "duration_seconds": 82.828252,
     "stats": {
-      "ok": 83,
-      "fail": 16,
-      "items_total": 2312,
-      "items_strict": 539,
-      "events_detected": 2
+      "ok": 86,
+      "fail": 13,
+      "items_total": 2351,
+      "items_strict": 551,
+      "events_detected": 5
     },
     "source_count": 99
   },
@@ -45,6 +45,40 @@
       "kind": "diplomatic-event"
     },
     {
+      "id": "a704d7d840e53fbe-evt",
+      "title": "Commission welcomes political agreement on seeds and other plant reproductive materials",
+      "date": "2026-06-16",
+      "end_date": "2026-06-16",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1364",
+      "summary": "European Commission Press release Brussels, 16 Jun 2026 The European Commission welcomes the political agreement reached by the Council of the EU and the European Parliament on the revision and simplification of EU rules for plant reproductive material.",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "6eac4a53d015df2b-evt",
+      "title": "Media advisory - Employment, Social Policy, Health and Consumer Affairs (Health) Council of 16 June 2026",
+      "date": "2026-06-16",
+      "end_date": "2026-06-16",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPeEF6UW41dy0zZW16ZFNfSlNpajJjSTNfbHZiU2Y3WEhQdUdIc2lnVGcyT1ktTmdMRjIxX2FZRHBQTG9xcG9lbmZweGh2RkhqZE91SElNRXRYcVlPeHNOcWFwamRycTFnS0c0cHpwNDMySF91c1NsNE95SFdFamVwVkdpS29vd3VCclg4cXNxY1Z5QTNVeVFCekxZdmwwX2V0UEhoTHIwLU5uSG1Takl0MllrMi0welpwZXB4aEl4VUoyWWg2S3V4Y0dCVTZOOWRSNWFjOXVNMzNNZ2NjS1BsY3VHZmxOMVF4ekJsQlNSaVN5OG1OakxDd0Nn?oc=5",
+      "summary": "Media advisory - Employment, Social Policy, Health and Consumer Affairs (Health) Council of 16 June 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
       "id": "f16ccdfbcf613858-evt",
       "title": "Secretary-General of ASEAN to Participate in the ASEAN-Russia Commemorative Summit in Kazan, Russia, on the Occasion of the 35th Anniversary of ASEAN-Russia Relations",
       "date": "2026-06-18",
@@ -58,6 +92,23 @@
       "featured": false,
       "confirmed": true,
       "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "312354ade5a10a8b-evt",
+      "title": "Press briefing - EU-Moldova summit of 22 June 2026",
+      "date": "2026-06-22",
+      "end_date": "2026-06-22",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQXB5OVFWd3FMUVRKZkh1a1FoeFF4eVJ0UWNJRlg2M2kxa3JpZVV5UkZLX2locmxCTUllMW9vM1B2ZVBaVTVKNHZWblBWVUQ0Vjk2akZtWHJiQ1d6ckJjeGZDNFVxQkowLUJsdEJ2VFNjbjdGU3dTYTEtVzVxN0U4TENSYnk3SG5SN2RoNWRaUG5jU2Y0UDJhU0ZieWdfN01xTXFjQnRjQU5GZVlraVMtZHZOUkhya00?oc=5",
+      "summary": "Press briefing - EU-Moldova summit of 22 June 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
       "kind": "diplomatic-event",
       "lang": "en"
     },
