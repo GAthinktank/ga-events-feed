@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-16T16:44:24.359293+00:00",
-    "duration_seconds": 90.877447,
+    "generated_at": "2026-06-16T20:47:18.161057+00:00",
+    "duration_seconds": 108.502106,
     "stats": {
-      "ok": 85,
-      "fail": 14,
-      "items_total": 2328,
-      "items_strict": 552,
-      "events_detected": 6
+      "ok": 83,
+      "fail": 16,
+      "items_total": 2317,
+      "items_strict": 536,
+      "events_detected": 7
     },
     "source_count": 99
   },
@@ -43,6 +43,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "7d26f9368fd43aaa-evt",
+      "title": "Press Remarks by Commissioner Várhelyi following the EPSCO Health Council",
+      "date": "2026-06-16",
+      "end_date": "2026-06-16",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1374",
+      "summary": "European Commission Speech Luxembourg, 16 Jun 2026 Good afternoon. First, I would like to thank Minister Charalambides and the Cyprus Presidency for all the hard work they have done over the past six months. Thi...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "ee774332a5314e32-evt",
