@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-17T10:49:23.707027+00:00",
-    "duration_seconds": 113.86785,
+    "generated_at": "2026-06-17T15:17:55.156040+00:00",
+    "duration_seconds": 113.868873,
     "stats": {
-      "ok": 84,
-      "fail": 15,
-      "items_total": 2331,
-      "items_strict": 549,
-      "events_detected": 5
+      "ok": 83,
+      "fail": 16,
+      "items_total": 2311,
+      "items_strict": 541,
+      "events_detected": 8
     },
     "source_count": 99
   },
@@ -45,6 +45,40 @@
       "kind": "diplomatic-event"
     },
     {
+      "id": "08db3cd07a495aa9-evt",
+      "title": "Speech by Executive Vice-President Teresa Ribera at the European Competition Forum",
+      "date": "2026-06-17",
+      "end_date": "2026-06-17",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1381",
+      "summary": "European Commission Speech Brussels, 17 Jun 2026 Good morning. Welcome to Brussels, the capital of the rule of law, respect for human beings, and the land of human-centred progress and prosperity in the world....",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "d072b925703af3b3-evt",
+      "title": "EU commits over €338 million for global ocean protection at Our Ocean Conference in Kenya",
+      "date": "2026-06-17",
+      "end_date": "2026-06-17",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1378",
+      "summary": "European Commission Press release Brussels, 17 Jun 2026 The European Union has today committed €338.35 million to support ocean conservation, sustainable fisheries and maritime security at the Our Ocean Conference 2026.",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
       "id": "3b5973705e948cb9-evt",
       "title": "Keynote speech by Commissioner Kubilius at Eurosatory",
       "date": "2026-06-17",
@@ -58,6 +92,23 @@
       "featured": false,
       "confirmed": true,
       "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "fcf36a23b2c39173-evt",
+      "title": "Secretary-General of ASEAN speaks to RT TV in Kazan",
+      "date": "2026-06-17",
+      "end_date": "2026-06-17",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "RU",
+      "theme": "diplomacy",
+      "link": "https://asean.org/secretary-general-of-asean-speaks-to-rt-tv-in-kazan/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 17 June 2026, shared his thoughts and perspectives on ASEAN-Russia relations, in an interview by the RT TV, ahead of the ASEAN-Russia Commemorative Summit, in Kazan, Russia, in conjunction with the 35th anniversary of ASEAN-Russia relations. The post",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
       "kind": "diplomatic-event",
       "lang": "en"
     },
