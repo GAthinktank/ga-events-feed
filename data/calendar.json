@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-18T03:31:43.525470+00:00",
-    "duration_seconds": 115.970417,
+    "generated_at": "2026-06-18T10:15:49.491530+00:00",
+    "duration_seconds": 85.503798,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2330,
-      "items_strict": 555,
-      "events_detected": 3
+      "items_total": 2296,
+      "items_strict": 556,
+      "events_detected": 4
     },
     "source_count": 99
   },
@@ -43,6 +43,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "4b2de9fa23943818-evt",
+      "title": "Deputy Secretary-General of ASEAN for ASEAN Socio-Cultural Community receives Courtesy Call from the Ambassador of Timor-Leste to ASEAN",
+      "date": "2026-06-18",
+      "end_date": "2026-06-18",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/deputy-secretary-general-of-asean-for-asean-socio-cultural-community-receives-courtesy-call-from-the-ambassador-of-timor-leste-to-asean/",
+      "summary": "H.E. San Lwin, Deputy Secretary-General of ASEAN for ASEAN Socio-Cultural Community (ASCC), received a courtesy call from H.E. Elisa Maria da Silva, Ambassador and Permanent Representative of Timor-Leste to ASEAN, on 18 June 2026 at the ASEAN Secretariat in Jakarta. The meeting provided an opportun ",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "f16ccdfbcf613858-evt",
