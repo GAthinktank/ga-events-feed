@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-18T10:15:49.491530+00:00",
-    "duration_seconds": 85.503798,
+    "generated_at": "2026-06-18T14:59:11.180824+00:00",
+    "duration_seconds": 85.78056,
     "stats": {
-      "ok": 84,
-      "fail": 15,
-      "items_total": 2296,
-      "items_strict": 556,
-      "events_detected": 4
+      "ok": 85,
+      "fail": 14,
+      "items_total": 2324,
+      "items_strict": 545,
+      "events_detected": 6
     },
     "source_count": 99
   },
@@ -43,6 +43,40 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "7fda96bba63bb9e8-evt",
+      "title": "President von der Leyen participates in G7 Summit in Evian to address global economic imbalances and ongoing crises",
+      "date": "2026-06-18",
+      "end_date": "2026-06-18",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_1386",
+      "summary": "European Commission News Brussels, 18 Jun 2026 Ursula von der Leyen, President of the European Commission, was in Evian earlier this week to participate in the G7 leaders' meeting. Leaders had a packed agen...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "b28ff071f4b56e05-evt",
+      "title": "Secretary-General of ASEAN participates in the ASEAN-Russia Commemorative Summit to Mark 35 Years of Dialogue Relations",
+      "date": "2026-06-18",
+      "end_date": "2026-06-18",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "RU",
+      "theme": "diplomacy",
+      "link": "https://asean.org/secretary-general-of-asean-participates-in-the-asean-russia-commemorative-summit-to-mark-35-years-of-dialogue-relations/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 18 June 2026, participated in the ASEAN-Russia Commemorative Summit, in Kazan, Russia, on the occasion of the 35th&#160;anniversary of ASEAN-Russia relations. The Summit adopted four outcome documents, namely: (i) the Kazan Declaration&#160;2026 “ Th",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "4b2de9fa23943818-evt",
