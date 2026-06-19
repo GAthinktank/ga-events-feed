@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-19T03:53:30.142111+00:00",
-    "duration_seconds": 85.305461,
+    "generated_at": "2026-06-19T10:21:01.859385+00:00",
+    "duration_seconds": 95.068947,
     "stats": {
       "ok": 85,
       "fail": 14,
-      "items_total": 2324,
-      "items_strict": 546,
-      "events_detected": 2
+      "items_total": 2328,
+      "items_strict": 548,
+      "events_detected": 3
     },
     "source_count": 99
   },
@@ -43,6 +43,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "20fc550a7e7da4ef-evt",
+      "title": "Deputy Secretary-General of ASEAN for ASEAN Socio-Cultural Community receives Courtesy Call from the Ambassador of New Zealand to ASEAN",
+      "date": "2026-06-19",
+      "end_date": "2026-06-19",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/deputy-secretary-general-of-asean-for-asean-socio-cultural-community-receives-courtesy-call-from-the-ambassador-of-new-zealand-to-asean/",
+      "summary": "H.E. San Lwin, Deputy Secretary-General of ASEAN for ASEAN Socio-Cultural Community (ASCC), received a courtesy call from H.E. Joanna Anderson, Ambassador of New Zealand to ASEAN, on 19 June 2026 at the ASEAN Secretariat in Jakarta. The meeting provided an opportunity to exchange views on the imple ",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "312354ade5a10a8b-evt",
