@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-19T19:44:47.000215+00:00",
-    "duration_seconds": 91.738092,
+    "generated_at": "2026-06-19T22:02:43.759764+00:00",
+    "duration_seconds": 113.844221,
     "stats": {
       "ok": 85,
       "fail": 14,
-      "items_total": 2332,
+      "items_total": 2335,
       "items_strict": 553,
-      "events_detected": 3
+      "events_detected": 4
     },
     "source_count": 99
   },
@@ -75,6 +75,23 @@
       "featured": false,
       "confirmed": true,
       "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "bc0d416735c44a36-evt",
+      "title": "European Council conclusions, 18 and 19 June 2026",
+      "date": "2026-06-19",
+      "end_date": "2026-06-19",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeHFYeVZuZlkxUFktZGpUbGxwLUU1MFNzNUc3cV8xTlNNZk5meEtIUVc1NE51Tmk2RFJuLVpnZVpSMWY1Y2JiaEtTVjN2UmlVaG5HTXJ2c2QxRXNmaTJjRFZ1UjJLcUZKcjVQRTlXTmg1UEdFNWhoOTJKMFBYV3V2NmJiell5MkxPTzNyWjNzbU5kWk5ZaEN3b2EyN2FkQld4Qi1rZkpLX3NJSk5GWlFCMTM5bUxzVUk?oc=5",
+      "summary": "European Council conclusions, 18 and 19 June 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
       "kind": "diplomatic-event",
       "lang": "en"
     },
