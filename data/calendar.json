@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-19T22:02:43.759764+00:00",
-    "duration_seconds": 113.844221,
+    "generated_at": "2026-06-20T02:55:53.266065+00:00",
+    "duration_seconds": 99.349409,
     "stats": {
       "ok": 85,
       "fail": 14,
-      "items_total": 2335,
-      "items_strict": 553,
-      "events_detected": 4
+      "items_total": 2327,
+      "items_strict": 538,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -43,57 +43,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "784cc2a712156525-evt",
-      "title": "Statement by President von der Leyen at the joint press conference with President Costa following the meeting of the European Council of June 2026",
-      "date": "2026-06-19",
-      "end_date": "2026-06-19",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1401",
-      "summary": "European Commission Statement Brussels, 19 Jun 2026 Good afternoon, We have had a productive EUCO so let me jump right in. First, on Ukraine. The tide really is turning. We start with good news, António and I con...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "20fc550a7e7da4ef-evt",
-      "title": "Deputy Secretary-General of ASEAN for ASEAN Socio-Cultural Community receives Courtesy Call from the Ambassador of New Zealand to ASEAN",
-      "date": "2026-06-19",
-      "end_date": "2026-06-19",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "Asia",
-      "theme": "diplomacy",
-      "link": "https://asean.org/deputy-secretary-general-of-asean-for-asean-socio-cultural-community-receives-courtesy-call-from-the-ambassador-of-new-zealand-to-asean/",
-      "summary": "H.E. San Lwin, Deputy Secretary-General of ASEAN for ASEAN Socio-Cultural Community (ASCC), received a courtesy call from H.E. Joanna Anderson, Ambassador of New Zealand to ASEAN, on 19 June 2026 at the ASEAN Secretariat in Jakarta. The meeting provided an opportunity to exchange views on the imple ",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "bc0d416735c44a36-evt",
-      "title": "European Council conclusions, 18 and 19 June 2026",
-      "date": "2026-06-19",
-      "end_date": "2026-06-19",
-      "location": "",
-      "organizer": "European Council",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeHFYeVZuZlkxUFktZGpUbGxwLUU1MFNzNUc3cV8xTlNNZk5meEtIUVc1NE51Tmk2RFJuLVpnZVpSMWY1Y2JiaEtTVjN2UmlVaG5HTXJ2c2QxRXNmaTJjRFZ1UjJLcUZKcjVQRTlXTmg1UEdFNWhoOTJKMFBYV3V2NmJiell5MkxPTzNyWjNzbU5kWk5ZaEN3b2EyN2FkQld4Qi1rZkpLX3NJSk5GWlFCMTM5bUxzVUk?oc=5",
-      "summary": "European Council conclusions, 18 and 19 June 2026 &nbsp;&nbsp; consilium.europa.eu",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Council",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "eu-council-2026-06",
