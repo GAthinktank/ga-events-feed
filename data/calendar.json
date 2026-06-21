@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-21T14:01:05.210302+00:00",
-    "duration_seconds": 86.526693,
+    "generated_at": "2026-06-21T16:28:38.240903+00:00",
+    "duration_seconds": 86.915393,
     "stats": {
       "ok": 85,
       "fail": 14,
-      "items_total": 2290,
-      "items_strict": 551,
-      "events_detected": 2
+      "items_total": 2288,
+      "items_strict": 563,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -43,23 +43,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "312354ade5a10a8b-evt",
-      "title": "Press briefing - EU-Moldova summit of 22 June 2026",
-      "date": "2026-06-22",
-      "end_date": "2026-06-22",
-      "location": "",
-      "organizer": "European Council",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQXB5OVFWd3FMUVRKZkh1a1FoeFF4eVJ0UWNJRlg2M2kxa3JpZVV5UkZLX2locmxCTUllMW9vM1B2ZVBaVTVKNHZWblBWVUQ0Vjk2akZtWHJiQ1d6ckJjeGZDNFVxQkowLUJsdEJ2VFNjbjdGU3dTYTEtVzVxN0U4TENSYnk3SG5SN2RoNWRaUG5jU2Y0UDJhU0ZieWdfN01xTXFjQnRjQU5GZVlraVMtZHZOUkhya00?oc=5",
-      "summary": "Press briefing - EU-Moldova summit of 22 June 2026 &nbsp;&nbsp; consilium.europa.eu",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Council",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "eu-council-2026-06",
