@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-24T22:14:20.308040+00:00",
-    "duration_seconds": 89.109535,
+    "generated_at": "2026-06-25T02:50:23.280076+00:00",
+    "duration_seconds": 90.578516,
     "stats": {
       "ok": 85,
       "fail": 14,
-      "items_total": 2318,
-      "items_strict": 558,
-      "events_detected": 3
+      "items_total": 2321,
+      "items_strict": 542,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -45,36 +45,19 @@
       "kind": "diplomatic-event"
     },
     {
-      "id": "3cb8e79052d10d18-evt",
-      "title": "ASEAN Audit Committee Holds its 51st Meeting",
-      "date": "2026-06-24",
-      "end_date": "2026-06-24",
+      "id": "bca5884435b95e15-evt",
+      "title": "Media advisory - Environment Council of 25 June 2026",
+      "date": "2026-06-25",
+      "end_date": "2026-06-25",
       "location": "",
-      "organizer": "ASEAN",
-      "region": "Asia",
+      "organizer": "European Council",
+      "region": "EU",
       "theme": "diplomacy",
-      "link": "https://asean.org/asean-audit-committee-holds-its-51st-meeting/",
-      "summary": "On 24 June 2026, the 51st Meeting of the ASEAN Audit Committee (AAC) was convened at the ASEAN Secretariat Headquarters in Jakarta. Held under the Philippines’ ASEAN Chairmanship, the meeting addressed key issues related to internal and external audit, risk management, and governance of the ASEAN Th",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaVYxVVY2S1ZpVGU4WW1odDRzUnRGbW5HRVFpRGJmdlRkd0tvWUFfT0k2UFZKZ094NTNfR3RPTEZxUGxVMGk2VWRRWmV5SEVzYXd3OGluOTVPdGxFY3dsck44Tjh6UTZROVpJQjMzaFNIOVhpbDctUTM0THdjNXpDLXpWNlJNUS1UbGNCNFV4UkhEVjk5X3Z5QVN3Xy1HcHBUaWI1OU03VFR3MjJFVHRSVDRDT2RfOWJJckE?oc=5",
+      "summary": "Media advisory - Environment Council of 25 June 2026 &nbsp;&nbsp; consilium.europa.eu",
       "featured": false,
       "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "ec97f34b7dd8b7a0-evt",
-      "title": "ASEAN and Canada reaffirm commitment to advance Strategic Partnership",
-      "date": "2026-06-24",
-      "end_date": "2026-06-24",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "Asia",
-      "theme": "diplomacy",
-      "link": "https://asean.org/asean-and-canada-reaffirm-commitment-to-advance-strategic-partnership/",
-      "summary": "JAKARTA, 24 June 2026&#160;– Senior Officials of ASEAN and Canada reaffirmed their commitment to further advancing ASEAN-Canada Strategic Partnership at the 23rd ASEAN-Canada Dialogue held today at the ASEAN Headquarters/ASEAN Secretariat. Canada reiterated its support for ASEAN Community- The post ",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
+      "source": "European Council",
       "kind": "diplomatic-event",
       "lang": "en"
     },
