@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T17:09:55.870765+00:00",
-    "duration_seconds": 83.269536,
+    "generated_at": "2026-06-25T19:54:12.850100+00:00",
+    "duration_seconds": 91.442048,
     "stats": {
       "ok": 85,
       "fail": 14,
-      "items_total": 2321,
-      "items_strict": 572,
-      "events_detected": 9
+      "items_total": 2291,
+      "items_strict": 555,
+      "events_detected": 11
     },
     "source_count": 99
   },
@@ -43,6 +43,40 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "e2bdd60dbb5c4582-evt",
+      "title": "Remarks by Commissioner Hoekstra at the ENVI Council",
+      "date": "2026-06-25",
+      "end_date": "2026-06-25",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1466",
+      "summary": "European Commission Speech Luxembourg, 25 Jun 2026 Ladies and gentlemen, Very good evening, I have been thanking you more often for your tenacity. Thank you very much for being here. This morning at the doorstep...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "742bb79876ea31dd-evt",
+      "title": "EU steps up support for Ukraine's defence, recovery and reconstruction at the Ukraine Recovery Conference 2026",
+      "date": "2026-06-25",
+      "end_date": "2026-06-25",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "security",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1465",
+      "summary": "European Commission Press release Gdańsk, 25 Jun 2026 At the Ukraine Recovery Conference 2026, co-hosted by Poland and Ukraine in Gdańsk, President von der Leyen reaffirmed that the European Union will continue to stand firmly by Ukraine, supporting its reforms, strengthening its institutions, and h",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "029deaba4e367c07-evt",
