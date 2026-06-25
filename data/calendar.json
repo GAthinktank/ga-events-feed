@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T14:23:25.189671+00:00",
-    "duration_seconds": 100.174519,
+    "generated_at": "2026-06-25T17:09:55.870765+00:00",
+    "duration_seconds": 83.269536,
     "stats": {
       "ok": 85,
       "fail": 14,
-      "items_total": 2319,
-      "items_strict": 558,
-      "events_detected": 7
+      "items_total": 2321,
+      "items_strict": 572,
+      "events_detected": 9
     },
     "source_count": 99
   },
@@ -43,6 +43,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "029deaba4e367c07-evt",
+      "title": "Press Statement by Commissioner Kubilius after the Eastern Flank Summit",
+      "date": "2026-06-25",
+      "end_date": "2026-06-25",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "security",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1464",
+      "summary": "European Commission Speech Gdańsk, 25 Jun 2026 1. Summit reminds - Eastern Flank Watch is for defence of the Eastern Flank region and for defence of the whole Union. 2. The Member States from Eastern Flank ...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "91318c81885a6525-evt",
@@ -143,6 +160,23 @@
       "featured": false,
       "confirmed": true,
       "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "437335691eec87db-evt",
+      "title": "OSCE Secretary General participated in the Ukraine Recovery Conference GDAŃSK, 25 June 2026 – OSCE Secretary General Feridun H. Sinirlioğlu attended the Ukraine Recovery Conference - Organization for Security and Co-operation in Europe",
+      "date": "2026-06-25",
+      "end_date": "2026-06-25",
+      "location": "",
+      "organizer": "OSCE",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrSWFIMG1udDdqRXZrcTFQRXdiZ0wzaklVakd6ejktbTVsSXJNWTJiU1lMc0FEWUxjZnBpdmtTd2ZUNUJSdmhRd3ZpaGw2YkR6bHlWOXNPV1o?oc=5",
+      "summary": "OSCE Secretary General participated in the Ukraine Recovery Conference GDAŃSK, 25 June 2026 – OSCE Secretary General Feridun H. Sinirlioğlu attended the Ukraine Recovery Conference &nbsp;&nbsp; Organization for Security and Co-operation in Europe",
+      "featured": false,
+      "confirmed": true,
+      "source": "OSCE",
       "kind": "diplomatic-event",
       "lang": "en"
     },

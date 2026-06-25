@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T14:23:25.189671+00:00",
-    "duration_seconds": 100.174519,
+    "generated_at": "2026-06-25T17:09:55.870765+00:00",
+    "duration_seconds": 83.269536,
     "stats": {
       "ok": 85,
       "fail": 14,
-      "items_total": 2319,
-      "items_strict": 558,
-      "events_detected": 7
+      "items_total": 2321,
+      "items_strict": 572,
+      "events_detected": 9
     },
     "source_count": 99
   },
@@ -26,19 +26,6 @@
       "via_gnews": false
     },
     {
-      "id": "c858f8f3b52c5501",
-      "title": "Welsh Language Skills Strategy",
-      "summary": "Welsh Language Skills Strategy &nbsp;&nbsp; GOV.UK",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BMWZ6ZzRpRERUTkp5SGJPM0pJYmh3N1lLM3U5dnc1Y1pUYzR0SmVnenA4Rjg4RzJJZzJhd0xCLTI3T2VHVDV3WHdMc3VzR1d3WGZLQ3BzVl9tNmFIQXJJYWhEbzRvTnk4V21jbFBVVVFSQzlndmxPcFZTTlJwUQ?oc=5",
-      "date": "2026-06-25",
-      "source": "UK gov.uk announcements",
-      "source_type": "gov",
-      "region": "UK",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "a4ac9caad014e9db",
       "title": "Ulf Kristersson to hold joint press conference with Prime Minister of Poland on bilateral submarine cooperation",
       "summary": "Ulf Kristersson to hold joint press conference with Prime Minister of Poland on bilateral submarine cooperation &nbsp;&nbsp; Government.se",
@@ -50,6 +37,45 @@
       "lang": "en",
       "theme": "diplomacy",
       "via_gnews": true
+    },
+    {
+      "id": "197f14b02d21a863",
+      "title": "Transparency data: MOD: ministerial overseas travel and meetings, January to December 2026",
+      "summary": "Data on ministers’ overseas travel and meetings with external individuals and organisations.",
+      "link": "https://www.gov.uk/government/publications/mod-ministerial-overseas-travel-and-meetings-january-to-december-2026",
+      "date": "2026-06-25",
+      "source": "UK Ministry of Defence",
+      "source_type": "gov",
+      "region": "UK",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": false
+    },
+    {
+      "id": "94bd9a8ac6707edd",
+      "title": "Transparency data: FCDO ministerial travel and meetings, January to March 2026",
+      "summary": "Data on Foreign, Commonwealth and Development Office (FCDO) ministers’ external meetings and overseas travel.",
+      "link": "https://www.gov.uk/government/publications/fcdo-ministerial-travel-and-meetings-january-to-march-2026",
+      "date": "2026-06-25",
+      "source": "UK FCDO",
+      "source_type": "gov",
+      "region": "UK",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": false
+    },
+    {
+      "id": "d2065458e139cedc",
+      "title": "The West can learn from Ukraine’s AI future vision beyond the battlefield",
+      "summary": "The US and Europe are already looking to Ukraine for the next generation of defense technologies. As Western countries debate their own AI strategies, they would likewise do well to examine Ukraine as a similar starting point for further innovation, writes Andrew D’Anieri. The post The West can learn from Ukraine’s AI future vision beyond the battlefield appeared first on Atlantic Council .",
+      "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/the-west-can-learn-from-ukraines-ai-future-vision-beyond-the-battlefield/",
+      "date": "2026-06-25",
+      "source": "Atlantic Council",
+      "source_type": "tt",
+      "region": "US",
+      "lang": "en",
+      "theme": "security",
+      "via_gnews": false
     },
     {
       "id": "13d8302b5f65434d",
@@ -117,12 +143,38 @@
       "via_gnews": false
     },
     {
-      "id": "035f51370a0767e9",
-      "title": "Official Statistics: Armed forces continuous working patterns survey 2025/26",
-      "summary": "Armed forces results from the 2025/26 annual continuous working patterns (CWP) survey.",
-      "link": "https://www.gov.uk/government/statistics/announcements/armed-forces-continuous-working-patterns-survey-202526",
+      "id": "f129714fa06871ec",
+      "title": "Report by the Head of OSCE Mission to Montenegro: UK statement, June 2026",
+      "summary": "Deputy Ambassador James Ford underlines support for Montenegro’s Euro Atlantic path and progress in strengthening democratic institutions, and welcomes and the Mission’s work supporting the government’s national strategic objectives ahead of the transition to national ownership of functions by the end of 2027.",
+      "link": "https://www.gov.uk/government/speeches/report-by-the-head-of-osce-mission-to-montenegro-uk-statement-june-2026",
       "date": "2026-06-25",
-      "source": "UK Ministry of Defence",
+      "source": "UK FCDO",
+      "source_type": "gov",
+      "region": "UK",
+      "lang": "en",
+      "theme": "diplomacy",
+      "via_gnews": false
+    },
+    {
+      "id": "029deaba4e367c07",
+      "title": "Press Statement by Commissioner Kubilius after the Eastern Flank Summit",
+      "summary": "European Commission Speech Gdańsk, 25 Jun 2026 1. Summit reminds - Eastern Flank Watch is for defence of the Eastern Flank region and for defence of the whole Union. 2. The Member States from Eastern Flank ...",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1464",
+      "date": "2026-06-25",
+      "source": "European Commission — Press",
+      "source_type": "gov",
+      "region": "EU",
+      "lang": "en",
+      "theme": "security",
+      "via_gnews": false
+    },
+    {
+      "id": "1e1b04c431c886b4",
+      "title": "Policy paper: FCDO special advisers’ gifts, hospitality and meetings, January to March 2026",
+      "summary": "Data on gifts and hospitality received by Foreign, Commonwealth & Development Office special advisers and their meetings with senior media figures.",
+      "link": "https://www.gov.uk/government/publications/fcdo-special-advisers-gifts-hospitality-and-meetings-january-to-march-2026",
+      "date": "2026-06-25",
+      "source": "UK FCDO",
       "source_type": "gov",
       "region": "UK",
       "lang": "en",
@@ -143,19 +195,6 @@
       "via_gnews": true
     },
     {
-      "id": "b6289ff29a1731ff",
-      "title": "Joint Statement on the Sixth Joint Oversight Committee for the Peace Agreement Between the Democratic Republic of the Congo and the Republic of Rwanda -African Union - Peace and Security Department",
-      "summary": "Joint Statement on the Sixth Joint Oversight Committee for the Peace Agreement Between the Democratic Republic of the Congo and the Republic of Rwanda -African Union - Peace and Security Department &nbsp;&nbsp; African Union,Peace and Security Department",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNTWpzTUE4X1FCbnhXaS1LcXc2eWRwZ3ByaUw4V3VxTFNyeWlvd2VRTy1FX1N1WEZENkNianV0a2NuUVp4ZlJCdTRNN3V2QzA4NHktWWZiV2p6bndpRFJWZTdZbGN4WmZpc0J6REx0aEt5Uk0wU0x1Z25SdExhOWRBNnhQcDhOa25CYmRqR3dvWWVMUlRqOTI1SHBvMWtzMVRDNVg3YWNDRjZ0Z3lkZndqWjVITDlDSnhWWlU0OHBTeXdTNU1DTlZxLUYxUlRGWFdEa21jQW95aXJvd0J5VkdZX3FwenBRYzduV2tTdDRfUmVBR3hRMWxVTVZkdW9NTUhqVXpNWXdXUm5JWWFjNHVRRTNJWQ?oc=5",
-      "date": "2026-06-25",
-      "source": "African Union",
-      "source_type": "io",
-      "region": "Africa",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "e4cc695409c5feee",
       "title": "Joint Statement by High Representative Kallas and Commissioners Síkela and Lahbib on the devastating earthquakes in Venezuela",
       "summary": "European Commission Statement Brussels, 25 Jun 2026 The European Union conveys its condolences to the families and loved ones of the victims of the devastating earthquakes that struck Venezuela. At this difficult moment, the European Union expresses its solidarity with the people of Venezuela and with all those engaged in rescue and relief operations.",
@@ -164,6 +203,32 @@
       "source": "European Commission — Press",
       "source_type": "gov",
       "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": false
+    },
+    {
+      "id": "78d4494b8689b1a0",
+      "title": "International Day for the Elimination of Sexual Violence in Conflict 2026: joint statement to the OSCE",
+      "summary": "Norwegian Ambassador Ellen Svendsen delivers a joint statement on behalf of six countries marking the 2026 International Day for the Elimination of Sexual Violence in Conflict.",
+      "link": "https://www.gov.uk/government/speeches/international-day-for-the-elimination-of-sexual-violence-in-conflict-2026-joint-statement-to-the-osce",
+      "date": "2026-06-25",
+      "source": "UK FCDO",
+      "source_type": "gov",
+      "region": "UK",
+      "lang": "en",
+      "theme": "security",
+      "via_gnews": false
+    },
+    {
+      "id": "066a01811b137229",
+      "title": "Guidance: Catterick Training Area firing and activity forecast",
+      "summary": "Annual firing schedule for Battle Hill, Bellerby, Feldom and Wathgill Ranges.",
+      "link": "https://www.gov.uk/government/publications/catterick-training-area-firing-and-activity-forecast",
+      "date": "2026-06-25",
+      "source": "UK Ministry of Defence",
+      "source_type": "gov",
+      "region": "UK",
       "lang": "en",
       "theme": null,
       "via_gnews": false
@@ -193,32 +258,6 @@
       "lang": "es",
       "theme": null,
       "via_gnews": true
-    },
-    {
-      "id": "c927c3b45dcff1ba",
-      "title": "Better connected: New strategy starts journey to improved transport links for Richmond",
-      "summary": "Better connected: New strategy starts journey to improved transport links for Richmond &nbsp;&nbsp; London Borough of Richmond upon Thames",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ENldrSU9md1RtZEtzeGtxTTZ1RjhONlVQOWxwOXdJeENrcEg4eGFMeFdSVWpsdW9OWXZUNzNlVjlfNjI5VzE1WHQ2bVBadExMaGxBNmxlYzNRR0hYcm5JT0l1c2JiQUVWbnBGSDZPeWhQakRYZmlidnBR?oc=5",
-      "date": "2026-06-25",
-      "source": "UK gov.uk announcements",
-      "source_type": "gov",
-      "region": "UK",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "6e27a20254613c8b",
-      "title": "UN Human Rights Council 62: Joint Statement for the Annual Discussion on Women's Rights",
-      "summary": "Joint Statement for the Annual Discussion on Women's Rights: Domestic violence against women and girls. Delivered by the UK's Permanent Representative to the WTO and UN, Kumar Iyer.",
-      "link": "https://www.gov.uk/government/speeches/un-human-rights-council-62-joint-statement-for-the-annual-discussion-on-womens-rights",
-      "date": "2026-06-24",
-      "source": "UK FCDO",
-      "source_type": "gov",
-      "region": "UK",
-      "lang": "en",
-      "theme": "economy",
-      "via_gnews": false
     },
     {
       "id": "cfe012373b1e2837",
@@ -273,19 +312,6 @@
       "via_gnews": false
     },
     {
-      "id": "44f70e2737ab9629",
-      "title": "Ockenden review into maternity services at Nottingham University Hospitals NHS Trust: final report",
-      "summary": "Ockenden review into maternity services at Nottingham University Hospitals NHS Trust: final report &nbsp;&nbsp; GOV.UK",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNVV3Vkx1bExLWlpBVnhQNkZQY00zUDNOZzhxUVV6MzdNU2NaVGRQOHVqLUcxSUFmTmE2SHdLVzlrY21PazExc2FNTng5ek5DNFhYdVRYWHVrNlR5MmdTNzNvWkVqYTVQRDM4N0J3WUJnV3lYU21RMUxhSnJka0I4a0swUHpoNUk0dE14ZTIwbEF6S0ZRNFR0TmItb2NBS0NwZlFjaEY5T1FoQ2FYS0F5alRqbWJmZm9Nb3d5Z1FnNm1ZX2ZtMWZFeTU5MkNzVHA4SzNRRm9lYw?oc=5",
-      "date": "2026-06-24",
-      "source": "UK gov.uk announcements",
-      "source_type": "gov",
-      "region": "UK",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "4f365507788aea55",
       "title": "Northeast Asia’s New Strategic Equation: US Policy Toward China, North Korea, and the US-ROK Alliance",
       "summary": "Northeast Asia’s New Strategic Equation: US Policy Toward China, North Korea, and the US-ROK Alliance acabral-sanche… Wed, 06/24/2026 - 10:08 SVG Commentary Jun 24, 2026 Korea on Point Northeast Asia’s New Strategic Equation: US Policy Toward China, North Korea, and the US-ROK Alliance Patrick M. Cronin Asia-Pacific Security Chair Patrick M. Cronin Commentary Caption US President Donald Trump greets South Korean President Lee Jae Myung at the White House on August 25, 2025, in Washington, DC. (Getty Images) Toggle Table of Contents Contents Contents Share to Twitter Twitter Share to Facebook F",
@@ -338,19 +364,6 @@
       "via_gnews": true
     },
     {
-      "id": "c29b7abb150f08f2",
-      "title": "Joint Statement Regarding the Illegal Practices of the Israeli Occupation in the Occupied Palestinian Territory",
-      "summary": "Joint Statement Regarding the Illegal Practices of the Israeli Occupation in the Occupied Palestinian Territory &nbsp;&nbsp; African Union",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZFB2elRteUFTSDVQTElKenJ0YS16VUI5aWdrLTRJakdpamdCb3ptMXVGY0VDMzh2VkJLOWdGbVBQZUdlRW1RaEM2RFlrRWxyUndXcUtPdnZwZHRKRndfeUdKTndEeGxlbVluZ2dlb3VybUdJb2drYzM5dUIxRHBFbTQ5SU1aNXhlajlHZ2F3aFdZR3k1ckttWVZ3UHpsWnFQTkZwWTB4VjlXa29T?oc=5",
-      "date": "2026-06-24",
-      "source": "African Union",
-      "source_type": "io",
-      "region": "Africa",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "32c1330250f6f33c",
       "title": "Governments are still underestimating the power of sports",
       "summary": "Governments should harness the power of sports for their economic development strategies. The post Governments are still underestimating the power of sports appeared first on Atlantic Council .",
@@ -377,19 +390,6 @@
       "via_gnews": false
     },
     {
-      "id": "846dfc460b743ab7",
-      "title": "Drug and Alcohol Strategy update shows nearly 20% rise in people accessing support",
-      "summary": "Drug and Alcohol Strategy update shows nearly 20% rise in people accessing support &nbsp;&nbsp; Walsall Council homepage",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMnlic2hKNm9lQ3A0TWFIVmRQUGEwb0pFWXduWElLaHFtdVNlRXdCZTg4X0lHc0hkaUVvZGVwQ1pYSEpDTE51YzZjdkVBZ2ZmYmRyNWRLMjRuejlxdlltM2ZNcVNDc2c4eVE4STBMclhRTHJ0VG81R2NXdzVUZXpTR25PX1BDM2duYWxRbkdtZm9ocWE0Zy1TQ1FFeEdMaWk4YXpBZnRiMTh6aE9zS0dWWnl4WQ?oc=5",
-      "date": "2026-06-24",
-      "source": "UK gov.uk announcements",
-      "source_type": "gov",
-      "region": "UK",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "99cd42280b41b9c7",
       "title": "Dispatch from Tivat: What Montenegro still needs to do to join the European Union",
       "summary": "A recent visit to the EU-Western Balkans Summit in Montenegro reveals a country closer than ever to EU membership—if it can get across the line. The post Dispatch from Tivat: What Montenegro still needs to do to join the European Union appeared first on Atlantic Council .",
@@ -400,19 +400,6 @@
       "region": "US",
       "lang": "en",
       "theme": "diplomacy",
-      "via_gnews": false
-    },
-    {
-      "id": "ec97f34b7dd8b7a0",
-      "title": "ASEAN and Canada reaffirm commitment to advance Strategic Partnership",
-      "summary": "JAKARTA, 24 June 2026&#160;– Senior Officials of ASEAN and Canada reaffirmed their commitment to further advancing ASEAN-Canada Strategic Partnership at the 23rd ASEAN-Canada Dialogue held today at the ASEAN Headquarters/ASEAN Secretariat. Canada reiterated its support for ASEAN Community- The post ASEAN and Canada reaffirm commitment to advance Strategic Partnership appeared first on ASEAN Main Portal .",
-      "link": "https://asean.org/asean-and-canada-reaffirm-commitment-to-advance-strategic-partnership/",
-      "date": "2026-06-24",
-      "source": "ASEAN",
-      "source_type": "io",
-      "region": "Asia",
-      "lang": "en",
-      "theme": null,
       "via_gnews": false
     },
     {
@@ -437,45 +424,6 @@
       "source": "US White House",
       "source_type": "gov",
       "region": "US",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "ed737199c9e0270e",
-      "title": "Watch this space: a new strategic direction for UK media - green paper and public consultation",
-      "summary": "Watch this space: a new strategic direction for UK media - green paper and public consultation &nbsp;&nbsp; GOV.UK",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMzNWWkc3eE56TWR6M2RqY3BCVzNadTJxYkpiSTgyR0pWbUprdFRub28zdFlMOXozNW40R3Y4Yk9JUEVvcnFESFoxM3dPMGJBS3U3WVphc3N6V1RydGdtSHZUcnoyc2VuWnNsVS1aaXJWMllsQ0ZlRTJLYjRfbkpUdXp2ZHFpQTFUM0g3VW44QmtTVWl0c1d5dkR5ZUlrUmFoTG5UczlSV0c0cnVobzMxN3ByTXVNS2ZDQ25Sd0MxSWlzejRXM2RpRjVGZ1dsWmtC?oc=5",
-      "date": "2026-06-23",
-      "source": "UK gov.uk announcements",
-      "source_type": "gov",
-      "region": "UK",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "19128250f7e2bd3b",
-      "title": "Watch this space: a new strategic direction for UK media - green paper and public consultation",
-      "summary": "Watch this space: a new strategic direction for UK media - green paper and public consultation &nbsp;&nbsp; GOV.UK",
-      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQRkFQckZJT05kNllMem0tNEluUVNJY2paTldLSFN1ZEtSNGd3cHJncE0zejluUjhraXNwTDg5eVpERFhhaUZhN3g2QUFiazJMRUFsZEMyZkJicmtTQkF3bzJBSlhVMWJyZ0JHSkV6Y2dEZlRwNUdud1FCZkN3LXVrTFhSTmh0YWVFbjhrdVBqVE91TUlnMWlSTDlfdDNLRWhpY25XWDdaMGFDWEdQSGlYVVRKaHduZENRck53dUNLUVItNU9xWGFEdDR0X2Z2aUd1MWZTOGMtV3pvanh2ZU5Ua2NXcy1kNnRiQk5meVd2TC1wemlHVC1oNWNreUlDbUE3Z0FHb1FsTl82bHl6TVVKSlJXM0g5WFFNekg4OVlzQXBFN1R3aGhlNmZSdDlDM3VSYl9hWVhqb1BnUTF3QU9ONFI2TFJGUHF2anpr?oc=5",
-      "date": "2026-06-23",
-      "source": "UK gov.uk announcements",
-      "source_type": "gov",
-      "region": "UK",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "6311941f35d8b02d",
-      "title": "UK and allies Joint Statement on the situation in El Obeid",
-      "summary": "UK and allies Joint Statement on the situation in El Obeid &nbsp;&nbsp; GOV.UK",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVFNVdHpMcnNqemljLXNXWmZfbVQ4dUhrRmRSMjRvUVZ4SXdpRU5fVGdhZ1dROUl4UHJhT1lJMXUtOHVSeTI4T2dNQU92YWI0V2t3MzVzQ2xpYWRqM2ltSnN6c0NCZVVCdnQ1RmlVYW9xRXhtdXplSjlPUFdHVUR4QnA5RFU4Z0h4aS1wcEh4TDJ6cnhYaGYxMA?oc=5",
-      "date": "2026-06-23",
-      "source": "UK gov.uk announcements",
-      "source_type": "gov",
-      "region": "UK",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -544,19 +492,6 @@
       "lang": "en",
       "theme": "technology",
       "via_gnews": false
-    },
-    {
-      "id": "de97e89813639243",
-      "title": "A Community Strategy for Crewe - 2026 to 2028",
-      "summary": "A Community Strategy for Crewe - 2026 to 2028 &nbsp;&nbsp; Crewe Town Council",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWM0RjU2ZFA3WXFBSUZNWTBzcnpHU1g0eFY3VGVTc2h3R3FyNDgxdnN4OExsem1lUjQtVlpTSVRnRGwtSGdNRHVKRUNyczZYaENWZUYzSkNJaEd1Q0NiUGota0lrNW5sRUdENmpFWkZ1elJaOEhjS2FYT0tGZFhfQzZ2Ni1kVnVlS3g1QXhWXzZpMW1XTVhRZm5NblREU01ZR2NCUWczc1pZZw?oc=5",
-      "date": "2026-06-23",
-      "source": "UK gov.uk announcements",
-      "source_type": "gov",
-      "region": "UK",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
     },
     {
       "id": "7034999928e21f9b",
@@ -650,13 +585,13 @@
       "via_gnews": true
     },
     {
-      "id": "bfc8f8c5e797ed17",
-      "title": "Joint Statement: UK-Egypt Association Council Meeting",
-      "summary": "Joint Statement: UK-Egypt Association Council Meeting &nbsp;&nbsp; GOV.UK",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYVhDc0VKZ2M0MGg4MFpVYjBBLXZKWkhJSVl4ekxxYUFOSnd6SUJ1cFBRVnZxTVl2cjhJRTdaQ0hYLVdldklNWlFKY0JxaEUyT055ZjVuZ0c1Zng3RmY2ZkZPc3Z1QmZyX1JLdV9mMWMyeE9PcGpHNW1DSGZqYmdRb245WnIyWW44c2JmVDRub00?oc=5",
+      "id": "2797e85bcd84987e",
+      "title": "Head of Research and Analysis",
+      "summary": "Head of Research and Analysis &nbsp;&nbsp; The International Institute for Strategic Studies",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5UdmxzUGtGaUt3YnVITFNLUUZMS1ZNN3BDNmV0aWUzM25ZTjdEaDJVS3RLSjVXWWNvaUxxNzVJMldkb3hLcXNJMGt3OXZDWTdYX21yWlYzemdmOXhOSF9qZnhuS0REalE3a2gzbGRiLW52UlFIVFRzSk42QzQ?oc=5",
       "date": "2026-06-22",
-      "source": "UK gov.uk announcements",
-      "source_type": "gov",
+      "source": "IISS",
+      "source_type": "tt",
       "region": "UK",
       "lang": "en",
       "theme": null,
@@ -697,6 +632,19 @@
       "source": "China — MFA",
       "source_type": "gov",
       "region": "CN",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "3e5664c2c87f5757",
+      "title": "Freight Strategy for Whitehill and Bordon on 11 July 2014",
+      "summary": "Freight Strategy for Whitehill and Bordon on 11 July 2014 &nbsp;&nbsp; Hampshire County Council",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMkJ0d0JqOU8taU9fSXBJbXFPYWVQWlFpYU5Da085ZVFEX3VyWm5TVjdHSVI0bEgyak9VbWFLenNUOUN6blVuN3RuZDZUNGpxcFdvNkFVWTNHSWVBMEl1SDRZVlJPOGxiYXJWMTFNMENrT0d2UUhkbzBxTDZBWDNnN1dwQl9xZzRuXzUzYVUzRnZTZUZWSXd2RFBoZk5NNm16WGFtVlV6NWF5UUU?oc=5",
+      "date": "2026-06-21",
+      "source": "UK gov.uk announcements",
+      "source_type": "gov",
+      "region": "UK",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -767,19 +715,6 @@
       "via_gnews": true
     },
     {
-      "id": "f10581f90ead32f7",
-      "title": "Guidance: Allied Joint Doctrine for the Planning of Operations (AJP-5)",
-      "summary": "Allied Joint Publication-5 is the keystone NATO doctrine for the planning of Allied joint operations.",
-      "link": "https://www.gov.uk/government/publications/allied-joint-publication-ajp-05a-allied-joint-doctrine-for-the-planning-of-operations",
-      "date": "2026-06-19",
-      "source": "UK Ministry of Defence",
-      "source_type": "gov",
-      "region": "UK",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": false
-    },
-    {
       "id": "150fa2e93af7f270",
       "title": "European Union and Mozambique Strengthen Strategic Ties at the 4th Partnership Dialogue in Maputo",
       "summary": "European Union and Mozambique Strengthen Strategic Ties at the 4th Partnership Dialogue in Maputo &nbsp;&nbsp; EEAS",
@@ -816,32 +751,6 @@
       "region": "BE",
       "lang": "fr",
       "theme": "security",
-      "via_gnews": false
-    },
-    {
-      "id": "10723b08136e20ff",
-      "title": "Valdai Club to Present a Report on a New Reserve Currency",
-      "summary": "Valdai Club to Present a Report on a New Reserve Currency &nbsp;&nbsp; valdaiclub.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT3NFTFBpYnpNMXZRUzh6X2swUERZNTB3ZDhYT0ROVzRFSDYyeUpzUVpOSmNoa1NKT1NsaXZNQ20yanNvRjI3LWd2YnNCYVdVbXpwSHowdzAxYkZJeUJwbGpFQVlWMEJkOWFxMTE2clAtekxYNlo4aXI0bzliQU5UcnZIMmpUWkxsUEtlejI0Y1dtZElHX291UUEtdmZPRnU3REtYeA?oc=5",
-      "date": "2026-06-18",
-      "source": "Valdai Club",
-      "source_type": "tt",
-      "region": "RU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "c9f4da7f0a9f9801",
-      "title": "Official Statistics: Tri-service families continuous attitude survey: 2026",
-      "summary": "Tri-service results from the annual families continuous attitude survey.",
-      "link": "https://www.gov.uk/government/statistics/announcements/tri-service-families-continuous-attitude-survey-2026",
-      "date": "2026-06-18",
-      "source": "UK Ministry of Defence",
-      "source_type": "gov",
-      "region": "UK",
-      "lang": "en",
-      "theme": null,
       "via_gnews": false
     },
     {
@@ -1131,6 +1040,19 @@
       "via_gnews": true
     },
     {
+      "id": "e5d76cd84ddf8a6f",
+      "title": "Equality Screening for the Attendance Matters Strategy - Consultation - education-ni.gov.uk",
+      "summary": "Equality Screening for the Attendance Matters Strategy - Consultation &nbsp;&nbsp; education-ni.gov.uk",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSEs2RkMtenoxdV9Ud0RqcjVKQThtaGhTcnM3YmlXSFFzY1p0dFdZT3JfRXRvU3hpUlBLNUo2Qm9OSmFrQXFaUElYLUpPX2swQWhLYnQ0c0dlaWJCWWFQZlFQSERhS3IzWmo2clRJckVZV1BNYUcyVXB0YXVEdGZNdTBneHpGWFRaMFNXdGNPN3BSSGgxWG9aNFI1cjc3V2NVMDZPOE5iRQ?oc=5",
+      "date": "2026-06-16",
+      "source": "UK gov.uk announcements",
+      "source_type": "gov",
+      "region": "UK",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "759d46200e061d6b",
       "title": "Closing gaps: Japan’s evolving missile air- and missile-defence capabilities",
       "summary": "Closing gaps: Japan’s evolving missile air- and missile-defence capabilities &nbsp;&nbsp; The International Institute for Strategic Studies",
@@ -1141,6 +1063,19 @@
       "region": "UK",
       "lang": "en",
       "theme": "security",
+      "via_gnews": true
+    },
+    {
+      "id": "32a4b1a8458b2e57",
+      "title": "1 LEADERS’ DECLARATION ON MUTUALLY BENEFICIAL INTERNATIONAL PARTNERSHIPS We, the Leaders of the G7, reaffirm our commitment t",
+      "summary": "1 LEADERS’ DECLARATION ON MUTUALLY BENEFICIAL INTERNATIONAL PARTNERSHIPS We, the Leaders of the G7, reaffirm our commitment t &nbsp;&nbsp; consilium.europa.eu",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYkhjeklnWkxCNFV0d29FREhack1Jc29LbDU5RWczVHpydHRDMnEyeldUb3YzajZJb3BNaW5LMngwSi1hbVhIWVRuWHZJX0l6WlZHVHVPbWZ2R2QxT1lONUM3eGcwVFhEMDNKXzgwMFlhLXM5dmhralVQS250WXZuWHgySmhiUVF6bGhldThhUlgtZnI0eVVjWHNGdFluOGlTRjNBNmx1ZzRFNlE?oc=5",
+      "date": "2026-06-16",
+      "source": "European Council",
+      "source_type": "gov",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
       "via_gnews": true
     },
     {
@@ -1196,19 +1131,6 @@
       "via_gnews": true
     },
     {
-      "id": "72dfa42c9e8bce09",
-      "title": "China welcomes US-Iran agreement, stands ready to continue playing constructive role in restoring peace in Middle East: FM",
-      "summary": "China welcomes US-Iran agreement, stands ready to continue playing constructive role in restoring peace in Middle East: FM &nbsp;&nbsp; Global Times",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vZ1VMTE9UbHVvVXUxWDZVcVRnLV9uZ3Bhd2Jvb3ZkN1FVVGJnRENyQWowS2l4U3FGNEhHZTRPTUM5ZlViMm5YcVcwbV9JUDA0elhMWWRHMHBzRmtOS1ZDS3Jn?oc=5",
-      "date": "2026-06-15",
-      "source": "China — MFA",
-      "source_type": "gov",
-      "region": "CN",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "1c07f649448ecc44",
       "title": "Mexico-United States Bilateral Implementation Group",
       "summary": "Mexico-United States Bilateral Implementation Group &nbsp;&nbsp; Gob MX",
@@ -1230,6 +1152,19 @@
       "source": "CSIS",
       "source_type": "tt",
       "region": "US",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "d81348ad33380143",
+      "title": "Domestic abuse strategy",
+      "summary": "Domestic abuse strategy &nbsp;&nbsp; Staffordshire County Council",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ1FCR1prNU9jNmVDbWNVTElqdVY0RkxmTkV6bnVhdTZwQ0FtREw0TXk3QXpZc3hfVkE1UE90WG1oNVBhMUFLX1gwbkw2T2pGYXRjWlNtN1AtMmliU1ZaYkE2UzBqbk5RRkQyUm5TZ2ZkYm5ueFdjZnpDdzI2NFBvdUpNZTJFV0JSb2JQc2Iza2hKUkYwY0hHckRIeHpGckNRMzFN?oc=5",
+      "date": "2026-06-12",
+      "source": "UK gov.uk announcements",
+      "source_type": "gov",
+      "region": "UK",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -1443,6 +1378,19 @@
       "via_gnews": true
     },
     {
+      "id": "d31af342fb26e302",
+      "title": "Resident Engagement Strategy",
+      "summary": "Resident Engagement Strategy &nbsp;&nbsp; Westminster City Council",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTUNmX3lYU21iMTUwa3dPSXR2dDc3Uzl0bko5bnZqdjV0Wm5FZGlNODU1Z1EyT0JpTmNTR0NQYkJrZndZN2lsV0Q0bVRjRklyamtTb3Zsc1FONW9lU1RCWW1DaUZPdDZVcmpMdzZXMWNGeERNZl9EWkpsbWRKaDg1YzBHbThKWXAzS0hv?oc=5",
+      "date": "2026-06-04",
+      "source": "UK gov.uk announcements",
+      "source_type": "gov",
+      "region": "UK",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "412c06c4f96cb202",
       "title": "New CFR Report Outlines How the U.S. Can Reduce Its Pharmaceutical Dependence on China",
       "summary": "New CFR Report Outlines How the U.S. Can Reduce Its Pharmaceutical Dependence on China &nbsp;&nbsp; Council on Foreign Relations",
@@ -1560,19 +1508,6 @@
       "via_gnews": true
     },
     {
-      "id": "fd8ce30ed2c5b1b9",
-      "title": "Photo Gallery: Beyond the Pattern: The World of Real Multipolarity. Presentation of the Valdai Report at the Third Youth Conference",
-      "summary": "Photo Gallery: Beyond the Pattern: The World of Real Multipolarity. Presentation of the Valdai Report at the Third Youth Conference &nbsp;&nbsp; valdaiclub.com",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNjI0U082VWw5UUZycjJxOXJHemFfTmFROUd2Ym9Yd09tY09KMnh0b0gyenJDMFVFS094azNtMDlUU3E2bVl6cEYyUkMwb2FXWGNjTUU4TDQ2cmFzYXA0OFBEQXNVQU56Ym9fU1RPMFdYR1ZoUGN6QXZYN0pKaEVLckpKSS1QeDBJeWxpeHJTM0V4VU5QRGFZNE10aEFCc213MHpJbkdLVHZ3cUQ1bmZlNnNtSWlwRndROXRPbjZORnU0T3lXUU10ZldXMHA1Q0I3eDBtQnZFRQ?oc=5",
-      "date": "2026-06-01",
-      "source": "Valdai Club",
-      "source_type": "tt",
-      "region": "RU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "9c4f7871cf190726",
       "title": "Minister for Foreign Affairs announces Government’s new Arctic Strategy in Boden",
       "summary": "Minister for Foreign Affairs announces Government’s new Arctic Strategy in Boden &nbsp;&nbsp; Government.se",
@@ -1648,19 +1583,6 @@
       "region": "SE",
       "lang": "en",
       "theme": "security",
-      "via_gnews": true
-    },
-    {
-      "id": "7b26dd31c149a898",
-      "title": "Young people and work: interim report",
-      "summary": "Young people and work: interim report &nbsp;&nbsp; GOV.UK",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaFhqS0JkNkRZOS1qTTVIekVWZnlCQmhHUDJQUzhoLWt3WVV4ckhtY1Z6ckdkd1RGeWpUM1JhWTNrRFVJZlVUYUljYk53M1o0ckNGTUdLUTlQeEJhSy1PbG8zUmpSZS1rTXhIV2Z2WVdYV1V6MW5neThUOTlDeTE4MWVVdWstUQ?oc=5",
-      "date": "2026-05-28",
-      "source": "UK gov.uk announcements",
-      "source_type": "gov",
-      "region": "UK",
-      "lang": "en",
-      "theme": null,
       "via_gnews": true
     },
     {
@@ -1908,19 +1830,6 @@
       "region": "EU",
       "lang": "en",
       "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "7452fd3b8c2250ab",
-      "title": "The United States and China after the Beijing Summit: Is a New Cold War Possible? An Expert Discussion",
-      "summary": "The United States and China after the Beijing Summit: Is a New Cold War Possible? An Expert Discussion &nbsp;&nbsp; valdaiclub.com",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVTl4M0llUlRnd1RZcnhqQzFYdXg4UGg4WjJIMlRwQ0loSTJCUUNoVUgydEtZcnF2ZExCRzU3a0lEQ01yOTQ1bi1iWlRjMm16Vl9aaE5FZTdlY0JsemNuV2N1TzFLSzJnbmxEY012WWxXQkV2ZUVmeldEY3Yxc3R1NW05dTFhQ3hhaXcyWDhiVHo?oc=5",
-      "date": "2026-05-18",
-      "source": "Valdai Club",
-      "source_type": "tt",
-      "region": "CN",
-      "lang": "en",
-      "theme": "security",
       "via_gnews": true
     },
     {
@@ -2418,6 +2327,19 @@
       "via_gnews": true
     },
     {
+      "id": "5cb6170492735148",
+      "title": "Cabinet approves new Corporate Parenting Strategy for West Northamptonshire",
+      "summary": "Cabinet approves new Corporate Parenting Strategy for West Northamptonshire &nbsp;&nbsp; West Northamptonshire Council",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUTRFbGxsN3VyREZRSXEzdDhBa0ZSNm93VV9yNEFJNXVhUVVyOGNyRkhYQ0NHQmVWeFd0Yy00TFVFYS1IYnhuYXA5cWhPNENWX1BCYWVsSWNvLWJRRWVmQkpiUmRVcmlhTkJiUk9oTzRuWUJ3LU5oNDg1RWVCR1NlTVpmWkx3VTdPU0Rab3NsX1RsdTh5Um5vRWo4dzFqTVMzcTltaU16Ums5RlQyY3c?oc=5",
+      "date": "2026-03-11",
+      "source": "UK gov.uk announcements",
+      "source_type": "gov",
+      "region": "UK",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "4495af14aca0f6e6",
       "title": "Unpacking Iran’s Drone Campaign in the Gulf: Early Lessons for Future Drone Warfare",
       "summary": "Unpacking Iran’s Drone Campaign in the Gulf: Early Lessons for Future Drone Warfare &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
@@ -2465,6 +2387,19 @@
       "source": "European External Action Service",
       "source_type": "gov",
       "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "46310d23365d50f3",
+      "title": "Documents supporting the Core Strategy",
+      "summary": "Documents supporting the Core Strategy &nbsp;&nbsp; Manchester City Council",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPalp4MTN0SGVXOXh2aTZUd1NIUGt5Z2VuS2otOS10Umd5SThsUmxIbE9LS3NOclRGUGdraFVPV2ZkNl9tdUZFTDNMeFp0bmtXMFY2VEo4NEQ1bVBfUURNUkpnSVByRjNiVjJhczlGakNJVFlqa05USHd3N2ZHUDA4NFk5dTEzMWYzNFRsWWFfakwtLXE1MTZSalpjNjRlZUN2QTJhTUJB?oc=5",
+      "date": "2026-03-05",
+      "source": "UK gov.uk announcements",
+      "source_type": "gov",
+      "region": "UK",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -2518,19 +2453,6 @@
       "source_type": "gov",
       "region": "FR",
       "lang": "fr",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "35acd968e8cd2f0f",
-      "title": "China’s Foreign Policy Strategy in Latin America",
-      "summary": "China’s Foreign Policy Strategy in Latin America &nbsp;&nbsp; valdaiclub.com",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZFphM3VKRDJOUXQwTHdTZHk5TFF2SHcwb0NIR25NUXhuZ1h4YU9zZXJIam1MTm9nNEIwNUdEQ1ZsY251WlVHZHZVQXpzNC1NRU5TQ2VCdVdMYVMxWkM1Vm5nVTFoWm5lelNFQzh5MFRUZjdpRGp1R0ZVWjZBMnltUDFYUmUxb0tPWlJITXZn?oc=5",
-      "date": "2026-02-27",
-      "source": "Valdai Club",
-      "source_type": "tt",
-      "region": "CN",
-      "lang": "en",
       "theme": null,
       "via_gnews": true
     },
@@ -2636,6 +2558,32 @@
       "region": "Africa",
       "lang": "en",
       "theme": "diplomacy",
+      "via_gnews": true
+    },
+    {
+      "id": "9ebbd54dae0476b9",
+      "title": "The African Union Elects New Chair of the Union for the year 2026 and Prioritises Water Security at 39th Summit in Addis Ababa",
+      "summary": "The African Union Elects New Chair of the Union for the year 2026 and Prioritises Water Security at 39th Summit in Addis Ababa &nbsp;&nbsp; African Union",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1lTFZEc1lfZTdWTGFZNnVsWTBSelVQU0Y0Rk5qUE5jc2JFSndPS19zMXBFY3lNY3p3SkMxVUJHUmFWdw?oc=5",
+      "date": "2026-02-14",
+      "source": "African Union",
+      "source_type": "io",
+      "region": "Africa",
+      "lang": "en",
+      "theme": "diplomacy",
+      "via_gnews": true
+    },
+    {
+      "id": "2bcf0308045e9ff7",
+      "title": "The 39th Ordinary Session of the Assembly of the African Union at a Glance Water security is a strategic, development, peace, and climate issue",
+      "summary": "The 39th Ordinary Session of the Assembly of the African Union at a Glance Water security is a strategic, development, peace, and climate issue &nbsp;&nbsp; African Union",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcDctWDZhYnBKbUlTbU8wMFFIb1ZkNVNhTTJVWmNsS3BPOU9IOHRlcUM3NVNPb1k4TDQ2QWd5OV80RE1NQXJIZDFZUVpQakM1Tkx3dFJTUWNWYlFibFdzVEFYSEtTMGo2c2N0SjBXaFN6Nno2UHFNSmVNT0o3cVhrcGczVkpfQTNON1VmaFk1V0FBR29EM1RN?oc=5",
+      "date": "2026-02-13",
+      "source": "African Union",
+      "source_type": "io",
+      "region": "Africa",
+      "lang": "en",
+      "theme": "climate",
       "via_gnews": true
     },
     {
@@ -2808,6 +2756,19 @@
       "via_gnews": true
     },
     {
+      "id": "700336adf77b280a",
+      "title": "Flexible Use of Capital Receipts Strategy",
+      "summary": "Flexible Use of Capital Receipts Strategy &nbsp;&nbsp; East Suffolk Council",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM1B5c1c1WmVsTHdiQWVRajNpWThabmpXUmdSY3dCbnpldDMxWkNJcVlxUmNOaURGQ1dETUlYTHpMY1E1ZHBYQ1k5NzBzN1hlajJZS0lwb2ZvM0ZmXzgtTFh5RDJJZkFsaFk2eWhvWTh3M1VEQjZhX0NEOWxFY05KaW0xVTlpRXlOLTNNSkhoMVZKTEdzeXY2Y00wdG1SdEht?oc=5",
+      "date": "2026-01-28",
+      "source": "UK gov.uk announcements",
+      "source_type": "gov",
+      "region": "UK",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "bb88ae8941373876",
       "title": "Russia’s Grinding War in Ukraine",
       "summary": "Russia’s Grinding War in Ukraine &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
@@ -2925,6 +2886,19 @@
       "via_gnews": true
     },
     {
+      "id": "11d173ebd9466cca",
+      "title": "Updated strategy sets out future air quality improvement measures",
+      "summary": "Updated strategy sets out future air quality improvement measures &nbsp;&nbsp; East Suffolk Council",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOXpjMjFGRzE1VjEwRWR1TzdOSkYtVi1ES2xBNU9VM2Rnb0NRS3IzOFJHR1l2N0xMa2JlVUVkeklrY2dfaUlSVTBTSkRHZm5EdlB6XzVmQlNTQ244N0o1LUEyN2Jxd3Z2Mm9TazRVNmFYa09IZlNwVjJaSTh6cEwzSE5wcm1oTU1JSWZZVzF6LWVXY040a0NwckxIRl9KSVNFWVZybFR1Q1VOQQ?oc=5",
+      "date": "2026-01-07",
+      "source": "UK gov.uk announcements",
+      "source_type": "gov",
+      "region": "UK",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "65dde03df9825781",
       "title": "Measures and rules developed in the EU member states regarding integration of third country nationals - Comparative Report",
       "summary": "Measures and rules developed in the EU member states regarding integration of third country nationals - Comparative Report &nbsp;&nbsp; European Policy Centre (EPC)",
@@ -3029,19 +3003,6 @@
       "via_gnews": true
     },
     {
-      "id": "e209fad69a82c62b",
-      "title": "The Armed Conflict Survey 2025",
-      "summary": "The Armed Conflict Survey 2025 &nbsp;&nbsp; The International Institute for Strategic Studies",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZUdtWnhQNEZkMU12T0QtT3lmbU9tVGhOZ3pBdnlycGN4ZzYxYkNoN0pJOUlOREEzWGJpRzBNUmpzc3diS1I2dXFyeklucWZNSVIxbUhMRFBhU2RhRkxnNENGbVV2WE1iVkpBMFdBUGZVNlFlU1FDVHVIRGdEcmYyZmVnZmtDQmFqTmt0STZoT2NkUQ?oc=5",
-      "date": "2025-11-25",
-      "source": "IISS",
-      "source_type": "tt",
-      "region": "UK",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": true
-    },
-    {
       "id": "aa4ad79389a89afb",
       "title": "IISS Conflict Trends 2025",
       "summary": "IISS Conflict Trends 2025 &nbsp;&nbsp; The International Institute for Strategic Studies",
@@ -3103,19 +3064,6 @@
       "source_type": "io",
       "region": "Global",
       "lang": "en",
-      "theme": "diplomacy",
-      "via_gnews": true
-    },
-    {
-      "id": "ff390c7d9f2bff52",
-      "title": "Speech by the Chancellor at the World Climate Leaders' Summit | Federal Government",
-      "summary": "Speech by the Chancellor at the World Climate Leaders' Summit | Federal Government &nbsp;&nbsp; bundesregierung.de",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVzhZaXM1WmtKNTVqU2YtbEt5bEk2WXBwLXZONXpZRHY4WFBPd1FBRU5pOVFna1BxVmM0d3cyMkJrWktXSDE1TEJsd05icW13aDRFcjY4Smh0M2lCZlZtV2xwN256ejV3ZU5JWjFoNU1ES0xCTDVLcUY3RVpJMUEwbERaSXdrbnJHT3pGdFI3TkVDSEFYZkV0UzBlN1RId29QcVBKX2MyWklvNnZGZm9hWmJ3?oc=5",
-      "date": "2025-11-07",
-      "source": "Germany — Bundesregierung",
-      "source_type": "gov",
-      "region": "DE",
-      "lang": "de",
       "theme": "diplomacy",
       "via_gnews": true
     },
@@ -3250,6 +3198,45 @@
       "via_gnews": true
     },
     {
+      "id": "5e7f378ac546f599",
+      "title": "Vladimir Putin Meets with Members of the Valdai Discussion Club. Transcript of the Plenary Session of the 22nd Annual Meeting",
+      "summary": "Vladimir Putin Meets with Members of the Valdai Discussion Club. Transcript of the Plenary Session of the 22nd Annual Meeting &nbsp;&nbsp; valdaiclub.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeWNsWFZrR3JLU09vMG15cm0xNWFiazlIQUJOVkFXQlEzbXgwaHh2ZlZ6b3hUeTR6T0o3NEdudWxSZ3NUc2R2bTdsNVZubEk2TzZfR0VQX2ZUT201SEFTUXVNZDZ6RHBScmxKR2tDM2dwMElrUnFlcFBmNzdrUDc3Wmc3WDFZbmpSR2RBakEyMmRPUmQ2X1dKcVhEMzVpNDk5MEVtcWlpeUpZdWtUNV9JdWpJZ0dNV05CbGpkajBZR0UxbjQ?oc=5",
+      "date": "2025-10-02",
+      "source": "Valdai Club",
+      "source_type": "tt",
+      "region": "RU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "9348390277b81038",
+      "title": "Dr. Chaos or: How to Stop Worrying and Love the Disorder. The Annual Report of the Valdai Discussion Club",
+      "summary": "Dr. Chaos or: How to Stop Worrying and Love the Disorder. The Annual Report of the Valdai Discussion Club &nbsp;&nbsp; valdaiclub.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yS1ZRLVpvRkxJYUNlVnlFc19YVktOOUNfc3lfZ1ZaYThoWWxJcnlkbjVUMHpRMFhLdHNueEdteVgyYThvNlJ1R1NubGV0V1Npd25ESnVmRTU2czR4ajMtY1hOdVRFblZwemFpZEpqemZxRjZK?oc=5",
+      "date": "2025-09-29",
+      "source": "Valdai Club",
+      "source_type": "tt",
+      "region": "RU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "f9cc7e6c2b4e629d",
+      "title": "22nd Annual Meeting of the Valdai Discussion Club",
+      "summary": "22nd Annual Meeting of the Valdai Discussion Club &nbsp;&nbsp; valdaiclub.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SMERreDRQcEVOMmg3Q3BfUTlVaUltQkpva2J1cDNCeUxBTzc4RjRvbk5XSHV3Ui1UMmdJMW5pYnAtcWlNbkJoTWdhZ1VlWmIwdEtFU3Itenlpdw?oc=5",
+      "date": "2025-09-29",
+      "source": "Valdai Club",
+      "source_type": "tt",
+      "region": "RU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "d9377414bba6b338",
       "title": "SIPRI Yearbook 2025, Summary in Spanish",
       "summary": "SIPRI Yearbook 2025, Summary in Spanish &nbsp;&nbsp; Stockholm International Peace Research Institute",
@@ -3285,6 +3272,19 @@
       "source_type": "gov",
       "region": "FR",
       "lang": "fr",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "421fcdc98cc05f19",
+      "title": "Programme of the 22nd Annual Meeting of the Valdai Discussion Club",
+      "summary": "Programme of the 22nd Annual Meeting of the Valdai Discussion Club &nbsp;&nbsp; valdaiclub.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3lSM2xsVWdVcjdRUFlac3gtTDhJUWxqb2o1VHB0cG1vTWRJbWdoVmJKZ0s1OWk3UmUtWk5XazBodHE2ekFSWTdJLWVlQTRMMVdzVG9pLWFwNEZZYjdia1dMeXBiRDVaeUhqdnNmU0piTXNGNlNUMTRhUE5Velk5X1NMYjE0Vm1OamItVWQtcDdTWHFNSXlOekl6cUFvNFZEMkxnRU5XY251VmJiYk1ROS13?oc=5",
+      "date": "2025-09-22",
+      "source": "Valdai Club",
+      "source_type": "tt",
+      "region": "RU",
+      "lang": "en",
       "theme": null,
       "via_gnews": true
     },
@@ -3481,19 +3481,6 @@
       "region": "LatAm",
       "lang": "es",
       "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "d333f3c2fffd6c42",
-      "title": "America’s AI Action Plan",
-      "summary": "America’s AI Action Plan &nbsp;&nbsp; The White House (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYXp6Z0FJdzFPdFpVSUVRVC0yN2JfdC0wM2JVdUlMM2tPb0tYTVZadGk2SGtrUzh1WTJEenRTdVIza3laNloyWFlTb2ItU2NxSlBWX2hvY01SbV92S1ZIeDhNX2lVc2s1MHpOV05GQUFzcmhLZ3M1UmJ0QTVyblk3WlFxRmdJOE5a?oc=5",
-      "date": "2025-07-10",
-      "source": "US White House",
-      "source_type": "gov",
-      "region": "US",
-      "lang": "en",
-      "theme": "technology",
       "via_gnews": true
     },
     {
@@ -3939,6 +3926,19 @@
       "via_gnews": true
     },
     {
+      "id": "8f7d9dfa1ffbd859",
+      "title": "Strategic Engagement in the Asia Pacific: The Future of the ASEAN Defence Ministers’ Meeting-Plus (ADMM-Plus)",
+      "summary": "Strategic Engagement in the Asia Pacific: The Future of the ASEAN Defence Ministers’ Meeting-Plus (ADMM-Plus) &nbsp;&nbsp; S. Rajaratnam School of International Studies (RSIS)",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdDB4dnBuRXVESkdxeTFtYTJKNnNKWVZ0bzZRWHpvQllGcENSYXJxTmhNTDlNd1lyOUt2YmZGcU5PVVVfd2N1RWZ6Zjg5bFhwbHQ1TEtoeGg5dzB0N1c1QU8yRmFQZEI1WFRPMXIyRW5MVk9uN2RHTmhIWTBGcUlmSjNnOVdBMEdlSHdr?oc=5",
+      "date": "2025-02-18",
+      "source": "RSIS Singapore",
+      "source_type": "tt",
+      "region": "Asia",
+      "lang": "en",
+      "theme": "security",
+      "via_gnews": true
+    },
+    {
       "id": "7f6f0db2b4de3459",
       "title": "STRATEGIC FILE",
       "summary": "STRATEGIC FILE &nbsp;&nbsp; pism.pl",
@@ -3988,6 +3988,19 @@
       "region": "AU",
       "lang": "en",
       "theme": "diplomacy",
+      "via_gnews": true
+    },
+    {
+      "id": "1279c492804dae72",
+      "title": "Asset Management and Compliance Strategy 2025-2030",
+      "summary": "Asset Management and Compliance Strategy 2025-2030 &nbsp;&nbsp; Sandwell Council",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNFJMUXRsUWlyaXFtenk1QkJRX1VRdTdDQ0JnWUVBWG5fV3diSy0zOGVEaWZ0bzlRLTY3WHdHeUtOYVROX0R4cHg3MFAtaS04OE10b25STkxNOHlLbU1tdE9pTUJzdm10QXJrdldRZm5qSU91T1RwV084bTZUa3lJSmhGTHkwbWdJbVYxQ25IYURGdzVpaC1BVWdyVlVDSFhlX2FlcQ?oc=5",
+      "date": "2024-12-14",
+      "source": "UK gov.uk announcements",
+      "source_type": "gov",
+      "region": "UK",
+      "lang": "en",
+      "theme": null,
       "via_gnews": true
     },
     {
@@ -4108,6 +4121,19 @@
       "via_gnews": true
     },
     {
+      "id": "97a5b1aa2d311fed",
+      "title": "Vladimir Putin Meets with Members of the Valdai Discussion Club. Transcript of the Plenary Session of the 21st Annual Meeting",
+      "summary": "Vladimir Putin Meets with Members of the Valdai Discussion Club. Transcript of the Plenary Session of the 21st Annual Meeting &nbsp;&nbsp; valdaiclub.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83Z1BZblBUQkZZMFpqVU95dVZqV3dIN2FPQ3Z6U01FNFU1UFYtR1JpLWNvY3VmejNsWTZQMHZGemZIczN1a3A2M2Z5UWRuVGVySVFmUmtSN3NBNDlSX1Y0TENhdXR5bnZ1andoZ21EdktvZEJ5QmU4X0FqN24?oc=5",
+      "date": "2024-11-07",
+      "source": "Valdai Club",
+      "source_type": "tt",
+      "region": "RU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "18319c6b1ea17bfe",
       "title": "EU Indo-Pacific Strategy",
       "summary": "EU Indo-Pacific Strategy &nbsp;&nbsp; EEAS",
@@ -4117,6 +4143,32 @@
       "source_type": "gov",
       "region": "EU",
       "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "4551e424d35b9fea",
+      "title": "The 21st Annual Meeting of the Valdai Discussion Club",
+      "summary": "The 21st Annual Meeting of the Valdai Discussion Club &nbsp;&nbsp; valdaiclub.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSkwtMDZId1BmMmw2cEo3dUZkM3NBbnl2eGd6N2VEQ2hjTXY3am94MzdVeVVDbnYzaHN6R3pnNGFyZzBDUXBIdG13Wm1RT0wtQXpJWUM1M3BZNHg2VlhYbUFjNDM4eE1pVThEbWRIeVJ5elFyY09RS213ZzY2Z3laa0p5aVRLRUVjVTBXbXloRWg1QQ?oc=5",
+      "date": "2024-11-04",
+      "source": "Valdai Club",
+      "source_type": "tt",
+      "region": "RU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "873c97f44347f277",
+      "title": "105 países suscriben carta de respaldo al Secretario General de Naciones Unidas ante la declaración de persona non grata por parte del Gobierno de Israel",
+      "summary": "105 países suscriben carta de respaldo al Secretario General de Naciones Unidas ante la declaración de persona non grata por parte del Gobierno de Israel &nbsp;&nbsp; minrel.gob.cl",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSS10azkyTXcxUFdRNTA4RlJhSFlfZnB5cUZJQ3N5QWJ2T1dqSS1nMlMyVnlWY0QzeE1HVGx2dUtZaFFVNnU2WVNOSHJraGVDN0tSZ1pGTDdtRXJzUS1zUlAtRUM5OGhUcW1JZVJ4bTVaSWJCTjhoYTZnSnU3QWJaQ3NwRWtEOWhQVjVQb1FNRG1DN0xvRlg0Mkx5dnpuSF9rWTJfWWdSYm4wQlJRZ2c?oc=5",
+      "date": "2024-10-11",
+      "source": "Chile — Cancillería",
+      "source_type": "gov",
+      "region": "LatAm",
+      "lang": "es",
       "theme": null,
       "via_gnews": true
     },
@@ -4195,19 +4247,6 @@
       "source_type": "gov",
       "region": "IT",
       "lang": "it",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "1a047448feec3050",
-      "title": "A report maquette DEF EMi02.qxd",
-      "summary": "A report maquette DEF EMi02.qxd &nbsp;&nbsp; International Crisis Group",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5lZmlZbFpZdGtWam52VDNGZlZvOTBCaUpJdlpXLVVQZFRLcUZDUlRpeXlxQm51eVcteWxWT2dQakdROEJOQTBNak9sUElLZUlRclpVWjlrdHJKc3ItZVFXenZCejhVU2U2dlJ2UWQydFpDblMxSEl2RFJR?oc=5",
-      "date": "2024-07-04",
-      "source": "International Crisis Group",
-      "source_type": "tt",
-      "region": "Global",
-      "lang": "en",
       "theme": null,
       "via_gnews": true
     },
@@ -4615,6 +4654,19 @@
       "via_gnews": true
     },
     {
+      "id": "2f8d4f2ecb4363e2",
+      "title": "Vladimir Putin Meets with Members of the Valdai Discussion Club. Transcript of the Plenary Session of the 20th Annual Meeting",
+      "summary": "Vladimir Putin Meets with Members of the Valdai Discussion Club. Transcript of the Plenary Session of the 20th Annual Meeting &nbsp;&nbsp; valdaiclub.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVXZIamZUWU9ycmxhWlRuLXJUdVg2RnJtbjFXR0dfY1FwOTVxVU5IdVRDSE00NFBZY2U3ZXhFMk5WMEpuUnU2SW1WMkRzQkVyOTd1ME5tdnNZRW80amxqbWZKVGlSV0RpT0pSY0p4ZUg0djFUQ001eEVLbnM4RlppUF9nY3k5OEVJVC1yTzlUd3lOci1PVE1FbFV4Ukg0WndDNXczVG5GRE9tLUFPZXJzcXVmZWs?oc=5",
+      "date": "2023-10-05",
+      "source": "Valdai Club",
+      "source_type": "tt",
+      "region": "RU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "b20cfbbbf7766c51",
       "title": "The EU Border Management Strategy",
       "summary": "The EU Border Management Strategy &nbsp;&nbsp; cdn.ceps.eu",
@@ -4633,6 +4685,19 @@
       "summary": "The 20th Annual Meeting of the Valdai Discussion Club. Fair Multipolarity: How to Ensure Security and Development for Everyone &nbsp;&nbsp; valdaiclub.com",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWnBZTGdmWVlkTUcyTEYtVlVBUHNEd09RUzJfa2xrWUcyU3E5S0JCU3pXYTNjclF6VE1nWEhsSWI1cFFFaW5vQm5kV3ktSnE5SlZlY1ZvU3dFZTdjalVaYUxuT0NkSmktdFZXTm1BbUVLLW5xUXNQNXRFUGZVRzNOQnUzX0ozd21MbGFVOWo4ckpQQQ?oc=5",
       "date": "2023-10-02",
+      "source": "Valdai Club",
+      "source_type": "tt",
+      "region": "RU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "cadecb95a6c01a40",
+      "title": "Programme of the 20th Annual Meeting of the Valdai Discussion Club",
+      "summary": "Programme of the 20th Annual Meeting of the Valdai Discussion Club &nbsp;&nbsp; valdaiclub.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc1M5RU8yMFVjZ0VlUUxtd3kxR1BOWU1nUUJkOHhpN1otbjlRYzhyaWgyUENZbmtncE4wX29HSmQ2QThBNFA2c1FMa2dEbWZocVA4V3JRX1M4RVBhdzRtZGhYaW1yUzNkNV9Sb19fU3NLbGUtQW5EZGFGV1hkZEd3dktYeVp1QlE2cHFmVU5KNTJXMEsydzhNcUNIelYzM1k1ZFNZSUlXMmpMemhvcEdBNm1B?oc=5",
+      "date": "2023-09-28",
       "source": "Valdai Club",
       "source_type": "tt",
       "region": "RU",
@@ -4992,6 +5057,19 @@
       "via_gnews": true
     },
     {
+      "id": "f368f7d453562b0e",
+      "title": "CULTURAL STRATEGY REFRESH",
+      "summary": "CULTURAL STRATEGY REFRESH &nbsp;&nbsp; Coventry City Council",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmcGlsSWo3QkpyanFBZmVhM2RQeU9Ra2FwWjNNUGtTU0E2dXh2YWxRUUpoZEN6OGlFQ3ZlTC1TYXkzUFZIelNYLU5OUnpfVVFTSDZxNXdZRURwVE1UOWNIODZmS1NGc2xSb09QMmMyaXNzazhTUHRWdFlHaVZ6VGM?oc=5",
+      "date": "2023-04-20",
+      "source": "UK gov.uk announcements",
+      "source_type": "gov",
+      "region": "UK",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "48f607ed08849bce",
       "title": "POLICY BRIEF",
       "summary": "POLICY BRIEF &nbsp;&nbsp; Peterson Institute for International Economics",
@@ -5187,19 +5265,6 @@
       "via_gnews": true
     },
     {
-      "id": "3a5d1ee58e7739bb",
-      "title": "Will next week’s US-Africa summit revive relations?",
-      "summary": "Will next week’s US-Africa summit revive relations? &nbsp;&nbsp; ISS Africa",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOW5mdVVRRUR4V3lnNlc2YlNqUU0yWl94WWlyY284U1lTSXFMSG53OW5hSG1Bb0swelhhbTRKOTdXX3pTVE03M3gtb0tNWGRvbWY0MTZRU0FsbGdQaHFPTC1lQVRtaW15ZTZyR3NkSkVWdXlleEVqZHZ1cDZ4TlZ1Ry1CZUVUM1o3?oc=5",
-      "date": "2022-12-09",
-      "source": "ISS Africa",
-      "source_type": "tt",
-      "region": "Africa",
-      "lang": "en",
-      "theme": "diplomacy",
-      "via_gnews": true
-    },
-    {
       "id": "d049f2a1742eaf19",
       "title": "Raw materials strategy for large transitions",
       "summary": "Raw materials strategy for large transitions &nbsp;&nbsp; Rijksoverheid.nl",
@@ -5312,6 +5377,19 @@
       "source": "GLOBSEC",
       "source_type": "tt",
       "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "98e53fb76db29896",
+      "title": "Vladimir Putin Meets with Members of the Valdai Discussion Club. Transcript of the Plenary Session of the 19th Annual Meeting",
+      "summary": "Vladimir Putin Meets with Members of the Valdai Discussion Club. Transcript of the Plenary Session of the 19th Annual Meeting &nbsp;&nbsp; valdaiclub.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYlZ0alA2dTBWWlZfVnlmUlhBR2pvbzM0RmpUS0t2ajlULVpjc3ZLNHlwTjBFbUtpeG11RHhHUGt0dllCSm1pZUNkUEFiX1k1TmJ4RUxXQjNVaGxDMHV5eDFHQ0M3Vm5ydm1jMVI0Wkx0X29FNnowUzd6ZkVSNmVrMk5ZaEozSW5LZFV2UE9xWnQwZ2VKYVJ1ZFhRSnRFREk?oc=5",
+      "date": "2022-10-27",
+      "source": "Valdai Club",
+      "source_type": "tt",
+      "region": "RU",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -5590,6 +5668,19 @@
       "via_gnews": true
     },
     {
+      "id": "08939b806adb1fe9",
+      "title": "Contaminated land strategy – London Borough of Bromley",
+      "summary": "Contaminated land strategy – London Borough of Bromley &nbsp;&nbsp; London Borough of Bromley",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWEtZN0xpVkxKWG1aVHZlS3hEM09BcjNRc1BqY0l2LXhPWUxObXFEYlY5SmplTWQ1bFdZQU52MjFEUEdXMTJDNzR6RzFLam9vOUhwZ3JubjZobkNWQW5KM1ZYQjNtS0NfSU0zWWVhSVNWZUJqZ1ZuSkJaQU5vWkFmaXlR?oc=5",
+      "date": "2022-06-09",
+      "source": "UK gov.uk announcements",
+      "source_type": "gov",
+      "region": "UK",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "7209e869e697cb7f",
       "title": "Launch of the Indo-Pacific Economic Framework for Prosperity (IPEF) – Joint Statement",
       "summary": "Launch of the Indo-Pacific Economic Framework for Prosperity (IPEF) – Joint Statement &nbsp;&nbsp; Australian Government Department of Foreign Affairs and Trade",
@@ -5653,6 +5744,19 @@
       "lang": "en",
       "theme": "diplomacy",
       "via_gnews": false
+    },
+    {
+      "id": "90bd0778b5d74835",
+      "title": "Time to move forward with the Strategic Compass",
+      "summary": "Time to move forward with the Strategic Compass &nbsp;&nbsp; EEAS",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8weEdFTVRKa2pXLUlXT1FTaFBwRTFhSjY4bkc1QWs3QWtsUkhxZWlmbm9iaGlDLXI2dnJKaUlLem92UENISFo4UU9sbUhoaEphelB0NkZ5dzViSHN3MnJVcUxqbXFLd3BVVUF3Q1hzR2RnWi1VeFdOSGN3?oc=5",
+      "date": "2022-04-03",
+      "source": "European External Action Service",
+      "source_type": "gov",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
     },
     {
       "id": "99122ea0685e375a",
@@ -5772,6 +5876,19 @@
       "via_gnews": false
     },
     {
+      "id": "8cd470d9afeb41ac",
+      "title": "GLOBSEC report: the risk of shell corporations",
+      "summary": "GLOBSEC report: the risk of shell corporations &nbsp;&nbsp; GLOBSEC",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdTkyVjlUSjFhZjY4Vmotd25mdG4yUEw4al9XOW1DQ3BsYWtNNEpuOWg0N0UwdmpuSlBQTm5LT3l2U2dXaXBlRXlKTXlVQ3RrZXVWLTg4VzNySGJYdXppaHhLOWREU3JwbElVYWpPREhMUXBOOXF2VGVFbllvRjhvMWpablF2X09DWW5oU3FvdmNnZw?oc=5",
+      "date": "2022-02-09",
+      "source": "GLOBSEC",
+      "source_type": "tt",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "0168be81ec68f190",
       "title": "PISM Strategic Ark - Save the Date",
       "summary": "PISM Strategic Ark - Save the Date &nbsp;&nbsp; pism.pl",
@@ -5876,6 +5993,19 @@
       "via_gnews": true
     },
     {
+      "id": "2206b5a3d7d70741",
+      "title": "Vladimir Putin Meets with Members of the Valdai Discussion Club. Transcript of the Plenary Session of the 18th Annual Meeting",
+      "summary": "Vladimir Putin Meets with Members of the Valdai Discussion Club. Transcript of the Plenary Session of the 18th Annual Meeting &nbsp;&nbsp; valdaiclub.com",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSk9aN21NVDJrN2dsVGJOQjBjZTNsSmVaQ3g3THJNMEhUUzByY1FRWXpCcVhic0lvT3NBNUFTN0J1d2ZnUUNQWTBDMmRPLUVsMExlVFlWbXo0XzdiTGloMTh1dVNvREx6SDNJSFRGVnJ6bS1UY1FXcXpyV0Y3Mms1YS1OejQxaHBnQm1wVDc5bVoyc1JZUWhrcVc3Vm9mSGZpaFJIRGJOeVhwOUtNQkZGMUZlazRWYng5RU5uSEZxMHRNVzcta2ZBQTBGTnNrOUpJNTBUdVB1WTl2cWVKemRjcGRR?oc=5",
+      "date": "2021-10-22",
+      "source": "Valdai Club",
+      "source_type": "tt",
+      "region": "RU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "816c4227deb8e1d6",
       "title": "BRICS Academic Forum Report",
       "summary": "BRICS Academic Forum Report &nbsp;&nbsp; orfonline.org",
@@ -5945,7 +6075,7 @@
       "title": "Concluye reunión de los titulares de la SRE y la SSPC de México con el secretario de Seguridad Nacional de EE.UU.",
       "summary": "Concluye reunión de los titulares de la SRE y la SSPC de México con el secretario de Seguridad Nacional de EE.UU. &nbsp;&nbsp; Gob MX",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLVdNYmdFLWVWbHBNc0hTd3VyMjJnODlwZTNsdTlZTWJwcWtYUUFZWHF0d2VDVlZVRDlkZ0JQWEF6ZUc4WkNhUTR3Q0c4X0w5WUtzZElycng5Vllud1BjazlrUUZpUWZ1azRWOGs2am9iZ1ZZWlR1amJIYThGbDlrZVV2eExQUmI3Tk42bm1LMFM4N1pOSEsyNFhZTDR3N1ZlYWc1anNxQXpVSjdVWmptcTVFelYzRlNvdFpRems3bnd5QTBQc1JmUUdxRFdQN3BUVkxRLVZ5TzZhZkpqVmNUQldoUnRyUQ?oc=5",
-      "date": "2021-06-17",
+      "date": "2021-06-15",
       "source": "Mexico — SRE",
       "source_type": "gov",
       "region": "LatAm",
@@ -6162,6 +6292,19 @@
       "via_gnews": true
     },
     {
+      "id": "3976466889d4259c",
+      "title": "Development of an adult restorative justice strategy ni - justice-ni.gov.uk",
+      "summary": "Development of an adult restorative justice strategy ni &nbsp;&nbsp; justice-ni.gov.uk",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS21Yb00xSENMMC1DNWJxSFNYdml1TjJXcjVHZThYdG13QzZVMV9OYi00M1RvbG53R21ZTzVaRWZqVEdJb1NJdWZCZVBWNGx5N0JCU3B5R0JzaXdjTXJGUHNuTEdCTlRmcnR3eTV0MUhqZlNzemRNLXZGenpkNGJmdmdLRG95aEF0UWV0VDRUdkd1eGpIT1ozQw?oc=5",
+      "date": "2020-06-22",
+      "source": "UK gov.uk announcements",
+      "source_type": "gov",
+      "region": "UK",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "39b125142513842d",
       "title": "Nuclear weapon modernization continues but the outlook for arms control is bleak: New SIPRI Yearbook out now",
       "summary": "Nuclear weapon modernization continues but the outlook for arms control is bleak: New SIPRI Yearbook out now &nbsp;&nbsp; Stockholm International Peace Research Institute",
@@ -6292,6 +6435,19 @@
       "via_gnews": true
     },
     {
+      "id": "8a154bd03c847e85",
+      "title": "Private Sector Housing Strategy",
+      "summary": "Private Sector Housing Strategy &nbsp;&nbsp; City of York Council",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdWtndldlWklIYTdGclFvUTBqZkZiek1GZWV2X01zNmZRQnhoUnp0MzB1TmxLelZzTmhxaTVOVVhOUnFxRVlFODdnT2RsN19ubWhTc0pueVRPaDdpZDFzVVlkWG9PVk00UjY5RnY4SHhtUG9CYTNPRUVoRjFNanJfbmJmS1E?oc=5",
+      "date": "2020-02-18",
+      "source": "UK gov.uk announcements",
+      "source_type": "gov",
+      "region": "UK",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "38e3422215529e47",
       "title": "Can France and Germany steer Europe to success? Annual report 2019",
       "summary": "Can France and Germany steer Europe to success? Annual report 2019 &nbsp;&nbsp; Centre for European Reform (CER)",
@@ -6357,19 +6513,6 @@
       "via_gnews": true
     },
     {
-      "id": "4495ce636f55ecad",
-      "title": "Russia-Africa Summit: Economic Transformation and Security Arrangements",
-      "summary": "Russia-Africa Summit: Economic Transformation and Security Arrangements &nbsp;&nbsp; valdaiclub.com",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jLWR0UUNrQkZfc0VIMUhHQVpLS3hLWUtSQ21GNkxGRkVYVXU2N3Z6QnhRMVNYYXFfVU5veWxsYUl6YXpveFU1UDJBNjdtSDh6aUtCWW1BdE05UkZYSVF4LWxzSGlSd1U3?oc=5",
-      "date": "2019-10-23",
-      "source": "Valdai Club",
-      "source_type": "tt",
-      "region": "RU",
-      "lang": "en",
-      "theme": "diplomacy",
-      "via_gnews": true
-    },
-    {
       "id": "2616ce6cc7c8ff2d",
       "title": "François Heisbourg | Research Team | Foundation for Strategic Research",
       "summary": "François Heisbourg | Research Team | Foundation for Strategic Research &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
@@ -6392,6 +6535,19 @@
       "source_type": "gov",
       "region": "LatAm",
       "lang": "es",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "d2560425c24051b3",
+      "title": "Annual Review EHC Plan post 16 template section 1 and 2",
+      "summary": "Annual Review EHC Plan post 16 template section 1 and 2 &nbsp;&nbsp; Oldham Council",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUHNFTzVlVUg4TU53dmY4OTJPSEFib0YzYWQ1dThzc1llMWRsVnFJT09iTlJDTzBXMUtQb0JiMDdXODFiOE51c3hKYTd5QW1lTHkwRlIyczM5UUMtNHBXalctR2Z6X1lHd0pHdHQ3ajEteTE3VE5qeS1IdDhsZkYtdEM5YjJwM3BRenEtVGMyWFlnajZ5d3RobVY1N21CaWx3TU1V?oc=5",
+      "date": "2019-06-22",
+      "source": "UK gov.uk announcements",
+      "source_type": "gov",
+      "region": "UK",
+      "lang": "en",
       "theme": null,
       "via_gnews": true
     },
@@ -6443,6 +6599,19 @@
       "source": "NUPI (NO)",
       "source_type": "tt",
       "region": "NO",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "b132c5bcd1d55142",
+      "title": "Communities Strategy - Draft",
+      "summary": "Communities Strategy - Draft &nbsp;&nbsp; Nottinghamshire County Council",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOXpndTVrOUppZkFvbXh4emNlR0xHT3k1S1E1OVppeFpKSlYzQmtidTdLY19tZkZCOGlIY0RIZG9oYy1GeG9ySGo5WGdZNE5YdFIwUnBBeXdOSFBQRWUtblNMbWNGekljcFdDTVVvOFE3ZEpkN1kxWTJDdDQ2ZG5zcS1n?oc=5",
+      "date": "2019-04-12",
+      "source": "UK gov.uk announcements",
+      "source_type": "gov",
+      "region": "UK",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -6513,6 +6682,19 @@
       "via_gnews": true
     },
     {
+      "id": "9fdd2dce9943a5e3",
+      "title": "Cultural Strategy for Nottinghamshire",
+      "summary": "Cultural Strategy for Nottinghamshire &nbsp;&nbsp; Nottinghamshire County Council",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbUowS1llalpJRk1BOGFsQjhQQU1FOUp2b2JTOU9wVnBNVTY0WXRLbEJsR2x4T2VBZ0pDZ3BjMHBYclNsTzVxUnVIcDJzRnRHd21lV3BNWUc3b1ZqbDJ5RnNlMXJUR1RVUm9Ca2dwRzlmdEJDeHNtZlc3cnktR1YtY2RISXdFX3I3VS1iYmxWSlV6VmhvU3NaMg?oc=5",
+      "date": "2018-12-23",
+      "source": "UK gov.uk announcements",
+      "source_type": "gov",
+      "region": "UK",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "07f03033da469a72",
       "title": "The process of Disarmament-Demobilization-Reintegration (DDR) in Mali: a journey full of pitfalls",
       "summary": "The process of Disarmament-Demobilization-Reintegration (DDR) in Mali: a journey full of pitfalls &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
@@ -6522,6 +6704,19 @@
       "source_type": "tt",
       "region": "FR",
       "lang": "fr",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "9cd3bf2d8e1d0f5c",
+      "title": "Asset management strategy",
+      "summary": "Asset management strategy &nbsp;&nbsp; Medway Council",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfMjZ0XzlyRzQwd1VLNW5pSkFMTENsREV2OVAxRWZBVk5HMEZSQmk0ZUFabGM0QmVKOEdDaXV2bGtaZzRrZkxZc1Zyc05WdEJIMkdvU0NtcjYxUHpkcTV2NWd0RUhhcjlLSEN3N2pJNmlpbHQ3c0d5R1pwTQ?oc=5",
+      "date": "2018-11-03",
+      "source": "UK gov.uk announcements",
+      "source_type": "gov",
+      "region": "UK",
+      "lang": "en",
       "theme": null,
       "via_gnews": true
     },
@@ -6864,6 +7059,19 @@
       "via_gnews": true
     },
     {
+      "id": "ff8651eab784503d",
+      "title": "Ealing mental health and wellbeing strategy for adults",
+      "summary": "Ealing mental health and wellbeing strategy for adults &nbsp;&nbsp; ealing.gov.uk",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMC05VnpNNFczRUV0aGdRVkdfb1M0dHVqdEs4cHF4SjZidXBwMHVzNmlRT3lpTmVDU2dqYnpNSzZ6elVTSHVjcFJmbFg2Y2xZb0FRdV8xaHdpTVhrOU4zMGhLWDZlS2dlUXVKZERrano5MmpSTTFZTDl0ZmxRVDlCWk51WEo0dzJvbUhTd0hTM252TkpvUWhhNUlxS0dFNkxsZVUycGV3TQ?oc=5",
+      "date": "2016-10-11",
+      "source": "UK gov.uk announcements",
+      "source_type": "gov",
+      "region": "UK",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "8e5bf269e5ce8529",
       "title": "New amnesty International Report Profiles Nigeria Police Abuse",
       "summary": "New amnesty International Report Profiles Nigeria Police Abuse &nbsp;&nbsp; Council on Foreign Relations",
@@ -6968,19 +7176,6 @@
       "via_gnews": true
     },
     {
-      "id": "91b2da17cd6cb2dc",
-      "title": "Report: Toward the Great Ocean – 3: Creating Central Eurasia",
-      "summary": "Report: Toward the Great Ocean – 3: Creating Central Eurasia &nbsp;&nbsp; valdaiclub.com",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ3hycHhsLVhSSjctQlhtb0xjeHdsSnM2MjdFTzctdTRfQkZiYzJJOWdEcjRjczVJY05WT1RBZHBpNTFHRURlQVJuNlpoUF9HR01IcVRLUFZhaEItazVzaTBtT3hvTmZRTEZRRTZIY0taMVczY21scG1nLW5SNW1qRGd3OGdCZWp2WnBz?oc=5",
-      "date": "2015-06-04",
-      "source": "Valdai Club",
-      "source_type": "tt",
-      "region": "RU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "4cf720b7055246f9",
       "title": "Health, wellbeing and productivity in the workplace: A Britain's Healthiest Company summary report",
       "summary": "Health, wellbeing and productivity in the workplace: A Britain's Healthiest Company summary report &nbsp;&nbsp; RAND",
@@ -7069,19 +7264,6 @@
       "region": "US",
       "lang": "en",
       "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "4cf022d1a066b5a5",
-      "title": "Report: Military Reform: Toward the New Look of the Russian Army",
-      "summary": "Report: Military Reform: Toward the New Look of the Russian Army &nbsp;&nbsp; valdaiclub.com",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUDhIT2dBaWlKNEJhWGh1VFdHVUhCV2xvbzQzX0wzTFpwa2FzNHZpT1ZGMWZBNmozOGVCV1BYTFZFNWM4MXEwUm9RSGYwWkpwM1hNUFAxRGQtMEloUWMxTWhhUXpfUVNPNUtKZWdTOVRkMHA2dUo0SzNpQjYxSmdxZUF3N0ZBeGxNU1l4S2huMkpWbzg?oc=5",
-      "date": "2012-07-19",
-      "source": "Valdai Club",
-      "source_type": "tt",
-      "region": "RU",
-      "lang": "en",
-      "theme": "security",
       "via_gnews": true
     },
     {
