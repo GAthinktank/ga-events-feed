@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T02:50:23.280076+00:00",
-    "duration_seconds": 90.578516,
+    "generated_at": "2026-06-25T06:45:07.490396+00:00",
+    "duration_seconds": 83.889381,
     "stats": {
-      "ok": 85,
-      "fail": 14,
-      "items_total": 2321,
-      "items_strict": 542,
-      "events_detected": 2
+      "ok": 86,
+      "fail": 13,
+      "items_total": 2304,
+      "items_strict": 549,
+      "events_detected": 3
     },
     "source_count": 99
   },
@@ -43,6 +43,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "f65c9e4a4fee4034-evt",
+      "title": "Secretary-General of ASEAN delivers pre-recorded keynote address at the ASEAN-Australia Track 1.5 Dialogue",
+      "date": "2026-06-25",
+      "end_date": "2026-06-25",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/secretary-general-of-asean-delivers-pre-recorded-keynote-address-at-the-asean-australia-track-1-5-dialogue/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, delivered a pre-recorded keynote address at the ASEAN-Australia Track 1.5 Dialogue held at the ASEAN Headquarters/ASEAN Secretariat, on 25 June 2026. Marking the fifth anniversary of the ASEAN-Australia Comprehensive Strategic Partnership, Dr. Kao high ",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "bca5884435b95e15-evt",
