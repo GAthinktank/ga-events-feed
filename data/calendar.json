@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T06:45:07.490396+00:00",
-    "duration_seconds": 83.889381,
+    "generated_at": "2026-06-25T11:38:48.057244+00:00",
+    "duration_seconds": 104.877331,
     "stats": {
-      "ok": 86,
-      "fail": 13,
-      "items_total": 2304,
-      "items_strict": 549,
-      "events_detected": 3
+      "ok": 85,
+      "fail": 14,
+      "items_total": 2299,
+      "items_strict": 545,
+      "events_detected": 6
     },
     "source_count": 99
   },
@@ -43,6 +43,57 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "cd1d4cc835b68a81-evt",
+      "title": "Commission disburses the first €3.2 billion instalment to Ukraine under the €90 billion Ukraine Support Loan",
+      "date": "2026-06-25",
+      "end_date": "2026-06-25",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1452",
+      "summary": "European Commission Press release Brussels, 25 Jun 2026 Today at the Ukraine Recovery Conference, President Ursula von der Leyen announced the disbursement of €3.2 billion to Ukraine as the first instalment of the new macro-financial assistance (MFA).",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "77028414bc3ca8ce-evt",
+      "title": "Opening speech by President von der Leyen at the Ukraine Recovery Conference",
+      "date": "2026-06-25",
+      "end_date": "2026-06-25",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1455",
+      "summary": "European Commission Speech Gdańsk, 25 Jun 2026 Prime Minister Tusk, dear Donald, Prime Minister Svyrydenko, dear Yulia, President Costa, dear António, Fellow leaders, Distinguished guests, Ladies and Gentlem...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "13d8302b5f65434d-evt",
+      "title": "The Fourteenth Meeting of the Sub-Regional Ministerial Steering Committee on Transboundary Haze Pollution in the Mekong Sub-Region",
+      "date": "2026-06-25",
+      "end_date": "2026-06-25",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/the-fourteenth-meeting-of-the-sub-regional-ministerial-steering-committee-on-transboundary-haze-pollution-in-the-mekong-sub-region/",
+      "summary": "The Fourteenth Meeting of the Sub-Regional Ministerial Steering Committee on Transboundary Haze Pollution in the Mekong Sub-Region (14th MSC Mekong) was held on 25 June 2026 in Vientiane, Lao PDR. The Meeting was graced by the Honourable Prime Minister of the Lao People&#8217;s Democratic Repub The ",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "f65c9e4a4fee4034-evt",
