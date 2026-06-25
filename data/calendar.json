@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T11:38:48.057244+00:00",
-    "duration_seconds": 104.877331,
+    "generated_at": "2026-06-25T14:23:25.189671+00:00",
+    "duration_seconds": 100.174519,
     "stats": {
       "ok": 85,
       "fail": 14,
-      "items_total": 2299,
-      "items_strict": 545,
-      "events_detected": 6
+      "items_total": 2319,
+      "items_strict": 558,
+      "events_detected": 7
     },
     "source_count": 99
   },
@@ -43,6 +43,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "91318c81885a6525-evt",
+      "title": "“Moldova's place is in the European Union,” says President von der Leyen at the EU-Moldova Summit",
+      "date": "2026-06-25",
+      "end_date": "2026-06-25",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_1458",
+      "summary": "European Commission News Brussels, 25 Jun 2026 President Ursula von der Leyen and President António Costa welcomed Moldovan President Maia Sandu to Brussels on 22 June for the second EU-Moldova Summit. The ...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "cd1d4cc835b68a81-evt",
