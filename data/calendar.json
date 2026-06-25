@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-25T19:54:12.850100+00:00",
-    "duration_seconds": 91.442048,
+    "generated_at": "2026-06-25T22:19:41.951279+00:00",
+    "duration_seconds": 110.246457,
     "stats": {
-      "ok": 85,
-      "fail": 14,
-      "items_total": 2291,
-      "items_strict": 555,
-      "events_detected": 11
+      "ok": 84,
+      "fail": 15,
+      "items_total": 2282,
+      "items_strict": 539,
+      "events_detected": 10
     },
     "source_count": 99
   },
@@ -194,23 +194,6 @@
       "featured": false,
       "confirmed": true,
       "source": "European Council",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "437335691eec87db-evt",
-      "title": "OSCE Secretary General participated in the Ukraine Recovery Conference GDAŃSK, 25 June 2026 – OSCE Secretary General Feridun H. Sinirlioğlu attended the Ukraine Recovery Conference - Organization for Security and Co-operation in Europe",
-      "date": "2026-06-25",
-      "end_date": "2026-06-25",
-      "location": "",
-      "organizer": "OSCE",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrSWFIMG1udDdqRXZrcTFQRXdiZ0wzaklVakd6ejktbTVsSXJNWTJiU1lMc0FEWUxjZnBpdmtTd2ZUNUJSdmhRd3ZpaGw2YkR6bHlWOXNPV1o?oc=5",
-      "summary": "OSCE Secretary General participated in the Ukraine Recovery Conference GDAŃSK, 25 June 2026 – OSCE Secretary General Feridun H. Sinirlioğlu attended the Ukraine Recovery Conference &nbsp;&nbsp; Organization for Security and Co-operation in Europe",
-      "featured": false,
-      "confirmed": true,
-      "source": "OSCE",
       "kind": "diplomatic-event",
       "lang": "en"
     },
