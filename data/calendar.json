@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T02:55:15.957786+00:00",
-    "duration_seconds": 86.598559,
+    "generated_at": "2026-06-26T06:53:37.934369+00:00",
+    "duration_seconds": 90.528754,
     "stats": {
       "ok": 85,
       "fail": 14,
-      "items_total": 2256,
-      "items_strict": 545,
-      "events_detected": 1
+      "items_total": 2274,
+      "items_strict": 556,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -59,6 +59,23 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "8c102cc69f1ee5d6-evt",
+      "title": "Joint Media Statement of the 22nd ASEAN Ministerial Meeting on Science, Technology and Innovation (AMMSTI-22)",
+      "date": "2026-06-26",
+      "end_date": "2026-06-26",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/joint-media-statement-of-the-22nd-asean-ministerial-meeting-on-science-technology-and-innovation-ammsti-22/",
+      "summary": "The 22nd ASEAN Ministerial Meeting on Science, Technology and Innovation (AMMSTI-22) was held on 26 June 2026, in Vientiane, Lao PDR, themed “Advancing ASEAN Plan of Action on Science, Technology and Innovation (APASTI) for a Resilient, Sustainable and Competitive ASEAN.” The Meeting was c The post ",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "nato-2026",
