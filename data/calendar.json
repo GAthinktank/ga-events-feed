@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T06:53:37.934369+00:00",
-    "duration_seconds": 90.528754,
+    "generated_at": "2026-06-26T11:43:32.548316+00:00",
+    "duration_seconds": 89.364542,
     "stats": {
       "ok": 85,
       "fail": 14,
-      "items_total": 2274,
-      "items_strict": 556,
-      "events_detected": 2
+      "items_total": 2289,
+      "items_strict": 548,
+      "events_detected": 4
     },
     "source_count": 99
   },
@@ -59,6 +59,40 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "797491f6ef48a433-evt",
+      "title": "New analysis on the EU's most threatening criminal networks",
+      "date": "2026-06-26",
+      "end_date": "2026-06-26",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1463",
+      "summary": "European Commission Press release Brussels, 26 Jun 2026 Today, the European Commission, Europol and the Cypriot Presidency of the Council of the EU are presenting a new Europol analysis of the EU's most threatening criminal networks.",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "742bb79876ea31dd-evt",
+      "title": "EU steps up support for Ukraine's defence, recovery and reconstruction at the Ukraine Recovery Conference 2026",
+      "date": "2026-06-26",
+      "end_date": "2026-06-26",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "security",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1465",
+      "summary": "European Commission Press release Gdańsk, 26 Jun 2026 At the Ukraine Recovery Conference 2026, co-hosted by Poland and Ukraine in Gdańsk, President von der Leyen reaffirmed that the European Union will continue to stand firmly by Ukraine, supporting its reforms, strengthening its institutions, and h",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "8c102cc69f1ee5d6-evt",
