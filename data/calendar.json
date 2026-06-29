@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-29T03:28:48.802574+00:00",
-    "duration_seconds": 87.295491,
+    "generated_at": "2026-06-29T10:49:25.094530+00:00",
+    "duration_seconds": 93.586218,
     "stats": {
-      "ok": 85,
-      "fail": 14,
-      "items_total": 2290,
-      "items_strict": 567,
-      "events_detected": 1
+      "ok": 80,
+      "fail": 19,
+      "items_total": 2145,
+      "items_strict": 557,
+      "events_detected": 4
     },
     "source_count": 99
   },
@@ -43,6 +43,57 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "c944926d9c1ec67b-evt",
+      "title": "Commissioner Roswall's keynote address at the Green Finance and Investment Forum, Moldova",
+      "date": "2026-06-29",
+      "end_date": "2026-06-29",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "economy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1475",
+      "summary": "European Commission Speech Chișinău, 29 Jun 2026 Prime Minister, Minister Hajder, ladies and gentlemen, distinguished guests, I am delighted to join today's event. I am delighted that you have chosen ‘Green Fi...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "62ba459c0c94f40f-evt",
+      "title": "ASEAN and Pakistan Reaffirm Commitment to Strengthen Practical Cooperation",
+      "date": "2026-06-29",
+      "end_date": "2026-06-29",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/asean-and-pakistan-reaffirm-commitment-to-strengthen-practical-cooperation/",
+      "summary": "Jakarta, 29 June 2026 – ASEAN and Pakistan reaffirmed their commitment to further strengthening their longstanding partnership at the 9th Meeting of the ASEAN-Pakistan Joint Sectoral Cooperation Committee (AP-JSCC), held today at the ASEAN Headquarters/ASEAN Secretariat in Jakarta. The mee The post ",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "426a366f80ba2854-evt",
+      "title": "Customs: Council agrees to levy customs duty on small parcels as of 1 July 2026",
+      "date": "2026-07-01",
+      "end_date": "2026-07-01",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSERrVE5qZUcwcUpIMkN4UWdLMlVnUndZdm1PaWVBYzgxV2RYekx6SF90c2tiTVBvRXFmQVQzREZncE1kUXZ1RnkzSHlMZVoyNEQ1YTdxaFNQYW50eGF0OEdRVmJQbGxhRElpZU9zSHVwa294YkRhT3NKamljck5XQjhQWjdTTFB4RmQtalVUMi04aHlyZlhnXzZ0UDNSSFlYOG5ZLV92cDZacFc5ZHhfaEFwekRpQ2VTRjN1WHotaXJTQm9lbklpZG5ZdzhhdHF0Y2hrdUVBVEFQR1ltS3k4?oc=5",
+      "summary": "Customs: Council agrees to levy customs duty on small parcels as of 1 July 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "nato-2026",
