@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-30T11:43:40.220694+00:00",
-    "duration_seconds": 108.458777,
+    "generated_at": "2026-06-30T14:10:34.172559+00:00",
+    "duration_seconds": 90.084539,
     "stats": {
-      "ok": 84,
-      "fail": 15,
-      "items_total": 2290,
-      "items_strict": 550,
-      "events_detected": 3
+      "ok": 86,
+      "fail": 13,
+      "items_total": 2317,
+      "items_strict": 558,
+      "events_detected": 4
     },
     "source_count": 99
   },
@@ -43,6 +43,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "5cd88318a21d14f2-evt",
+      "title": "“Solidarity in action”: President von der Leyen rallies support for Ukraine's recovery in Gdańsk",
+      "date": "2026-06-30",
+      "end_date": "2026-06-30",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_1493",
+      "summary": "European Commission News Brussels, 30 Jun 2026 President Ursula von der Leyen joined Ukrainian and international leaders in Gdańsk on 25 June for the Ukraine Recovery Conference, jointly hosted by Poland and...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "55f93a7140e32741-evt",

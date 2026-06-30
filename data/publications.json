@@ -1,17 +1,30 @@
 {
   "meta": {
-    "generated_at": "2026-06-30T11:43:40.220694+00:00",
-    "duration_seconds": 108.458777,
+    "generated_at": "2026-06-30T14:10:34.172559+00:00",
+    "duration_seconds": 90.084539,
     "stats": {
-      "ok": 84,
-      "fail": 15,
-      "items_total": 2290,
-      "items_strict": 550,
-      "events_detected": 3
+      "ok": 86,
+      "fail": 13,
+      "items_total": 2317,
+      "items_strict": 558,
+      "events_detected": 4
     },
     "source_count": 99
   },
   "items": [
+    {
+      "id": "809e736b8a820f85",
+      "title": "Policy paper: The Defence Investment Plan",
+      "summary": "Equipping our forces, defending our future.",
+      "link": "https://www.gov.uk/government/publications/the-defence-investment-plan",
+      "date": "2026-06-30",
+      "source": "UK Ministry of Defence",
+      "source_type": "gov",
+      "region": "UK",
+      "lang": "en",
+      "theme": "security",
+      "via_gnews": false
+    },
     {
       "id": "0f104cb5e67451d4",
       "title": "Official Statistics: Tri-service families continuous attitude survey: 2027",
@@ -24,6 +37,45 @@
       "lang": "en",
       "theme": null,
       "via_gnews": false
+    },
+    {
+      "id": "a2e127fd5d0f788d",
+      "title": "OSCE Parliamentary Assembly’s 33rd Annual Session",
+      "summary": "OSCE Parliamentary Assembly’s 33rd Annual Session &nbsp;&nbsp; OSCE.org",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1BME40ZlBWRzJ3U2xNQTUtMHcyeDR1bmlCdHhTMWg5VGd4UHRySUFfOEJjaHM0X2ZQd0hINVdNdF8zQnNfM2VIWQ?oc=5",
+      "date": "2026-06-30",
+      "source": "OSCE",
+      "source_type": "io",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "0d42fcf525dba6af",
+      "title": "International treaty: Third Additional Protocol to the European Convention on Mutual Assistance in Criminal Matters [MS No.8/2026]",
+      "summary": "This treaty was presented to Parliament in June 2026.",
+      "link": "https://www.gov.uk/government/publications/third-additional-protocol-to-the-european-convention-on-mutual-assistance-in-criminal-matters-ms-no82026",
+      "date": "2026-06-30",
+      "source": "UK FCDO",
+      "source_type": "gov",
+      "region": "UK",
+      "lang": "en",
+      "theme": "diplomacy",
+      "via_gnews": false
+    },
+    {
+      "id": "e1350a62332f9ddc",
+      "title": "Finnish Foreign Minister Valtonen to attend NATO Summit",
+      "summary": "Finnish Foreign Minister Valtonen to attend NATO Summit &nbsp;&nbsp; Valtioneuvosto",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObkdMYVJmbW9KWmMyNEN5emxuWllTUVF5dE5lRXo1WWRpY3Zua3NzMWt4TzlBODltc0lLYlVlQlVvekRkWDhDd3daV3lIdGt0NjZ2cWptQ281cjM2WUVPTXRhOWI5LVR5LU1xTm9XNTJ5S2FuLWZzb0RGbUlDTUppb3ROZnpmV3hic3QzMEQtOA?oc=5",
+      "date": "2026-06-30",
+      "source": "Finland — Government",
+      "source_type": "gov",
+      "region": "FI",
+      "lang": "en",
+      "theme": "security",
+      "via_gnews": true
     },
     {
       "id": "4b5663f0549dbcae",
@@ -69,19 +121,6 @@
       "title": "Poland signs agreement to procure submarines from Saab and deepen strategic cooperation with Sweden",
       "summary": "Poland signs agreement to procure submarines from Saab and deepen strategic cooperation with Sweden &nbsp;&nbsp; Government.se",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTjNxUnpybTZheVl2SDlXRTdHaWlOUGdUMjZUZm0zVDlteDdEeGpOSlJMcGl2TTVvM1ZCREQ2d0JZMGcxempnX0JqWG9abHlOMkctcF9KTXR1Y2h6WXUyUGVTUDRGNFh3VWZQVU9fd2xxaXQ0ci1ORXppSDduVnVrTWZ3bDFlYkVEUEtRZV95Y25nMEtnWUhiWFlldzM0NUxHUHNEd0xjTEkzcmUtczdyT3NmMmt6MjVhWFFFcHM4Y2R4SGRENXFiUk56alowVlVicHFSRFhUU2FQRFNGR2hWQTF6MA?oc=5",
-      "date": "2026-06-29",
-      "source": "Sweden — Government",
-      "source_type": "gov",
-      "region": "SE",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "6e32513a44f986be",
-      "title": "Joint statement of the Republic of Poland and the Kingdom of Sweden on the Baltic Sea Pact",
-      "summary": "Joint statement of the Republic of Poland and the Kingdom of Sweden on the Baltic Sea Pact &nbsp;&nbsp; Government.se",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMmJVUkwxLVNOU3BtM19kOTFzZ1Y3S0RpMkw2RlZMQzlxSWE4ZXNmNDFsOVFZbDNHSXY4Tk9sWHRHaTN5ZVNtQWRzQmVoRFZ5ajN2bTdPSmhUdzhINnFMX2g0QktfQmY1a1F0MDc0SWNhTzR3UE1XY0xGMERacWZVWkk4dnpRSENSbzlMeDY3ZVY3cXZzMkZiQU9jbHcySFQ2TzhkMEpIc25jRmw4UGJmRi1RSWJiZEgwX21aMkUxQnZETU5DOEVweVQ0T1Q0UzF2VWc?oc=5",
       "date": "2026-06-29",
       "source": "Sweden — Government",
       "source_type": "gov",
@@ -169,6 +208,19 @@
       "via_gnews": true
     },
     {
+      "id": "98087f7a146d36ff",
+      "title": "Council agrees roadmap for European cooperation in education and training until 2030",
+      "summary": "Council agrees roadmap for European cooperation in education and training until 2030 &nbsp;&nbsp; consilium.europa.eu",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQ2xWNnk5ZnA1cklZZ3A0eG9La1MzVlFUNW04dDVaSmh0UkpNa25STkVUNXg0Tm1SN3hQTy1JOGY5RExfaHBJSFhoQ3k3Tl84R3JkVjRPLW5sVFN6YnBvUm1SS3pyQ2Z0djNybllqWnl3cTJDQ3p4ZVRmU0YyMlU3RzRfVnRYT0pfRkMwWFc3UjRqcTRFd2VHbXRtajJCcHQxcGlwSjRPZEhGMy11UE10ZThhaDBWT19DTUw3TXByVGRkc0R0Q3ItNnR4YTBhMGVERDl6aklOZ1ZzR2dncEYyR0x1MHo2eVE?oc=5",
+      "date": "2026-06-29",
+      "source": "European Council",
+      "source_type": "gov",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "c01cb5e8c130bb59",
       "title": "Bangladesh in the Indo-Pacific: An Analysis of the Interim Government’s Foreign Policy",
       "summary": "Bangladesh in the Indo-Pacific: An Analysis of the Interim Government’s Foreign Policy &nbsp;&nbsp; orfonline.org",
@@ -192,6 +244,19 @@
       "region": "Asia",
       "lang": "en",
       "theme": null,
+      "via_gnews": false
+    },
+    {
+      "id": "b71ec0cdc65a691e",
+      "title": "België steunt Venezuela via B-FAST na de zware aardbevingen",
+      "summary": "La Belgique soutient le Venezuela à travers B-FAST suite aux lourds tremblements de terre lien.horemans Mon 29/06/2026 - 06:58 Type d'actualité Communiqué de presse Pays Venezuela Sujets Aide d'urgence Carte diplomatique Dernière mise à jour le 28 juin 2026 De lourds tremblements de terre ont touché le Venezuela. La Belgique, à travers B-FAST, répond présent à la demande internationale d’aide à travers la mise à disposition de son expertise et en envoyant du matériel d’abri. Suite aux tremblements de terre de magnitude de 7,2 et 7,5 sur l’échelle de Richter, qui ont touché le Venezuela ce 24 j",
+      "link": "http://diplomatie.belgium.be/nl/nieuws/belgie-steunt-venezuela-b-fast-na-de-zware-aardbevingen",
+      "date": "2026-06-28",
+      "source": "Belgium — Diplomatie",
+      "source_type": "gov",
+      "region": "BE",
+      "lang": "fr",
+      "theme": "security",
       "via_gnews": false
     },
     {
@@ -288,7 +353,7 @@
     {
       "id": "343702c8d62eef09",
       "title": "Overview - 2026 NATO Summit in Ankara",
-      "summary": "Overview - 2026 NATO Summit in Ankara &nbsp;&nbsp; North Atlantic Treaty Organization",
+      "summary": "Overview - 2026 NATO Summit in Ankara &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVWFtWXNBLUpSREVZTmE1MUtsNGhULUlVdnF1OEg2MGpYTzR1MllBMTdKNjhCWkhZcjFSMkV5bEQwS2J3Y1FndG40UXFQVzJjV3dQSm9hWUp2QUJhTlkwWTNJdFdGMTNYVUZmamRibjV0SGFxWlUtWWVwbDN0RWROTU50QjNJVF9ISXVZNjM4MjNaMXUtNTFrUA?oc=5",
       "date": "2026-06-26",
       "source": "NATO",
@@ -335,19 +400,6 @@
       "region": "US",
       "lang": "en",
       "theme": "security",
-      "via_gnews": false
-    },
-    {
-      "id": "a5e177f2ecf5f2b0",
-      "title": "ASEAN and Japan Reaffirm Commitment to Strengthening Comprehensive Strategic Partnership",
-      "summary": "Singapore, 26 June 2026&#160;–&#160;The 41st&#160;ASEAN-Japan Forum in Singapore reaffirmed the commitment of ASEAN and Japan to further strengthen the Comprehensive Strategic Partnership (CSP) in contributing to peace, stability and prosperity in the region and supporting the implementation of&#038;n The post ASEAN and Japan Reaffirm Commitment to Strengthening Comprehensive Strategic Partnership appeared first on ASEAN Main Portal .",
-      "link": "https://asean.org/asean-and-japan-reaffirm-commitment-to-strengthening-comprehensive-strategic-partnership/",
-      "date": "2026-06-26",
-      "source": "ASEAN",
-      "source_type": "io",
-      "region": "Asia",
-      "lang": "en",
-      "theme": null,
       "via_gnews": false
     },
     {
@@ -444,7 +496,7 @@
     {
       "id": "bbc9e8dbe035a18d",
       "title": "Deterrence and defence",
-      "summary": "Deterrence and defence &nbsp;&nbsp; North Atlantic Treaty Organization",
+      "summary": "Deterrence and defence &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeHBMdTNpaFU5QWlXV1hFQ09rSkwwZGVScWFBYlUxNGRuZGZ5ZzBWcGdKaVhncVdHckUteDRvcmtQWTNlZlEyRGVnY3NvbG91T2dKd2lzbmFxQl9GZGpOaHFIUVlYbEFJNVpNZFZuUmdTQkZidTlCa0V3QlltRWZBZGRyb2ZxUms?oc=5",
       "date": "2026-06-25",
       "source": "NATO",
@@ -491,19 +543,6 @@
       "region": "SE",
       "lang": "en",
       "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "ff11b5a55ceec8f2",
-      "title": "Research Analyst, Conflict, Security and Development Programme (CSDP)",
-      "summary": "Research Analyst, Conflict, Security and Development Programme (CSDP) &nbsp;&nbsp; The International Institute for Strategic Studies",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaXU2REM1WGpBV2IweHN0cFd0VEtHYkstYV9kX1dCTHhSN01sNm5jWTRxakpGVkFuYnNaMTZhc1ZSZmx6dm1NNkV2X0kzeDBSVkIxSk9YQ1lfVW12VVpINFFqMWpoMkZfWloxc1pCVnFCdDduLXpWTVNIZ0FvMVNqTnc2SGEzQ1k2MTZ3U0FpemZ4dWd4U2o3U2FrVm5FWDNOOV9ySEMxMEZYckRC?oc=5",
-      "date": "2026-06-24",
-      "source": "IISS",
-      "source_type": "tt",
-      "region": "UK",
-      "lang": "en",
-      "theme": "security",
       "via_gnews": true
     },
     {
@@ -555,19 +594,6 @@
       "source_type": "gov",
       "region": "FR",
       "lang": "fr",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "d8bcbdf7cdac6568",
-      "title": "Joint press statement: Strengthening the Strategic Partnership between the European Union and Kazakhstan",
-      "summary": "Joint press statement: Strengthening the Strategic Partnership between the European Union and Kazakhstan &nbsp;&nbsp; EEAS",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcm5uWGlyTEdYQ3dSSkRDVHVsMU5tWW1KQXlZY3dSNTVVbEEzZVpmaEl5UWpaZFhVT2lNTXIwdm5RWGtOV0ZaeG45WHE3Vk0yYWp2UE1MZXRfa2dZZWt5RHVyS0NWby00c2l0blF0bzgwX3lYNDU1c1h1V21DbnhxSURldV9qRlZ1MEk1NGdZNXFMUHRvdzN3akRxTlV1elpYQm1XSEF6c2VnalhWQWh2T0ZVU1BYUW9kRDhSSjhaMDFjMUh4MVZzYzNueE1JWlRrczhwbEJERldtZEdyWkxoQ3pR?oc=5",
-      "date": "2026-06-24",
-      "source": "European External Action Service",
-      "source_type": "gov",
-      "region": "EU",
-      "lang": "en",
       "theme": null,
       "via_gnews": true
     },
@@ -648,6 +674,19 @@
       "lang": "en",
       "theme": null,
       "via_gnews": false
+    },
+    {
+      "id": "4a60d447aebda744",
+      "title": "Strengthening the Strategic Partnership between the European Union and Kazakhstan",
+      "summary": "Strengthening the Strategic Partnership between the European Union and Kazakhstan &nbsp;&nbsp; EEAS",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdklWQWdVWmZ6dVFQZm11QWRMdmxHcTN4Q3VGQXRaTjNpd0ZVSk5QSEF4WG5RTFFQVHZlUnFsaVdWamhtRU16WHh5NEZPcjNZdnFyT3ZKUk1iekh6U0p1cjJRcnEzSnotSFc0Wkt3aXNQMEZWeGhfNU5CY3ZQRW5BVjRIUnBzbmxyMm1LS3BPS3RONEkyT0dyMWhzaGswendSZGk1aWpTcWNtNkFIdjJFZWN4V1ZITnpHaVNYdF94SHpTMnVx?oc=5",
+      "date": "2026-06-23",
+      "source": "European External Action Service",
+      "source_type": "gov",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
     },
     {
       "id": "c007ac7a7df2adb9",
@@ -754,35 +793,9 @@
       "via_gnews": true
     },
     {
-      "id": "7034999928e21f9b",
-      "title": "Turkey has survived the energy crisis. It still needs a more deliberate economic strategy.",
-      "summary": "The recent Iran conflict has exposed the enduring vulnerabilities of Turkey's economic strategy. The post Turkey has survived the energy crisis. It still needs a more deliberate economic strategy. appeared first on Atlantic Council .",
-      "link": "https://www.atlanticcouncil.org/blogs/turkeysource/turkey-has-survived-the-energy-crisis-it-still-needs-a-more-deliberate-economic-strategy/",
-      "date": "2026-06-22",
-      "source": "Atlantic Council",
-      "source_type": "tt",
-      "region": "US",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": false
-    },
-    {
-      "id": "d735f416dbedf4cb",
-      "title": "The Ankara summit is an opportunity for NATO to ramp up engagement with its southern neighborhood",
-      "summary": "The Alliance can use the upcoming summit in Turkey to advance four policies that will help it increase its security along its south. The post The Ankara summit is an opportunity for NATO to ramp up engagement with its southern neighborhood appeared first on Atlantic Council .",
-      "link": "https://www.atlanticcouncil.org/dispatches/the-ankara-summit-is-an-opportunity-for-nato-to-ramp-up-engagement-with-its-southern-neighborhood/",
-      "date": "2026-06-22",
-      "source": "Atlantic Council",
-      "source_type": "tt",
-      "region": "US",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": false
-    },
-    {
       "id": "eb4367b26fa51663",
       "title": "NATO summits",
-      "summary": "NATO summits &nbsp;&nbsp; North Atlantic Treaty Organization",
+      "summary": "NATO summits &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VcGF4MENMR1BoZjIyZ2dESWx2TzVsS1hhMk5WVHRyTUFJajNqTFVzZkNYamtvbU1vR00tMEI4Yk5KN21VT0VkdkNrcmtvR3hfWk5vSS1QdXdiVTR1TzdTVjJqTzZGRzhpOFF6VTdIeEFSLTdRNXVF?oc=5",
       "date": "2026-06-22",
       "source": "NATO",
@@ -804,6 +817,19 @@
       "lang": "en",
       "theme": null,
       "via_gnews": true
+    },
+    {
+      "id": "1246e5cdf11c4400",
+      "title": "La puesta en marcha del Pacto Europeo de Migración y Asilo: un acuerdo de mínimos entre dudas y certezas, apoyos y detractores",
+      "summary": "El Pacto Europeo de Migración y Asilo (PEMA), es decir el núcleo de la nueva política europea de inmigración y asilo, lleva una década diseñándose, negociándose, dibujándose y decidiéndose. Europa se encontró tras 2015 en una encrucijada: o bien la Unión Europea (UE) avanzaba hacia una política migratoria y de asilo más cooperativa y solidaria [&#8230;] La entrada La puesta en marcha del Pacto Europeo de Migración y Asilo: un acuerdo de mínimos entre dudas y certezas, apoyos y detractores se publicó primero en Real Instituto Elcano .",
+      "link": "https://www.realinstitutoelcano.org/comentarios/la-puesta-en-marcha-del-pacto-europeo-de-migracion-y-asilo-un-acuerdo-de-minimos-entre-dudas-y-certezas-apoyos-y-detractores/",
+      "date": "2026-06-22",
+      "source": "Real Instituto Elcano (ES)",
+      "source_type": "tt",
+      "region": "ES",
+      "lang": "es",
+      "theme": null,
+      "via_gnews": false
     },
     {
       "id": "498cc48c8df9ca49",
@@ -832,6 +858,19 @@
       "via_gnews": true
     },
     {
+      "id": "585d62280d7bd846",
+      "title": "Staatsbezoek – België en Japan, een hereniging in het teken van vriendschap en samenwerking",
+      "summary": "Visite d’Etat – La Belgique et le Japon, des retrouvailles sous le signe de l’amitié et de la coopération jeroen.francois Fri 19/06/2026 - 15:19 Type d'actualité Communiqué de presse Pays Japon Sujets Visite d’état Carte diplomatique Dernière mise à jour le 19 juin 2026 Cette année, la Belgique et la Japon célèbrent 160 ans de relations diplomatiques. A cette occasion, Leurs Majestés le Roi et la Reine accueillent Leurs Majestés Impériales l’Empereur Naruhito du Japon et son épouse l’Impératrice Masako pour une visite d'Etat de deux jours en Belgique, du 23 au 24&nbsp;juin 2026, placée sous le",
+      "link": "http://diplomatie.belgium.be/nl/nieuws/staatsbezoek-belgie-en-japan-een-hereniging-het-teken-van-vriendschap-en-samenwerking",
+      "date": "2026-06-19",
+      "source": "Belgium — Diplomatie",
+      "source_type": "gov",
+      "region": "BE",
+      "lang": "fr",
+      "theme": "security",
+      "via_gnews": false
+    },
+    {
       "id": "9c9d9b88f3a454fb",
       "title": "ICRC Advances Efforts to Adopt African Union Declaration to Strengthen IHL on the Continent",
       "summary": "ICRC Advances Efforts to Adopt African Union Declaration to Strengthen IHL on the Continent &nbsp;&nbsp; ICRC",
@@ -843,6 +882,19 @@
       "lang": "en",
       "theme": null,
       "via_gnews": true
+    },
+    {
+      "id": "20837b69b47ed082",
+      "title": "Buitenlandse Zaken zet zich in voor de bescherming van alle burgers via internationaal humanitair recht",
+      "summary": "Les Affaires étrangères œuvrent pour la protection de tous les civils grâce au droit humanitaire international jeroen.francois Fri 19/06/2026 - 11:21 Type d'actualité Communiqué de presse Sujets Droits humains Carte diplomatique Dernière mise à jour le 19 juin 2026 Aujourd’hui, plus de 130 conflits armés sont en cours dans le monde, impliquant plus de 60&nbsp;pays et 120&nbsp;acteurs non-étatiques. Derrière ces chiffres, ce sont avant tout des millions de civils qui voient leur quotidien bouleversé. C’est pour cela que, depuis sa signature de la première convention de Genève de 1864, la Belgiq",
+      "link": "http://diplomatie.belgium.be/nl/nieuws/buitenlandse-zaken-zet-zich-voor-de-bescherming-van-alle-burgers-internationaal-humanitair-recht",
+      "date": "2026-06-19",
+      "source": "Belgium — Diplomatie",
+      "source_type": "gov",
+      "region": "BE",
+      "lang": "fr",
+      "theme": "security",
+      "via_gnews": false
     },
     {
       "id": "b24afeeb509a1436",
@@ -869,6 +921,19 @@
       "lang": "en",
       "theme": null,
       "via_gnews": true
+    },
+    {
+      "id": "8cd709b4eb268e1b",
+      "title": "Estados Unidos y Cuba: una relación presa de la Historia, la inercia estratégica y las políticas internas",
+      "summary": "Mensajes clave Análisis Las relaciones entre EEUU y Cuba constituyen uno de los casos más singulares y duraderos de confrontación bilateral en la política internacional contemporánea. Desde el triunfo de la Revolución Cubana en 1959 ambos países mantienen una relación marcada por la desconfianza mutua y la rivalidad ideológica. Aunque en las últimas seis décadas [&#8230;] La entrada Estados Unidos y Cuba: una relación presa de la Historia, la inercia estratégica y las políticas internas se publicó primero en Real Instituto Elcano .",
+      "link": "https://www.realinstitutoelcano.org/analisis/estados-unidos-y-cuba-una-relacion-presa-de-la-historia-la-inercia-estrategica-y-las-politicas-internas/",
+      "date": "2026-06-18",
+      "source": "Real Instituto Elcano (ES)",
+      "source_type": "tt",
+      "region": "ES",
+      "lang": "es",
+      "theme": "diplomacy",
+      "via_gnews": false
     },
     {
       "id": "34beac284aa8d2d8",
@@ -1001,6 +1066,19 @@
       "via_gnews": true
     },
     {
+      "id": "56514084481e4812",
+      "title": "FIMI: desinformación frente al control estratégico del entorno informativo",
+      "summary": "Mensajes clave Análisis El concepto más extendido de desinformación hace referencia a la masiva circulación de contenidos falsos o engañosos por el espacio digital. Sin embargo, también conviene prestar atención a los actores que la producen y sus tácticas, técnicas y procedimientos (TTP) y, cada vez más, incluir en el análisis la reflexión acerca de [&#8230;] La entrada FIMI: desinformación frente al control estratégico del entorno informativo se publicó primero en Real Instituto Elcano .",
+      "link": "https://www.realinstitutoelcano.org/analisis/fimi-desinformacion-frente-al-control-estrategico-del-entorno-informativo/",
+      "date": "2026-06-16",
+      "source": "Real Instituto Elcano (ES)",
+      "source_type": "tt",
+      "region": "ES",
+      "lang": "es",
+      "theme": "technology",
+      "via_gnews": false
+    },
+    {
       "id": "2d1fd3300f28c0c7",
       "title": "Short Term Adviser - Senior Researcher Corruption Prevention National Strategy for 2027–2028 Action Plan Development Program | AusConnect",
       "summary": "Short Term Adviser - Senior Researcher Corruption Prevention National Strategy for 2027–2028 Action Plan Development Program | AusConnect &nbsp;&nbsp; Australian Government Department of Foreign Affairs and Trade",
@@ -1066,17 +1144,30 @@
       "via_gnews": true
     },
     {
-      "id": "1e67c06e41db9f84",
-      "title": "China’s Techno-Industrial Strategy in the Xi Era: Producing Under Pressure",
-      "summary": "China’s Techno-Industrial Strategy in the Xi Era: Producing Under Pressure &nbsp;&nbsp; RAND",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91MGVEOGQ2WnhZZUlncjNuWUsyMU8ybUItZlhMZkNucUE2T05NT1paMUdHbUJmYTNqZ1NoR0tqSFNyZXAyOV9JVzdmbVlCZHR0cXZsNHFLTTBmczRmVGJsYU1nSTZwX1Nh?oc=5",
-      "date": "2026-06-11",
-      "source": "RAND",
+      "id": "92e34fc2bfcc7590",
+      "title": "La nueva estrategia contraterrorista estadounidense: un giro ideológico bajo la lógica del America First",
+      "summary": "El pasado 6 de mayo se publicó la nueva estrategia de contraterrorismo de Estados Unidos (EEUU) cuyo objetivo es orientar a los organismos de inteligencia y fuerzas del orden de EEUU sobre la amenaza terrorista, así como informar a la ciudadanía, incluidos los dirigentes estatales y locales.[1] Esta estrategia destaca por su marcado carácter trumpista [&#8230;] La entrada La nueva estrategia contraterrorista estadounidense: un giro ideológico bajo la lógica del America First se publicó primero en Real Instituto Elcano .",
+      "link": "https://www.realinstitutoelcano.org/comentarios/la-nueva-estrategia-contraterrorista-estadounidense-un-giro-ideologico-bajo-la-logica-del-america-first/",
+      "date": "2026-06-10",
+      "source": "Real Instituto Elcano (ES)",
       "source_type": "tt",
-      "region": "CN",
-      "lang": "en",
+      "region": "ES",
+      "lang": "es",
       "theme": null,
-      "via_gnews": true
+      "via_gnews": false
+    },
+    {
+      "id": "6a13fca73bd248ee",
+      "title": "Joint statement on Iranian State Threats and HAYI-claimed attacks",
+      "summary": "Joint statement on Iranian State Threats and HAYI-claimed attacks lien.horemans Wed 10/06/2026 - 15:50 Type d'actualité Déclaration Pays Iran Sujets Violence Carte diplomatique Dernière mise à jour le 12 juin 2026 Cette déclaration est disponible uniquement en anglais. Joint statement from 24 countries on state threats relating to Iranian security services and the condemnation of recent Harakat Ashab al-Yamin al-Islamiya (HAYI) claimed-attacks across Europe. Albania, Australia, Belgium, Bulgaria, Canada, Czechia, Denmark, Estonia, France, Finland, Germany, Ireland, Italy, Latvia, Lithuania, Ne",
+      "link": "http://diplomatie.belgium.be/en/news/joint-statement-iranian-state-threats-and-hayi-claimed-attacks",
+      "date": "2026-06-10",
+      "source": "Belgium — Diplomatie",
+      "source_type": "gov",
+      "region": "BE",
+      "lang": "fr",
+      "theme": null,
+      "via_gnews": false
     },
     {
       "id": "e9cd1e520498fdd5",
@@ -1090,6 +1181,19 @@
       "lang": "en",
       "theme": null,
       "via_gnews": true
+    },
+    {
+      "id": "8b6c98aec0de8a87",
+      "title": "Joint statement on humanitarian access in Gaza and the registration law affecting INGOS",
+      "summary": "Joint statement on humanitarian access in Gaza and the registration law affecting INGOS lien.horemans Tue 09/06/2026 - 06:10 Type d'actualité Déclaration Sujets Droits humains Carte diplomatique Dernière mise à jour le 8 juin 2026 Cette déclaration est disponible uniquement en anglais. We, the signatories listed below, express our profound concern regarding the catastrophic humanitarian situation that persists in Gaza. The aid entering Gaza has remained largely insufficient, both in quantity and in quality, while nearly the entire population depends on life-saving services. The recent decision",
+      "link": "http://diplomatie.belgium.be/en/news/joint-statement-humanitarian-access-gaza-and-registration-law-affecting-ingos",
+      "date": "2026-06-09",
+      "source": "Belgium — Diplomatie",
+      "source_type": "gov",
+      "region": "BE",
+      "lang": "fr",
+      "theme": "development",
+      "via_gnews": false
     },
     {
       "id": "586d16b62039e770",
@@ -1157,14 +1261,14 @@
       "via_gnews": true
     },
     {
-      "id": "9ee1dd6d2d30aedb",
-      "title": "Sixth annual meeting of OSCE national cybersecurity points of contact in Vienna discusses global cyber co-operation",
-      "summary": "Sixth annual meeting of OSCE national cybersecurity points of contact in Vienna discusses global cyber co-operation &nbsp;&nbsp; OSCE.org",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JaVZiQnMybUR1NjF0TDA3NmhkaUJnanFWak5Vay1jalZOa1NmejVJWTloTEVtMlhBV0hobzI4Mm10QzV3ODhOb3N5YmFiSWlXSmxvSGtMSkFFYzBoMXpDMDNIa2NSeXlNQU96WXgwd3gxbUN6?oc=5",
-      "date": "2026-06-05",
-      "source": "OSCE",
-      "source_type": "io",
-      "region": "EU",
+      "id": "4d0d7215a38a2f25",
+      "title": "Data Centers and the Future of AI Infrastructure: Federal, Local, and Industry Perspectives",
+      "summary": "Data Centers and the Future of AI Infrastructure: Federal, Local, and Industry Perspectives &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNajl6eTJqWnU3M3VyT0g3ZGxZcVBfallqSkwzWWc0UVpZMUF2bjNkaVhfRmpaT0c5TTRyVWJ1QTN0TkdhWUJ3Z29VVlBaYkRfVXdRTjZLV0ZjeEh4ZE5INGhwVTJuMmZKZTJDX3NkUzk5WDRMdHZfdWpVNG4wXzRkMWFWbWZkaXF2OExjYTJJMGh2VFlDRnF6UENTMG9QMFhDZEJlNkFIREpSYmRIZ2c?oc=5",
+      "date": "2026-06-08",
+      "source": "CSIS",
+      "source_type": "tt",
+      "region": "US",
       "lang": "en",
       "theme": "technology",
       "via_gnews": true
@@ -1219,19 +1323,6 @@
       "region": "SE",
       "lang": "en",
       "theme": "security",
-      "via_gnews": true
-    },
-    {
-      "id": "b4ef05804a533930",
-      "title": "Foreign Minister Valtonen to chair OECD Ministerial Council Meeting in Paris on 4 June 2026 - Finnish Government",
-      "summary": "Foreign Minister Valtonen to chair OECD Ministerial Council Meeting in Paris on 4 June 2026 - Finnish Government &nbsp;&nbsp; Valtioneuvosto",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMnR2S3NUN0k0aklnOWJiazhnamw1TTlrRHJoUE53eV9hZnNoU0xON1NpcDBYUE5oa2k4dUlaMWZDY0ZjSkZiRTlwLUxNUXNOejVPY2U4TWlGOHU0UUJWRWx2bmxqbWpreE5DN1Mxc2ctSXZwZXpLOS02WFdFRGFRbmtSU1BzcEdSWHZ0TlNmazlacWlHejlSS013c3ZtdlltZFJPTUdtRWpVbzlyODR1RFV5SGpXQXJJYWdLU3Y4QQ?oc=5",
-      "date": "2026-06-04",
-      "source": "Finland — Government",
-      "source_type": "gov",
-      "region": "FI",
-      "lang": "en",
-      "theme": null,
       "via_gnews": true
     },
     {
@@ -1391,6 +1482,19 @@
       "via_gnews": true
     },
     {
+      "id": "ec8f46fbe635ea49",
+      "title": "\"Veilig reizen – Help ons u te helpen\"",
+      "summary": "« Voyager en toute sécurité – Aidez-nous à vous aider » lien.horemans Tue 26/05/2026 - 13:30 Type d'actualité Communiqué de presse Sujets Journée internationale , Voyager Carte diplomatique Dernière mise à jour le 26 mai 2026 A l’approche de la période estivale et à l’occasion de la «&nbsp;European Day of Safe Travel Abroad&nbsp;», le SPF Affaires étrangères, Commerce extérieur et Coopération au Développement rappelle l’importance d’une bonne préparation en cas de voyage à l’étranger&nbsp;: lecture des conseils aux voyageurs , inscription sur Travellers Online , vérification des documents de v",
+      "link": "http://diplomatie.belgium.be/nl/nieuws/veilig-reizen-help-ons-u-te-helpen",
+      "date": "2026-05-26",
+      "source": "Belgium — Diplomatie",
+      "source_type": "gov",
+      "region": "BE",
+      "lang": "fr",
+      "theme": "economy",
+      "via_gnews": false
+    },
+    {
       "id": "9d6d396a4e3eb086",
       "title": "The Nordic-Baltic Eight policy brief: Geo-economic resilience",
       "summary": "New publication in the NB8 policy brief series by Thorsteinn Kristinsson (IIA) and Ludvig Broomé (UI) Geo-economic competition and the coercive use of economic statecraft are supplanting the rules-based system of liberal economic exchange. Small economies like the NB8 states are vulnerable to this development, including the potential weaponisation of external dependencies against them. This [&#8230;]",
@@ -1406,7 +1510,7 @@
     {
       "id": "d02bab5ca091b3fc",
       "title": "NATO Foreign Ministers meeting in Sweden address how to make the Alliance stronger",
-      "summary": "NATO Foreign Ministers meeting in Sweden address how to make the Alliance stronger &nbsp;&nbsp; North Atlantic Treaty Organization",
+      "summary": "NATO Foreign Ministers meeting in Sweden address how to make the Alliance stronger &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSWkxNjg5NUw1WW0xQTZ5Ti1VUWh4c3hwTWxCSEk2bzJmUnF2blVJdUcxT01XanZ3TmpVcC1NdnEtZl9GeVBUODhwejEtQk1HWkZXc2RfLTZCaU0taWVjUllWcGo5UGE2R3l5Q2cwWjJKVFFIdWlVdVFyMjZKSDhyZkwwZ3BQVEVRdTRUNERJVm56cW5LWEx0N2RiN2Z4dERHN0RHR2FLdXN2Q2ZmOU01eTd2SkFfR3Y1YmpQWUhmR3FaSVlTR2lSUXdteXRiNUxLSlNkQ2J1YnE?oc=5",
       "date": "2026-05-22",
       "source": "NATO",
@@ -1419,7 +1523,7 @@
     {
       "id": "49d2db6e4b329a9e",
       "title": "Meeting of NATO Ministers of Foreign Affairs, 21-May-2026 | NATO Event",
-      "summary": "Meeting of NATO Ministers of Foreign Affairs, 21-May-2026 | NATO Event &nbsp;&nbsp; North Atlantic Treaty Organization",
+      "summary": "Meeting of NATO Ministers of Foreign Affairs, 21-May-2026 | NATO Event &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWEpCOE5SWG1Rdl93UGpOSUtlbmZ1UVJrYm9BZzc4Wl9MWXhuWklNczhBUE9qRG16QTAyNGlnYS1HOUU2NWNBZjVTeE4waUZFRlBzUXdVeDlPeko0WkhGYVdMX1ktZVRFMlM5d2daQ2NnQmNZbThvRlhZc0hFLTBoVUtCUUdxRnF4VGVWWExVLWhRZlo2RnhOUVFqWG0wWXdlTC1JQTFGNzQ3YzFKUE44U0hSUHFEN1k?oc=5",
       "date": "2026-05-22",
       "source": "NATO",
@@ -1432,7 +1536,7 @@
     {
       "id": "8c7a22b657c03e6b",
       "title": "Meeting of NATO Ministers of Foreign Affairs",
-      "summary": "Meeting of NATO Ministers of Foreign Affairs &nbsp;&nbsp; North Atlantic Treaty Organization",
+      "summary": "Meeting of NATO Ministers of Foreign Affairs &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPX0ZoeDNseHF6UHI2cnNiMUpfRlg2bXhmYVRDMnRFbHFsSnNzZS1oY2JNT0ZXTF82d1BDNzhiZjRXUTZwUW1nT3hRZlBDWjljWENhVVlqOHpvZkZMUzFDWXpvamVZREdraGpGcjZpOEdQTHdLaF9PUUhJbDJlR281R0ttbHMxQmd3TE44bmthV200ZGVlcFBpWUloQkN1THRlVTVfNzlVekdlUUEtNGs3TWI4eVlra05vU3pEME5KQ1ZOcndSYTgzVHVSeEgzNUV6TEJEQ1BDcUxBVXhjc25Zd19rWFBrYXZsQ293?oc=5",
       "date": "2026-05-22",
       "source": "NATO",
@@ -1453,19 +1557,6 @@
       "region": "EU",
       "lang": "en",
       "theme": "diplomacy",
-      "via_gnews": true
-    },
-    {
-      "id": "9615b80baf675840",
-      "title": "Supply, Strategy, and Statecraft: India’s China Policy in an Era of Economic Rebalancing",
-      "summary": "Supply, Strategy, and Statecraft: India’s China Policy in an Era of Economic Rebalancing &nbsp;&nbsp; orfonline.org",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ2t6cUhVdmdaQkNPSGdYa1NUenNxWTc4MUlHYTI5akxPY3g0SDBLQ2hBYS1nZGlMYk5SN0FSVHBRTElLOE1SWWEyTnZ0b216dDJWTk5zb0l6SWZNNkdQRTc1Q1pfWV9IVG0tdnpQZWJtMWRKTWpXZUgwYU50WWlVY3F2U2FoR1NBNXROdEtKanNrQ2xzYXhIUjlUVk5VNll6UDY2a3l2VUd6Vmx5ZHRDSkY2X2pwaE92T2tOag?oc=5",
-      "date": "2026-05-21",
-      "source": "ORF — Observer Research Foundation",
-      "source_type": "tt",
-      "region": "CN",
-      "lang": "en",
-      "theme": null,
       "via_gnews": true
     },
     {
@@ -1508,6 +1599,19 @@
       "via_gnews": true
     },
     {
+      "id": "ce6cb84b49137d2b",
+      "title": "Nieuwe raad van bestuur bij Enabel om de strategische rol van de internationale samenwerking te versterken",
+      "summary": "Nouveau conseil d’administration chez Enabel pour renforcer le rôle stratégique de la coopération internationale jeroen.francois Wed 20/05/2026 - 15:57 Type d'actualité Communiqué de presse Sujets Coopération au développement Carte diplomatique Dernière mise à jour le 20 mai 2026 Enabel, l’entreprise publique chargée de la coopération internationale de la Belgique, annonce la nomination de son nouveau conseil d’administration. Dans un contexte géopolitique mondial marqué par des crises multiples – conflits prolongés, dérèglement climatique, pressions migratoires et remise en question du multil",
+      "link": "http://diplomatie.belgium.be/nl/nieuws/nieuwe-raad-van-bestuur-bij-enabel-om-de-strategische-rol-van-de-internationale-samenwerking-te-versterken",
+      "date": "2026-05-20",
+      "source": "Belgium — Diplomatie",
+      "source_type": "gov",
+      "region": "BE",
+      "lang": "fr",
+      "theme": "development",
+      "via_gnews": false
+    },
+    {
       "id": "338eaabac69cf61a",
       "title": "nuovo fac simile di dichiarazione di uso finale / end use statement",
       "summary": "nuovo fac simile di dichiarazione di uso finale / end use statement &nbsp;&nbsp; Ministero degli Affari Esteri e della Cooperazione Internazionale",
@@ -1544,6 +1648,19 @@
       "region": "IT",
       "lang": "it",
       "theme": "security",
+      "via_gnews": true
+    },
+    {
+      "id": "a90704191c13b69d",
+      "title": "A new strategy to contain stablecoin risks in the European Union",
+      "summary": "A new strategy to contain stablecoin risks in the European Union &nbsp;&nbsp; Bruegel",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNTZFZHY1WEZyV2Z4VnMxY191QU84R3N6bzU2UWhFX0RRb2dUZjdLaEZCeWpJaW5yUElOZzREY2VUZXl3LTBtRndKZVAtUXlCd0M4N1RCUG13eDJJY1ByODE1TEdleTFWakZjaF9QZDJxNHpQU3pOejNmeVZJdW9TZ0tOaVdiaU1RQU9vdTRxdEZYbDQ?oc=5",
+      "date": "2026-05-19",
+      "source": "Bruegel",
+      "source_type": "tt",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
       "via_gnews": true
     },
     {
@@ -1588,7 +1705,7 @@
     {
       "id": "03de04c44ca3a8e5",
       "title": "NATO Secretary General at B9 and Nordic Allies Summit in Bucharest: We need a stronger Europe in a stronger NATO",
-      "summary": "NATO Secretary General at B9 and Nordic Allies Summit in Bucharest: We need a stronger Europe in a stronger NATO &nbsp;&nbsp; North Atlantic Treaty Organization",
+      "summary": "NATO Secretary General at B9 and Nordic Allies Summit in Bucharest: We need a stronger Europe in a stronger NATO &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdXFBMnVwWlhhNU5ZRXA4S2dDTk9mLTlyTTByYjZRbzdJRDVic2VhbF9WLV9UUGdQVFMyNjU0el9VYWZTVnlxQXUtQWdCWmk0SktSQ2NfM0dGRUh4YjZ2UHdsUHRiYWo3MG5qQXEzTjI1LTctdENiOVNwbGZhemZWZFBZYUtmLW5mX3E2M24zMFRhUlhtWFU0RmNKRjdIX0E2N0QxTHotOEJoYWgteXMwd0VlWDVvdWVYRVE?oc=5",
       "date": "2026-05-13",
       "source": "NATO",
@@ -1597,6 +1714,19 @@
       "lang": "en",
       "theme": "security",
       "via_gnews": true
+    },
+    {
+      "id": "e5630fd5185bafd2",
+      "title": "Joint Statement on the Belgian Economic Mission to Türkiye",
+      "summary": "Joint Statement on the Belgian Economic Mission to Türkiye lien.horemans Wed 13/05/2026 - 10:30 Type d'actualité Déclaration Pays Turquie Sujets Mission économique Carte diplomatique Dernière mise à jour le 13 mai 2026 Cette déclaration est disponible uniquement en anglais. The Belgian Economic Mission to the Republic of Türkiye, led by Her Majesty the Queen of the Belgians, on behalf of His Majesty the King, took place on 10-14 May 2026 in İstanbul and Ankara. His Excellency Recep Tayyip Erdoğan, President of the Republic of Türkiye, and First Lady Emine Erdoğan hosted Her Majesty the Queen i",
+      "link": "http://diplomatie.belgium.be/en/news/joint-statement-belgian-economic-mission-turkiye",
+      "date": "2026-05-13",
+      "source": "Belgium — Diplomatie",
+      "source_type": "gov",
+      "region": "BE",
+      "lang": "fr",
+      "theme": "security",
+      "via_gnews": false
     },
     {
       "id": "17f7adaeae8a8bed",
@@ -1625,17 +1755,17 @@
       "via_gnews": true
     },
     {
-      "id": "f8b0a9e5243f0ee6",
-      "title": "A new strategy to contain stablecoin risks in the European Union",
-      "summary": "A new strategy to contain stablecoin risks in the European Union &nbsp;&nbsp; Bruegel",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PZ3d5bEFleXE3dGFLS3lkdVRsWU1hUjVhT3JaQ0FEZi1yR016cDBUQlNwdjc4YUNKM0QwaklfdlZZczVzenBZenVLNmhRbEp5dEdLekV4dnN0b1hQWDFIQXBfdmMtd1gxVkFIZWhEWEdpRWFld2VDX0VvN3A?oc=5",
+      "id": "bd5489dfd8caa18a",
+      "title": "Belgische economische missie naar Turkije zet in op groei, innovatie en partnerschap",
+      "summary": "La mission économique belge en Turquie mise sur la croissance, l'innovation et le partenariat jeroen.francois Fri 08/05/2026 - 11:32 Type d'actualité Communiqué de presse Pays Turquie Sujets Mission économique Carte diplomatique Dernière mise à jour le 8 mai 2026 Sa Majesté la Reine dirigera une mission économique belge en Turquie à partir du 10 mai. Elle sera accompagnée d'une délégation officielle, dont le vice-Premier ministre et ministre des Affaires étrangères, des Affaires européennes et de la Coopération au développement, Maxime Prévot, ainsi que le ministre de la Défense et du Commerce",
+      "link": "http://diplomatie.belgium.be/nl/nieuws/belgische-economische-missie-naar-turkije-zet-op-groei-innovatie-en-partnerschap",
       "date": "2026-05-08",
-      "source": "Bruegel",
-      "source_type": "tt",
-      "region": "EU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
+      "source": "Belgium — Diplomatie",
+      "source_type": "gov",
+      "region": "BE",
+      "lang": "fr",
+      "theme": "security",
+      "via_gnews": false
     },
     {
       "id": "ac98e79f630b0d98",
@@ -1664,6 +1794,19 @@
       "via_gnews": true
     },
     {
+      "id": "f7258682bd14c587",
+      "title": "Belgisch mensenrechtenbeleid onder de loep in Genève",
+      "summary": "La politique belge en matière de droits humains passée au crible à Genève lien.horemans Tue 05/05/2026 - 09:26 Type d'actualité Communiqué de presse Sujets Droits humains Carte diplomatique Dernière mise à jour le 5 mai 2026 Le 6 mai 2026, la politique belge en matière de droits humains sera examinée lors du 4e Examen périodique universel (EPU) au sein du Conseil des droits de l'homme des Nations unies. Le SPF Affaires étrangères joue un rôle crucial, tant dans la coordination des recommandations d'amélioration que nous adressent d'autres pays que dans la promotion des droits humains à l'étran",
+      "link": "http://diplomatie.belgium.be/nl/nieuws/belgisch-mensenrechtenbeleid-onder-de-loep-geneve",
+      "date": "2026-05-05",
+      "source": "Belgium — Diplomatie",
+      "source_type": "gov",
+      "region": "BE",
+      "lang": "fr",
+      "theme": "development",
+      "via_gnews": false
+    },
+    {
       "id": "7a49b68fc992b450",
       "title": "Joint Statement on Upscaling of Non-Power Applications of Atomic Energy",
       "summary": "Joint Statement on Upscaling of Non-Power Applications of Atomic Energy &nbsp;&nbsp; mofa.go.jp",
@@ -1679,7 +1822,7 @@
     {
       "id": "e3ecd835ef8e0792",
       "title": "NATO Summit",
-      "summary": "NATO Summit &nbsp;&nbsp; North Atlantic Treaty Organization",
+      "summary": "NATO Summit &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVkt4SmwxeUYzUEhBcWlJal9DQ3h3RGJCTExacy1UVHE3a0p1UkY1RVNnVkUzZUhITmZkNkVpdFRlMW9NNmtHUTJFQ3E4T1FHbUs2REdWU2tpZnhseUVaTnljUE40dTVKMGxZMThlSXpHUDl2Q1Q4XzdPMWJJVVhwZDRjN1JkUTg1bS1rUGxnRl93djdkaGNaMVFQX1o5THU5UGVn?oc=5",
       "date": "2026-04-22",
       "source": "NATO",
@@ -1755,16 +1898,29 @@
       "via_gnews": true
     },
     {
+      "id": "b749ddca5b67d9f2",
+      "title": "Implementing Grand Strategy Toward China",
+      "summary": "Implementing Grand Strategy Toward China &nbsp;&nbsp; static.cfr.org",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSHlXa2Z6X21tWC1jTklETjk1Y0paS1BIaXNZNjktU0xmemRSNHpXdUdLUGJucFQ0cm9KUm9RaFBrUWhhNVMwT3BjX1M3MDVzclQxdE1qeHpzbVhNcUlCY3Z3TTVtUzFMYmJtTmxWRkVEQzRZRHR3RUNGelpoZ1RYTE5tanlMUQ?oc=5",
+      "date": "2026-04-14",
+      "source": "Council on Foreign Relations",
+      "source_type": "tt",
+      "region": "CN",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "334a3888f1ddb185",
       "title": "Relations with partners in the Indo-Pacific region",
-      "summary": "Relations with partners in the Indo-Pacific region &nbsp;&nbsp; North Atlantic Treaty Organization",
+      "summary": "Relations with partners in the Indo-Pacific region &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNemdSLVp2bklsZ2w4WGRvcDY2SmNMeU9jekdCTEhPbHRYOTFydC05b2ZvOFNOOFQ0S1V5Um9BUkxSbzVnMnFOc0xvT3JBTXhJanZlX3ZtTkc0Ui1VNmdSTlZXQmhHbVhFTC1OeWNPQ1FOVV90clZ4M0Z6WEt0cHRzRjRVa0E0dDItLXN3NnRROGY4cUlaeG92S2s5VjUxUjRlX0lnT01xSUd3c0VsMGY2NkR3amI?oc=5",
       "date": "2026-04-13",
       "source": "NATO",
       "source_type": "io",
       "region": "Global",
       "lang": "en",
-      "theme": "diplomacy",
+      "theme": "security",
       "via_gnews": true
     },
     {
@@ -1783,7 +1939,7 @@
     {
       "id": "56202bfd01011a1e",
       "title": "Defence expenditures and NATO’s 5% commitment",
-      "summary": "Defence expenditures and NATO’s 5% commitment &nbsp;&nbsp; North Atlantic Treaty Organization",
+      "summary": "Defence expenditures and NATO’s 5% commitment &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON3gyb2lIWU5pSjRMVE9jdDdqTXBHa21pN29vejJXTzQyU2VvZTR5bTdSZXI4bjQ0bGpVbWhqODdlUEhvUENZTG1pQjRreEFud3dHWFZqZk56SHFwZ0l6dVVtd211Sm16MHFjV1h3OGxmLUJTSGdRWkZoWWVBdUFrMDFjSElSNWpPOWtpMGRnZ3hZUU83VjRYUmFoNTdrN1h3?oc=5",
       "date": "2026-04-10",
       "source": "NATO",
@@ -1803,19 +1959,6 @@
       "source_type": "tt",
       "region": "EU",
       "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "45ab361d0668c365",
-      "title": "Joint statement on protection of journalists",
-      "summary": "Joint statement on protection of journalists &nbsp;&nbsp; diplomatie.gouv.fr",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPcF9Nd3VIT0JRWEgxRVh3Slk5dzBnWFdBeUg5THdsZ3l0VDhXWHV4dWpVdUhGMkY3QzBvNkJ2amRFS2xvTTJVbWNobDBSWkQ5R0ZqNnNPY1RoUTBsejljODhudmd5YzVlUUgyX0lGT0dzaEluczN2TW1BdjE1Ym42RFRSampoYkxxTUE0Nm5FblpoRXhWYlZPWVYybHROaEJYRm9abi1TYU1TdV9jUHZ1c2VjQUZZdk81b3hjSFl5aTcxTkpjLTFuNVlBREZQX2swZ1RwdWd0WEVZckNwLXBqcm5KLVJGZ1NiOVBwNWhrcUIyd3FDVi1VQWxsdEg1a1VVZHdYZllwa2dfSVZ0c0VKUUhOTE0?oc=5",
-      "date": "2026-04-07",
-      "source": "France — MEAE (Diplomatie)",
-      "source_type": "gov",
-      "region": "FR",
-      "lang": "fr",
       "theme": null,
       "via_gnews": true
     },
@@ -1861,7 +2004,7 @@
     {
       "id": "791ca8cb2012ebfc",
       "title": "Sweden to host the next meeting of NATO Ministers of Foreign Affairs",
-      "summary": "Sweden to host the next meeting of NATO Ministers of Foreign Affairs &nbsp;&nbsp; North Atlantic Treaty Organization",
+      "summary": "Sweden to host the next meeting of NATO Ministers of Foreign Affairs &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY2NWSDZkLXhibGo4VTBPYkFEYlZWbFZMQ3JKN2pkWVlDLV9OUkZaT3ItdGIzelY3dXJMYmwzZVdxcVpVUEhGaXc5VGNiNml0SW9nYi1PNl9SS01YbHRxeGRFQWtFLXZPUWhKWWFkOUNPZHZld3VQY28xQU1vdlNOQVBkeW9JdGVZZDgtVmp6Qm5yd0hiOTBjQmdDOU1taUM5cVdlNWhFZU5HSUk2LTlwWEl2R3pTUlo4Nm5HTkhqdVlBUGpxb3hsN2tnQ2I5dw?oc=5",
       "date": "2026-03-31",
       "source": "NATO",
@@ -2212,7 +2355,7 @@
     {
       "id": "0b8b900abdf6208c",
       "title": "Meeting of NATO Ministers of Defence, 12-Feb-2026 | NATO Event",
-      "summary": "Meeting of NATO Ministers of Defence, 12-Feb-2026 | NATO Event &nbsp;&nbsp; North Atlantic Treaty Organization",
+      "summary": "Meeting of NATO Ministers of Defence, 12-Feb-2026 | NATO Event &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd3g0dFFGdkktdVh5dmM3OGVNXzBQU3BDNk1jb2Q1bE1JQ1U3b0dHZHFfVTdkNW5ETnhyVW9lbTA1YnM1SDlMTWtvclZpZWRoQzVxbTE5UjNxcFBkbUJmUndlaWM0UHNtOWxyYXZ4bVo4N09yb3Bna1B3Q21rbHVvU3l5UGx3QVhwdVNUb0VVcnlQb3VybTNzTld5RHp4blpmY0RLRnVHVVVHZS1w?oc=5",
       "date": "2026-02-12",
       "source": "NATO",
@@ -2522,6 +2665,19 @@
       "via_gnews": true
     },
     {
+      "id": "e86a48fea0960242",
+      "title": "From strategy to doctrine: the next steps for European economic security",
+      "summary": "From strategy to doctrine: the next steps for European economic security &nbsp;&nbsp; Bruegel",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZjJyQkF3Uy1wVE1DYlkwNVJ3amZqN0RPbjZHa0ozVng1am5Ub2tpVXhCc1ZlNFM3VUpvT2xnQnN5dVpKV3pRMVM4SVVPbUJtbHJyNUpUTGxDeXlpZWF6WDMzYzQyX3pQRWJJd0RsTlZyaHFmMWhTVWFxYzBIYUdoOXJpNWJSc3Itblg1NWhOYkRrekw3Rlhr?oc=5",
+      "date": "2025-12-02",
+      "source": "Bruegel",
+      "source_type": "tt",
+      "region": "EU",
+      "lang": "en",
+      "theme": "security",
+      "via_gnews": true
+    },
+    {
       "id": "e209fad69a82c62b",
       "title": "The Armed Conflict Survey 2025",
       "summary": "The Armed Conflict Survey 2025 &nbsp;&nbsp; The International Institute for Strategic Studies",
@@ -2574,19 +2730,6 @@
       "via_gnews": true
     },
     {
-      "id": "62ddebc4d016e3cc",
-      "title": "U.S. Strategic Framework for the Indo-Pacific: Northeastern Dialogue 'Tripura Chapter'- Event Report",
-      "summary": "U.S. Strategic Framework for the Indo-Pacific: Northeastern Dialogue 'Tripura Chapter'- Event Report &nbsp;&nbsp; orfonline.org",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTFZJWXdTcndudTJkLVhjNWh5OUdUOHhTb29CWEk5OWp3QmFpZFplQTZ3Q21PN05uMW40M3FNQ1FKbjVOc19mRFZXQzloY0QyYlNhc3Q5cUtJOU9FeTZjb2o3MVBRNm5oblVLV19ISWRLVGFMbWp4dnNRXzZUTnM3ZUNGc2FKcGUyd1FkY0NVSTE4X1IyZW0wR0ZBTzVDeDE5ejZXcmNtMWU1a19yNmNkX2h5eFF6a0NMbHd6LUlBMVh3aFBYZkx1Tw?oc=5",
-      "date": "2025-11-19",
-      "source": "ORF — Observer Research Foundation",
-      "source_type": "tt",
-      "region": "IN",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "ee9dcbb97c0952d6",
       "title": "COP30: France joins declaration on information integrity on climate change",
       "summary": "COP30: France joins declaration on information integrity on climate change &nbsp;&nbsp; diplomatie.gouv.fr",
@@ -2600,48 +2743,22 @@
       "via_gnews": true
     },
     {
-      "id": "26f184590d7eba6a",
-      "title": "The weight of silence: How the Mobondo revolt is shaking western DRC (Summary Report)",
-      "summary": "The weight of silence: How the Mobondo revolt is shaking western DRC (Summary Report) &nbsp;&nbsp; research.diis.dk",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZWhySjMwUUI0VklOeEJuS21OTFJEblpkdzhkeWJuWDVPWkJMTVV4aVhhcTZyRFBzbHp0VnBDeXNUTEhra0t1X2FHWkdqNnBBTWxtRERjNHFyYWVNVHhONzdyWVBGTDFIYmNfMHczUi03R1RhVDI3eG1OQWlUMkk0dlpQd0M0WjlMb2d6RGJUTWVlTk5Gd2UzRko4eWtZOFI1Tkl0MzFPQmVlTU0?oc=5",
-      "date": "2025-11-17",
-      "source": "DIIS (DK)",
-      "source_type": "tt",
-      "region": "DK",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "8916343e455a27a1",
       "title": "Events",
-      "summary": "Events &nbsp;&nbsp; North Atlantic Treaty Organization",
+      "summary": "Events &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UWk1jZVN4N3h1bXRrWFkyME1yQzFZeG50dHF2dWZ1SzVJdnZUa3ZhU1lvanVmeDQtVGw0X2NOOHVfTms3aURTS3RpSjBLMzZVV3pYZ3RNaGFVUQ?oc=5",
       "date": "2025-11-14",
       "source": "NATO",
       "source_type": "io",
       "region": "Global",
       "lang": "en",
-      "theme": "diplomacy",
-      "via_gnews": true
-    },
-    {
-      "id": "b4a00507d25967ac",
-      "title": "Transcripts",
-      "summary": "Transcripts &nbsp;&nbsp; North Atlantic Treaty Organization",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fakI1S0ZpT0hPc1JGZURKTEdkY09HaFg2TmxoQ09aUzFOd0hCWlNzMlZfdmRMWDZ5RFJreG50N3dQNlBoUmJtQ2NiUXVDa05iVExTYnNzWWNZcEZaenZJa090SVc0SEY1MEE?oc=5",
-      "date": "2025-11-13",
-      "source": "NATO",
-      "source_type": "io",
-      "region": "Global",
-      "lang": "en",
-      "theme": "diplomacy",
+      "theme": "security",
       "via_gnews": true
     },
     {
       "id": "aafe87e077145121",
       "title": "North Atlantic Treaty Organization | NATO",
-      "summary": "North Atlantic Treaty Organization | NATO &nbsp;&nbsp; North Atlantic Treaty Organization",
+      "summary": "North Atlantic Treaty Organization | NATO &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
       "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE13S25tWi1faWFQMV93ZmJ4MnI1eFhSMGRYM190eFpjYnQ3ak4xb2NFRjEtQ0lSc2FXcEFz?oc=5",
       "date": "2025-11-13",
       "source": "NATO",
@@ -2654,14 +2771,27 @@
     {
       "id": "e05640d42873b544",
       "title": "Event programmes",
-      "summary": "Event programmes &nbsp;&nbsp; North Atlantic Treaty Organization",
+      "summary": "Event programmes &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tWHdQWk5fb2dMX3l6V1NOWm96S3FMUGJXQ2p0WVZBMmc5ZEs4b29aS2FQSm5LcU5YM3d2eDA4N0dCR2NnWUNjd0RQRm96U1VkVVVNN0J3RUdid2pwcFZpeGoxaGJheXU3S0F0Z084Wmc?oc=5",
       "date": "2025-11-13",
       "source": "NATO",
       "source_type": "io",
       "region": "Global",
       "lang": "en",
-      "theme": "diplomacy",
+      "theme": "security",
+      "via_gnews": true
+    },
+    {
+      "id": "27d79f4826a20e5c",
+      "title": "CFR Task Force Report: U.S. Economic Security—Winning the Race for Tomorrow's Technologies",
+      "summary": "CFR Task Force Report: U.S. Economic Security—Winning the Race for Tomorrow's Technologies &nbsp;&nbsp; Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVDZJWk9rOXNHbEQtejNqWWlINEpPdFJvaWZfWEJkak84TVM1VXZuNlZIdkJUS2pXOGEyLXk0ZmNFQzQzaGhLUXAwRFFKbDhma3Y1V2tYTG5lRndsa2ZjNmk4S1ZkUmxwYThXVHdhRkQzYmlxVjN6bUNMckpXeFhCV2dQT01ocDdZV0diTkc2Ty1zYWtIWjNMR3VLRVFOdVBRX3lXTm9ZSQ?oc=5",
+      "date": "2025-11-05",
+      "source": "Council on Foreign Relations",
+      "source_type": "tt",
+      "region": "US",
+      "lang": "en",
+      "theme": null,
       "via_gnews": true
     },
     {
@@ -2769,9 +2899,9 @@
       "via_gnews": true
     },
     {
-      "id": "835ec7d2cc342087",
-      "title": "Fourth EU Indo-Pacific Ministerial Forum",
-      "summary": "Fourth EU Indo-Pacific Ministerial Forum &nbsp;&nbsp; EEAS",
+      "id": "1ebb52cb281d8d66",
+      "title": "fourth EU Indo-Pacific Ministerial Forum - EEAS",
+      "summary": "fourth EU Indo-Pacific Ministerial Forum - EEAS &nbsp;&nbsp; EEAS",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNDBHTTF4YzlkcHBvZnY1a1hYMThFd2NqZE1iQ0tTYzhORWhHSEo1Vmg1RGZJLS1xUmdXbDJ6NjRCZVRubHJSaWtmb25FaHd6bXY5UXFSZFRtRG9qVzVIbUM5enBZZENISEJ1ZE9qSDlsbkluMXBPZlhES0VpNFQ0Mg?oc=5",
       "date": "2025-10-07",
       "source": "European External Action Service",
@@ -2791,6 +2921,19 @@
       "source_type": "gov",
       "region": "IT",
       "lang": "it",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "9348390277b81038",
+      "title": "Dr. Chaos or: How to Stop Worrying and Love the Disorder. The Annual Report of the Valdai Discussion Club",
+      "summary": "Dr. Chaos or: How to Stop Worrying and Love the Disorder. The Annual Report of the Valdai Discussion Club &nbsp;&nbsp; valdaiclub.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yS1ZRLVpvRkxJYUNlVnlFc19YVktOOUNfc3lfZ1ZaYThoWWxJcnlkbjVUMHpRMFhLdHNueEdteVgyYThvNlJ1R1NubGV0V1Npd25ESnVmRTU2czR4ajMtY1hOdVRFblZwemFpZEpqemZxRjZK?oc=5",
+      "date": "2025-09-29",
+      "source": "Valdai Club",
+      "source_type": "tt",
+      "region": "RU",
+      "lang": "en",
       "theme": null,
       "via_gnews": true
     },
@@ -2860,14 +3003,27 @@
       "via_gnews": true
     },
     {
-      "id": "8efa33fd4a072e7e",
-      "title": "ANNUAL REPORT",
-      "summary": "ANNUAL REPORT &nbsp;&nbsp; static.cfr.org",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdUtNRnpuQkY3OWNheWxwbERGazZfUVI2ZHA3SmlyaUxCeUxRbUFLQWFGZDVFd001QWtQcUZuNmtoTXctX1RKT05yb3VQbTFWLVJPOUlJWV96WW81VURXYTlsU2d6Y2NZQTFmeVJTUGNCZVpvWjhDR0p6b0hwZnBxek9fS0x3UzQ?oc=5",
-      "date": "2025-09-15",
-      "source": "Council on Foreign Relations",
+      "id": "67aa6bdbf18d8594",
+      "title": "Annual Report 2025",
+      "summary": "Annual Report 2025 &nbsp;&nbsp; orfonline.org",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5SS1QWVBUR01WZmhEWjZMdmQ0Y3FLTzg2Y212RlY2VW5MWk1WX0ZRdkZYdXdLMDdlLUxNeFZsVi1RODZzM3NXU3hPMndTN2FwRnpkX2dDY0pEckxNY24zcmJWVQ?oc=5",
+      "date": "2025-09-05",
+      "source": "ORF — Observer Research Foundation",
       "source_type": "tt",
-      "region": "US",
+      "region": "IN",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "78e6302081d20c2a",
+      "title": "The Rise of Soft Power in the Gulf: A Comparative Analysis of GCC Strategies",
+      "summary": "The Rise of Soft Power in the Gulf: A Comparative Analysis of GCC Strategies &nbsp;&nbsp; orfonline.org",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX2E4T09uZUFNbjN1WXpYQkNQWG84alJpV0NnckhYNW52MmpKWkoyTlUyR2dETnp1NTFWTGNEbXdqZzMzbFJTR0s0QkxqdnFQWFRJbHRER1lGdkpRWmpTTXhjSTZQcmZScUNvZHBVWkNEakFDRS11X2s4VEI5WHdleVplZFloMFpxZW5HdUtUSnQ1ZnpPQnYtOFJWTVVlcjV3YTNlVWxFV0xUN01VaHNJ?oc=5",
+      "date": "2025-09-01",
+      "source": "ORF — Observer Research Foundation",
+      "source_type": "tt",
+      "region": "IN",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -2914,7 +3070,7 @@
     {
       "id": "b81507ba283827a0",
       "title": "Türkiye to host 2026 NATO Summit in Ankara",
-      "summary": "Türkiye to host 2026 NATO Summit in Ankara &nbsp;&nbsp; North Atlantic Treaty Organization",
+      "summary": "Türkiye to host 2026 NATO Summit in Ankara &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaFRRY1NmdE5wWVJHWF8ySEdxUlRoWnZpVUQ3Y09pQVhHY1dpTU1xdEhwckcxSUVOR2tDZllEbFJlUWdwVEZaQ01HbnBhWWp0cnRJRTZad0VGV3hIcjRXRmRyR2dEbU9tWnVMMnNxWHVYR05PSWh3ZGsyak56TTExSHhYbVVSdW1tSlhlbE1WWm9BRUw0QjNOSE1SeVZxajhKcU4zekdOX0l4YlU?oc=5",
       "date": "2025-08-20",
       "source": "NATO",
@@ -2966,7 +3122,7 @@
     {
       "id": "4763636e59b83a47",
       "title": "NATO’s approach to space",
-      "summary": "NATO’s approach to space &nbsp;&nbsp; North Atlantic Treaty Organization",
+      "summary": "NATO’s approach to space &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdVMyOEhfYWV4RkdyTzJDdERtckN6NGxQQ2xYUEtITmhTdVhaanJYNFNZY3hGRmlpZnN6R0M4b2t3MENQdk9iSUpjV3BaYjBGcUtmVEJYOXcyVFR4U3pwRmp2X3g3WWc3Q24tNXhxMzA0XzBSTGE4eUl3aVRSZURBM1NmRzFaM3Vy?oc=5",
       "date": "2025-07-30",
       "source": "NATO",
@@ -3016,6 +3172,19 @@
       "via_gnews": true
     },
     {
+      "id": "25974a56cf380007",
+      "title": "A smart European strategy for electric vehicle investment from China",
+      "summary": "A smart European strategy for electric vehicle investment from China &nbsp;&nbsp; Bruegel",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQXFsbER1SW4wMDJLb3ZDUkFLTkxmZF9VUU16RnNQYjZ0Uk9XbzBfZTc1WGhWVE9jaFJZNjlKSzR1RnJXNnVnQ2t3Y1R6bWxMSW9ScjFmdjd6NVpSZ3I2QnliU05tUVpsZWlGVm9OTVZONm96cjY1LV9UQnM4UHpuemRGY2NxVlQzQW9BdW4xREhfV1RCNFhlT213?oc=5",
+      "date": "2025-07-16",
+      "source": "Bruegel",
+      "source_type": "tt",
+      "region": "CN",
+      "lang": "en",
+      "theme": "economy",
+      "via_gnews": true
+    },
+    {
       "id": "6df73b29c96d151d",
       "title": "Comunicado por actividades pesqueras en aguas internacionales cercanas a aguas jurisdiccionales",
       "summary": "Comunicado por actividades pesqueras en aguas internacionales cercanas a aguas jurisdiccionales &nbsp;&nbsp; minrel.gob.cl",
@@ -3055,22 +3224,9 @@
       "via_gnews": true
     },
     {
-      "id": "1a4de513d26f47d3",
-      "title": "Sessional Paper No. 1 of 2025 on the Foreign Policy of the Republic of Kenya",
-      "summary": "Sessional Paper No. 1 of 2025 on the Foreign Policy of the Republic of Kenya &nbsp;&nbsp; Kenya Ministry of Foreign Affairs",
-      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9Yb3lQbDAyNHE5S21BYzl6WHlQNjZOLVpVOUVkTkN1eTMzT2tBa0dWLTNPYVRja0xCQnl3SW9IUQ?oc=5",
-      "date": "2025-06-29",
-      "source": "Kenya — MFA",
-      "source_type": "gov",
-      "region": "Africa",
-      "lang": "en",
-      "theme": "diplomacy",
-      "via_gnews": true
-    },
-    {
       "id": "e57c8de72c3930bc",
       "title": "NATO concludes historic Summit in The Hague",
-      "summary": "NATO concludes historic Summit in The Hague &nbsp;&nbsp; North Atlantic Treaty Organization",
+      "summary": "NATO concludes historic Summit in The Hague &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNWJ5ODVZUkw1Zl80eU5zamlYRVB4cHdIblROVjhyYzNXTHJIdGw0WFFmWDh6TVpHYktfVmp0Y2Nrb3JZV1J4QWNYRzRoT2g5T09OcjNIZk1hbkJ6QWNLVm1pZkFwQTdTNTRpdEtrSDBCenpyTDZfUjgxZmlnR0duUUlFMGszYVBlRlpnS3ZsTVZ4cEliMHZmNVM0d3NDQXgyR0dfdG1qMmpjMHNk?oc=5",
       "date": "2025-06-27",
       "source": "NATO",
@@ -3083,20 +3239,20 @@
     {
       "id": "2ccab5e251fece4a",
       "title": "The Hague Summit Declaration",
-      "summary": "The Hague Summit Declaration &nbsp;&nbsp; North Atlantic Treaty Organization",
+      "summary": "The Hague Summit Declaration &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOHBTTkVIQUVXTGVIdG54d0IzbUttMllMb09FSWIxdThVcU5ORFJndHpMeWdkclZfWTRvX1oxcUk0dDNBcEVIMG9uWnFQeEEzYTlSTVFfbFp3OTk4UEo1TmhKT2E4QkltTkhkcGFkSlBvaXJ2ZWhkMGkxTHE0Sm8tU1pEVXN3aThLN1Z6MV9PM0liQlBzYnY1X01tR1gyU0E1MDBoOHducnhSZWVpNmhlTUNQRElMa1U?oc=5",
       "date": "2025-06-25",
       "source": "NATO",
       "source_type": "io",
       "region": "Global",
       "lang": "en",
-      "theme": "diplomacy",
+      "theme": "security",
       "via_gnews": true
     },
     {
       "id": "a75a7683a9ca4772",
       "title": "Statement between NATO Secretary General and the four Indo-Pacific partners",
-      "summary": "Statement between NATO Secretary General and the four Indo-Pacific partners &nbsp;&nbsp; North Atlantic Treaty Organization",
+      "summary": "Statement between NATO Secretary General and the four Indo-Pacific partners &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPX3ZxaVdXYkUyVHF2THRKRExZOElLY01EczJ4ZlZXb1VfeDZSeGxUNWprQU5Qal9YN2hOS1pJZlFFc0Q4VTU0dXpvZFVOQTBWUEtodERrV2dRZkZwWHZJdzBET210akRnWmRORnBUMEtJQUEtY1NiZXYzbXl6UWJLZmoxdzdzQVhUNkhDTzVaVWREcVNKR3UzODdnS3FucEkzQnZMYUxOYnpMWHpGaWZiZnBWOEZHT1Rtamd0TWhKbGJuaGY3Tjl3MUxBNU9WMGVqMzZFM2xFWVVFLUZrV1JleTRhOVBDc1lFbWE3cHJMMjh6dXplSXc?oc=5",
       "date": "2025-06-25",
       "source": "NATO",
@@ -3122,8 +3278,21 @@
     {
       "id": "d3ce1a06422e0d9c",
       "title": "NATO Summit 2025, 24-Jun-2025 | NATO Event",
-      "summary": "NATO Summit 2025, 24-Jun-2025 | NATO Event &nbsp;&nbsp; North Atlantic Treaty Organization",
+      "summary": "NATO Summit 2025, 24-Jun-2025 | NATO Event &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQVc2U0VjclNZOE51YnhSTUdZUFJHVDMtMFQ0ZmhlUnRYTzdpbU5ubFVncGNkUHBWWDV2N0dHcTAxWUJvZTJLTTV1M1F2MUtDU3lQTzMtZWhZQTlyc3M1YW5XbWNBRm5MUEctS0NqUDVDNHZCWnRVWDJvRkV2UVZmTEpVYzFBYzFIMlZJRGxKSm9JZw?oc=5",
+      "date": "2025-06-25",
+      "source": "NATO",
+      "source_type": "io",
+      "region": "Global",
+      "lang": "en",
+      "theme": "security",
+      "via_gnews": true
+    },
+    {
+      "id": "90ebb18a87f1e5fb",
+      "title": "NATO AWACS provides overwatch of the NATO Summit in The Hague",
+      "summary": "NATO AWACS provides overwatch of the NATO Summit in The Hague &nbsp;&nbsp; ac.nato.int",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUmRLT0Z6U0tsa1NaZmlQWmppUVFNMFN0cVRwbk1LN1dHQVI3OGVxemNuekZ2Yl93dVZSOXRoN0dUZ2FHN0dzb242alFDVjZRclZDMlJCbVlPU0RpRFBBUWwyRlIzQjBUcm5UMVpnQXNyVXVabDRid05HZVdpeHFwTDVrT2k4dkhFMU5OVjFIQWF1aGFaS1VKTExuX04?oc=5",
       "date": "2025-06-25",
       "source": "NATO",
       "source_type": "io",
@@ -3148,14 +3317,14 @@
     {
       "id": "cfbfd6b2d9b63cf3",
       "title": "Emerging and disruptive technologies",
-      "summary": "Emerging and disruptive technologies &nbsp;&nbsp; North Atlantic Treaty Organization",
+      "summary": "Emerging and disruptive technologies &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUkZkMDQtaW5oWVJfdmNaVnlndXgtMTdrWFRyZ0I4bG0zOG1QY0xiX21RcmFQemF6b2RLekM0NDMwS3NjbTViYXl4M2VzUkNKd2RqZ1MtVEdOeTZPckFKOEQtU1VOWFBQc3E1a2RzRVZURDZZQXNmZlJ6a1VxMDhuNlJnWjQ4WTNoRFZMSVV6WnBXMk9yWGhGMEtB?oc=5",
       "date": "2025-06-25",
       "source": "NATO",
       "source_type": "io",
       "region": "Global",
       "lang": "en",
-      "theme": "diplomacy",
+      "theme": "security",
       "via_gnews": true
     },
     {
@@ -3174,7 +3343,7 @@
     {
       "id": "7219d176c2f185f0",
       "title": "Overview - 2025 NATO Summit in The Hague",
-      "summary": "Overview - 2025 NATO Summit in The Hague &nbsp;&nbsp; North Atlantic Treaty Organization",
+      "summary": "Overview - 2025 NATO Summit in The Hague &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUEVqbUdFTklxbm43S2xBUGJiQm00UUk4SDhJVFFuUGhnUDd0QVJIRWpkTTJmd2lhNFktY3hJRDBpTG5LWnhfT1AwSWM2ZEh1NXBXRHNfSkJNRkVvRG9RS05yTHVOLWFtdWNuM2tGSmRmVHZ0NWVTOFN4WVhsQ2pieGRfUy00X1diVlMzLU4tdzZ1OW9JQjhOMWpB?oc=5",
       "date": "2025-06-24",
       "source": "NATO",
@@ -3187,7 +3356,7 @@
     {
       "id": "986751b0c59ed3a3",
       "title": "NATO Summit Defence Industry Forum 2025 – Time to ‘unite, innovate & deliver’",
-      "summary": "NATO Summit Defence Industry Forum 2025 – Time to ‘unite, innovate & deliver’ &nbsp;&nbsp; North Atlantic Treaty Organization",
+      "summary": "NATO Summit Defence Industry Forum 2025 – Time to ‘unite, innovate & deliver’ &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRHVCVTVfdTZIZF9lVlExZjk2RGlKRXU1V1R3NjdBNzBIdWxQUFF4RXJkSkw2TktyaVl6ejZOdnBUQ0lsdUNhZE9KZjZfaEwydjhfcjFVZHFNb3NsVk1WOElrVk5yZmlDQ3U4aHlxTTM2YV9nNmFVeEhJb0RMa191eVZPZG5XTnNmbndXRXlta0g3MXZUa2t1SWhIbk9TNEF3dzMzRk42bjBvUGNuZkFKS1pJVUZIYmkxc2lMRGRFX0RQM3lDY3B5X2QtWm94RUZmMXc?oc=5",
       "date": "2025-06-24",
       "source": "NATO",
@@ -3356,7 +3525,7 @@
     {
       "id": "deb59b7784feb7ac",
       "title": "NATO Secretary General visits United States in preparation for The Hague Summit",
-      "summary": "NATO Secretary General visits United States in preparation for The Hague Summit &nbsp;&nbsp; North Atlantic Treaty Organization",
+      "summary": "NATO Secretary General visits United States in preparation for The Hague Summit &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQTJzSGNJWWFHUU1nYkNYTmgxdnprcWlIVkMwLXh1Rmt1QWZhM3VPdGlKdkxRc1RnbHdVZDY5anEyLU05ekNKZXJhVHFXbnVxNnZPYy1XMDFRTWxtSEl6V3lDZmFfY2hGZkFlanZVbEkyZVVlSUZ6by1BY1VZdk0ydGs3NXlaZXd2OHBfNjgyMEpEbUtEMVB1dXZQVE1BSUtMMjNQcTM3SUY1TTRmUXdXVDZNeU1aSk8yQks0UmFyajN5SURlUHRvNkdzTTRvdXVQenRqZWVOVWhCQU8x?oc=5",
       "date": "2025-04-25",
       "source": "NATO",
@@ -3447,7 +3616,7 @@
     {
       "id": "ab63eab0d3ad6ce0",
       "title": "NATO launches 2025 NATO Youth Summit in Montenegro",
-      "summary": "NATO launches 2025 NATO Youth Summit in Montenegro &nbsp;&nbsp; North Atlantic Treaty Organization",
+      "summary": "NATO launches 2025 NATO Youth Summit in Montenegro &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMXktdHVmRGpfZ09CWW5CNjVvUFpOT1hXVTl5Unk1S2NmaHZKSFAzQWdPZWRpc0hlY0k4bTlkRTc4Ull6WDZRZTRvT1dPRndVSm14cTQyVVlBN244dzFOMmV2Wk5rQncxNHNzTU9meWYzYkpWTUYwVDlHdWRuX1B2S1dHbGo3Nmo0ZG1lbzhPMFdiMHhWdGdjQTViUVFSSFZiR1FYWXBWWHhWUmxLTHA5czQzRmdKdw?oc=5",
       "date": "2025-03-10",
       "source": "NATO",
@@ -3512,7 +3681,7 @@
     {
       "id": "10b92e3f9999e3aa",
       "title": "NATO Defence Ministers conclude meeting, focus on defence spending and support for Ukraine",
-      "summary": "NATO Defence Ministers conclude meeting, focus on defence spending and support for Ukraine &nbsp;&nbsp; North Atlantic Treaty Organization",
+      "summary": "NATO Defence Ministers conclude meeting, focus on defence spending and support for Ukraine &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZmx1eDB4RzEzTWd0NGxrRHpVb0x1MFB6c0J2WTUzT29GNUluRzBuOXJwMlhFNklVZmtNbjNxeHBnTFJyVHBsOEE1eWQ2TUE2SWVSdjlmNzlkQmZvQlV3ZXgxaUszLVBwYVdGY2s5YkZZQmhsZ3lEQnFVbV9RYUVkQkN0aEh5NUhQaEhHQmJaVEtwaGkxT09zS2dmOFpkM2dSNTZydmttS1FjS2hHUXhnXzljTXJOYWFNd3g5VVJBWFBBQXJ1bWtVdEJuQU5WTUVpY0tzRWlGT1YzNDBQblZsZE1IS2FPbmhPSlE?oc=5",
       "date": "2025-02-13",
       "source": "NATO",
@@ -3557,19 +3726,6 @@
       "source": "RUSI",
       "source_type": "tt",
       "region": "UK",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "7dc09884df07d2c8",
-      "title": "USIPS NED Meghalaya Dialogue: Event Report",
-      "summary": "USIPS NED Meghalaya Dialogue: Event Report &nbsp;&nbsp; orfonline.org",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdUpuQjNwZFBIODJNb0tfN2FlNTRZMEl2bllROEhGR0lJVDNxQ2c1dTNGaENwQmdlM081Y1psYW5ZSjlGNGdndlZHYXdObUQyOWRxTG5NNnRkYTU2NVRSZ21yQlFkeHU2ZE9tX1g1T1RDMExCS1hTemFwcXhzN0QzbXF3?oc=5",
-      "date": "2025-01-03",
-      "source": "ORF — Observer Research Foundation",
-      "source_type": "tt",
-      "region": "IN",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -3627,6 +3783,19 @@
       "via_gnews": true
     },
     {
+      "id": "81b897f50639ba3f",
+      "title": "An investment strategy to keep the European Green Deal on track",
+      "summary": "An investment strategy to keep the European Green Deal on track &nbsp;&nbsp; Bruegel",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2Rvc0NwaFY4Qy1XcVhXNXJFRnVMODJQaHNZVGdjNzZNdUtjNEFuYlhmX05jWVFjT056aHI3YXJiQm9EWGxIbkQ3ZTN2TmpOUWxNR3RCUDdHd0xDbTZmRW1vcGRVMzZQU1RtbE14R2NWSmpsdjY1aHR4Vi1zVVptTG1mZExVcDd4cTZyN002Wjc?oc=5",
+      "date": "2024-12-02",
+      "source": "Bruegel",
+      "source_type": "tt",
+      "region": "EU",
+      "lang": "en",
+      "theme": "economy",
+      "via_gnews": true
+    },
+    {
       "id": "cab78b974d37d2a0",
       "title": "The Diversity Strategy – “Diverse Germany, diverse diplomacy!”",
       "summary": "The Diversity Strategy – “Diverse Germany, diverse diplomacy!” &nbsp;&nbsp; Auswärtiges Amt",
@@ -3663,6 +3832,19 @@
       "region": "DE",
       "lang": "de",
       "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "11ac641cedc20b04",
+      "title": "North Korea’s Cyber Strategy: An Initial Analysis",
+      "summary": "North Korea’s Cyber Strategy: An Initial Analysis &nbsp;&nbsp; orfonline.org",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYXBSZS1PcUZUZmttckZQbDVQSzRoWExVVTFFOVpPQ0NuWjFaUGNBX2xhLWxVVDZIUWQ4REZpRFZtd2xpLXl0NTVUdktiSkxiM3J0X0pvOEt2OXdabEloUVdQajRIVVBKT2lmck1mMzZSQVRlb2FrbENzQngxcWZuaXBzQlhHTnVoYVFj?oc=5",
+      "date": "2024-11-21",
+      "source": "ORF — Observer Research Foundation",
+      "source_type": "tt",
+      "region": "IN",
+      "lang": "en",
+      "theme": "technology",
       "via_gnews": true
     },
     {
@@ -3705,19 +3887,6 @@
       "via_gnews": true
     },
     {
-      "id": "5b6786e1ed73fdaa",
-      "title": "Joint Statement on the U.S.-Guatemala High-Level Security Dialogue",
-      "summary": "Joint Statement on the U.S.-Guatemala High-Level Security Dialogue &nbsp;&nbsp; U.S. Department of State (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOGFXaW9sM0NOalFpS0tfUFY1ZktwWEZOQ1pWeUF2M3BrMTNvSXNVUHVhWVpsTzFqX1BYcmtvUG9pN1hudXdIc3h6RlRnUUZnbjdjSmMyeFJlcjhTVWZ6YS1wY2pTOHYyQkloakRZYmE0SmdTZEYxS3hERGdreVc1ZjFLN0FoTzR1NWlZQldjYjZRWE1ndGZyTnFB?oc=5",
-      "date": "2024-10-03",
-      "source": "US State Department",
-      "source_type": "gov",
-      "region": "US",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "d5c18f7b19094925",
       "title": "The New York Joint Statement on the Security and Resilience of Undersea Cables in a Globally Digitalized World",
       "summary": "The New York Joint Statement on the Security and Resilience of Undersea Cables in a Globally Digitalized World &nbsp;&nbsp; Australian Government Department of Foreign Affairs and Trade",
@@ -3728,32 +3897,6 @@
       "region": "AU",
       "lang": "en",
       "theme": "diplomacy",
-      "via_gnews": true
-    },
-    {
-      "id": "5807e94dc7034652",
-      "title": "Freedom Online Coalition Joint Statement on Responsible Government Practices for AI Technologies",
-      "summary": "Freedom Online Coalition Joint Statement on Responsible Government Practices for AI Technologies &nbsp;&nbsp; U.S. Department of State (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS3hQZkZzbjd0bEpiUWRjSm15bER1OEJkcGxNbmJ2SU5GWTJXdy1CbWp2RGVRcHJGa1JJbmZ0TlhSSFFzSURkdVIzZlRBeTcyRGI5VmRNQzFOVzJCM3lPbkEtNFVGa3RLRTdaUTU4d1M4M2dYemVoTUFwN2FxX3F3Q3Jza2hkNHFhQm4wRHl6aTlQSXlONzV0WUVSNnV5VUpkaTR3c0tVNEF0dzdEQ0xsZ19FbjEyOVdFZmxNTjJtMDNXcjQ?oc=5",
-      "date": "2024-09-23",
-      "source": "US State Department",
-      "source_type": "gov",
-      "region": "US",
-      "lang": "en",
-      "theme": "technology",
-      "via_gnews": true
-    },
-    {
-      "id": "e6b364632a2aa047",
-      "title": "3 questions on the Draghi report on European competitiveness to Sander Tordoir",
-      "summary": "3 questions on the Draghi report on European competitiveness to Sander Tordoir &nbsp;&nbsp; Centre for European Reform (CER)",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdjVUd0xqckxRWGw1OXZiSVRVTU5pMFFPeUlNMkxzM240dTV2TjlHSS1BbV9DVk9RYkpfMi00ckVhcmM2NlZlRDJYenNhNloxRUhjUm0wT2k5SVZ1dzVscmdoSTk2TV9CQ0xYdTVnV05oblotQVpXcWVUUjdKR2NoY0FYMUw1azJxSXdJYXZEUk9SQmRpbU5XTTlHNlJNQQ?oc=5",
-      "date": "2024-09-12",
-      "source": "Centre for European Reform (CER)",
-      "source_type": "tt",
-      "region": "UK",
-      "lang": "en",
-      "theme": null,
       "via_gnews": true
     },
     {
@@ -3783,22 +3926,9 @@
       "via_gnews": true
     },
     {
-      "id": "8f352cde29149e5b",
-      "title": "Joint Statement on Belarus",
-      "summary": "Joint Statement on Belarus &nbsp;&nbsp; U.S. Department of State (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RTkdHMU95bUZvSmdGMndlRUNWMkQ4Q3Q3LTA0MDNuRllWaHJFY2EzZ2dDZlA0N1VCQ0l1Q21SeHJnTHQxdE9UQWFrN3NrRnVsaDllbVZTcDBKVHZieExsZlZzZm9sSzhr?oc=5",
-      "date": "2024-08-09",
-      "source": "US State Department",
-      "source_type": "gov",
-      "region": "US",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "5e49e5f182c93228",
       "title": "NATO Secretary General concludes landmark 75th Anniversary Washington Summit",
-      "summary": "NATO Secretary General concludes landmark 75th Anniversary Washington Summit &nbsp;&nbsp; North Atlantic Treaty Organization",
+      "summary": "NATO Secretary General concludes landmark 75th Anniversary Washington Summit &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUXJ2eVRMWVptZmV3T09EbGVGQzJHVUdsTUp1VGVKa0xTWExlSzV0S1ZobVNMX2Mxb0l2Qk9pWHRTbmYzM3VEajV0Yl9jQ2tpZkYyVE85TWFWcnpURVdxVUlBLWw1Sk5SdE9FaWlLTW1KVjRSU0ZPSDdZM3dvcENjZ1FsMGphM0xydE1TTnhlTDFiMUlXa3BhcEstR0Z0Umg3alpQdF96ajdzby1EVk5JYjJzYkJYVXBaMy1kM3lsS0pTWWE5dE5mUWpKcEg1TXBub2RvejlvUlI?oc=5",
       "date": "2024-07-11",
       "source": "NATO",
@@ -3949,6 +4079,19 @@
       "region": "CN",
       "lang": "en",
       "theme": "economy",
+      "via_gnews": true
+    },
+    {
+      "id": "2ea175a360647cf6",
+      "title": "Declaration of Value – KCSE Checklist",
+      "summary": "Declaration of Value – KCSE Checklist &nbsp;&nbsp; Ambasciata d'Italia Nairobi",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPamlCU2pNX3ZsWEQzNDktQm85elhkUkR4ZXl2WTRTQWFPRTJTNTBOS3o5bEdKYTlpWWI4U1F1a21sMGV4OXNwMDdSUWxVWnVOZjg5WDBXMndfbnVremE1a09laEVmY3RURUtPY05URVZIRkVqQzZ1UWdnUTdhYWlxUU9nazBudl9pQnZiMHpHNVM5cUFac2hUYWQ3ckRnZ0FhS01EcVJycjJHMlFuNmpRQ1d2dDZKcV9wZmxOWFVCM2ZGXzVlejJOZDhnV2pKcnFJcEJ3aUVaVVpNeWVSYVNMUDJlRkk2clpHUlJkRVNHNVpHeERNN3Z2ME1hVXhjVDZxb2hWZzN3?oc=5",
+      "date": "2024-05-30",
+      "source": "Italy — Esteri",
+      "source_type": "gov",
+      "region": "IT",
+      "lang": "it",
+      "theme": null,
       "via_gnews": true
     },
     {
@@ -4209,6 +4352,19 @@
       "region": "UK",
       "lang": "en",
       "theme": "security",
+      "via_gnews": true
+    },
+    {
+      "id": "9846688431bfefa6",
+      "title": "India’s import diversification strategy for natural gas: An analysis of geopolitical implications",
+      "summary": "India’s import diversification strategy for natural gas: An analysis of geopolitical implications &nbsp;&nbsp; orfonline.org",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcjdVZHlsM2s3OV83dERQRmhFalh6ZmxVbHZZUFNpV09fMUNFZG5BYkVrcUFIdHl3LU94V3pRVWRuSjVqV0lBeV9pRzNrUTdidk5QdW1aQ1QwNXgzaEMzM1hEdnlCeVJJU2RiNnRvT1BWaXR2LXl1TVlRdWRrVnFwLWM5VlFGTkMxZzVJRS1xTW5IQnM3cWVSYmpzOEFmclYydFB1clZZME1UeFBhcDVxSlNQUUxqbkFtcjlhdmVxcTVvOGhPWHV2R3NVNA?oc=5",
+      "date": "2023-11-22",
+      "source": "ORF — Observer Research Foundation",
+      "source_type": "tt",
+      "region": "IN",
+      "lang": "en",
+      "theme": null,
       "via_gnews": true
     },
     {
@@ -4771,19 +4927,6 @@
       "via_gnews": true
     },
     {
-      "id": "f12d66ea65ea269d",
-      "title": "Joint Statement on the 52nd Session of the United Nations Human Rights Council",
-      "summary": "Joint Statement on the 52nd Session of the United Nations Human Rights Council &nbsp;&nbsp; U.S. Department of State (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX21fM0FoUnJXbjM3VndXMGUteVI5bExZYnBJeENKbkxlZUV2dG82WG94eEN2YnIwa09sU1V6bTBsa0xlQ29zYlREMzB3Z1QySENfYzk0QVBXTDJqUGlXNmVXaXNPTEc2aGNEV1QzQ1dvUkpWZ3VhM0hkZUZ5eFZfT1ljQmxNR3Q0NlVHb2ZsdVdyT1R0T2I2WEkwc3B6WXVrczU5RnRaeFFfbGs?oc=5",
-      "date": "2023-03-12",
-      "source": "US State Department",
-      "source_type": "gov",
-      "region": "US",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "9d7d648debdece43",
       "title": "Top story - Consumer protection - How the EU protects consumer rights",
       "summary": "Find out how the EU protects consumers and about Parliament’s initiatives to improve those rights. Source : © European Union, 2024 - EP",
@@ -5005,6 +5148,19 @@
       "via_gnews": true
     },
     {
+      "id": "304bc3ca8cb98413",
+      "title": "In China’s Own Words: An Analysis of Chinese Strategic Discourse on Tibet",
+      "summary": "In China’s Own Words: An Analysis of Chinese Strategic Discourse on Tibet &nbsp;&nbsp; orfonline.org",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNazU0MmdTQTY0Z2dPNHZtUzVweEF3SXdsLXlDc0dRYUxjM0FNWm9ZRHBpZmRiZFJoTUJYVThBZ3phZmVzSHpIMHdTSGRZcEhDVGZJdlMtejd2QUFmSlktTDZIVFlDVTdJYV81Q2MwLWR3TmZMYjRNRmVfalNYTy12M1FuUFJ6dlJsSkc5RmVxV0YyQ1U3ektNbTA0cmQ2V3JsZmY4cWpiSWthUFU?oc=5",
+      "date": "2022-10-06",
+      "source": "ORF — Observer Research Foundation",
+      "source_type": "tt",
+      "region": "CN",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "6fa56819b4235d0a",
       "title": "EUROPEAN DEFENCE FUND (EDF)",
       "summary": "EUROPEAN DEFENCE FUND (EDF) &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
@@ -5093,19 +5249,6 @@
       "region": "Global",
       "lang": "en",
       "theme": "economy",
-      "via_gnews": true
-    },
-    {
-      "id": "484bce303aa023f6",
-      "title": "The OHCHR report: Exposing atrocities in Xinjiang",
-      "summary": "The OHCHR report: Exposing atrocities in Xinjiang &nbsp;&nbsp; orfonline.org",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96REx3cmwyMXVvV012M21DamhCMGU5LWpuc1F3bmRoVnF5dkpYVm1KYnl1RG96Ujk1bF9IUDVpTmlUSGMyTmdWeUt1VGlvU1pueW4wSnFLdXhUdWVfVFBwS1Z6aVpKSTYxd1pwNmo5WjA4T2I5ZUhOa29R?oc=5",
-      "date": "2022-09-05",
-      "source": "ORF — Observer Research Foundation",
-      "source_type": "tt",
-      "region": "IN",
-      "lang": "en",
-      "theme": null,
       "via_gnews": true
     },
     {
@@ -5265,6 +5408,19 @@
       "via_gnews": true
     },
     {
+      "id": "4e87977404e7823c",
+      "title": "Indo-Pacific Strategy 2022: An Analysis",
+      "summary": "Indo-Pacific Strategy 2022: An Analysis &nbsp;&nbsp; orfonline.org",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORFFmSXBPalZ5SGNrdHFNRzhHaUxBVFdIRnBBY19SZjlEcDN4dm5jelR6c0Iyb1ZfcGVFOU1IV1lJN2Y4anl2SjRWdjhzUnlXV3padzFoZzZ0RTl3eUs3RDBBTS0wRkIxZDFOVTAwQjZFckpLenBDbW84SjBjRTVRU3l6OA?oc=5",
+      "date": "2022-05-23",
+      "source": "ORF — Observer Research Foundation",
+      "source_type": "tt",
+      "region": "IN",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "923974e8de581771",
       "title": "Working Paper 22-8: WTO 2025: Constructing an Executive Branch",
       "summary": "Working Paper 22-8: WTO 2025: Constructing an Executive Branch &nbsp;&nbsp; Peterson Institute for International Economics",
@@ -5315,19 +5471,6 @@
       "lang": "en",
       "theme": "diplomacy",
       "via_gnews": false
-    },
-    {
-      "id": "1afc26de72bbd5f6",
-      "title": "An ASEAN-India Cybersecurity Partnership for Peace, Progress, and Prosperity: Report of the Third ASEAN-India Track 1.5 Dialogue on Cyber Issues",
-      "summary": "An ASEAN-India Cybersecurity Partnership for Peace, Progress, and Prosperity: Report of the Third ASEAN-India Track 1.5 Dialogue on Cyber Issues &nbsp;&nbsp; orfonline.org",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUlAyMUN3Q2tfazZCdWQxaVU0ZXRMTm1YdzZLMDJCTWhtS1AyRV83TWhGcjZNcGdCb0RYaHBBbTEzOWZ6UklQTjVSWTBSaXVsQ21nSHQtdTRBc1h5Zk8zMlpaaVY0OEIydkozNjZXYUZiNnY5LVNORzFZUWlFTU9HbzJ2T09XMnNqcG44NmJkd0tWX0xMOW1zMUVlMFN2LWREVzFMOWlrQnk3UQ?oc=5",
-      "date": "2022-04-11",
-      "source": "ORF — Observer Research Foundation",
-      "source_type": "tt",
-      "region": "IN",
-      "lang": "en",
-      "theme": "technology",
-      "via_gnews": true
     },
     {
       "id": "90bd0778b5d74835",
@@ -5538,19 +5681,6 @@
       "via_gnews": true
     },
     {
-      "id": "f90a088370e93704",
-      "title": "Global nutrition report 2021 – India’s nutrition profile and how to meet global nutrition target",
-      "summary": "Global nutrition report 2021 – India’s nutrition profile and how to meet global nutrition target &nbsp;&nbsp; orfonline.org",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KUFJlRU5maGdyTnRVT0ZxdnZKXzlHTVRTTTdhVmRJRmhCT2NtVndyVUF6Znk4Z2ZSWHk3NldOdW41SFpqVEU4WTY3NURodVpDcUZ1ZnRwd2NaN1ZQbXdTaFZuWk5FczlFZnU2T1lEaUdVdEY0SEE?oc=5",
-      "date": "2021-12-02",
-      "source": "ORF — Observer Research Foundation",
-      "source_type": "tt",
-      "region": "IN",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "9633155d582d58f1",
       "title": "Winning the Tech Talent Competition",
       "summary": "Winning the Tech Talent Competition &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
@@ -5582,19 +5712,6 @@
       "summary": "Annual Report 2021 &nbsp;&nbsp; orfonline.org",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE03YTh3b1o5bURyaVVnTkZoWWk0aTZJYlNkNEJOeTJxdEwzcXV4TVk3V2ZvYU9GTlpNZThITm9ySl9yMVJPQkJ3cHVLRF9Xb0M4Tjhyemk5eS04RkdmQ3dRa25XSQ?oc=5",
       "date": "2021-09-05",
-      "source": "ORF — Observer Research Foundation",
-      "source_type": "tt",
-      "region": "IN",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "816c4227deb8e1d6",
-      "title": "BRICS Academic Forum Report",
-      "summary": "BRICS Academic Forum Report &nbsp;&nbsp; orfonline.org",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QbjU2Rzlaejkwc2dwNXNBT2ktTnNwbFVKb2JxQVZqZTFuRXNldDN2SWtnMEhSN0pnWnpaazYtazVXak9QajY0RXFwX1RDVFpNWjItaXBodi1RSVNVeEotYUhfM0llRjhFTk5HdzQySQ?oc=5",
-      "date": "2021-08-31",
       "source": "ORF — Observer Research Foundation",
       "source_type": "tt",
       "region": "IN",
@@ -5772,19 +5889,6 @@
       "via_gnews": true
     },
     {
-      "id": "1461985d7bcab266",
-      "title": "Joint Statement on Hong Kong",
-      "summary": "Joint Statement on Hong Kong &nbsp;&nbsp; U.S. Department of State (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zRlFPbFQ5R2xNTlJKQnowR0c3Y0dMYjExbTJ0MV8ybFRocko1cjRvV3VzUkktS2IzdlNtaEpseDRNQ0lrakdQc2JkY3U1NzF4WTNFckJZNF91Tk5ndVItU3cwWTlyUFRY?oc=5",
-      "date": "2021-01-20",
-      "source": "US State Department",
-      "source_type": "gov",
-      "region": "US",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "73624e78d3be22ce",
       "title": "The British Strategic Defence and Security Review: Drivers, Issues and Possible Implications for NATO",
       "summary": "The British Strategic Defence and Security Review: Drivers, Issues and Possible Implications for NATO &nbsp;&nbsp; pism.pl",
@@ -5876,19 +5980,6 @@
       "via_gnews": true
     },
     {
-      "id": "4abfb055433cb555",
-      "title": "2020 Annual Report",
-      "summary": "2020 Annual Report &nbsp;&nbsp; static.cfr.org",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OSkJ3TEJkY2dFNUttWG5xdm5nVHdnV2dRZHJtYkdRdGppbXVlTk1majFZc2ZJcFBKRFhXajQ2T29mTVVNa1VVR1QybzY4azVOQ25TbFhneVN4V0JzbEVkMlM0aU9wRllRX29DN0pQQTI2bkhfVU9iWg?oc=5",
-      "date": "2020-06-30",
-      "source": "Council on Foreign Relations",
-      "source_type": "tt",
-      "region": "US",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "dc0332a91ef4e06d",
       "title": "SIPRI Yearbook 2020",
       "summary": "SIPRI Yearbook 2020 &nbsp;&nbsp; Stockholm International Peace Research Institute",
@@ -5910,6 +6001,19 @@
       "source": "OAS — Organization of American States",
       "source_type": "io",
       "region": "LatAm",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "ccc091f4984982aa",
+      "title": "Pakistan: Govt report uncovers corruption in CPEC projects",
+      "summary": "Pakistan: Govt report uncovers corruption in CPEC projects &nbsp;&nbsp; orfonline.org",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOam94VVBiXzIwY1ItTzRfYzY5MDBaOHFSajZOWTFDRUhMQXpwWXdsZkJzUzVELXViSmFEOGxUQ1hVN0d5WWpYNE16WVlXWDY2Wl80Q2FJaHNfeURndFFybWdFMldEZ2xheTdDcmF4akpFQUotSTNYOHJWcjItbjQ0UFhnUTF6WjZwWU5CRUctWlBTYW04eVBfc0N2NS1BdUk?oc=5",
+      "date": "2020-05-27",
+      "source": "ORF — Observer Research Foundation",
+      "source_type": "tt",
+      "region": "IN",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -5964,6 +6068,19 @@
       "region": "AU",
       "lang": "en",
       "theme": "diplomacy",
+      "via_gnews": true
+    },
+    {
+      "id": "9dad43247e5ab73e",
+      "title": "Book discussion report | VP Menon: The unsung architect of Modern India",
+      "summary": "Book discussion report | VP Menon: The unsung architect of Modern India &nbsp;&nbsp; orfonline.org",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORVR1ajJvVjZjcnUyNDRNaXY3NUVUSExwY2oyeEFtRzFGb043QjhsYVJxQkpYTUN3ZW9OS3pEc1IyaGwxYzA5UFlaaEJ6akhyVExxX1l6MHhZeE52X0tYazlCQ29YaG16b0ZLZG10SG04QS1JNThKcHhyNFNtTm05Vm83dFVwYTBrTHlrUzhXN0NQQVNJaEN4SEE5eDNFX3F2Tmd4R0M5T2tRa1JxTWc?oc=5",
+      "date": "2020-03-09",
+      "source": "ORF — Observer Research Foundation",
+      "source_type": "tt",
+      "region": "IN",
+      "lang": "en",
+      "theme": null,
       "via_gnews": true
     },
     {
@@ -6032,19 +6149,6 @@
       "via_gnews": true
     },
     {
-      "id": "c51ac6e02425cae9",
-      "title": "Joint Statement of the United States and Bulgaria on the Strategic Partnership Framework",
-      "summary": "Joint Statement of the United States and Bulgaria on the Strategic Partnership Framework &nbsp;&nbsp; U.S. Department of State (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZy1zS202V0w0M01oTFdPUmFrdFVKOW4zanhiTEwycXVhbXRFaV96VG8yT2xKNU9vdTZzY0E1cGw2cElZYUVUSkI5SE8xOU01QjNuTWJoMU5felpCd0JnX2RYdm1ySjRXbWl2cmQ4cnZsMDlSOUpnUzRoTnExYjRWZTBpTE1jZ0xOdE5rVTFYTExNV1pDdkJrUkYtdnFwdHl3MkpJclN6VjBEa3RuQVR3OEl4eFFmUFg2?oc=5",
-      "date": "2019-11-25",
-      "source": "US State Department",
-      "source_type": "gov",
-      "region": "US",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "6009063188675880",
       "title": "US–China Strategic Competition",
       "summary": "US–China Strategic Competition &nbsp;&nbsp; Chatham House",
@@ -6053,32 +6157,6 @@
       "source": "Chatham House",
       "source_type": "tt",
       "region": "CN",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "f5e91da488504899",
-      "title": "IPCC’s special report on Oceans and Cryosphere in a changing climate : Key takeaways for Hindu-Kush Himalayan Region",
-      "summary": "IPCC’s special report on Oceans and Cryosphere in a changing climate : Key takeaways for Hindu-Kush Himalayan Region &nbsp;&nbsp; orfonline.org",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUGdMZ3dWbnNsTjdIVjdodEkwN3pRYi0tNmN5SzA0SlhZeV9HQnBGSnhySlFOWDJpV2hyN211NlBXc3BIdHhvUExoVTFkY2dKUHhEQWNrSTJXcVhENU5aemVZeWVnQU5jSlJsaHktZmVQam1TTXktTl80c3NUTU1HSllhS09GN0ZoVTNEUTJCTm5YUGI3STYwa1AyNXJwM0Q2TUJybVdJbXhhajFGYXR1SVR6c2xsR3ByYXltYmhaRkh4bUVESVd5OW93enpNVjh0RXAzUVV3QXIxYm9ORUx4MGVZa0l2YmxKb3BYbWthUQ?oc=5",
-      "date": "2019-11-06",
-      "source": "ORF — Observer Research Foundation",
-      "source_type": "tt",
-      "region": "IN",
-      "lang": "en",
-      "theme": "climate",
-      "via_gnews": true
-    },
-    {
-      "id": "aad0440ea9cba421",
-      "title": "2019 Japan-U.S. Strategic Energy Partnership Statement: Recent Major Developments",
-      "summary": "2019 Japan-U.S. Strategic Energy Partnership Statement: Recent Major Developments &nbsp;&nbsp; U.S. Department of State (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONlNGdUFHakE2d0VfbjRjREV5N084T0pmbjlpbXU1Yk9oMXRFNFI3eE5GbXI5blk2VHFlNjRyOVNTQ01XWHpJanUzRTE3ZkJ0VkYyT2pLclg4Uk5jMFJsQlhhSHBCU05wRmhjZTNCTjNMc0gtc2N1OE1iYnFFdWZsbXpva2FNdllMbGNaRGNkcTY3dmJZenoyWUJiaFkzR09GOXVWR1NmZXZSbDFk?oc=5",
-      "date": "2019-11-04",
-      "source": "US State Department",
-      "source_type": "gov",
-      "region": "US",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -6201,6 +6279,19 @@
       "via_gnews": true
     },
     {
+      "id": "578928669aa8c3bd",
+      "title": "Armed Conflict Survey 2019",
+      "summary": "Armed Conflict Survey 2019 &nbsp;&nbsp; The International Institute for Strategic Studies",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Qek1vVkpyazFLQnY4cjJZQk04M0tDYkhFRzY5NTQ3R2hsRzBTTkNUZ3BZcXZjellwd0s2NFBaVTU3VmpNMUZaMGFtYUxvWEY5bEVoTkpocDVuYlFjZ3lxRU42U0hCVVFSZG5j?oc=5",
+      "date": "2019-05-15",
+      "source": "IISS",
+      "source_type": "tt",
+      "region": "UK",
+      "lang": "en",
+      "theme": "security",
+      "via_gnews": true
+    },
+    {
       "id": "a3033baf68f0903a",
       "title": "10 years on: Reassesing the Stoltenberg Report on Nordic foreign affairs cooperation",
       "summary": "10 years on: Reassesing the Stoltenberg Report on Nordic foreign affairs cooperation &nbsp;&nbsp; DIIS",
@@ -6292,19 +6383,6 @@
       "via_gnews": true
     },
     {
-      "id": "efca4c089d1146af",
-      "title": "The Cybersecurity Workforce Gap",
-      "summary": "The Cybersecurity Workforce Gap &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83cWtYYXM3S2RmSG1EN1ZabVZnMHpyU1M1M0VGS3hodHY4ZTFra1UwckplV0NvVjBYSXVUaVRweGdfckJyTTFscmRrRFNQOHJjanRZdkpPem1VVG1CRGdqY0t6ck9wdEQ4?oc=5",
-      "date": "2019-01-29",
-      "source": "CSIS",
-      "source_type": "tt",
-      "region": "US",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "07f03033da469a72",
       "title": "The process of Disarmament-Demobilization-Reintegration (DDR) in Mali: a journey full of pitfalls",
       "summary": "The process of Disarmament-Demobilization-Reintegration (DDR) in Mali: a journey full of pitfalls &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
@@ -6318,6 +6396,19 @@
       "via_gnews": true
     },
     {
+      "id": "22089b276bdf141d",
+      "title": "South Asia Weekly Report | Volume XI; Issue 51",
+      "summary": "South Asia Weekly Report | Volume XI; Issue 51 &nbsp;&nbsp; orfonline.org",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORXBsTERqSXpoQU9oZnJET0g2ejUwMVlaMm9GbWVXb3ltSW9kOU1EbEpsZGRkWWVsUUgtT2tFTURZSmNabE5wZk00dGFFbm1ZWXBrUUVhMUpFbUhyS1hEZVVlMkVYbDRCc0UzOHBraTQwdmkwXzJKeXFOZFVNYzFZa2F4N1l4bkkybEktLQ?oc=5",
+      "date": "2018-12-18",
+      "source": "ORF — Observer Research Foundation",
+      "source_type": "tt",
+      "region": "CN",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "b3922abeb6bf9718",
       "title": "The economic presence of China in the Maghreb: Ambitions and limits",
       "summary": "The economic presence of China in the Maghreb: Ambitions and limits &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
@@ -6327,19 +6418,6 @@
       "source_type": "tt",
       "region": "CN",
       "lang": "fr",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "2de56f0e004c5ebf",
-      "title": "Joint Statement on the Expanded Comprehensive Partnership Between the United States and Mongolia",
-      "summary": "Joint Statement on the Expanded Comprehensive Partnership Between the United States and Mongolia &nbsp;&nbsp; U.S. Department of State (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaF9zdEVzT1RBSmw5Vm9CeWdhZFlvRnExM2ozYnh4aldxODF1ZTFWVmlPQnhOQWZpQXBpenZTakkzVWxvR0k3UG1YUTNqTzhkdDlSaUlJNVBpbFRnVkp4M3RSanJ2RlE2X0w0UmRYUnFWQ2dxRU1PcnpxZEtBdXVfOEo3TTgzQzJjMlI3WU4tdWNJQlR2Q1JGQ2hha245ZW5sTHBRMDFxVHR6TDB1OUxrMEhTeDNFcEg5TXJ0TXJKdzZrak0?oc=5",
-      "date": "2018-09-20",
-      "source": "US State Department",
-      "source_type": "gov",
-      "region": "US",
-      "lang": "en",
       "theme": null,
       "via_gnews": true
     },
@@ -6379,19 +6457,6 @@
       "source_type": "tt",
       "region": "CN",
       "lang": "fr",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "90b4d8f044fec36c",
-      "title": "South Asia weekly report | Vol. XI Issue 31",
-      "summary": "South Asia weekly report | Vol. XI Issue 31 &nbsp;&nbsp; orfonline.org",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYzREamUzc0ZfdmVsTUhJMzdkNC1iVFJIcGZTTTVvMjVfSVZ6ZE5ZVVk4clptenFKN0VjdkYwbTZNckk1d2c3SmwwRTZjbDk0TEo3NFlUQVdFQlgzeVpUaDZ5YU0tMDlQV2VaRmpVQWxkSFRPQnVkQ01DZVp5Tkt2ZA?oc=5",
-      "date": "2018-08-01",
-      "source": "ORF — Observer Research Foundation",
-      "source_type": "tt",
-      "region": "CN",
-      "lang": "en",
       "theme": null,
       "via_gnews": true
     },
@@ -6495,19 +6560,6 @@
       "source": "CSIS",
       "source_type": "tt",
       "region": "CN",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "97fbe8aaa917e726",
-      "title": "Statement by Andrea Hall Senior Director for Weapons of Mass Destruction and Counterproliferation, National Security Council Delegation",
-      "summary": "Statement by Andrea Hall Senior Director for Weapons of Mass Destruction and Counterproliferation, National Security Council Delegation &nbsp;&nbsp; U.S. Department of State (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUGNQQUdqR0ZmMDJfbGlsc1gyWkhkUTZvajl2TEdkVHJVUTdqRDJGT09iSFRKQ0JXajFOVGZKMnBKTHNodFhoM0d3SDQwVjF4SzJLYzNDRG9EX1hacl9MZnVtbWZXa3VtQ0tqcHVkQVVXcExXdHNSTERXaTVvWlBrQk4yWDJhV09hTXB3VjJXNEhaNmJabC0xeFJ2RGpaTFEzV2pQWmJQMmNoUzB2aGhjNHNramxJQXRoS3Y5WTh1SDk3dVN0U0llTVJJTmNfMUFjSUdyUk9HMlBsNktnYmlwUHZURzNFbE91Y1Z5VlRWeXhRaWFwUnc?oc=5",
-      "date": "2017-11-27",
-      "source": "US State Department",
-      "source_type": "gov",
-      "region": "US",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -6721,6 +6773,19 @@
       "via_gnews": true
     },
     {
+      "id": "efbdeb4c18d95644",
+      "title": "China Weekly Report | Vol. VII Issue 5",
+      "summary": "China Weekly Report | Vol. VII Issue 5 &nbsp;&nbsp; orfonline.org",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNUGlFbHFyU0dsMG9OZ3ZYZGo0X1pfRnJkZE5uUk55T3pxeGZqa1RUa0hER0ktNHlJcVZQTXY2R3lodGxweGpHcG01MV9BMmNSbEg4U1pHcVNONWUyY0I4U1pJWVpzd0w4MFZHT2RNbmRiOEIxSUl1WFh3?oc=5",
+      "date": "2017-02-06",
+      "source": "ORF — Observer Research Foundation",
+      "source_type": "tt",
+      "region": "CN",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "2503c930117459de",
       "title": "CO17022 | Foreign Policy Lessons from the Terrex Episode",
       "summary": "CO17022 | Foreign Policy Lessons from the Terrex Episode &nbsp;&nbsp; S. Rajaratnam School of International Studies (RSIS)",
@@ -6734,16 +6799,16 @@
       "via_gnews": true
     },
     {
-      "id": "2ab7e3bf510cd36d",
-      "title": "Remarks at Top of Daily Press Briefing - 2009-2017.state.gov",
-      "summary": "Remarks at Top of Daily Press Briefing &nbsp;&nbsp; 2009-2017.state.gov",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wZjNvaWdpQjd0aVRUZjZVbEJSajBoZXNmdjJ0VTl4RDNWLTJDQXAyaEpwOFZ4R3BObVpiZUJ3cUN2N2VxMXY0ZHZkNmJpVUhpZXZrZkJDQ3p0WVp2RWs2VzRtOGFHUW5KUG5mZVlUMFU5Zw?oc=5",
-      "date": "2017-01-19",
-      "source": "US State Department",
-      "source_type": "gov",
+      "id": "8e5bf269e5ce8529",
+      "title": "New amnesty International Report Profiles Nigeria Police Abuse",
+      "summary": "New amnesty International Report Profiles Nigeria Police Abuse &nbsp;&nbsp; Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRHREQWtGbGZIWk40cmJKU182ek9XS25ZY1JTQzhaU3dvMC1UaHF1MkJoSkczdWpVbU9Nb3NwVzRsZ1g3ZWN1bUJkNnBfTlVCNTJ1WTBxeTVMWVVlWW1kbzk4QWZYYy1WNlNMendGdUxfd3V1ODdpSGg1TjR0dUhSNnlFSGdrQ0lTZmV3OS1iMl9ORWo1WHc?oc=5",
+      "date": "2016-10-07",
+      "source": "Council on Foreign Relations",
+      "source_type": "tt",
       "region": "US",
       "lang": "en",
-      "theme": "diplomacy",
+      "theme": null,
       "via_gnews": true
     },
     {
@@ -6755,6 +6820,19 @@
       "source": "SIPRI",
       "source_type": "tt",
       "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "255d2174903c2ffd",
+      "title": "New CFR Report: Women in Tech as a Driver of Economic Growth",
+      "summary": "New CFR Report: Women in Tech as a Driver of Economic Growth &nbsp;&nbsp; Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUVBmSVI5MTNBMFVDRWRZTXozSXlKU1V2VUpJQ0NOWmV2eU02TXE3dlYyVGxWY1pSeVlTSmVPdzhaaFRUQ096QS1BS1NLdXRoQ183WVhlZ19QNnkzdkpHdFZUb1FkeGdMWUJKdkZkTHNxMThwM0xoR0lSRmtMaU9nUjBDSQ?oc=5",
+      "date": "2016-07-06",
+      "source": "Council on Foreign Relations",
+      "source_type": "tt",
+      "region": "US",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -6838,19 +6916,6 @@
       "via_gnews": true
     },
     {
-      "id": "12cf5fa2add15339",
-      "title": "No. 403 Paper by the Psychological Strategy Board",
-      "summary": "No. 403 Paper by the Psychological Strategy Board &nbsp;&nbsp; Office of the Historian (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CcHZTTlF2U1lJQ3RoR09nQm1LcEx2WGhydWVyZmkxOURRTnZOR3lZbmdyc3ZRZHo2ejBCOHhJQVQ2WWh1bEE5QlcxbDkxTlZSTVRpcDUtbUlaeHZleE8ybS1uc241XzdNWkVweHRNd05qTDlvdkE?oc=5",
-      "date": "2015-10-30",
-      "source": "US State Department",
-      "source_type": "gov",
-      "region": "US",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "56067b7465909c91",
       "title": "Australian Sports Diplomacy Strategy 2015-18",
       "summary": "Australian Sports Diplomacy Strategy 2015-18 &nbsp;&nbsp; Australian Government Department of Foreign Affairs and Trade",
@@ -6874,6 +6939,19 @@
       "region": "EU",
       "lang": "en",
       "theme": "security",
+      "via_gnews": true
+    },
+    {
+      "id": "d78f84d22f29f6f0",
+      "title": "Parents at work: Men and women participating in the labour force: Short Statistical Report No. 2",
+      "summary": "Parents at work: Men and women participating in the labour force: Short Statistical Report No. 2 &nbsp;&nbsp; RAND",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xYjBVVFExU09fMHd0T1VMSndDV0dCVmp3ekVLa3lfdjZrMTZiUTRxR2tlZnBTYXNfUXBwcHQyclpPNHpEYXEwMTZGQnVZMUNxUUtVZ2k1cWc0VjVlYUQybFZiYw?oc=5",
+      "date": "2014-10-29",
+      "source": "RAND",
+      "source_type": "tt",
+      "region": "US",
+      "lang": "en",
+      "theme": null,
       "via_gnews": true
     },
     {
@@ -6981,19 +7059,6 @@
       "via_gnews": true
     },
     {
-      "id": "4c87a01529f5c7bb",
-      "title": "Joint Statement of the United States-Philippines Bilateral Strategic Dialogue - 2009-2017.state.gov",
-      "summary": "Joint Statement of the United States-Philippines Bilateral Strategic Dialogue &nbsp;&nbsp; 2009-2017.state.gov",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZY2ZHN0p6dWpXNlJOdHk2MTZsd1Z2ZG1QZWRVN3J3RzI1SHRENEdzX3VIbWNZVzZjSjVzNWlrNldiOVFZeVYwQjhqTmJ4VHhOekdQTC1sRjlJYndHanF3YXNHRlk0b2ZFS3c?oc=5",
-      "date": "2012-01-27",
-      "source": "US State Department",
-      "source_type": "gov",
-      "region": "US",
-      "lang": "en",
-      "theme": "diplomacy",
-      "via_gnews": true
-    },
-    {
       "id": "2eff0758a676b152",
       "title": "Statement on the Report of Sri Lanka’s Lessons Learnt and Reconciliation Commission",
       "summary": "Statement on the Report of Sri Lanka’s Lessons Learnt and Reconciliation Commission &nbsp;&nbsp; International Crisis Group",
@@ -7085,6 +7150,32 @@
       "via_gnews": true
     },
     {
+      "id": "79ff2e3fad3c02df",
+      "title": "2006 RAND Annual Report: Profiles in Problem-Solving",
+      "summary": "2006 RAND Annual Report: Profiles in Problem-Solving &nbsp;&nbsp; RAND",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYRGVuR0lyNy1pR2E1Q014dWhlQ004UGRPY3o5SGNaS2VqZllXQTJOSTI4alpKSEhjTV8zSm5DakpGRUthSUtRSGVBLW9HWDBuUVktMHdYZ2l3WjE1U2NFbWx4TFU?oc=5",
+      "date": "2007-06-08",
+      "source": "RAND",
+      "source_type": "tt",
+      "region": "US",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "4f78294be933e77a",
+      "title": "Report Calls for Military Disengagement From Iraq",
+      "summary": "Report Calls for Military Disengagement From Iraq &nbsp;&nbsp; Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tWnQ0MTJ1VkZrbWt1dERZSzVGbEZyX21RMWRzZlFwMnVuM2JzRlR4OEtpZ0ZHaER2OUhwM0xIRzhsTmFnNjlTaHhjb0hxTEFnWWFkX1NidGxtYWNYSXUtVHFCQ1hNdmlPYzEyVWhEc25ZaDRaQnFWMQ?oc=5",
+      "date": "2007-02-07",
+      "source": "Council on Foreign Relations",
+      "source_type": "tt",
+      "region": "US",
+      "lang": "en",
+      "theme": "security",
+      "via_gnews": true
+    },
+    {
       "id": "97965002c418e07c",
       "title": "SWP Research Paper 2006/RP 13, December 2006, 29 pages",
       "summary": "SWP Research Paper 2006/RP 13, December 2006, 29 pages &nbsp;&nbsp; Stiftung Wissenschaft und Politik (SWP)",
@@ -7095,6 +7186,19 @@
       "region": "DE",
       "lang": "en",
       "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "c3b90a1da83c71e6",
+      "title": "Cordesman: Report to Congress on Iraq War Borders on ’Deception’",
+      "summary": "Cordesman: Report to Congress on Iraq War Borders on ’Deception’ &nbsp;&nbsp; Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMmdQUVNBN1ZBNnBwRTVYY0ZwM3M1V2xlbENCbFYtR08xWjBYZVNwUG9raEgyQXBzZ2dadjJsdDNHTlRaZTF0RUxVUzFwc2pmUjIyMXpCQW9wdTJ0VFFsVVlWLTNyTTdlQnFweXNrZVd2Rk96SmJaY0t3UmdFdm9fRlJxZEx3TzVB?oc=5",
+      "date": "2006-06-07",
+      "source": "Council on Foreign Relations",
+      "source_type": "tt",
+      "region": "US",
+      "lang": "en",
+      "theme": "security",
       "via_gnews": true
     },
     {
@@ -7111,16 +7215,29 @@
       "via_gnews": true
     },
     {
+      "id": "17ca82b3d17c475e",
+      "title": "Council Special Report Calls for Rapid Resolution of Kosovo Status Argues that U.S. Must Stay the Course in the Balkans",
+      "summary": "Council Special Report Calls for Rapid Resolution of Kosovo Status Argues that U.S. Must Stay the Course in the Balkans &nbsp;&nbsp; Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQkZJWnBpRWV0X1VVMUZ5MW5McUk2QVVRLUF0d1JxTm9sY05UaGp6bmJ2UW5US3pMMnVJRUZhRWQzZEVwV0U4SGZVdTB1VGZsRWc2bHRsMVhwemFEaGs2dW5GV2Y1QnJFM0ljTHI1YklCYzdmZkNLa1ozVkFqVVhoUWJ1WWxZOFZZaDN4TFlpTWJyRmJhV1M0bHFsYXVRNEhYbGc4QVRVaWhmU2Y1?oc=5",
+      "date": "2005-06-30",
+      "source": "Council on Foreign Relations",
+      "source_type": "tt",
+      "region": "US",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "01ae347bf722d195",
       "title": "Prague Summit Declaration",
-      "summary": "Prague Summit Declaration &nbsp;&nbsp; North Atlantic Treaty Organization",
+      "summary": "Prague Summit Declaration &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa0pwbGxKeUItRXFHUlpZc3ktRVlsZlV0TGVhLTVEZ09JNldWUlRHcE1EVmJpTHkzVmVLdzZyeDBWME4teFU4cW4taUxCOTNXMFpkNzJORHNMV1gwOGsxZHdTdnN6WlRrZGZzakRlWEx3OU1hQlM0cjNNY3oxdGxSUHh2TWFDazA1bzlEQTFreXpENnp5SkZJRjFNQlJMZnRCN0dwVmk4SnlJekFkbU9nYWNsYw?oc=5",
       "date": "2002-11-21",
       "source": "NATO",
       "source_type": "io",
       "region": "Global",
       "lang": "en",
-      "theme": "diplomacy",
+      "theme": "security",
       "via_gnews": true
     },
     {
@@ -7141,19 +7258,6 @@
       "title": "Annual Report",
       "summary": "Annual Report &nbsp;&nbsp; static.cfr.org",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Ibl9pdjdWdW5FZ0VSYmZyZHJIek5nOTd5Z3FxUlpkTl83X21wNWROemU2TEFmTldkMXE2RjJId1NQalYzVDRjWVlLaHF1TEh1Mk8tblpHeUNPUU1raGZZaVd4TDlDeUdzcjNaSGU0Nks4Zkszb1Zz?oc=5",
-      "date": "1972-02-28",
-      "source": "Council on Foreign Relations",
-      "source_type": "tt",
-      "region": "US",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "852c537074e883bf",
-      "title": "Annual Report",
-      "summary": "Annual Report &nbsp;&nbsp; static.cfr.org",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QT3ZGSEJsaE91R0VxcjQ2Z1I1UlJ3X2VJOFdla2ZTLWFQcWFHdGUzc0lGY3htMzdyRy1WOFU2dGpVbDZsd0JQSm9LeTdIVDhiRy0yZm1TbEF1NmxQY2g5Qno4ZTFFT2k2bmtvRFVxa2x3Sm05UE8zY1Zn?oc=5",
       "date": "1972-02-28",
       "source": "Council on Foreign Relations",
       "source_type": "tt",
