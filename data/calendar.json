@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-30T02:54:50.025132+00:00",
-    "duration_seconds": 87.671856,
+    "generated_at": "2026-06-30T06:55:16.755184+00:00",
+    "duration_seconds": 115.50326,
     "stats": {
-      "ok": 86,
-      "fail": 13,
-      "items_total": 2316,
-      "items_strict": 566,
-      "events_detected": 2
+      "ok": 84,
+      "fail": 15,
+      "items_total": 2291,
+      "items_strict": 549,
+      "events_detected": 3
     },
     "source_count": 99
   },
@@ -43,6 +43,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "55f93a7140e32741-evt",
+      "title": "Secretary-General of ASEAN Chairs the 9th ASEAN Prize Judging Committee Meeting",
+      "date": "2026-06-30",
+      "end_date": "2026-06-30",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/secretary-general-of-asean-chairs-the-9th-asean-prize-judging-committee-meeting/",
+      "summary": "The 9th ASEAN Prize Judging Committee Meeting for the ASEAN Prize 2026 was held at the ASEAN Headquarters/ASEAN Secretariat, in Jakarta, Indonesia, on 30 June 2026. Chaired by the Secretary-General of ASEAN, Dr. Kao Kim Hourn, the meeting brought together former Secretaries-General of ASEAN to del T",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "426a366f80ba2854-evt",
