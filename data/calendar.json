@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-30T14:10:34.172559+00:00",
-    "duration_seconds": 90.084539,
+    "generated_at": "2026-06-30T17:04:07.977710+00:00",
+    "duration_seconds": 91.927861,
     "stats": {
       "ok": 86,
       "fail": 13,
-      "items_total": 2317,
-      "items_strict": 558,
-      "events_detected": 4
+      "items_total": 2316,
+      "items_strict": 559,
+      "events_detected": 5
     },
     "source_count": 99
   },
@@ -43,6 +43,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "17c899bb2192fa1a-evt",
+      "title": "Closing keynote speech by Commissioner Kubilius at the Conference on the future of the UK-EU relationship",
+      "date": "2026-06-30",
+      "end_date": "2026-06-30",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1496",
+      "summary": "European Commission Speech Brussels, 30 Jun 2026 Good afternoon, I am honoured that you asked me to deliver the closing keynote at this important conference. Important for Britain and impor...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "5cd88318a21d14f2-evt",
