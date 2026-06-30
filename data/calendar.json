@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-30T19:50:04.112418+00:00",
-    "duration_seconds": 93.620839,
+    "generated_at": "2026-06-30T22:14:35.198799+00:00",
+    "duration_seconds": 86.139345,
     "stats": {
-      "ok": 85,
-      "fail": 14,
-      "items_total": 2281,
-      "items_strict": 563,
-      "events_detected": 5
+      "ok": 86,
+      "fail": 13,
+      "items_total": 2316,
+      "items_strict": 553,
+      "events_detected": 4
     },
     "source_count": 99
   },
@@ -92,23 +92,6 @@
       "featured": false,
       "confirmed": true,
       "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "426a366f80ba2854-evt",
-      "title": "Customs: Council agrees to levy customs duty on small parcels as of 1 July 2026",
-      "date": "2026-07-01",
-      "end_date": "2026-07-01",
-      "location": "",
-      "organizer": "European Council",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSERrVE5qZUcwcUpIMkN4UWdLMlVnUndZdm1PaWVBYzgxV2RYekx6SF90c2tiTVBvRXFmQVQzREZncE1kUXZ1RnkzSHlMZVoyNEQ1YTdxaFNQYW50eGF0OEdRVmJQbGxhRElpZU9zSHVwa294YkRhT3NKamljck5XQjhQWjdTTFB4RmQtalVUMi04aHlyZlhnXzZ0UDNSSFlYOG5ZLV92cDZacFc5ZHhfaEFwekRpQ2VTRjN1WHotaXJTQm9lbklpZG5ZdzhhdHF0Y2hrdUVBVEFQR1ltS3k4?oc=5",
-      "summary": "Customs: Council agrees to levy customs duty on small parcels as of 1 July 2026 &nbsp;&nbsp; consilium.europa.eu",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Council",
       "kind": "diplomatic-event",
       "lang": "en"
     },
