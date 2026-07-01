@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-01T14:37:27.620519+00:00",
-    "duration_seconds": 109.942983,
+    "generated_at": "2026-07-01T17:11:41.538382+00:00",
+    "duration_seconds": 90.383007,
     "stats": {
-      "ok": 85,
-      "fail": 14,
-      "items_total": 2305,
-      "items_strict": 549,
-      "events_detected": 3
+      "ok": 86,
+      "fail": 13,
+      "items_total": 2316,
+      "items_strict": 562,
+      "events_detected": 4
     },
     "source_count": 99
   },
@@ -21,6 +21,45 @@
       "source": "Atlantic Council",
       "source_type": "tt",
       "region": "US",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": false
+    },
+    {
+      "id": "59a0b0b671e08cca",
+      "title": "South Korea’s Market Boom—and the Bubble Beneath It",
+      "summary": "South Korea’s Market Boom—and the Bubble Beneath It &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbThOMGJIakMwbHZFczlYa3B5YVI0MGhnbUgtaDByR19aVGhyNTh6aDBVQlBkajMxSUxMYW9jZ05Bd2c5OUpaWER4TERMZFZQTXRndFBuSWtZZl9MZE5fcFJNb3lFUTdSWjRmYkd6YV9oR08yM2JGV21vU29Da25aanlB?oc=5",
+      "date": "2026-07-01",
+      "source": "CSIS",
+      "source_type": "tt",
+      "region": "US",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "3269d592a5862db9",
+      "title": "Press communiqué of the Co-Chairs of the Geneva International Discussions",
+      "summary": "Press communiqué of the Co-Chairs of the Geneva International Discussions &nbsp;&nbsp; OSCE.org",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82eEhsVTdFUVFPazFtb2xCXzNiYlpYbkRHaUdhdzEzc0Y5a0VVQU93dkMzRGI2S2o5VktIQjMyOWdNTXVnanhSTUJPVEdkWC16WkFRUE9B?oc=5",
+      "date": "2026-07-01",
+      "source": "OSCE",
+      "source_type": "io",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "4868262eaf5a7c55",
+      "title": "Official Statistics: UK armed forces mental health annual statistics: financial year 2025/26",
+      "summary": "Statistical information on mental health among the UK armed forces.",
+      "link": "https://www.gov.uk/government/statistics/announcements/uk-armed-forces-mental-health-annual-statistics-financial-year-202526",
+      "date": "2026-07-01",
+      "source": "UK Ministry of Defence",
+      "source_type": "gov",
+      "region": "UK",
       "lang": "en",
       "theme": null,
       "via_gnews": false
@@ -75,6 +114,19 @@
       "region": "UK",
       "lang": "en",
       "theme": "diplomacy",
+      "via_gnews": false
+    },
+    {
+      "id": "0172bdad410193de",
+      "title": "Founding Faith: Religion and Politics in the American Experiment",
+      "summary": "Founding Faith: Religion and Politics in the American Experiment acabral-sanche… Wed, 07/01/2026 - 10:30 SVG In the Media Jun 27, 2026 Aspen Ideas Festival Founding Faith: Religion and Politics in the American Experiment Walter Russell Mead Ravenel B. Curry III Distinguished Fellow in Strategy and Statesmanship Walter Russell Mead In the Media Caption (Screenshot via YouTube) Toggle Table of Contents Contents Contents Share to Twitter Twitter Share to Facebook Facebook Share to LinkedIn LinkedIn Share to E-mail E-mail Print Print Walter Russel Mead appears on a panel hosted by the Aspen Instit",
+      "link": "https://www.hudson.org/domestic-policy/founding-faith-religion-politics-american-experiment-walter-russell-mead",
+      "date": "2026-07-01",
+      "source": "Hudson Institute",
+      "source_type": "tt",
+      "region": "US",
+      "lang": "en",
+      "theme": null,
       "via_gnews": false
     },
     {
@@ -169,19 +221,6 @@
       "via_gnews": false
     },
     {
-      "id": "284c2a0620338229",
-      "title": "The Russian Reckoning",
-      "summary": "The Russian Reckoning acabral-sanche… Tue, 06/30/2026 - 11:05 SVG Commentary Jun 30, 2026 Wall Street Journal The Russian Reckoning The Ukraine war, less oil revenue, and restive ex-Soviet republics all shrink Moscow’s sway. Walter Russell Mead Ravenel B. Curry III Distinguished Fellow in Strategy and Statesmanship Walter Russell Mead Commentary Caption Russia’s President Vladimir Putin attends a meeting at the Kremlin in Moscow on June 29, 2026. (Getty Images) Toggle Table of Contents Contents Contents Share to Twitter Twitter Share to Facebook Facebook Share to LinkedIn LinkedIn Share to E-m",
-      "link": "https://www.hudson.org/foreign-policy/russian-reckoning-walter-russell-mead",
-      "date": "2026-06-30",
-      "source": "Hudson Institute",
-      "source_type": "tt",
-      "region": "RU",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": false
-    },
-    {
       "id": "809e736b8a820f85",
       "title": "Policy paper: The Defence Investment Plan",
       "summary": "Equipping our forces, defending our future.",
@@ -273,10 +312,10 @@
       "via_gnews": true
     },
     {
-      "id": "4b5663f0549dbcae",
-      "title": "Commission presents financial package for Montenegro's EU accession",
-      "summary": "European Commission Press release Brussels, 30 Jun 2026 Today, the European Commission adopted a financial package setting out the budgetary arrangements that would apply to Montenegro upon its accession to the European Union. Montenegro advances in the accession process and this proposal marks a significant step in the country's path towards becoming a member of the Union, following the latest agreement by the Member States to start drafting the Accession Treaty.",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1488",
+      "id": "630ed34b0a3c478a",
+      "title": "EU launches connectivity and communities support programmes for peace in the South Caucasus",
+      "summary": "European Commission Press release Baku, 01 Jul 2026 Today in Baku, European Commission President Ursula von der Leyen, together with Commissioner for Enlargement Marta Kos, met with the President of Azerbaijan Ilham Aliyev to discuss ways to foster peace in the region through greater connectivity and support to border communities. They also discussed bilateral EU-Azerbaijan trade and energy partnerships.",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1494",
       "date": "2026-06-30",
       "source": "European Commission — Press",
       "source_type": "gov",
@@ -427,6 +466,19 @@
       "lang": "en",
       "theme": null,
       "via_gnews": true
+    },
+    {
+      "id": "b71ec0cdc65a691e",
+      "title": "België steunt Venezuela via B-FAST na de zware aardbevingen",
+      "summary": "La Belgique soutient le Venezuela à travers B-FAST suite aux lourds tremblements de terre lien.horemans Mon 29/06/2026 - 06:58 Type d'actualité Communiqué de presse Pays Venezuela Sujets Aide d'urgence Carte diplomatique Dernière mise à jour le 28 juin 2026 De lourds tremblements de terre ont touché le Venezuela. La Belgique, à travers B-FAST, répond présent à la demande internationale d’aide à travers la mise à disposition de son expertise et en envoyant du matériel d’abri. Suite aux tremblements de terre de magnitude de 7,2 et 7,5 sur l’échelle de Richter, qui ont touché le Venezuela ce 24 j",
+      "link": "http://diplomatie.belgium.be/nl/nieuws/belgie-steunt-venezuela-b-fast-na-de-zware-aardbevingen",
+      "date": "2026-06-28",
+      "source": "Belgium — Diplomatie",
+      "source_type": "gov",
+      "region": "BE",
+      "lang": "fr",
+      "theme": "security",
+      "via_gnews": false
     },
     {
       "id": "d270333fe7442fe4",
@@ -715,19 +767,6 @@
       "via_gnews": true
     },
     {
-      "id": "32c1330250f6f33c",
-      "title": "Governments are still underestimating the power of sports",
-      "summary": "Governments should harness the power of sports for their economic development strategies. The post Governments are still underestimating the power of sports appeared first on Atlantic Council .",
-      "link": "https://www.atlanticcouncil.org/blogs/africasource/governments-are-still-underestimating-the-power-of-sports/",
-      "date": "2026-06-24",
-      "source": "Atlantic Council",
-      "source_type": "tt",
-      "region": "US",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": false
-    },
-    {
       "id": "fa50c57a1ec1882e",
       "title": "“The essence of childhood has been destroyed”: Israel’s deliberate targeting of Palestinian children in the Occupied Palestinian Territory since 7 October 2023 - Report (A/HRC/62/CRP.2) - Question of Palestine",
       "summary": "“The essence of childhood has been destroyed”: Israel’s deliberate targeting of Palestinian children in the Occupied Palestinian Territory since 7 October 2023 - Report (A/HRC/62/CRP.2) - Question of Palestine &nbsp;&nbsp; Welcome to the United Nations",
@@ -884,6 +923,19 @@
       "via_gnews": true
     },
     {
+      "id": "8879fdf942f8996d",
+      "title": "Licensable picture: Police prepare to fire tear gas toward opposition supporters during clashes after the Organization of American States rejected a declaration of victory for Honduran President Juan Orlando Hernandez in a sharply disputed election, in Teguci",
+      "summary": "Licensable picture: Police prepare to fire tear gas toward opposition supporters during clashes after the Organization of American States rejected a declaration of victory for Honduran President Juan Orlando Hernandez in a sharply disputed election, in Teguci &nbsp;&nbsp; reutersconnect.com",
+      "link": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxNbjhVQ3BfREktbWtiRWEtMnc5c0x4amQ5RTBfZ1dLbkt0MUdTZUFzMjNYc2RnbzVBZm1zUWs5bGNlbDB1UzBpck5QcUxiaHJTLUt5MmE4QnBpS0lCVmRqTzJORFEyVDR3ZFJDM2lVTDJTV2pTY1NVSnp5WllqMjhDdl8zOXpVMW5KNnpfZFFCSXZCV1FfYXlwV21JaFlpaXBpMm10VHdjNzdkWkJXcVNOMGx6Q1VCcE9vYzJXNVJMYVJ6WWNqemdHXzhXc19Ga3o5c051czluSDZTLXFBRzZnUUtFbVZQc0FlWW50S1pMa1VobmtYTXZpYjM1MlNpUEl2ODVRWHNqNHQtb0lhdFhhSW5jdmdSZXBYb29QejJPYkZvSUZOZEo4WWVhV0dGMVI3d3YyV1V5anU3QVFVUG92VUp4WDVLcExXbFZtV3BLRVFsVFdVQkdCekh3Vm1Zbm5ZbG5RVEZ6TF9mNVU2cWpKVTFNZzVoUHRteTZlVDZpbGdqcWFVVXVaQ3ZqVlY2ZVN2Rmp6QUplSnJ2NGhlNG0tOTFpU2NUZWgyQzZSNWcxVmlIeG5KM1A4ZVVEYTIxUGJRUXVKMDJaeVJGcjFlMXJnR2FjNlJYeDJkQXc?oc=5",
+      "date": "2026-06-22",
+      "source": "OAS — Organization of American States",
+      "source_type": "io",
+      "region": "LatAm",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "1246e5cdf11c4400",
       "title": "La puesta en marcha del Pacto Europeo de Migración y Asilo: un acuerdo de mínimos entre dudas y certezas, apoyos y detractores",
       "summary": "El Pacto Europeo de Migración y Asilo (PEMA), es decir el núcleo de la nueva política europea de inmigración y asilo, lleva una década diseñándose, negociándose, dibujándose y decidiéndose. Europa se encontró tras 2015 en una encrucijada: o bien la Unión Europea (UE) avanzaba hacia una política migratoria y de asilo más cooperativa y solidaria [&#8230;] La entrada La puesta en marcha del Pacto Europeo de Migración y Asilo: un acuerdo de mínimos entre dudas y certezas, apoyos y detractores se publicó primero en Real Instituto Elcano .",
@@ -910,6 +962,19 @@
       "via_gnews": true
     },
     {
+      "id": "585d62280d7bd846",
+      "title": "Staatsbezoek – België en Japan, een hereniging in het teken van vriendschap en samenwerking",
+      "summary": "Visite d’Etat – La Belgique et le Japon, des retrouvailles sous le signe de l’amitié et de la coopération jeroen.francois Fri 19/06/2026 - 15:19 Type d'actualité Communiqué de presse Pays Japon Sujets Visite d’état Carte diplomatique Dernière mise à jour le 19 juin 2026 Cette année, la Belgique et la Japon célèbrent 160 ans de relations diplomatiques. A cette occasion, Leurs Majestés le Roi et la Reine accueillent Leurs Majestés Impériales l’Empereur Naruhito du Japon et son épouse l’Impératrice Masako pour une visite d'Etat de deux jours en Belgique, du 23 au 24&nbsp;juin 2026, placée sous le",
+      "link": "http://diplomatie.belgium.be/nl/nieuws/staatsbezoek-belgie-en-japan-een-hereniging-het-teken-van-vriendschap-en-samenwerking",
+      "date": "2026-06-19",
+      "source": "Belgium — Diplomatie",
+      "source_type": "gov",
+      "region": "BE",
+      "lang": "fr",
+      "theme": "security",
+      "via_gnews": false
+    },
+    {
       "id": "9c9d9b88f3a454fb",
       "title": "ICRC Advances Efforts to Adopt African Union Declaration to Strengthen IHL on the Continent",
       "summary": "ICRC Advances Efforts to Adopt African Union Declaration to Strengthen IHL on the Continent &nbsp;&nbsp; ICRC",
@@ -923,6 +988,19 @@
       "via_gnews": true
     },
     {
+      "id": "20837b69b47ed082",
+      "title": "Buitenlandse Zaken zet zich in voor de bescherming van alle burgers via internationaal humanitair recht",
+      "summary": "Les Affaires étrangères œuvrent pour la protection de tous les civils grâce au droit humanitaire international jeroen.francois Fri 19/06/2026 - 11:21 Type d'actualité Communiqué de presse Sujets Droits humains Carte diplomatique Dernière mise à jour le 19 juin 2026 Aujourd’hui, plus de 130 conflits armés sont en cours dans le monde, impliquant plus de 60&nbsp;pays et 120&nbsp;acteurs non-étatiques. Derrière ces chiffres, ce sont avant tout des millions de civils qui voient leur quotidien bouleversé. C’est pour cela que, depuis sa signature de la première convention de Genève de 1864, la Belgiq",
+      "link": "http://diplomatie.belgium.be/nl/nieuws/buitenlandse-zaken-zet-zich-voor-de-bescherming-van-alle-burgers-internationaal-humanitair-recht",
+      "date": "2026-06-19",
+      "source": "Belgium — Diplomatie",
+      "source_type": "gov",
+      "region": "BE",
+      "lang": "fr",
+      "theme": "security",
+      "via_gnews": false
+    },
+    {
       "id": "b24afeeb509a1436",
       "title": "The outcomes of the G7 Summit in Évian - La France aux États-Unis",
       "summary": "The outcomes of the G7 Summit in Évian &nbsp;&nbsp; La France aux États-Unis",
@@ -933,6 +1011,19 @@
       "region": "FR",
       "lang": "fr",
       "theme": "diplomacy",
+      "via_gnews": true
+    },
+    {
+      "id": "731c42d6243d22b0",
+      "title": "Response to the Report by the Head of the OSCE Mission to Montenegro",
+      "summary": "Response to the Report by the Head of the OSCE Mission to Montenegro &nbsp;&nbsp; cdn.osce.org",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VbU0yempKTE1IQW9xMW5jeVdLV0tEQk9lVXVmcGJRQ1hKT3k3dEZVS0o2NXVjVElaTEtMRDN3c2JDeGlfeHpqQVlFZTNkem03ak9BTVhCYWRpWlJyYkJuODJ0aDNWWWtEOWNDc19KTENKZll6a0E?oc=5",
+      "date": "2026-06-18",
+      "source": "OSCE",
+      "source_type": "io",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
       "via_gnews": true
     },
     {
@@ -1222,6 +1313,19 @@
       "via_gnews": false
     },
     {
+      "id": "6a13fca73bd248ee",
+      "title": "Joint statement on Iranian State Threats and HAYI-claimed attacks",
+      "summary": "Joint statement on Iranian State Threats and HAYI-claimed attacks lien.horemans Wed 10/06/2026 - 15:50 Type d'actualité Déclaration Pays Iran Sujets Violence Carte diplomatique Dernière mise à jour le 12 juin 2026 Cette déclaration est disponible uniquement en anglais. Joint statement from 24 countries on state threats relating to Iranian security services and the condemnation of recent Harakat Ashab al-Yamin al-Islamiya (HAYI) claimed-attacks across Europe. Albania, Australia, Belgium, Bulgaria, Canada, Czechia, Denmark, Estonia, France, Finland, Germany, Ireland, Italy, Latvia, Lithuania, Ne",
+      "link": "http://diplomatie.belgium.be/en/news/joint-statement-iranian-state-threats-and-hayi-claimed-attacks",
+      "date": "2026-06-10",
+      "source": "Belgium — Diplomatie",
+      "source_type": "gov",
+      "region": "BE",
+      "lang": "fr",
+      "theme": null,
+      "via_gnews": false
+    },
+    {
       "id": "e9cd1e520498fdd5",
       "title": "SIPRI celebrates 60th anniversary with SIPRI Yearbook launch at the Swedish Parliament",
       "summary": "SIPRI celebrates 60th anniversary with SIPRI Yearbook launch at the Swedish Parliament &nbsp;&nbsp; Stockholm International Peace Research Institute",
@@ -1235,6 +1339,32 @@
       "via_gnews": true
     },
     {
+      "id": "f47ab8bead7688af",
+      "title": "Prime Minister Orpo at Nordic-Baltic Summit: Russia’s war of aggression against Ukraine has reached a turning point, Ukraine needs strong support - Finnish Government",
+      "summary": "Prime Minister Orpo at Nordic-Baltic Summit: Russia’s war of aggression against Ukraine has reached a turning point, Ukraine needs strong support - Finnish Government &nbsp;&nbsp; Valtioneuvosto",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNRms1UnhzODhBdmlzME9jZzVJNS0zWnFWRVo1aWtscUcxbWIyZFQ3bkxRek91SVFSUXB1NzkwdmNfQk5uYWtwaW1RSnlOQ0NnY1BkYXA3enY0UkxPVmlMU2RES1QzeFFDbm53bS1OYy13TTE5SXNFZWRQQm5tT2p6czlZNXQ4V0FYaDFfRFV2c2psRS0tVldjQ3dsTlRDYXg1dExDQkhSWVMzUC1GZWVBTVdoSEpBT19LVVNuX2Q2ZTFibUpMZXJaRkczWjdhb3hrZFFJQUhER3NMMjBCQnNnOG41a3lXaDhoQjd1a2FnQ0ppTFN0aTcwMnVIVGthaEJsSEVkWQ?oc=5",
+      "date": "2026-06-09",
+      "source": "Finland — Government",
+      "source_type": "gov",
+      "region": "FI",
+      "lang": "en",
+      "theme": "security",
+      "via_gnews": true
+    },
+    {
+      "id": "8b6c98aec0de8a87",
+      "title": "Joint statement on humanitarian access in Gaza and the registration law affecting INGOS",
+      "summary": "Joint statement on humanitarian access in Gaza and the registration law affecting INGOS lien.horemans Tue 09/06/2026 - 06:10 Type d'actualité Déclaration Sujets Droits humains Carte diplomatique Dernière mise à jour le 8 juin 2026 Cette déclaration est disponible uniquement en anglais. We, the signatories listed below, express our profound concern regarding the catastrophic humanitarian situation that persists in Gaza. The aid entering Gaza has remained largely insufficient, both in quantity and in quality, while nearly the entire population depends on life-saving services. The recent decision",
+      "link": "http://diplomatie.belgium.be/en/news/joint-statement-humanitarian-access-gaza-and-registration-law-affecting-ingos",
+      "date": "2026-06-09",
+      "source": "Belgium — Diplomatie",
+      "source_type": "gov",
+      "region": "BE",
+      "lang": "fr",
+      "theme": "development",
+      "via_gnews": false
+    },
+    {
       "id": "586d16b62039e770",
       "title": "Joint Ministerial Statement on the West Bank",
       "summary": "Joint Ministerial Statement on the West Bank &nbsp;&nbsp; diplomatie.gouv.fr",
@@ -1244,6 +1374,19 @@
       "source_type": "gov",
       "region": "FR",
       "lang": "fr",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "81213c8a903a19c1",
+      "title": "Wartime Footing: A Two-Front Strategy to Confront China and Russia",
+      "summary": "Wartime Footing: A Two-Front Strategy to Confront China and Russia &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOV1RBRnlHbHFRX2IwLVVvSklENy16MS00dVUxSnBCWWNrdk05ZUN3UFNfSWJ5eHJJYnkzVFIwQXVHQUxKOUI5MVdONmc1bldPRkExdEFYWVc0UzNhTnNkTkl0N3RPeWJXWkNaeVJFMlAyUlRzZjA2UTUwM3dRbDA3YktJdzN3cks0aDFESExWc2dtVU1Q?oc=5",
+      "date": "2026-06-08",
+      "source": "CSIS",
+      "source_type": "tt",
+      "region": "RU",
+      "lang": "en",
       "theme": null,
       "via_gnews": true
     },
@@ -1417,19 +1560,6 @@
       "via_gnews": true
     },
     {
-      "id": "0f27fe6fe8e253ff",
-      "title": "President and Ministerial Committee on Foreign and Security Policy discuss current situation in Ukraine, Russian drone hitting Romania, NATO defence ministers’ meeting and situation in Strait of Hormuz - Finnish Government",
-      "summary": "President and Ministerial Committee on Foreign and Security Policy discuss current situation in Ukraine, Russian drone hitting Romania, NATO defence ministers’ meeting and situation in Strait of Hormuz - Finnish Government &nbsp;&nbsp; Valtioneuvosto",
-      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPTzRiSWw3R1JSXzhQOXpRRFNEb3FjTGFzTm1NUUNQTGVkVTE3QU1mQ2lLR1lwV3RRTG5nTFQtQndOdktRY3dkSnZhenc4NkpwS3c5RW9zQk5ocE9tNkRzSTBTb0xqZVZzcUpCY0F3b1ZtdnhjUHVXMEIwWGdEWDE0LVgyVEFSSkZCa2VHUzBkcURDeVlNMHBWU253ME14V0xLVEx3NmdDazROYlUycGhWWG4taU9meUJrNnZkQUlyQ3cxcnRwY0M2aXVaZFNxRlRXZEk2aC1LSE9VZzJUMS0tak1WbUlqTDliSDQ1S2Z3a3pQWldCYWdFV0NQNi1odVRGbjNycTNjZ2RoU2FjX25rTV9LZ2xWUUEzOEEtVHo3ckxsZWlRVVpXZTUzNXp3Mi1LaDFjeW1OT2ZmNHZQb3JXeS1XWG1BNlhPQXR1c3FR?oc=5",
-      "date": "2026-05-29",
-      "source": "Finland — Government",
-      "source_type": "gov",
-      "region": "FI",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": true
-    },
-    {
       "id": "cfbf117d7acf5e0d",
       "title": "Meeting of the Council at Ministerial Level, 3-4 June 2026 CORPORATE REFORM AND MANAGEMENT EXCELLENCE AGENDA: SUMMARY OF KEY REF",
       "summary": "Meeting of the Council at Ministerial Level, 3-4 June 2026 CORPORATE REFORM AND MANAGEMENT EXCELLENCE AGENDA: SUMMARY OF KEY REF &nbsp;&nbsp; OECD",
@@ -1469,6 +1599,19 @@
       "via_gnews": true
     },
     {
+      "id": "ec8f46fbe635ea49",
+      "title": "\"Veilig reizen – Help ons u te helpen\"",
+      "summary": "« Voyager en toute sécurité – Aidez-nous à vous aider » lien.horemans Tue 26/05/2026 - 13:30 Type d'actualité Communiqué de presse Sujets Journée internationale , Voyager Carte diplomatique Dernière mise à jour le 26 mai 2026 A l’approche de la période estivale et à l’occasion de la «&nbsp;European Day of Safe Travel Abroad&nbsp;», le SPF Affaires étrangères, Commerce extérieur et Coopération au Développement rappelle l’importance d’une bonne préparation en cas de voyage à l’étranger&nbsp;: lecture des conseils aux voyageurs , inscription sur Travellers Online , vérification des documents de v",
+      "link": "http://diplomatie.belgium.be/nl/nieuws/veilig-reizen-help-ons-u-te-helpen",
+      "date": "2026-05-26",
+      "source": "Belgium — Diplomatie",
+      "source_type": "gov",
+      "region": "BE",
+      "lang": "fr",
+      "theme": "economy",
+      "via_gnews": false
+    },
+    {
       "id": "9d6d396a4e3eb086",
       "title": "The Nordic-Baltic Eight policy brief: Geo-economic resilience",
       "summary": "New publication in the NB8 policy brief series by Thorsteinn Kristinsson (IIA) and Ludvig Broomé (UI) Geo-economic competition and the coercive use of economic statecraft are supplanting the rules-based system of liberal economic exchange. Small economies like the NB8 states are vulnerable to this development, including the potential weaponisation of external dependencies against them. This [&#8230;]",
@@ -1486,19 +1629,6 @@
       "title": "NATO Foreign Ministers meeting in Sweden address how to make the Alliance stronger",
       "summary": "NATO Foreign Ministers meeting in Sweden address how to make the Alliance stronger &nbsp;&nbsp; North Atlantic Treaty Organization",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSWkxNjg5NUw1WW0xQTZ5Ti1VUWh4c3hwTWxCSEk2bzJmUnF2blVJdUcxT01XanZ3TmpVcC1NdnEtZl9GeVBUODhwejEtQk1HWkZXc2RfLTZCaU0taWVjUllWcGo5UGE2R3l5Q2cwWjJKVFFIdWlVdVFyMjZKSDhyZkwwZ3BQVEVRdTRUNERJVm56cW5LWEx0N2RiN2Z4dERHN0RHR2FLdXN2Q2ZmOU01eTd2SkFfR3Y1YmpQWUhmR3FaSVlTR2lSUXdteXRiNUxLSlNkQ2J1YnE?oc=5",
-      "date": "2026-05-22",
-      "source": "NATO",
-      "source_type": "io",
-      "region": "Global",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": true
-    },
-    {
-      "id": "8c7a22b657c03e6b",
-      "title": "Meeting of NATO Ministers of Foreign Affairs",
-      "summary": "Meeting of NATO Ministers of Foreign Affairs &nbsp;&nbsp; North Atlantic Treaty Organization",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPX0ZoeDNseHF6UHI2cnNiMUpfRlg2bXhmYVRDMnRFbHFsSnNzZS1oY2JNT0ZXTF82d1BDNzhiZjRXUTZwUW1nT3hRZlBDWjljWENhVVlqOHpvZkZMUzFDWXpvamVZREdraGpGcjZpOEdQTHdLaF9PUUhJbDJlR281R0ttbHMxQmd3TE44bmthV200ZGVlcFBpWUloQkN1THRlVTVfNzlVekdlUUEtNGs3TWI4eVlra05vU3pEME5KQ1ZOcndSYTgzVHVSeEgzNUV6TEJEQ1BDcUxBVXhjc25Zd19rWFBrYXZsQ293?oc=5",
       "date": "2026-05-22",
       "source": "NATO",
       "source_type": "io",
@@ -1584,6 +1714,19 @@
       "lang": "en",
       "theme": null,
       "via_gnews": true
+    },
+    {
+      "id": "ce6cb84b49137d2b",
+      "title": "Nieuwe raad van bestuur bij Enabel om de strategische rol van de internationale samenwerking te versterken",
+      "summary": "Nouveau conseil d’administration chez Enabel pour renforcer le rôle stratégique de la coopération internationale jeroen.francois Wed 20/05/2026 - 15:57 Type d'actualité Communiqué de presse Sujets Coopération au développement Carte diplomatique Dernière mise à jour le 20 mai 2026 Enabel, l’entreprise publique chargée de la coopération internationale de la Belgique, annonce la nomination de son nouveau conseil d’administration. Dans un contexte géopolitique mondial marqué par des crises multiples – conflits prolongés, dérèglement climatique, pressions migratoires et remise en question du multil",
+      "link": "http://diplomatie.belgium.be/nl/nieuws/nieuwe-raad-van-bestuur-bij-enabel-om-de-strategische-rol-van-de-internationale-samenwerking-te-versterken",
+      "date": "2026-05-20",
+      "source": "Belgium — Diplomatie",
+      "source_type": "gov",
+      "region": "BE",
+      "lang": "fr",
+      "theme": "development",
+      "via_gnews": false
     },
     {
       "id": "338eaabac69cf61a",
@@ -1690,6 +1833,19 @@
       "via_gnews": true
     },
     {
+      "id": "e5630fd5185bafd2",
+      "title": "Joint Statement on the Belgian Economic Mission to Türkiye",
+      "summary": "Joint Statement on the Belgian Economic Mission to Türkiye lien.horemans Wed 13/05/2026 - 10:30 Type d'actualité Déclaration Pays Turquie Sujets Mission économique Carte diplomatique Dernière mise à jour le 13 mai 2026 Cette déclaration est disponible uniquement en anglais. The Belgian Economic Mission to the Republic of Türkiye, led by Her Majesty the Queen of the Belgians, on behalf of His Majesty the King, took place on 10-14 May 2026 in İstanbul and Ankara. His Excellency Recep Tayyip Erdoğan, President of the Republic of Türkiye, and First Lady Emine Erdoğan hosted Her Majesty the Queen i",
+      "link": "http://diplomatie.belgium.be/en/news/joint-statement-belgian-economic-mission-turkiye",
+      "date": "2026-05-13",
+      "source": "Belgium — Diplomatie",
+      "source_type": "gov",
+      "region": "BE",
+      "lang": "fr",
+      "theme": "security",
+      "via_gnews": false
+    },
+    {
       "id": "17f7adaeae8a8bed",
       "title": "Joint Communiqué of the Tenth African Union–United Nations Annual Conference",
       "summary": "Joint Communiqué of the Tenth African Union–United Nations Annual Conference &nbsp;&nbsp; African Union",
@@ -1701,6 +1857,19 @@
       "lang": "en",
       "theme": null,
       "via_gnews": true
+    },
+    {
+      "id": "bd5489dfd8caa18a",
+      "title": "Belgische economische missie naar Turkije zet in op groei, innovatie en partnerschap",
+      "summary": "La mission économique belge en Turquie mise sur la croissance, l'innovation et le partenariat jeroen.francois Fri 08/05/2026 - 11:32 Type d'actualité Communiqué de presse Pays Turquie Sujets Mission économique Carte diplomatique Dernière mise à jour le 8 mai 2026 Sa Majesté la Reine dirigera une mission économique belge en Turquie à partir du 10 mai. Elle sera accompagnée d'une délégation officielle, dont le vice-Premier ministre et ministre des Affaires étrangères, des Affaires européennes et de la Coopération au développement, Maxime Prévot, ainsi que le ministre de la Défense et du Commerce",
+      "link": "http://diplomatie.belgium.be/nl/nieuws/belgische-economische-missie-naar-turkije-zet-op-groei-innovatie-en-partnerschap",
+      "date": "2026-05-08",
+      "source": "Belgium — Diplomatie",
+      "source_type": "gov",
+      "region": "BE",
+      "lang": "fr",
+      "theme": "security",
+      "via_gnews": false
     },
     {
       "id": "ac98e79f630b0d98",
@@ -1727,6 +1896,19 @@
       "lang": "en",
       "theme": "security",
       "via_gnews": true
+    },
+    {
+      "id": "f7258682bd14c587",
+      "title": "Belgisch mensenrechtenbeleid onder de loep in Genève",
+      "summary": "La politique belge en matière de droits humains passée au crible à Genève lien.horemans Tue 05/05/2026 - 09:26 Type d'actualité Communiqué de presse Sujets Droits humains Carte diplomatique Dernière mise à jour le 5 mai 2026 Le 6 mai 2026, la politique belge en matière de droits humains sera examinée lors du 4e Examen périodique universel (EPU) au sein du Conseil des droits de l'homme des Nations unies. Le SPF Affaires étrangères joue un rôle crucial, tant dans la coordination des recommandations d'amélioration que nous adressent d'autres pays que dans la promotion des droits humains à l'étran",
+      "link": "http://diplomatie.belgium.be/nl/nieuws/belgisch-mensenrechtenbeleid-onder-de-loep-geneve",
+      "date": "2026-05-05",
+      "source": "Belgium — Diplomatie",
+      "source_type": "gov",
+      "region": "BE",
+      "lang": "fr",
+      "theme": "development",
+      "via_gnews": false
     },
     {
       "id": "7a49b68fc992b450",
@@ -2353,6 +2535,19 @@
       "via_gnews": true
     },
     {
+      "id": "359752f35e2b5504",
+      "title": "Sweden’s Strategy to Curb Antimicrobial Resistance 2026–2035",
+      "summary": "Sweden’s Strategy to Curb Antimicrobial Resistance 2026–2035 &nbsp;&nbsp; Government.se",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX0FDQ21XY0JrY0JrTVZvZVJCdHFzZmVsTVZCdldQSERFVl9fTUlDR0Vya3ZWcGo4LXpmSDJUWGFhNV9MX2dFSGdDV2p6Mm5IWDJMTldsQTZSQ2FpWEZHWDg4X0h0dEpZcmdjeVRMU2pJdUtkRTk4ekktODByN01VWW5IbXY4emVQTm13SnpxZkpZMEExaG9ZR2dEel9Qanc?oc=5",
+      "date": "2026-02-04",
+      "source": "Sweden — Government",
+      "source_type": "gov",
+      "region": "SE",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "bfd750be2ce6d71c",
       "title": "International AI Safety Report 2026",
       "summary": "International AI Safety Report 2026 &nbsp;&nbsp; Carnegie Endowment for International Peace",
@@ -2426,19 +2621,6 @@
       "source": "European Policy Centre (EPC)",
       "source_type": "tt",
       "region": "EU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "359752f35e2b5504",
-      "title": "Sweden’s Strategy to Curb Antimicrobial Resistance 2026–2035",
-      "summary": "Sweden’s Strategy to Curb Antimicrobial Resistance 2026–2035 &nbsp;&nbsp; Government.se",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX0FDQ21XY0JrY0JrTVZvZVJCdHFzZmVsTVZCdldQSERFVl9fTUlDR0Vya3ZWcGo4LXpmSDJUWGFhNV9MX2dFSGdDV2p6Mm5IWDJMTldsQTZSQ2FpWEZHWDg4X0h0dEpZcmdjeVRMU2pJdUtkRTk4ekktODByN01VWW5IbXY4emVQTm13SnpxZkpZMEExaG9ZR2dEel9Qanc?oc=5",
-      "date": "2026-01-15",
-      "source": "Sweden — Government",
-      "source_type": "gov",
-      "region": "SE",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -2675,6 +2857,19 @@
       "region": "Global",
       "lang": "en",
       "theme": "security",
+      "via_gnews": true
+    },
+    {
+      "id": "e05640d42873b544",
+      "title": "Event programmes",
+      "summary": "Event programmes &nbsp;&nbsp; North Atlantic Treaty Organization",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tWHdQWk5fb2dMX3l6V1NOWm96S3FMUGJXQ2p0WVZBMmc5ZEs4b29aS2FQSm5LcU5YM3d2eDA4N0dCR2NnWUNjd0RQRm96U1VkVVVNN0J3RUdid2pwcFZpeGoxaGJheXU3S0F0Z084Wmc?oc=5",
+      "date": "2025-11-13",
+      "source": "NATO",
+      "source_type": "io",
+      "region": "Global",
+      "lang": "en",
+      "theme": "diplomacy",
       "via_gnews": true
     },
     {
@@ -3419,19 +3614,6 @@
       "via_gnews": true
     },
     {
-      "id": "e65beee90eadf303",
-      "title": "Joint Statement by Quad Partners on Myanmar Earthquake Response",
-      "summary": "Joint Statement by Quad Partners on Myanmar Earthquake Response &nbsp;&nbsp; mofa.go.jp",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11Sm1udXZtVFpDc3FlVmRORGdoYkVYX2lGSEYtV3pvNU83dkZIU1F5OXNybWhTeFRWY2c4LU81ZXJtOVRPdkRzS2RiMW50RFl1NHVtRA?oc=5",
-      "date": "2025-03-28",
-      "source": "Japan — MOFA",
-      "source_type": "gov",
-      "region": "JP",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "868f2d003b7293ad",
       "title": "Sixteenth Report by the German Government on its Human Rights Policy",
       "summary": "Sixteenth Report by the German Government on its Human Rights Policy &nbsp;&nbsp; Auswärtiges Amt",
@@ -3936,6 +4118,19 @@
       "region": "CN",
       "lang": "en",
       "theme": "economy",
+      "via_gnews": true
+    },
+    {
+      "id": "59f2c125ff5a67ad",
+      "title": "2024 Report: Societal issues",
+      "summary": "2024 Report: Societal issues &nbsp;&nbsp; Lowy Institute Poll",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92XzR5WUdlOHRQSjkyRHNFYV9hdThLbGZOS0ctT19mcmN4NVRNbEkweVhLQ1pud2xQcVNiNUZfM2h5TERteXYwR1dDUW5EQkt1T2lSaWgtWm9hVWp2cENtdXd6MXBvZmtvZ3VZ?oc=5",
+      "date": "2024-06-03",
+      "source": "Lowy Institute (AU)",
+      "source_type": "tt",
+      "region": "AU",
+      "lang": "en",
+      "theme": null,
       "via_gnews": true
     },
     {
@@ -4494,6 +4689,19 @@
       "source_type": "gov",
       "region": "DE",
       "lang": "de",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "e9a8ba10de75db1a",
+      "title": "Reconceptualiser la politique étrangère et de sécurité française en Indo-Pacifique",
+      "summary": "Reconceptualiser la politique étrangère et de sécurité française en Indo-Pacifique &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd1hzVDNWUzcyV1VLNDJrczRyS3ZOSUsxNVJxSlhmdkVqOXQ1LVl0SWlzZ0MtY2RIdlBycXhENDA4NGZQSVRmbU9OSmVUMkUzSVk5REUySV9qT25BWlhFWXU3WmlIR05mZ2loUE1GX1pJcGhMWmN2X3FQalB0a3JnTm9uNHZta09TYlZTVDVxVExydlNNN25Sa1FILUpNaGxQSlNya1lpYUM3LVZHS1ZQOFNmNGlTRXY5VG1wLUhiSQ?oc=5",
+      "date": "2023-07-07",
+      "source": "FRS — Recherche Stratégique (FR)",
+      "source_type": "tt",
+      "region": "FR",
+      "lang": "fr",
       "theme": null,
       "via_gnews": true
     },
@@ -5915,16 +6123,29 @@
       "via_gnews": true
     },
     {
-      "id": "dc0332a91ef4e06d",
-      "title": "SIPRI Yearbook 2020",
-      "summary": "SIPRI Yearbook 2020 &nbsp;&nbsp; Stockholm International Peace Research Institute",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBpOXA0eW5jdGE4Z3lQUTBGTXJoQ0VNOThGN2JoSGZQUUNHQjhKaFRRd0otVlR2SmFLRlJucWhVRFRqY21kRHdOMGg0MA?oc=5",
-      "date": "2020-06-14",
+      "id": "94579088c25d0a89",
+      "title": "Recent advances in artificial intelligence contribute to nuclear risk—new SIPRI report",
+      "summary": "Recent advances in artificial intelligence contribute to nuclear risk—new SIPRI report &nbsp;&nbsp; Stockholm International Peace Research Institute",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdW45MDRTSk1QSEZ5NktkTm5zSlQ2aS16Y1BHQmVDQlhTWTFXUno1R2ZGVXYtRzRvZW9iY3FuN2lzcThuOG5SWk1Ma0hkbnBRelc4OTRzbTlWeGRpTXN4MmFZWEhjUF9rUnZLOC1FNnpVd2dzS1dvdmQxSXpKV0J6Mi1jM3pwMHBiT0RpQmtCUzhzcm1nb0tpeU9PVlhSRk9teVRyUnRaZF82WGxjbERHQXNzVQ?oc=5",
+      "date": "2020-06-22",
       "source": "SIPRI",
       "source_type": "tt",
       "region": "EU",
       "lang": "en",
-      "theme": null,
+      "theme": "security",
+      "via_gnews": true
+    },
+    {
+      "id": "39b125142513842d",
+      "title": "Nuclear weapon modernization continues but the outlook for arms control is bleak: New SIPRI Yearbook out now",
+      "summary": "Nuclear weapon modernization continues but the outlook for arms control is bleak: New SIPRI Yearbook out now &nbsp;&nbsp; Stockholm International Peace Research Institute",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQjdKcjloMG9DXzU2Xzl2Vnc0dDZVM0xkUlBiejFMRWx4TGxkYUljS1hCbUd3VXhxakl5Rm1DWk5hSjFaQTRHT0d3TUdnUE5Bak1ndkVwUEhOanVTRTZmbnV1dHpMYTVzZ3ViV1c3eTVqQncxeTRmLW0zSlFVNXZtbUF6VzByQmZvbWMxRjhyT0FGQ3R3d2U4am9WWEM4RGpBenZla3lGa29YcWdUM2NqbktLREFqOHdteWYyUldYT0VuSkFZT2hjaFNadGlsYWQ3dmNQV3Nn?oc=5",
+      "date": "2020-06-15",
+      "source": "SIPRI",
+      "source_type": "tt",
+      "region": "EU",
+      "lang": "en",
+      "theme": "security",
       "via_gnews": true
     },
     {
@@ -6227,19 +6448,6 @@
       "via_gnews": true
     },
     {
-      "id": "c128c25ce1f778d2",
-      "title": "mars 2019",
-      "summary": "mars 2019 &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWGxtbGFLVF9QanFjRU9YVXhYbXZxMHFLYzh1UkFSVWhtbXdfNEE5UTZqd2Fkai1XWTRKRDFmelM4dm9jMjlqcTYtbWlBOXNmVVlpcFM1MWstUkVxdWltMUhCTmRYUzZQZjVMdERLWS01OWxJdFlLdmg5YXFxZVVYbTVZMHRlckgyWmpxaUVJVDlCRTlhQzRZZHZXS0xucVpaSktGQVJfa3ZYZXNGVE45RkVlMlplM3RtUFdqd2FzR3BnQTQ?oc=5",
-      "date": "2019-03-12",
-      "source": "FRS — Recherche Stratégique (FR)",
-      "source_type": "tt",
-      "region": "FR",
-      "lang": "fr",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "2f97189902b70124",
       "title": "After Hanoi Summit: Rebuilding of Sohae Launch Facility",
       "summary": "After Hanoi Summit: Rebuilding of Sohae Launch Facility &nbsp;&nbsp; Beyond Parallel",
@@ -6274,19 +6482,6 @@
       "source": "Centre for European Reform (CER)",
       "source_type": "tt",
       "region": "UK",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "efca4c089d1146af",
-      "title": "The Cybersecurity Workforce Gap",
-      "summary": "The Cybersecurity Workforce Gap &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83cWtYYXM3S2RmSG1EN1ZabVZnMHpyU1M1M0VGS3hodHY4ZTFra1UwckplV0NvVjBYSXVUaVRweGdfckJyTTFscmRrRFNQOHJjanRZdkpPem1VVG1CRGdqY0t6ck9wdEQ4?oc=5",
-      "date": "2019-01-29",
-      "source": "CSIS",
-      "source_type": "tt",
-      "region": "US",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -6417,19 +6612,6 @@
       "source": "GLOBSEC",
       "source_type": "tt",
       "region": "EU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "ccdc93ef9e3c5424",
-      "title": "China’s Maritime Silk Road: Strategic and Economic Implications for the Indo-Pacific Region",
-      "summary": "China’s Maritime Silk Road: Strategic and Economic Implications for the Indo-Pacific Region &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUjYtZmZtNzdCOWRfZ2J3WTVjaG1pbFZld05IdGtLUlZHLW13Wmx4eVFjLVFTM3ExUDFNdXFYS3F3ZEwtSDczUmk2am9rTjFjSm00WjZiQUY0cDBnZVRTM1NPTS1iNTdZUHVSazdaM1VONjdjWWE5NjJGMXg5YzRoTGdUYy1WdEJoUmljakVvWGxzRS1SQ2pYT2w5cjBZX3FhRlNETElIMENHd0FxU1pZNg?oc=5",
-      "date": "2018-04-02",
-      "source": "CSIS",
-      "source_type": "tt",
-      "region": "CN",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -6777,19 +6959,6 @@
       "title": "SIPRI Yearbook 2015",
       "summary": "SIPRI Yearbook 2015 &nbsp;&nbsp; Stockholm International Peace Research Institute",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwZ0hNLTZhaHFOMmdXWHhDZ09hOGxKR2tEWnBZbkhFTy1GazFubnNZby1GTW5IUklrQXFoSkMyUmRfcXhkOFBIdUZocw?oc=5",
-      "date": "2016-06-07",
-      "source": "SIPRI",
-      "source_type": "tt",
-      "region": "EU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "012eb711bad230a7",
-      "title": "SIPRI Yearbook 2010",
-      "summary": "SIPRI Yearbook 2010 &nbsp;&nbsp; Stockholm International Peace Research Institute",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iSllGTl9RT0tQamFMblVSaHVPM0dFTlhVeFB5MWFkNWFCeWdZSEJyVDhnNGZtSVE5UDdHclp4TEpDcHFlVTNYN1pwRQ?oc=5",
       "date": "2016-06-07",
       "source": "SIPRI",
       "source_type": "tt",

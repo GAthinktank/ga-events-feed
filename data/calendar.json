@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-01T14:37:27.620519+00:00",
-    "duration_seconds": 109.942983,
+    "generated_at": "2026-07-01T17:11:41.538382+00:00",
+    "duration_seconds": 90.383007,
     "stats": {
-      "ok": 85,
-      "fail": 14,
-      "items_total": 2305,
-      "items_strict": 549,
-      "events_detected": 3
+      "ok": 86,
+      "fail": 13,
+      "items_total": 2316,
+      "items_strict": 562,
+      "events_detected": 4
     },
     "source_count": 99
   },
@@ -43,6 +43,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "7ac21c40810153d7-evt",
+      "title": "Statement by President von der Leyen with Azerbaijani President Aliyev",
+      "date": "2026-07-01",
+      "end_date": "2026-07-01",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1503",
+      "summary": "European Commission Statement Baku, 01 Jul 2026 President Aliyev, Thank you for your warm welcome. It is good to be back in Baku. It is remarkable city, a place where a rich and ancient heritage meets strikin...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "f49747a5f345c2fa-evt",
