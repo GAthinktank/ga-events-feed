@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-06-30T22:14:35.198799+00:00",
-    "duration_seconds": 86.139345,
+    "generated_at": "2026-07-01T03:00:32.967646+00:00",
+    "duration_seconds": 86.804651,
     "stats": {
-      "ok": 86,
-      "fail": 13,
-      "items_total": 2316,
-      "items_strict": 553,
-      "events_detected": 4
+      "ok": 85,
+      "fail": 14,
+      "items_total": 2300,
+      "items_strict": 544,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -43,57 +43,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "17c899bb2192fa1a-evt",
-      "title": "Closing keynote speech by Commissioner Kubilius at the Conference on the future of the UK-EU relationship",
-      "date": "2026-06-30",
-      "end_date": "2026-06-30",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1496",
-      "summary": "European Commission Speech Brussels, 30 Jun 2026 Good afternoon, I am honoured that you asked me to deliver the closing keynote at this important conference. Important for Britain and impor...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "5cd88318a21d14f2-evt",
-      "title": "“Solidarity in action”: President von der Leyen rallies support for Ukraine's recovery in Gdańsk",
-      "date": "2026-06-30",
-      "end_date": "2026-06-30",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_1493",
-      "summary": "European Commission News Brussels, 30 Jun 2026 President Ursula von der Leyen joined Ukrainian and international leaders in Gdańsk on 25 June for the Ukraine Recovery Conference, jointly hosted by Poland and...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "55f93a7140e32741-evt",
-      "title": "Secretary-General of ASEAN Chairs the 9th ASEAN Prize Judging Committee Meeting",
-      "date": "2026-06-30",
-      "end_date": "2026-06-30",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "Asia",
-      "theme": "diplomacy",
-      "link": "https://asean.org/secretary-general-of-asean-chairs-the-9th-asean-prize-judging-committee-meeting/",
-      "summary": "The 9th ASEAN Prize Judging Committee Meeting for the ASEAN Prize 2026 was held at the ASEAN Headquarters/ASEAN Secretariat, in Jakarta, Indonesia, on 30 June 2026. Chaired by the Secretary-General of ASEAN, Dr. Kao Kim Hourn, the meeting brought together former Secretaries-General of ASEAN to del T",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "nato-2026",
