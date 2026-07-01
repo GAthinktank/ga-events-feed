@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-01T07:17:47.647004+00:00",
-    "duration_seconds": 86.810995,
+    "generated_at": "2026-07-01T11:58:20.744459+00:00",
+    "duration_seconds": 88.098656,
     "stats": {
       "ok": 85,
       "fail": 14,
-      "items_total": 2301,
-      "items_strict": 550,
-      "events_detected": 1
+      "items_total": 2293,
+      "items_strict": 556,
+      "events_detected": 4
     },
     "source_count": 99
   },
@@ -43,6 +43,57 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "f49747a5f345c2fa-evt",
+      "title": "Joint Press Release by Türkiye's FM Hakan Fidan, HR/VP Kaja Kallas, and EU Commissioners Marta Kos and Magnus Brunner following their meeting in Ankara",
+      "date": "2026-07-01",
+      "end_date": "2026-07-01",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1495",
+      "summary": "European Commission Press release Ankara, 01 Jul 2026 Minister of Foreign Affairs of the Republic of Türkiye Hakan Fidan, EU High Representative for Foreign Affairs and Security Policy and Vice-President of the European Commission Kaja Kallas, EU Commissioner for Enlargement Marta Kos and EU Commiss",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "262cc0946981a65e-evt",
+      "title": "Deputy Secretary-General of ASEAN for ASEAN Socio-Cultural Community Receives a Courtesy Call from the Executive Director of the ASEAN Centre for Sustainable Development Studies and Dialogue",
+      "date": "2026-07-01",
+      "end_date": "2026-07-01",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/deputy-secretary-general-of-asean-for-asean-socio-cultural-community-receives-a-courtesy-call-from-the-executive-director-of-the-asean-centre-for-sustainable-development-studies-and-dialogue/",
+      "summary": "H.E. San Lwin, Deputy Secretary-General of ASEAN for ASEAN Socio-Cultural Community (ASCC), received a courtesy call from Ms. Phasporn Sangasubana, Executive Director of the ASEAN Centre for Sustainable Development Studies and Dialogue (ACSDSD), on 1 July 2026 at the ASEAN Secretariat in Jakarta. Th",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "f7d52a6527fc8f95-evt",
+      "title": "The Opening Ceremony of the 2nd Regional Forum on the ASEAN Socio-Cultural Community (ASCC) Strategic Plan",
+      "date": "2026-07-01",
+      "end_date": "2026-07-01",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/the-opening-ceremony-of-the-2nd-regional-forum-on-the-asean-socio-cultural-community-ascc-strategic-plan/",
+      "summary": "The Opening Ceremony of the 2nd Regional Forum on the ASEAN Socio-Cultural Community (ASCC) Strategic Plan was convened on 1 July 2026 at the ASEAN Headquarters / ASEAN Secretariat in Jakarta, Indonesia. The Forum, with the theme “Mainstreaming the ASCC Strategic Plan into Regional, National a The p",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "nato-2026",
