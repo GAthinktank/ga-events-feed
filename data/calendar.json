@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-02T06:38:34.612088+00:00",
-    "duration_seconds": 87.613845,
+    "generated_at": "2026-07-02T11:32:13.027816+00:00",
+    "duration_seconds": 107.041551,
     "stats": {
-      "ok": 85,
-      "fail": 14,
-      "items_total": 2304,
-      "items_strict": 556,
-      "events_detected": 4
+      "ok": 83,
+      "fail": 16,
+      "items_total": 2259,
+      "items_strict": 540,
+      "events_detected": 5
     },
     "source_count": 99
   },
@@ -43,6 +43,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "808f4771e7a86284-evt",
+      "title": "Speech by Commissioner Kubilius at the Annual Budget Conference",
+      "date": "2026-07-02",
+      "end_date": "2026-07-02",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "security",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1506",
+      "summary": "European Commission Speech Brussels, 02 Jul 2026 Are we serious about war? I will start with reminding of what people said in ancient Rome: if you want peace - prepare for war. Preparation for war, investment ...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "nato-2026",
