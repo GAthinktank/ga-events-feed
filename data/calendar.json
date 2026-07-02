@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-01T22:16:27.906119+00:00",
-    "duration_seconds": 88.046757,
+    "generated_at": "2026-07-02T02:50:59.831749+00:00",
+    "duration_seconds": 97.381069,
     "stats": {
       "ok": 85,
       "fail": 14,
-      "items_total": 2276,
-      "items_strict": 540,
-      "events_detected": 4
+      "items_total": 2292,
+      "items_strict": 559,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -43,57 +43,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "7ac21c40810153d7-evt",
-      "title": "Statement by President von der Leyen with Azerbaijani President Aliyev",
-      "date": "2026-07-01",
-      "end_date": "2026-07-01",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1503",
-      "summary": "European Commission Statement Baku, 01 Jul 2026 President Aliyev, Thank you for your warm welcome. It is good to be back in Baku. It is remarkable city, a place where a rich and ancient heritage meets strikin...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "f49747a5f345c2fa-evt",
-      "title": "Joint Press Release by Türkiye's FM Hakan Fidan, HR/VP Kaja Kallas, and EU Commissioners Marta Kos and Magnus Brunner following their meeting in Ankara",
-      "date": "2026-07-01",
-      "end_date": "2026-07-01",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1495",
-      "summary": "European Commission Press release Ankara, 01 Jul 2026 Minister of Foreign Affairs of the Republic of Türkiye Hakan Fidan, EU High Representative for Foreign Affairs and Security Policy and Vice-President of the European Commission Kaja Kallas, EU Commissioner for Enlargement Marta Kos and EU Commiss",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "262cc0946981a65e-evt",
-      "title": "Deputy Secretary-General of ASEAN for ASEAN Socio-Cultural Community Receives a Courtesy Call from the Executive Director of the ASEAN Centre for Sustainable Development Studies and Dialogue",
-      "date": "2026-07-01",
-      "end_date": "2026-07-01",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "Asia",
-      "theme": "diplomacy",
-      "link": "https://asean.org/deputy-secretary-general-of-asean-for-asean-socio-cultural-community-receives-a-courtesy-call-from-the-executive-director-of-the-asean-centre-for-sustainable-development-studies-and-dialogue/",
-      "summary": "H.E. San Lwin, Deputy Secretary-General of ASEAN for ASEAN Socio-Cultural Community (ASCC), received a courtesy call from Ms. Phasporn Sangasubana, Executive Director of the ASEAN Centre for Sustainable Development Studies and Dialogue (ACSDSD), on 1 July 2026 at the ASEAN Secretariat in Jakarta. Th",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "nato-2026",
