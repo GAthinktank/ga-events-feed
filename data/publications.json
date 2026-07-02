@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-02T16:47:56.825654+00:00",
-    "duration_seconds": 83.124881,
+    "generated_at": "2026-07-02T19:19:18.422011+00:00",
+    "duration_seconds": 87.319151,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2299,
-      "items_strict": 548,
-      "events_detected": 9
+      "items_total": 2298,
+      "items_strict": 551,
+      "events_detected": 6
     },
     "source_count": 99
   },
@@ -21,6 +21,19 @@
       "source": "Sweden — Government",
       "source_type": "gov",
       "region": "SE",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "f77203517d13c220",
+      "title": "Statement by the High Representative on behalf of the EU on the framework agreement between Israel and Lebanon",
+      "summary": "Statement by the High Representative on behalf of the EU on the framework agreement between Israel and Lebanon &nbsp;&nbsp; consilium.europa.eu",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNMWJtZXlBTTlaS2loSW9ISjBPcmE0WG9CVWY2TU9hMmhvRUhvbDYydkVBYVIwOXR2S0tZN2FCZVk4X0F4SGpvVWhSMlM0VW5aWlBCVERLajFBZzBVZkdaT0FIMFBiOHhxU0pCUE5MRHdpcXdId0dxcGNUUmU1cFV1SDN5c1lMSTBlY1o4ajIxWHhrdFZEOGZERFdRSnlPaXJnZlJrOGc3Um5BRGF6OFcwYjBRRjlDYzZVQXVsS0pMZXRpMGdtRjRfZGhsMkJvcDZQbVlwa1VUN2VvSzAza1ZJSGpqLTNpWi00UE5ESkdJY1FjMG5DOGM1MS1nMmM4SjVYVURTVDRWdktjdw?oc=5",
+      "date": "2026-07-02",
+      "source": "European Council",
+      "source_type": "gov",
+      "region": "EU",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -91,8 +104,8 @@
       "via_gnews": false
     },
     {
-      "id": "cea921cd59ba19e1",
-      "title": "Joint Statement on the EU-Türkyie High-Level Economic Dialogue",
+      "id": "adea23f698950aa6",
+      "title": "Joint Statement on the EU-Türkiye High-Level Economic Dialogue",
       "summary": "European Commission Statement Istanbul, 02 Jul 2026 The High-Level Economic Dialogue (HLED) between the European Union and Türkiye was held in İstanbul on 2 July 2026. The meeting was co-chaired by Valdis Dombrov...",
       "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1513",
       "date": "2026-07-02",
@@ -141,6 +154,19 @@
       "lang": "en",
       "theme": "security",
       "via_gnews": false
+    },
+    {
+      "id": "184d0d07accc36c4",
+      "title": "Chinese carrier aviation taking off",
+      "summary": "Chinese carrier aviation taking off &nbsp;&nbsp; The International Institute for Strategic Studies",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeXl5b2ZmWUwzYi1SaE9lUl9Ua3VyWXN2RXVvSDlzaXdTSWVzY1NEV2pnQVlVV3I1QW9HVTVTTXBHYU9HWUx5M0pSNlhvS2QxWmhZYmc1U29fTkVvLXhSd3BYNTRlU3ZOVGhvQWVTSTFUX1djZElYYkltQWJkNGM1LUNtTXpHeVhxMVcwejFPa2ROOVdyMmpBWV9GQXk?oc=5",
+      "date": "2026-07-02",
+      "source": "IISS",
+      "source_type": "tt",
+      "region": "CN",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
     },
     {
       "id": "49aa597f9026d84f",
@@ -481,6 +507,19 @@
       "via_gnews": true
     },
     {
+      "id": "e1350a62332f9ddc",
+      "title": "Finnish Foreign Minister Valtonen to attend NATO Summit",
+      "summary": "Finnish Foreign Minister Valtonen to attend NATO Summit &nbsp;&nbsp; Valtioneuvosto",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObkdMYVJmbW9KWmMyNEN5emxuWllTUVF5dE5lRXo1WWRpY3Zua3NzMWt4TzlBODltc0lLYlVlQlVvekRkWDhDd3daV3lIdGt0NjZ2cWptQ281cjM2WUVPTXRhOWI5LVR5LU1xTm9XNTJ5S2FuLWZzb0RGbUlDTUppb3ROZnpmV3hic3QzMEQtOA?oc=5",
+      "date": "2026-06-30",
+      "source": "Finland — Government",
+      "source_type": "gov",
+      "region": "FI",
+      "lang": "en",
+      "theme": "security",
+      "via_gnews": true
+    },
+    {
       "id": "fdcf3b9cdf13ff71",
       "title": "Poland signs agreement to procure submarines from Saab and deepen strategic cooperation with Sweden",
       "summary": "Poland signs agreement to procure submarines from Saab and deepen strategic cooperation with Sweden &nbsp;&nbsp; Government.se",
@@ -531,19 +570,6 @@
       "lang": "en",
       "theme": null,
       "via_gnews": true
-    },
-    {
-      "id": "c546343b258aae8d",
-      "title": "European allies can boost NATO unity at the Ankara summit by accelerating eastern flank deterrence",
-      "summary": "The allies should agree to station full-strength combat brigades in each of the Baltic states to deter possible Russian aggression. The post European allies can boost NATO unity at the Ankara summit by accelerating eastern flank deterrence appeared first on Atlantic Council .",
-      "link": "https://www.atlanticcouncil.org/dispatches/european-allies-can-boost-nato-unity-at-the-ankara-summit-by-accelerating-eastern-flank-deterrence/",
-      "date": "2026-06-29",
-      "source": "Atlantic Council",
-      "source_type": "tt",
-      "region": "RU",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": false
     },
     {
       "id": "252b23d65c0cea54",
@@ -645,6 +671,19 @@
       "source": "Valdai Club",
       "source_type": "tt",
       "region": "RU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "6f3722b4f1e476f2",
+      "title": "President and Ministerial Committee on Foreign and Security Policy discuss current situation in Ukraine, European Security Strategy and EU Arctic strategy - Finnish Government",
+      "summary": "President and Ministerial Committee on Foreign and Security Policy discuss current situation in Ukraine, European Security Strategy and EU Arctic strategy - Finnish Government &nbsp;&nbsp; Valtioneuvosto",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOcHRnNXdDMnAzSkhBR1lLZW1kZXBEMkR0NTd3UjYxS0pKR203dWhtMWZEYlJ1cV9lR3hFSE5KcThaVzNnc3pyTHN0S1ktRWFZUHRTTmZGU2hTZ2FJOTlsNHZRMFF6UG1fa0xGWGRkYng0MnN3dlBCSXJRLWU0a2lpYk1tUFllcVp5M2xjdkxyT21nZzFoR21HTnhpc0EwNko2dUZ0N01kNFlla21LUWlyNjl3TUdiaWRWQjhfMVEzR2xITjJOaWIwUUlpQW9wRGdiS1F3WlFMdDRpMGt1Ukt3Mi15UDZlVFpBYnJqVGZMWmRNb3ExTjNRUFAyM0RwUG5qWDdoMnBJT1M4eTdvcmR0Qzhn?oc=5",
+      "date": "2026-06-26",
+      "source": "Finland — Government",
+      "source_type": "gov",
+      "region": "FI",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -832,19 +871,6 @@
       "via_gnews": true
     },
     {
-      "id": "c2febb4ad505d2fa",
-      "title": "White House Unveils President Trump’s America First Resilience Strategy",
-      "summary": "White House Unveils President Trump’s America First Resilience Strategy &nbsp;&nbsp; The White House (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWUdrM0wwQWdsTTJ2S0RwNWV2TEJkeldYbndGbUM4dDVDSS0yaWc1RURPR3lYWVROMGphcFJFTE9qdkdfWXZBRlNaREZtLUlyZUZyN0xJUlExUXI0Z3NaTG1xeGFzMGVNRlVSbU5vcXpGRFFEM3Z3Q0tneDI0RjBKWHFILXVhekZoQnZXSy1JVnhuc0pFc21Ia2h1S1RsM0QxQ3pnMi0walVKN3NQZC1rNW5qTUI0QQ?oc=5",
-      "date": "2026-06-23",
-      "source": "US White House",
-      "source_type": "gov",
-      "region": "US",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "3c6deff867614700",
       "title": "The War May Be Ending. What Did Epic Fury Cost?",
       "summary": "The War May Be Ending. What Did Epic Fury Cost? &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
@@ -879,6 +905,19 @@
       "source": "CSIS",
       "source_type": "tt",
       "region": "US",
+      "lang": "en",
+      "theme": "security",
+      "via_gnews": true
+    },
+    {
+      "id": "7109c4143a3871c2",
+      "title": "Hollowing Out the Shield: US Strategic Defence Equipment Reductions and the Implications for European Security",
+      "summary": "Hollowing Out the Shield: US Strategic Defence Equipment Reductions and the Implications for European Security &nbsp;&nbsp; GLOBSEC",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRXd2elZOTEZLNnpGaFozU3luaWx1LUhGZXlsQktMWGtIbXpsWHBfbFF0R3R4S3pEbnFOWE9iSDBFLW9WRDZ5TlpMa19icTRMTndQZnh5Qk9YMnlHSEVOOHF4d1JQRW9fZGk5SDQ5S3IyRENCdWtVMm5XT2ZWVFBtNEdINF9GQWlxbUdOaEVtQlJNOEwyTWxmOU5WRUhzUlBEMGN4OEc4VnBDeU1pSks4Z1VadHg?oc=5",
+      "date": "2026-06-23",
+      "source": "GLOBSEC",
+      "source_type": "tt",
+      "region": "EU",
       "lang": "en",
       "theme": "security",
       "via_gnews": true
@@ -920,6 +959,19 @@
       "region": "Global",
       "lang": "en",
       "theme": "security",
+      "via_gnews": true
+    },
+    {
+      "id": "8879fdf942f8996d",
+      "title": "Licensable picture: Police prepare to fire tear gas toward opposition supporters during clashes after the Organization of American States rejected a declaration of victory for Honduran President Juan Orlando Hernandez in a sharply disputed election, in Teguci",
+      "summary": "Licensable picture: Police prepare to fire tear gas toward opposition supporters during clashes after the Organization of American States rejected a declaration of victory for Honduran President Juan Orlando Hernandez in a sharply disputed election, in Teguci &nbsp;&nbsp; reutersconnect.com",
+      "link": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxNbjhVQ3BfREktbWtiRWEtMnc5c0x4amQ5RTBfZ1dLbkt0MUdTZUFzMjNYc2RnbzVBZm1zUWs5bGNlbDB1UzBpck5QcUxiaHJTLUt5MmE4QnBpS0lCVmRqTzJORFEyVDR3ZFJDM2lVTDJTV2pTY1NVSnp5WllqMjhDdl8zOXpVMW5KNnpfZFFCSXZCV1FfYXlwV21JaFlpaXBpMm10VHdjNzdkWkJXcVNOMGx6Q1VCcE9vYzJXNVJMYVJ6WWNqemdHXzhXc19Ga3o5c051czluSDZTLXFBRzZnUUtFbVZQc0FlWW50S1pMa1VobmtYTXZpYjM1MlNpUEl2ODVRWHNqNHQtb0lhdFhhSW5jdmdSZXBYb29QejJPYkZvSUZOZEo4WWVhV0dGMVI3d3YyV1V5anU3QVFVUG92VUp4WDVLcExXbFZtV3BLRVFsVFdVQkdCekh3Vm1Zbm5ZbG5RVEZ6TF9mNVU2cWpKVTFNZzVoUHRteTZlVDZpbGdqcWFVVXVaQ3ZqVlY2ZVN2Rmp6QUplSnJ2NGhlNG0tOTFpU2NUZWgyQzZSNWcxVmlIeG5KM1A4ZVVEYTIxUGJRUXVKMDJaeVJGcjFlMXJnR2FjNlJYeDJkQXc?oc=5",
+      "date": "2026-06-22",
+      "source": "OAS — Organization of American States",
+      "source_type": "io",
+      "region": "LatAm",
+      "lang": "en",
+      "theme": null,
       "via_gnews": true
     },
     {
@@ -1131,16 +1183,16 @@
       "via_gnews": true
     },
     {
-      "id": "3933b30406ce0abb",
-      "title": "Southbound Diplomacy: Assessing Taiwan’s “Integrated Diplomacy” on the 10th Anniversary of the New Southbound Policy",
-      "summary": "Southbound Diplomacy: Assessing Taiwan’s “Integrated Diplomacy” on the 10th Anniversary of the New Southbound Policy &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNUkyNFp6LXRUQjB3Z2JiWG0zTllocWRRNVpOYzhDR1lySl81RE9iZHVJUmtPSmtBai1RZkJSeVFZWEx6azZ4TER3RXM4MFIzdEZ5NHd4Sm5TemxwanliYjE1aEt1RU5kTXh0eXVzU1kyLVpHTkQ5TzE1UWJ4OTdJNVBnRDRtU1UzOTVIYWMtcDhUNTNUZjl5M3RuY1ZaMFh1ZTRDVFA3aEY0VERqMkow?oc=5",
+      "id": "702ab4039c400da8",
+      "title": "President and Ministerial Committee on Foreign and Security Policy discuss current situation in Ukraine, NATO Summit in Ankara and current situation in Middle East - Finnish Government",
+      "summary": "President and Ministerial Committee on Foreign and Security Policy discuss current situation in Ukraine, NATO Summit in Ankara and current situation in Middle East - Finnish Government &nbsp;&nbsp; Valtioneuvosto",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOYVJYckFxQ2J1dWxBVVEzWW9JcVhJbjVGbzhWVjB1ZElsckZoUVJURlVQLUxTaVktOUZ2WWt6OEFtRk5QcjRYUnpVVzFzUUdKU29qMVNwbVBPYnNJTGl6bldJOG9hUi1UT0pnMlhQMGhrZDdrNUdDcEtnd2ZIbVNYdERsMUtJalB5Qkd3cHBhcGdoWktqWEhXcDN3WjVIVzh0Ri1rSkJkZ3EzMHJMSXZua2c2QVBtS19oUXVfMnBGUloyTzZZVV9waHNldzUyZlRBcXRROF9BM3NQa0gzMnZhdHc1blpoWUd6SjlrMUJLRENyVXRSNUx3bnB1ZlNoeHZpMjZXVl92R182VUpoMEhSOWFDQnRocFZHUXE4b2NB?oc=5",
       "date": "2026-06-16",
-      "source": "CSIS",
-      "source_type": "tt",
-      "region": "US",
+      "source": "Finland — Government",
+      "source_type": "gov",
+      "region": "FI",
       "lang": "en",
-      "theme": null,
+      "theme": "security",
       "via_gnews": true
     },
     {
@@ -1261,6 +1313,19 @@
       "via_gnews": true
     },
     {
+      "id": "f47ab8bead7688af",
+      "title": "Prime Minister Orpo at Nordic-Baltic Summit: Russia’s war of aggression against Ukraine has reached a turning point, Ukraine needs strong support - Finnish Government",
+      "summary": "Prime Minister Orpo at Nordic-Baltic Summit: Russia’s war of aggression against Ukraine has reached a turning point, Ukraine needs strong support - Finnish Government &nbsp;&nbsp; Valtioneuvosto",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNRms1UnhzODhBdmlzME9jZzVJNS0zWnFWRVo1aWtscUcxbWIyZFQ3bkxRek91SVFSUXB1NzkwdmNfQk5uYWtwaW1RSnlOQ0NnY1BkYXA3enY0UkxPVmlMU2RES1QzeFFDbm53bS1OYy13TTE5SXNFZWRQQm5tT2p6czlZNXQ4V0FYaDFfRFV2c2psRS0tVldjQ3dsTlRDYXg1dExDQkhSWVMzUC1GZWVBTVdoSEpBT19LVVNuX2Q2ZTFibUpMZXJaRkczWjdhb3hrZFFJQUhER3NMMjBCQnNnOG41a3lXaDhoQjd1a2FnQ0ppTFN0aTcwMnVIVGthaEJsSEVkWQ?oc=5",
+      "date": "2026-06-09",
+      "source": "Finland — Government",
+      "source_type": "gov",
+      "region": "FI",
+      "lang": "en",
+      "theme": "security",
+      "via_gnews": true
+    },
+    {
       "id": "8b6c98aec0de8a87",
       "title": "Joint statement on humanitarian access in Gaza and the registration law affecting INGOS",
       "summary": "Joint statement on humanitarian access in Gaza and the registration law affecting INGOS lien.horemans Tue 09/06/2026 - 06:10 Type d'actualité Déclaration Sujets Droits humains Carte diplomatique Dernière mise à jour le 8 juin 2026 Cette déclaration est disponible uniquement en anglais. We, the signatories listed below, express our profound concern regarding the catastrophic humanitarian situation that persists in Gaza. The aid entering Gaza has remained largely insufficient, both in quantity and in quality, while nearly the entire population depends on life-saving services. The recent decision",
@@ -1283,6 +1348,19 @@
       "source_type": "gov",
       "region": "FR",
       "lang": "fr",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "81213c8a903a19c1",
+      "title": "Wartime Footing: A Two-Front Strategy to Confront China and Russia",
+      "summary": "Wartime Footing: A Two-Front Strategy to Confront China and Russia &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOV1RBRnlHbHFRX2IwLVVvSklENy16MS00dVUxSnBCWWNrdk05ZUN3UFNfSWJ5eHJJYnkzVFIwQXVHQUxKOUI5MVdONmc1bldPRkExdEFYWVc0UzNhTnNkTkl0N3RPeWJXWkNaeVJFMlAyUlRzZjA2UTUwM3dRbDA3YktJdzN3cks0aDFESExWc2dtVU1Q?oc=5",
+      "date": "2026-06-08",
+      "source": "CSIS",
+      "source_type": "tt",
+      "region": "RU",
+      "lang": "en",
       "theme": null,
       "via_gnews": true
     },
@@ -1365,6 +1443,19 @@
       "via_gnews": true
     },
     {
+      "id": "75eb2954e64e03ac",
+      "title": "Minister of Defence Antti Häkkänen: We will reform Finland’s military intelligence legislation to strengthen our homeland defence and national security - Finnish Government",
+      "summary": "Minister of Defence Antti Häkkänen: We will reform Finland’s military intelligence legislation to strengthen our homeland defence and national security - Finnish Government &nbsp;&nbsp; Valtioneuvosto",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPTmc3UVhlUi1wYjBBLVdwMDhNUFNXR1E5dHlUVnNwSzF4NWhKV1NReDhXRi1Jcm16WllxNnFJNkxmWWJ6UEQyOHF3ZzR4YzNTcEVheG5ZaE1MbElRUnlTSnNJMGxCTkkwbWtoWGNOOXV2d3ZtSkJpNG55TFUtNndiV1hnTEZwRFcxcUN5eGgwSUs3dVlQZ3MwVTBEdThzdllKbWhyT3dNV3owdDZqOTRTRlotNVVhMFFlYm03M0ZzMHRlN1VieVpJSGlvVGdzRElUNXU4dnhObVVQSVlfaEdEdUhzVGhQNjRQNXdBUGNBRTFYZTFYdGZ6WmNZRzBQZjA5Z2UxX0Y4aG9RQkpmZ0d6cVZzZnhLcG5TR05N?oc=5",
+      "date": "2026-06-04",
+      "source": "Finland — Government",
+      "source_type": "gov",
+      "region": "FI",
+      "lang": "en",
+      "theme": "security",
+      "via_gnews": true
+    },
+    {
       "id": "ca744eff84dddaa4",
       "title": "Joint Statement on the Official Visit of the Minister for Defence of the Federative Republic of Brazil, to the Minister for Defence of the Kingdom of Sweden",
       "summary": "Joint Statement on the Official Visit of the Minister for Defence of the Federative Republic of Brazil, to the Minister for Defence of the Kingdom of Sweden &nbsp;&nbsp; Government.se",
@@ -1375,6 +1466,19 @@
       "region": "SE",
       "lang": "en",
       "theme": "security",
+      "via_gnews": true
+    },
+    {
+      "id": "b4ef05804a533930",
+      "title": "Foreign Minister Valtonen to chair OECD Ministerial Council Meeting in Paris on 4 June 2026 - Finnish Government",
+      "summary": "Foreign Minister Valtonen to chair OECD Ministerial Council Meeting in Paris on 4 June 2026 - Finnish Government &nbsp;&nbsp; Valtioneuvosto",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMnR2S3NUN0k0aklnOWJiazhnamw1TTlrRHJoUE53eV9hZnNoU0xON1NpcDBYUE5oa2k4dUlaMWZDY0ZjSkZiRTlwLUxNUXNOejVPY2U4TWlGOHU0UUJWRWx2bmxqbWpreE5DN1Mxc2ctSXZwZXpLOS02WFdFRGFRbmtSU1BzcEdSWHZ0TlNmazlacWlHejlSS013c3ZtdlltZFJPTUdtRWpVbzlyODR1RFV5SGpXQXJJYWdLU3Y4QQ?oc=5",
+      "date": "2026-06-04",
+      "source": "Finland — Government",
+      "source_type": "gov",
+      "region": "FI",
+      "lang": "en",
+      "theme": null,
       "via_gnews": true
     },
     {
@@ -1401,19 +1505,6 @@
       "region": "EU",
       "lang": "en",
       "theme": "diplomacy",
-      "via_gnews": true
-    },
-    {
-      "id": "0f27fe6fe8e253ff",
-      "title": "President and Ministerial Committee on Foreign and Security Policy discuss current situation in Ukraine, Russian drone hitting Romania, NATO defence ministers’ meeting and situation in Strait of Hormuz - Finnish Government",
-      "summary": "President and Ministerial Committee on Foreign and Security Policy discuss current situation in Ukraine, Russian drone hitting Romania, NATO defence ministers’ meeting and situation in Strait of Hormuz - Finnish Government &nbsp;&nbsp; Valtioneuvosto",
-      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPTzRiSWw3R1JSXzhQOXpRRFNEb3FjTGFzTm1NUUNQTGVkVTE3QU1mQ2lLR1lwV3RRTG5nTFQtQndOdktRY3dkSnZhenc4NkpwS3c5RW9zQk5ocE9tNkRzSTBTb0xqZVZzcUpCY0F3b1ZtdnhjUHVXMEIwWGdEWDE0LVgyVEFSSkZCa2VHUzBkcURDeVlNMHBWU253ME14V0xLVEx3NmdDazROYlUycGhWWG4taU9meUJrNnZkQUlyQ3cxcnRwY0M2aXVaZFNxRlRXZEk2aC1LSE9VZzJUMS0tak1WbUlqTDliSDQ1S2Z3a3pQWldCYWdFV0NQNi1odVRGbjNycTNjZ2RoU2FjX25rTV9LZ2xWUUEzOEEtVHo3ckxsZWlRVVpXZTUzNXp3Mi1LaDFjeW1OT2ZmNHZQb3JXeS1XWG1BNlhPQXR1c3FR?oc=5",
-      "date": "2026-05-29",
-      "source": "Finland — Government",
-      "source_type": "gov",
-      "region": "FI",
-      "lang": "en",
-      "theme": "security",
       "via_gnews": true
     },
     {
@@ -1664,6 +1755,19 @@
       "via_gnews": true
     },
     {
+      "id": "62fcd684a057f900",
+      "title": "The Africa Forward 2026 Summit Declaration",
+      "summary": "The Africa Forward 2026 Summit Declaration &nbsp;&nbsp; Kenya Ministry of Foreign Affairs",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9mVUZEYUFiRzlDYi1GS3ptSERBZWRQeWxlZWtYeWJHX3hoLVpvRTNXVnNSOUhFMC12czZtaWFWcw?oc=5",
+      "date": "2026-05-14",
+      "source": "Kenya — MFA",
+      "source_type": "gov",
+      "region": "Africa",
+      "lang": "en",
+      "theme": "diplomacy",
+      "via_gnews": true
+    },
+    {
       "id": "03de04c44ca3a8e5",
       "title": "NATO Secretary General at B9 and Nordic Allies Summit in Bucharest: We need a stronger Europe in a stronger NATO",
       "summary": "NATO Secretary General at B9 and Nordic Allies Summit in Bucharest: We need a stronger Europe in a stronger NATO &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
@@ -1698,19 +1802,6 @@
       "source": "African Union",
       "source_type": "io",
       "region": "Africa",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "7ac37565a7f1bd1d",
-      "title": "President and Ministerial Committee on Foreign and Security Policy discuss current situation in Ukraine, situation in Strait of Hormuz and Finland’s participation in G20 cooperation - Finnish Government",
-      "summary": "President and Ministerial Committee on Foreign and Security Policy discuss current situation in Ukraine, situation in Strait of Hormuz and Finland’s participation in G20 cooperation - Finnish Government &nbsp;&nbsp; Valtioneuvosto",
-      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNZlgyOERsMXE2d2M1RUJkM1FReEpib2tJb3picmRiMWJWVWtsZmJQaVJxeWt2RTNIdDZxdkhnWWVuVldsazI2ZEVJNzUzRERoMmJzOV82N3JTSFEtdXN5dHM5TW1xX2xhZHlFbFhPTzJoUDJtWE5UM3hiRm84YXJaMC11ZWlYVFZOWnEtTzBpbUxXYlZqTmdYcVl3cHRxM2tmbUpNQ1dqd1phcHM1R3NNWHJkbXd2Wm12S1VpeW9rV3QxeGVlLVRIRXNKdWxWaGpGeEhJTGpzMUxKdmxWbi1GUDJ4aXFvYW9tSVlIb1BMbGF1Tk16VWxQTmFKQ1I0ZFpFNUlDVDJweTVKWVM4SnZJM2Ruc05hR3M0WkVHTzdaMnhpa3E3cThuTGhhSElER05Bb29QODNR?oc=5",
-      "date": "2026-05-12",
-      "source": "Finland — Government",
-      "source_type": "gov",
-      "region": "FI",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -1885,6 +1976,19 @@
       "via_gnews": true
     },
     {
+      "id": "51ca8cfa0da98670",
+      "title": "Annual Reports",
+      "summary": "Annual Reports &nbsp;&nbsp; Ministry of External Affairs",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9IWFpKeHUwRVphaGU3MWY5ZmJlc1B5OUlHdjdTazFIX05QaGpxVUtJblU0S2tEQjBWQUFaU1BTdS1OLXFlV1EyVHZfWHEtWmk3cldyVTVLVG5pOWpraGpTdWV2MDVGanVQWW9HYXFtdHZyUl9VU2FHUE1R?oc=5",
+      "date": "2026-04-13",
+      "source": "India — MEA",
+      "source_type": "gov",
+      "region": "IN",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "9ad43a16eeafde1e",
       "title": "Defence investment and NATO’s 5% commitment",
       "summary": "Defence investment and NATO’s 5% commitment &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
@@ -1895,6 +1999,19 @@
       "region": "Global",
       "lang": "en",
       "theme": "security",
+      "via_gnews": true
+    },
+    {
+      "id": "0d2deb7b674b9be6",
+      "title": "Annual Battle Readiness on the Eastern Flank (2026)",
+      "summary": "Annual Battle Readiness on the Eastern Flank (2026) &nbsp;&nbsp; GLOBSEC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOam1hVWdwcENvT2ZrZDFDN1BFQzhuQmtfTktXeTdzbW1jNGxzV0RYdW9oclVDbkwydGhLWHE1VWR6aDltQzRkZzhZeWpvTkRoSVBvWG9WX1BRX3RaRHFkQ0g1S2ZQYTQtQTN2Mnd0SU85RmFtV0FaX0tjSUVyUHViVDFwMA?oc=5",
+      "date": "2026-04-10",
+      "source": "GLOBSEC",
+      "source_type": "tt",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
       "via_gnews": true
     },
     {
@@ -2366,6 +2483,19 @@
       "via_gnews": true
     },
     {
+      "id": "180b0c21a2872bdf",
+      "title": "U.S. Strategic Framework for the Indo-Pacific: Northeastern Dialogue 'Kolkata Chapter' - Event Report",
+      "summary": "U.S. Strategic Framework for the Indo-Pacific: Northeastern Dialogue 'Kolkata Chapter' - Event Report &nbsp;&nbsp; orfonline.org",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNzQtTGR3SEE4SEpVUnRILVZtVDctVWhHbnFLOVBJajZnNFBfTlZxMGdHNFEzSUMzNUh5QS1Qc1p5YVAxV28ySlRMNFJxZ080R1FzaHNHdEItMklURE0tbEJBSU5NU1JHZG1STHNhN2RaNTBtcmVYZVFZSnhfUkpvQVhQdFRiX25BQ1hQS1JyQ3pyTkswckRFRWxadFpLcl9mQ2VIa243aWM4WmVSak9qSE10anpOMW9tS0lIaXhHeVFoQmhfekpLaXln?oc=5",
+      "date": "2026-02-05",
+      "source": "ORF — Observer Research Foundation",
+      "source_type": "tt",
+      "region": "IN",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "cc38cbec9685cda4",
       "title": "New CFR Report Outlines How the U.S. Can Leapfrog China’s Critical Minerals Dominance",
       "summary": "New CFR Report Outlines How the U.S. Can Leapfrog China’s Critical Minerals Dominance &nbsp;&nbsp; Council on Foreign Relations",
@@ -2496,19 +2626,6 @@
       "via_gnews": true
     },
     {
-      "id": "f55338200a28a247",
-      "title": "Paris Declaration: Coalition of the Willing ramps up its action - La France aux États-Unis",
-      "summary": "Paris Declaration: Coalition of the Willing ramps up its action &nbsp;&nbsp; La France aux États-Unis",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZUNUN0VoMDVKRDZLMTlMMW9DMFhSTEhjdklMdWRVbUsxc0RUa05xZ3E5ekJ2Q1kyMzlNR21YOFlsQmUzazFuS2ZZeHhYcDZHc0JoaUh2eUpJSkRONEk2b3kwQTctVlVKQVRSelVYcjJjZktFaWdvRkJONmgzN2QyUkNvUmN0bzhzc0ZnSjVR?oc=5",
-      "date": "2026-01-09",
-      "source": "France — MEAE (Diplomatie)",
-      "source_type": "gov",
-      "region": "FR",
-      "lang": "fr",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "a6e6bb4093e2abee",
       "title": "75th Anniversary of the Universal Declaration of Human Rights: Defending the Rights of Everyone, Everywhere",
       "summary": "75th Anniversary of the Universal Declaration of Human Rights: Defending the Rights of Everyone, Everywhere &nbsp;&nbsp; diplomatie.gouv.fr",
@@ -2544,19 +2661,6 @@
       "source_type": "tt",
       "region": "EU",
       "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "816b7f86e9945dd1",
-      "title": "Dichiarazione dell’Italia all’Assemblea Generale delle Nazioni Unite sulla risoluzione “Parere consultivo della Corte internazionale di giustizia sugli obblighi di Israele in relazione alla presenza e alle attività delle Nazioni Unite, di altre organizzazioni internazi",
-      "summary": "Dichiarazione dell’Italia all’Assemblea Generale delle Nazioni Unite sulla risoluzione “Parere consultivo della Corte internazionale di giustizia sugli obblighi di Israele in relazione alla presenza e alle attività delle Nazioni Unite, di altre organizzazioni internazi &nbsp;&nbsp; italyun.esteri.it",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQaFBveVR5ZGI1MnFrYXdscnJueDIydTlCaXhtbk83bUU5Uy1TVGpTeHRjMHNkbmQyQmNIQkEwV01aTjF4bGVyOER0SE5xbko0aWdoQmFsdFNRNHBnNDBvMWwycE0tY0pMZGx0bnpxQ3lYdmV1d2VwdDNsV1BsMWp1RUdYY0xkV0FYTEVoYWhXYjItN3RpTndLYTVURGhQSTZSYTdSZVpPQU5BU0RGLUFONFc1bmpDaW1xSWItc3VteUgxUzE2MnN6cFZZLWFvdXgwVTE2emJteGc3SUpjSFJGUWEtSE5PdlVFVlhtbXZicGtUN2ZZak9iTXQ0dFFSSlNrOUh2Wm5DYjdad3JaZXpQLVNwZC1xSHRtaHZ6SDA5eWd1OU9HNl9ESjNLYlNoYWxCeEZhdDZTNmJGNmdmVk8xYVJ2QkFpazV4WVFsUkJKMVVWMDhfMkxEZXI4ajZRQ001Nk9pWFRHTUcxdw?oc=5",
-      "date": "2025-12-12",
-      "source": "Italy — Esteri",
-      "source_type": "gov",
-      "region": "IT",
-      "lang": "it",
       "theme": null,
       "via_gnews": true
     },
@@ -2765,19 +2869,6 @@
       "source_type": "gov",
       "region": "FR",
       "lang": "fr",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "d9bf58e162a34dd1",
-      "title": "Comunicado conjunto entre a Malásia e o Brasil por ocasião da visita oficial do Presidente da República a Kuala Lumpur",
-      "summary": "Comunicado conjunto entre a Malásia e o Brasil por ocasião da visita oficial do Presidente da República a Kuala Lumpur &nbsp;&nbsp; GOV.BR",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNWGdfMlQ4cmlLb2NTZTZ6UXJSZERYejhpMlVoM2cycy1VaEFQc3IyemVqU05IVy1QOHVxRVUxbERER2Q2bmlWbVh2MThmLVk5Q1JGR3JwWG5Ud3hnTExUYmJ6ZTlpeE8tdkZhcVRGVDQzb2E2UGJabkhkVVZ2WFBXZnlSOE9wb21QVzNRRUNHcE5pQ3BxangxZEh2bV9DMnpRYUFnMUZjRXNIV1ZodXBaLVVjYnRac0VPaktrN0I4T3FxSHNEWEVFc0RaTjFOcWFrem85a2ZTMHloRWdYV0VILWdXbTkzb2Nsd0ppYnhvSmV3SUNSZlRycTZwQi0wUlU1V1M1V3ZRdUttb3Jpc0RDQUxsTGRDQlh2em1pTA?oc=5",
-      "date": "2025-10-25",
-      "source": "Brazil — Itamaraty",
-      "source_type": "gov",
-      "region": "LatAm",
-      "lang": "pt",
       "theme": null,
       "via_gnews": true
     },
@@ -3117,19 +3208,6 @@
       "region": "Asia",
       "lang": "en",
       "theme": "technology",
-      "via_gnews": true
-    },
-    {
-      "id": "15515f2e40cc1251",
-      "title": "Insights into Kenya -UK Relations/ Strategic Partnership",
-      "summary": "Insights into Kenya -UK Relations/ Strategic Partnership &nbsp;&nbsp; Kenya Ministry of Foreign Affairs",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LWTduQjBFdlFkVHRnTmFwaEJ2SWxKZ0E2ZmJIZHBySVktQVpZQWJpOUM4NzRRaURmZmwzVlJsTzEyMHg3NW1uYzhZZXp0YnZpS29HSENIVmhhMWNMQjJHMml2cmc5cVJpZlZjd0RRem1jb05HbWc?oc=5",
-      "date": "2025-07-01",
-      "source": "Kenya — MFA",
-      "source_type": "gov",
-      "region": "Africa",
-      "lang": "en",
-      "theme": "diplomacy",
       "via_gnews": true
     },
     {
@@ -3494,19 +3572,6 @@
       "region": "DE",
       "lang": "de",
       "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "54aae9688915b778",
-      "title": "Toespraak minister Brekelmans bij Paris Defence and Strategy Forum",
-      "summary": "Toespraak minister Brekelmans bij Paris Defence and Strategy Forum &nbsp;&nbsp; Rijksoverheid.nl",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOXVMSVN3bFZxSlVUYWlOLWpzT2lLU2ZFWkpYVzFVZ3Z6dmJud09jN2Q1ejFfT0RYdm1BaUxYVGhRUGRndFlEd2ZFS3RQNWx6LXdUaGJqZXVkTk1hR01HYjU4eXAyWVh0VS1yNkJCZ1hvY0NpWFF6WWdPd0xrQW9tY2llTjVMejgyQk5YT3htc2IwblYtZEw1UFV1WlVSSVZIb2NhMWlrOVFDREd2NkR0QWkxZVFDb1VCTUFkN1R4UDBpVldhTFE?oc=5",
-      "date": "2025-03-11",
-      "source": "Netherlands — Defensie",
-      "source_type": "gov",
-      "region": "NL",
-      "lang": "nl",
-      "theme": "security",
       "via_gnews": true
     },
     {
@@ -4420,6 +4485,19 @@
       "via_gnews": true
     },
     {
+      "id": "b9c44589edaabefa",
+      "title": "Emmanuel Macron at \"Shaping the Future of Europe\" Photo Report",
+      "summary": "Emmanuel Macron at \"Shaping the Future of Europe\" Photo Report &nbsp;&nbsp; GLOBSEC",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZGRPY3NYVUVIVEh1TklIYmZsUlRSS0lrYlZlbUh0Ri10RnlsaV9WbEdTWjJjbFdiWEctMWNrd2RoUDFNdC1xMzhxWHl6T0JzcHd1RGFsTVVsWW5TZDZNU1doMXVrenhQTmlaeU5QVWx2bXFCS1pZQ2lZN1R2Z3VWVTFFSmRPYmZoc0RHa1U0XzRNaTU5WlJZVE1xV1FFb2s?oc=5",
+      "date": "2023-09-06",
+      "source": "GLOBSEC",
+      "source_type": "tt",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "61249c83e3ed71e9",
       "title": "The Global Financial System: A post-GFC Report Card",
       "summary": "The Global Financial System: A post-GFC Report Card &nbsp;&nbsp; orfonline.org",
@@ -4992,11 +5070,11 @@
       "via_gnews": true
     },
     {
-      "id": "776ba263f19ae230",
-      "title": "From Criminals to Terrorists and Back? Quarterly Report 2018 Belgium",
-      "summary": "From Criminals to Terrorists and Back? Quarterly Report 2018 Belgium &nbsp;&nbsp; GLOBSEC",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQajRMdUgwb3JfdXZVU2RSTDBBWVg0NXoxX0VPVXRFQ1ZTeTZlRmxCWEFqVHVrWEFLeVE0X0NZcVJRUzRkR0J3UUpMT2w0U0RtSVBmOUNiTmFGNzN4S2I5cFhzQXNPLXBXZWdrU2NmU3VXUjhPbHEzU1YtUlVKelhGTWhHUjF2SDY1RmFwQ3ZuSVgzZ3lzZkltQnJnY3UxVFpqZW9xdVFhWWtieGc?oc=5",
-      "date": "2022-11-01",
+      "id": "278e3f42f05fba24",
+      "title": "From Criminals to Terrorists and Back Quarterly Report: Great Britain & Ireland",
+      "summary": "From Criminals to Terrorists and Back Quarterly Report: Great Britain & Ireland &nbsp;&nbsp; GLOBSEC",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcEJXWUUwOEQwU0lQWWFGNHowOTVId2QtOTNSNmhHZ0ZVU1RWdVRpR19wc0lOOWRCM01uMHREdzNfVVNfTi1aWXBCTEtEVzFaSlREVTVKZGRLWGJGbm94NmQ4TVhWVElveVYzMkp5Vl9IR245dUtsYVZkTElEVXczbTV4M1ZfMzZJYm95TmpiMzFRSXY5TjJERWpHWU9fQWRGQWc2Rmpva1ljNDhENUZPVzVKSE5VMms?oc=5",
+      "date": "2022-10-30",
       "source": "GLOBSEC",
       "source_type": "tt",
       "region": "EU",
@@ -5005,11 +5083,24 @@
       "via_gnews": true
     },
     {
-      "id": "cf73d1df1a6bc9a4",
-      "title": "GLOBSEC Day 3 Photo Report",
-      "summary": "GLOBSEC Day 3 Photo Report &nbsp;&nbsp; GLOBSEC",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcmFjeGpoSTdoWW85dW44MkNROS1LY3d4QkZMdkVuMk5udTVNWVVUQm10RFBSZ3lqNy1wekhzQXFLYUhZRzJUT3dySy1rS0FMX214QmZGT05CTVV3UWRzTU9kOEVwclEzLU8zSE9iOGNua2dCS2FoOVlid2VQWUtfMlN3?oc=5",
-      "date": "2022-10-29",
+      "id": "c2dd637c3399ba5d",
+      "title": "Policy Brief: Drivers of Disinformation in Central and Eastern Europe and Their Utilization During the Pandemic",
+      "summary": "Policy Brief: Drivers of Disinformation in Central and Eastern Europe and Their Utilization During the Pandemic &nbsp;&nbsp; GLOBSEC",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbU1ENU1uM2NGQnVjMDhNRGRCaW1sb3JRc3NOY0MwQ00xVTVsOHBVZnluNTJEVGlqY1VWM0FqMzZLNVc5aWo2VTctNkxhckVLNVBLdXRxeTlPZmdwampjSmZFbkxyTDhMdC1MOTBvelRndlBBOWJEdjJhMUkwYlF4djRQSU03X1drd1dPNkFfdUk0cDZiaHBBOE9FZEpfLWh0T2MxUzJ3VU0tZ25najQteHQxWUtWTlRraHVrUA?oc=5",
+      "date": "2022-10-28",
+      "source": "GLOBSEC",
+      "source_type": "tt",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "3f6fc2abb08283da",
+      "title": "From Criminals To Terrorists And Back? Quarterly Report: France, vol. 2",
+      "summary": "From Criminals To Terrorists And Back? Quarterly Report: France, vol. 2 &nbsp;&nbsp; GLOBSEC",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmZHUGNRMXU0RnV1N0Z2amxkd2V6YzNhOE4wSHVVZkQ0SnRaYjVmQVFsUXJReFpwSDVMbW9RY3luX2x2UlNYd042SERyODNsQXVyS1V2aVU1UVg4bmo1T3hHVG5pbjUtM0hKckpuMDhLQVNsS3d4TmpDeUpuMWRyYTkwdC1YZmdFLXU0Tkk2MW5ORGc4QWxBR1otLXhHSnZObjhESC10clI1Y0k?oc=5",
+      "date": "2022-10-28",
       "source": "GLOBSEC",
       "source_type": "tt",
       "region": "EU",
@@ -5382,19 +5473,6 @@
       "via_gnews": false
     },
     {
-      "id": "5db586c3ac90bb57",
-      "title": "GLOBSEC AutoFocus Report launch x Economic Growth and Sustainability Pro",
-      "summary": "GLOBSEC AutoFocus Report launch x Economic Growth and Sustainability Pro &nbsp;&nbsp; GLOBSEC",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVnlfQ1RmR1c5dDUxMzFCNnQydzBlSGJOOXFWNV8xZWVEUkZTY2xUczdGcHNESXVfRWFfLXlnVmh1QjVNdnA5TWpTcG5OZmhYTzRyNGo5U215bmRBRzJYOWdTVUdyd3JlOEhDX2EzekdFQlRENjdhdUtzTmtucHRvNzkyQ0oyUkxFdk0wOVVXZHV4VTI5Um5wdUJUUGxpREFrbmtOQjNZbjc2LXZfS192dXFSWnU5cEN4WmlVWGNZSQ?oc=5",
-      "date": "2022-04-11",
-      "source": "GLOBSEC",
-      "source_type": "tt",
-      "region": "EU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "1afc26de72bbd5f6",
       "title": "An ASEAN-India Cybersecurity Partnership for Peace, Progress, and Prosperity: Report of the Third ASEAN-India Track 1.5 Dialogue on Cyber Issues",
       "summary": "An ASEAN-India Cybersecurity Partnership for Peace, Progress, and Prosperity: Report of the Third ASEAN-India Track 1.5 Dialogue on Cyber Issues &nbsp;&nbsp; orfonline.org",
@@ -5746,19 +5824,6 @@
       "via_gnews": true
     },
     {
-      "id": "ffa5388209120c83",
-      "title": "The European Union between strategic autonomy and technological sovereignty: impasses and opportunities",
-      "summary": "The European Union between strategic autonomy and technological sovereignty: impasses and opportunities &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZlFCem1BR1Q0d3FMX1VvR0NWT0VKN2dyYlY4RUlfWkVNZ0UzYVA5WEphZ0kwbFBuZ3ZOTkhRZURhcVdPR1NhdnZrVllKZ18wNjB3WHhlRG93ZGtxbVZjNkZvOGVOOUgteDI0bXpFMDU5M1lrLWVZMDlpOEV1Wmc5bS1ZWENVN1pzQVpVNnhYNk83NWMyNFdaSHkyWDRGV1g1azJxY2FRUzR4dkgwbzR4X2ZGNk1IRWk2Wl9rQmFSaXJVN1lwWlBxRWNxb1I0bG9yT0Z3ZzIySHVwZF9mTE4ydkNXeTNxdzNuQURVNHVDVjNIYjNGNm5POC1jWWVxNFV4?oc=5",
-      "date": "2021-04-16",
-      "source": "FRS — Recherche Stratégique (FR)",
-      "source_type": "tt",
-      "region": "FR",
-      "lang": "fr",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "a0135e5c0af491ac",
       "title": "STRATEGIC FILE",
       "summary": "STRATEGIC FILE &nbsp;&nbsp; pism.pl",
@@ -5780,19 +5845,6 @@
       "source": "United Nations",
       "source_type": "io",
       "region": "Global",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "bb7ef8dbe18a1a62",
-      "title": "CEEHer Report: Absent Voices: Missing Female Perspective in CEE",
-      "summary": "CEEHer Report: Absent Voices: Missing Female Perspective in CEE &nbsp;&nbsp; GLOBSEC",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzk1TTdNdDllaWtzLUgzZG9DNDBRVi1vYjliQkNnWkdkNHM2YVlWNW1tX0FjWUZ2dkpnS1hrWVVyNU1mZTI4bFBFYTQyT21XZ25FTzJEM2VsampXXzN5Q2tEbm9KeUIycEp2S3E0T1RoaENCUF9fWVhlMjJZaEpoZmdKNFZha0pjNFhTajB1LWxDcGRFT2o1WDVJOEFBV04wZ0FxaWlqNE9UUQ?oc=5",
-      "date": "2021-03-08",
-      "source": "GLOBSEC",
-      "source_type": "tt",
-      "region": "EU",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -5834,19 +5886,6 @@
       "region": "US",
       "lang": "en",
       "theme": "economy",
-      "via_gnews": true
-    },
-    {
-      "id": "5f00c2e18350c9b5",
-      "title": "Strategic Survey 2018 : The Annual Assessment of Geopolitics",
-      "summary": "Strategic Survey 2018 : The Annual Assessment of Geopolitics &nbsp;&nbsp; The International Institute for Strategic Studies",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU2VKQlpiMkZvMWlHMTByV25wNjNUZ1ZLNjRhOHFncjRQOWJqczNIZVBMMGJuQTM5eGtXUVJHRC1Kb2l6WUtmcEQxWWpxa0l2WG9BV3VTTnNpTThTS19kaHVXOHpuWThCdl9MTmJLT21iakdFMjdFV3RyNmFNa2ZhLXlraXdDOHFMYmduWThmeXNnMV9KS1dUZnhMSERMQmRtU2FSbVprRWUyTXhfUFBB?oc=5",
-      "date": "2021-01-21",
-      "source": "IISS",
-      "source_type": "tt",
-      "region": "UK",
-      "lang": "en",
-      "theme": null,
       "via_gnews": true
     },
     {
@@ -6042,6 +6081,19 @@
       "region": "UK",
       "lang": "en",
       "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "213c4e450876c84e",
+      "title": "France and Nuclear Deterrence A Spirit of Resistance",
+      "summary": "France and Nuclear Deterrence A Spirit of Resistance &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaktObWZWQjV1SVozdEZQb2NIM2RialhSNnZVcHM3UXBSMUI1YVVCeEk4TldkaXVpQVl4dDRlcDlxM2oxSTVjY1lpRWJCSEJXMHBnVGdIVHdWRVV2NElZWG02bGZ2bVhmbXlHazExNDlkNTRLNm5mcWVrR1hDYy1DOFNPQnNJTm5nU1E2dVo0bUdiY25DTEQ1MjR3?oc=5",
+      "date": "2020-01-23",
+      "source": "FRS — Recherche Stratégique (FR)",
+      "source_type": "tt",
+      "region": "FR",
+      "lang": "fr",
+      "theme": "security",
       "via_gnews": true
     },
     {
@@ -6326,6 +6378,19 @@
       "source": "Sweden — Government",
       "source_type": "gov",
       "region": "SE",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "fb81033e9a48ec33",
+      "title": "Who Are the European Jihadis? From Criminals to Terrorists and Back? Midterm Report",
+      "summary": "Who Are the European Jihadis? From Criminals to Terrorists and Back? Midterm Report &nbsp;&nbsp; GLOBSEC",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMWJnVERsZ25MTjVFQkJjUjgzYWFrVHI5UkFzSGNmZ1ZsVzhnQmV4aWh5V3gyZENUYktjaXFYME80bDJuUmVtbVVzVHNmR2tmSlFGQm85a2UzSHh4elczbjR4NkxaTXlCZXJ5azhfY3luMXg1eTVQaWk1MVduRkQyRF9MdzZ3Ym9KUHhiTkE5YjhTNU5lcTVPYktGUnVhN2xxNVhPc21zTm9zTjhveVlJeE80SFU2b1Rq?oc=5",
+      "date": "2018-09-11",
+      "source": "GLOBSEC",
+      "source_type": "tt",
+      "region": "EU",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -6695,19 +6760,6 @@
       "via_gnews": true
     },
     {
-      "id": "8e5bf269e5ce8529",
-      "title": "New amnesty International Report Profiles Nigeria Police Abuse",
-      "summary": "New amnesty International Report Profiles Nigeria Police Abuse &nbsp;&nbsp; Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRHREQWtGbGZIWk40cmJKU182ek9XS25ZY1JTQzhaU3dvMC1UaHF1MkJoSkczdWpVbU9Nb3NwVzRsZ1g3ZWN1bUJkNnBfTlVCNTJ1WTBxeTVMWVVlWW1kbzk4QWZYYy1WNlNMendGdUxfd3V1ODdpSGg1TjR0dUhSNnlFSGdrQ0lTZmV3OS1iMl9ORWo1WHc?oc=5",
-      "date": "2016-10-07",
-      "source": "Council on Foreign Relations",
-      "source_type": "tt",
-      "region": "US",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "b6ca66ce38f2d553",
       "title": "SIPRI Yearbook 2016 Summary (English)",
       "summary": "SIPRI Yearbook 2016 Summary (English) &nbsp;&nbsp; Stockholm International Peace Research Institute",
@@ -6968,19 +7020,6 @@
       "via_gnews": true
     },
     {
-      "id": "2eff0758a676b152",
-      "title": "Statement on the Report of Sri Lanka’s Lessons Learnt and Reconciliation Commission",
-      "summary": "Statement on the Report of Sri Lanka’s Lessons Learnt and Reconciliation Commission &nbsp;&nbsp; International Crisis Group",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS3VXdG8yTmVWd0dtUFZjcWFYWGRaa2paU0dTdlhXcEZtZ1BCbWxGTWo1WV9SWlMyWlBrOERzR3VTY1lObDN6dFNkNVppQjB0R09Yb3VKOG5mR0VNcm13UWpNQmNHRkFRSFYzbnlrVWFCQ3N5QkhaQ0t5WFB1ZjR4aHFSejU4TjJ0ZDRJMlBsRGdTRHROcFFnT194Rm5TUDdVbUFXMzZiazBLSXBrbE80b21PUDZYNVVleF9jbzFGMEZRazRiYXc?oc=5",
-      "date": "2011-12-22",
-      "source": "International Crisis Group",
-      "source_type": "tt",
-      "region": "Global",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "9e41181bc698665e",
       "title": "SWP Research Paper 2010/RP 04, July 2010, 47 pages",
       "summary": "SWP Research Paper 2010/RP 04, July 2010, 47 pages &nbsp;&nbsp; Stiftung Wissenschaft und Politik (SWP)",
@@ -7059,6 +7098,19 @@
       "via_gnews": true
     },
     {
+      "id": "9a9076887fc25257",
+      "title": "SWP-Research Paper 2007/RP 08, July 2007, 33 pages",
+      "summary": "SWP-Research Paper 2007/RP 08, July 2007, 33 pages &nbsp;&nbsp; Stiftung Wissenschaft und Politik (SWP)",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUk1xZ3F6LWxhcmp5bEdMOUlnRG91bTBVSXZ6S0ZNa2hqa20xbTZFTnpPOEM0VUt2TFlpOElmT1ljaWt2aHpZOXRrLVpyS0ZfWmVhQTlCWWZ3ZUpwRm5tZlRLQ2kzbTBweUZtX1ZXcEdaSU1NanlSX3R1c011TVNPX3JMTExJOXJuTGQ5TTJyYlU0RFU?oc=5",
+      "date": "2007-07-08",
+      "source": "SWP Berlin (DE)",
+      "source_type": "tt",
+      "region": "DE",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "4f78294be933e77a",
       "title": "Report Calls for Military Disengagement From Iraq",
       "summary": "Report Calls for Military Disengagement From Iraq &nbsp;&nbsp; Council on Foreign Relations",
@@ -7080,19 +7132,6 @@
       "source": "IISS",
       "source_type": "tt",
       "region": "UK",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "17ca82b3d17c475e",
-      "title": "Council Special Report Calls for Rapid Resolution of Kosovo Status Argues that U.S. Must Stay the Course in the Balkans",
-      "summary": "Council Special Report Calls for Rapid Resolution of Kosovo Status Argues that U.S. Must Stay the Course in the Balkans &nbsp;&nbsp; Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQkZJWnBpRWV0X1VVMUZ5MW5McUk2QVVRLUF0d1JxTm9sY05UaGp6bmJ2UW5US3pMMnVJRUZhRWQzZEVwV0U4SGZVdTB1VGZsRWc2bHRsMVhwemFEaGs2dW5GV2Y1QnJFM0ljTHI1YklCYzdmZkNLa1ozVkFqVVhoUWJ1WWxZOFZZaDN4TFlpTWJyRmJhV1M0bHFsYXVRNEhYbGc4QVRVaWhmU2Y1?oc=5",
-      "date": "2005-06-30",
-      "source": "Council on Foreign Relations",
-      "source_type": "tt",
-      "region": "US",
       "lang": "en",
       "theme": null,
       "via_gnews": true

@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-02T16:47:56.825654+00:00",
-    "duration_seconds": 83.124881,
+    "generated_at": "2026-07-02T19:19:18.422011+00:00",
+    "duration_seconds": 87.319151,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2299,
-      "items_strict": 548,
-      "events_detected": 9
+      "items_total": 2298,
+      "items_strict": 551,
+      "events_detected": 6
     },
     "source_count": 99
   },
@@ -45,8 +45,8 @@
       "kind": "diplomatic-event"
     },
     {
-      "id": "cea921cd59ba19e1-evt",
-      "title": "Joint Statement on the EU-Türkyie High-Level Economic Dialogue",
+      "id": "adea23f698950aa6-evt",
+      "title": "Joint Statement on the EU-Türkiye High-Level Economic Dialogue",
       "date": "2026-07-02",
       "end_date": "2026-07-02",
       "location": "",
@@ -195,23 +195,6 @@
       "lang": "it"
     },
     {
-      "id": "34ef7ceb0b77e970-evt",
-      "title": "Informal meeting of defence ministers, 31 August - 1 September 2026",
-      "date": "2026-09-01",
-      "end_date": "2026-09-01",
-      "location": "",
-      "organizer": "European Council",
-      "region": "EU",
-      "theme": "security",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xZDJMVFZhV293VUNSWUFuOWlNYXZTRTlRYUVodWF2ZE1rQTNJMk5WTlNVa2NEYWxIZ2VneWF5bml5Nm5vb09YQ1dYNWVCNXBrc1hmcUQ5XzYzOXJnZUZGOXN1Zk51cUdWWFRmeFowSQ?oc=5",
-      "summary": "Informal meeting of defence ministers, 31 August - 1 September 2026 &nbsp;&nbsp; consilium.europa.eu",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Council",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
       "id": "unga-2026",
       "title": "UN General Assembly — High-Level Week 2026",
       "date": "2026-09-22",
@@ -226,23 +209,6 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "573e3abe36747d1a-evt",
-      "title": "Informal meeting of health ministers, 30 September - 1 October 2026",
-      "date": "2026-10-01",
-      "end_date": "2026-10-01",
-      "location": "",
-      "organizer": "European Council",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE40dGFFT2kwSVpINmdaZmU3Nzl3Vm11dnU0cnNlM1NtOHBtbDNub1ZJcmhJNkRJTlpvWkNEdzNEYVR2TWtFYjJFZDRaRExGWWpzNDVCWTNnM1U0OEVHWkJsZXlJbjk3T1dLWkxLdG1nQzA1dw?oc=5",
-      "summary": "Informal meeting of health ministers, 30 September - 1 October 2026 &nbsp;&nbsp; consilium.europa.eu",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Council",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "wb-imf-annual-2026",
@@ -723,23 +689,6 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "8db56454502e0652-evt",
-      "title": "Informal meeting of fisheries ministers, 28-29 July 2026",
-      "date": "2028-07-29",
-      "end_date": "2028-07-29",
-      "location": "",
-      "organizer": "European Council",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xTTJ2T1BmRl9DRG5ab0hIZGsyQVJ5YmhjRVQ2X01oMjRrcExhMjRJRGRLQTQ0a1RjeXpMOGh0RVJBd25TTXpENzBTSHdUemJvMmlaeXRpbTBrdXpqeV9NVmUxdnB1RGlZOEFtMFBXUmhwcXVGN3c?oc=5",
-      "summary": "Informal meeting of fisheries ministers, 28-29 July 2026 &nbsp;&nbsp; consilium.europa.eu",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Council",
-      "kind": "diplomatic-event",
-      "lang": "en"
     }
   ]
 }
