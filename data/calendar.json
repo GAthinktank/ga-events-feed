@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-02T13:50:33.949481+00:00",
-    "duration_seconds": 84.797117,
+    "generated_at": "2026-07-02T16:47:56.825654+00:00",
+    "duration_seconds": 83.124881,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2258,
-      "items_strict": 542,
-      "events_detected": 5
+      "items_total": 2299,
+      "items_strict": 548,
+      "events_detected": 9
     },
     "source_count": 99
   },
@@ -45,6 +45,57 @@
       "kind": "diplomatic-event"
     },
     {
+      "id": "cea921cd59ba19e1-evt",
+      "title": "Joint Statement on the EU-Türkyie High-Level Economic Dialogue",
+      "date": "2026-07-02",
+      "end_date": "2026-07-02",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1513",
+      "summary": "European Commission Statement Istanbul, 02 Jul 2026 The High-Level Economic Dialogue (HLED) between the European Union and Türkiye was held in İstanbul on 2 July 2026. The meeting was co-chaired by Valdis Dombrov...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "ae9315f4db017e21-evt",
+      "title": "Opening remarks by Commissioner Serafin at the Annual EU Budget Conference 2026",
+      "date": "2026-07-02",
+      "end_date": "2026-07-02",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1512",
+      "summary": "European Commission Speech Brussels, 02 Jul 2026 Ladies and gentlemen, Let me welcome you to this year's Annual Budget Conference. This event has become an important meeting point for everyone interested in on...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "217957e80c6baf4d-evt",
+      "title": "Statement by Commissioner Dombrovskis following the EU-Türkiye High-Level Economic Dialogue",
+      "date": "2026-07-02",
+      "end_date": "2026-07-02",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1508",
+      "summary": "European Commission Statement Istanbul, 02 Jul 2026 Good afternoon, everyone. It's good to be in Istanbul for today's EU-Türkiye High-Level Economic Dialogue with my counterpart, Minister Şimşek. This forum was r...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
       "id": "808f4771e7a86284-evt",
       "title": "Speech by Commissioner Kubilius at the Annual Budget Conference",
       "date": "2026-07-02",
@@ -58,6 +109,23 @@
       "featured": false,
       "confirmed": true,
       "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "d07a96f31709d92a-evt",
+      "title": "Secretary-General of ASEAN Meets with Minister of Tourism, Arts and Culture of Malaysia",
+      "date": "2026-07-02",
+      "end_date": "2026-07-02",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/secretary-general-of-asean-meets-with-minister-of-tourism-arts-and-culture-of-malaysia-3/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 2 July 2026, met over dinner with H.E. Dato’ Sri Tiong King Sing, Minister of Tourism, Arts and Culture of Malaysia, on the sidelines of the 39th Asia-Pacific Roundtable, in Kuala Lumpur, Malaysia. The meeting reaffirmed the shared commitment to s Th",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
       "kind": "diplomatic-event",
       "lang": "en"
     },
