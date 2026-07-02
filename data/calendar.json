@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-02T19:19:18.422011+00:00",
-    "duration_seconds": 87.319151,
+    "generated_at": "2026-07-02T22:04:34.604765+00:00",
+    "duration_seconds": 83.776611,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2298,
+      "items_total": 2302,
       "items_strict": 551,
-      "events_detected": 6
+      "events_detected": 7
     },
     "source_count": 99
   },
@@ -43,6 +43,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "b7c989d9f9935659-evt",
+      "title": "Remarks by President von der Leyen at the dinner hosted by the Taoiseach for the start of the Irish Presidency of the Council of the European Union",
+      "date": "2026-07-02",
+      "end_date": "2026-07-02",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1514",
+      "summary": "European Commission Statement Cork, 02 Jul 2026 Taoiseach, dear Micheál, Ladies and Gentlemen, Thank you for such a warm welcome. It is a particular pleasure to join you in this historic Aula Maxima, where bo...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "adea23f698950aa6-evt",
