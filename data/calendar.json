@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-05T02:41:11.179532+00:00",
-    "duration_seconds": 110.054789,
+    "generated_at": "2026-07-05T06:38:07.593373+00:00",
+    "duration_seconds": 88.606399,
     "stats": {
-      "ok": 85,
-      "fail": 14,
-      "items_total": 2309,
-      "items_strict": 547,
-      "events_detected": 1
+      "ok": 86,
+      "fail": 13,
+      "items_total": 2315,
+      "items_strict": 560,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -43,6 +43,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "8246ecef703c10b9-evt",
+      "title": "Secretary-General of ASEAN Delivers Keynote Address at the Opening Ceremony of the Conference on Exchanges and Mutual Learning on Rule of Law Civilisation at the World Jurists Forum 2026",
+      "date": "2026-07-05",
+      "end_date": "2026-07-05",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "CN",
+      "theme": "diplomacy",
+      "link": "https://asean.org/secretary-general-of-asean-delivers-keynote-address-at-the-opening-ceremony-of-the-conference-on-exchanges-and-mutual-learning-on-rule-of-law-civilisation-at-the-world-jurists-forum-2026/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, today delivered a Keynote Address at the Opening Ceremony of the Conference on Exchanges and Mutual Learning on Rule of Law Civilisation at the World Jurists Forum 2026, held in Beijing, China, on 5 July 2026. Download SG&#8217;s full remarks The post S",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "nato-2026",
