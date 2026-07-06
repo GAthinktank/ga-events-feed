@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-06T02:45:47.848058+00:00",
-    "duration_seconds": 95.918887,
+    "generated_at": "2026-07-06T07:09:41.580914+00:00",
+    "duration_seconds": 115.14065,
     "stats": {
-      "ok": 85,
-      "fail": 14,
-      "items_total": 2308,
-      "items_strict": 565,
-      "events_detected": 1
+      "ok": 84,
+      "fail": 15,
+      "items_total": 2293,
+      "items_strict": 545,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -59,6 +59,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "ffeecc98e2da66af-evt",
+      "title": "Transforming Education Summit + 4: System transformation and resilience for SDG 4 (10 July 2026): Overview",
+      "date": "2026-07-10",
+      "end_date": "2026-07-10",
+      "location": "",
+      "organizer": "United Nations",
+      "region": "Global",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1YVHlCaGp2QUpSeWdMWDR6amtlSFI5RWJ2S3E2WDlhTXcwTFBweTN3djJPaGctN1VvQmE4NzZVa3cyRW15X2ZOb3lzeFc?oc=5",
+      "summary": "Transforming Education Summit + 4: System transformation and resilience for SDG 4 (10 July 2026): Overview &nbsp;&nbsp; Indico.UN",
+      "featured": false,
+      "confirmed": true,
+      "source": "United Nations",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "aspen-2026",
