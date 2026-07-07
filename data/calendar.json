@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-07T14:23:14.464704+00:00",
-    "duration_seconds": 117.766584,
+    "generated_at": "2026-07-07T17:10:35.015846+00:00",
+    "duration_seconds": 89.80931,
     "stats": {
-      "ok": 85,
-      "fail": 14,
-      "items_total": 2285,
-      "items_strict": 536,
-      "events_detected": 4
+      "ok": 86,
+      "fail": 13,
+      "items_total": 2310,
+      "items_strict": 558,
+      "events_detected": 5
     },
     "source_count": 99
   },
@@ -58,6 +58,23 @@
       "featured": false,
       "confirmed": true,
       "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "0c048ce03fe08775-evt",
+      "title": "Secretary-General of ASEAN delivers pre-recorded remarks at the PROPEL – ASEAN Digital Leadership Forum and the Official Launch of the ASEAN CXO Association",
+      "date": "2026-07-07",
+      "end_date": "2026-07-07",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "technology",
+      "link": "https://asean.org/secretary-general-of-asean-delivers-pre-recorded-remarks-at-the-propel-asean-digital-leadership-forum-and-the-official-launch-of-the-asean-cxo-association/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, delivered pre-recorded remarks at the PROPEL – ASEAN Digital Leadership Forum and the Official Launch of the ASEAN CXO Association on 7 July 2026 in Singapore. In his remarks, Dr. Kao highlighted several key priorities for advancing ASEAN’s digita The p",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
       "kind": "diplomatic-event",
       "lang": "en"
     },
