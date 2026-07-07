@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-07T06:43:48.056599+00:00",
-    "duration_seconds": 106.603765,
+    "generated_at": "2026-07-07T11:44:34.132048+00:00",
+    "duration_seconds": 89.160759,
     "stats": {
-      "ok": 84,
-      "fail": 15,
-      "items_total": 2284,
-      "items_strict": 545,
-      "events_detected": 2
+      "ok": 85,
+      "fail": 14,
+      "items_total": 2271,
+      "items_strict": 553,
+      "events_detected": 4
     },
     "source_count": 99
   },
@@ -43,6 +43,40 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "c7198a4a913cd016-evt",
+      "title": "Speech by Commissioner Šuica at the Anna Lindh Foundation Youth Conference – Mediterranean Youth in Action",
+      "date": "2026-07-07",
+      "end_date": "2026-07-07",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1545",
+      "summary": "European Commission Speech Cairo, 07 Jul 2026 Dear Mohamed Abou El-Enein, President, Parliamentary Assembly of the UfM Dear Wael Hamed, ALF Board of Governors, Dear Honourable Member of the European Parliam...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "cf8edd42ff9b1454-evt",
+      "title": "ASEAN and the Republic of Korea Reaffirm Commitment to Advancing the Comprehensive Strategic Partnership",
+      "date": "2026-07-07",
+      "end_date": "2026-07-07",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/asean-and-the-republic-of-korea-reaffirm-commitment-to-advancing-the-comprehensive-strategic-partnership/",
+      "summary": "SEOUL, 7 July 2026 – Senior Officials of ASEAN and the Republic of Korea (ROK) reaffirmed their commitment to further advancing the ASEAN-ROK Comprehensive Strategic Partnership (CSP) at the 30th ASEAN-ROK Dialogue, held in Seoul today. The Meeting reviewed progress in the implementation o The post ",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "nato-2026",
