@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-08T19:19:18.080367+00:00",
-    "duration_seconds": 87.334777,
+    "generated_at": "2026-07-08T22:03:24.103914+00:00",
+    "duration_seconds": 113.248856,
     "stats": {
       "ok": 85,
       "fail": 14,
-      "items_total": 2327,
-      "items_strict": 564,
-      "events_detected": 3
+      "items_total": 2303,
+      "items_strict": 557,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -65,6 +65,19 @@
       "via_gnews": true
     },
     {
+      "id": "f9f498e6e0b79d52",
+      "title": "Paquete de Soberanía Tecnológica y Década Digital: medir las dependencias para gestionar los riesgos",
+      "summary": "Mensajes clave Análisis La Década Digital: hoja de ruta y diagnóstico El programa de la Década Digital, adoptado en 2022, dotó por primera vez a la Unión Europea (UE) de un marco de gobernanza estratégico y jurídicamente vinculante diseñado para guiar y acelerar su transformación digital hasta el año 2030. A través de este instrumento, [&#8230;] La entrada Paquete de Soberanía Tecnológica y Década Digital: medir las dependencias para gestionar los riesgos se publicó primero en Real Instituto Elcano .",
+      "link": "https://www.realinstitutoelcano.org/analisis/paquete-de-soberania-tecnologica-y-decada-digital-medir-las-dependencias-para-gestionar-los-riesgos/",
+      "date": "2026-07-08",
+      "source": "Real Instituto Elcano (ES)",
+      "source_type": "tt",
+      "region": "ES",
+      "lang": "es",
+      "theme": "technology",
+      "via_gnews": false
+    },
+    {
       "id": "035f51370a0767e9",
       "title": "Official Statistics: Armed forces continuous working patterns survey 2025/26",
       "summary": "Armed forces results from the 2025/26 annual continuous working patterns (CWP) survey.",
@@ -76,19 +89,6 @@
       "lang": "en",
       "theme": null,
       "via_gnews": false
-    },
-    {
-      "id": "51fd8298206b2b55",
-      "title": "OSCE report highlights progress and remaining challenges in adjudication of war crimes cases in Kosovo",
-      "summary": "OSCE report highlights progress and remaining challenges in adjudication of war crimes cases in Kosovo &nbsp;&nbsp; OSCE Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EUEJBNFZHdzY5WnJ3VXc2TFM3a2ZNXzU5ZW44RWxRYTZDTmN2ZWZITmxsUVJWaWl0cnlMeXRLdUcwZ3M0SFZfVWVDcWFZX2JOMmlPZWZCanluTGJL?oc=5",
-      "date": "2026-07-08",
-      "source": "OSCE",
-      "source_type": "io",
-      "region": "EU",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": true
     },
     {
       "id": "a67bd99f0edb92d1",
@@ -143,17 +143,17 @@
       "via_gnews": true
     },
     {
-      "id": "ee3bf04be55c3bc2",
-      "title": "Industrial Strategy references for quarterly update April to June 2026",
-      "summary": "Industrial Strategy references for quarterly update April to June 2026 &nbsp;&nbsp; GOV.UK",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOT3pENXBDd0NISWxRbUxXWDlBMHAxRTNpMExHWHRhMXJIaC1FMjlJUkJJRlZ5LUFZX2Y3cm5Edl9Uek9TLXFSTEFPaW5QTlZaQVlsanppTkdnS09iRU52LUhuOGpUYlROTDBJYkUtSWhiZlcydXVmQ1VQSWN2WGxwME5DUmR1cWVHSy1LT3hTa09mS2EwOGRkdHRoWGR4dTBWa3AyaU5jUm10dU9KNm9YV3VjcGoyV2d0dTMyaVJ2WG0yNldjMVhWdTRYZDlrZFRKZnBUNHpMb3JPZV9yWDNUaUE5TDBPX09hT3VVNjlacUdNMnR4SFJvMDBGbko1UQ?oc=5",
+      "id": "4e489f549a3e0e79",
+      "title": "Kroenig interviewed in NPR on the Ankara Summit",
+      "summary": "On July 7, Atlantic Council vice president and Scowcroft Center senior director Matthew Kroenig was interviewed on NPR about the importance of the Ankara Summit amidst heightened transatlantic tensions. The post Kroenig interviewed in NPR on the Ankara Summit appeared first on Atlantic Council .",
+      "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/kroenig-interviewed-in-npr-on-the-ankara-summit/",
       "date": "2026-07-08",
-      "source": "UK gov.uk announcements",
-      "source_type": "gov",
-      "region": "UK",
+      "source": "Atlantic Council",
+      "source_type": "tt",
+      "region": "US",
       "lang": "en",
-      "theme": null,
-      "via_gnews": true
+      "theme": "diplomacy",
+      "via_gnews": false
     },
     {
       "id": "7a49cd845cc7e12e",
@@ -169,43 +169,17 @@
       "via_gnews": true
     },
     {
-      "id": "5d892299894f6d1d",
-      "title": "East Suffolk Tree and Hedgerow Strategy Consultation",
-      "summary": "East Suffolk Tree and Hedgerow Strategy Consultation &nbsp;&nbsp; East Suffolk Council",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZHo0alg5VmZTb3BjcWZPM0ZLZzRHQnhuX3dRM3FfVmtVUlFaN3hTS3U0djJiOWlrYVNqb09IdkdXOXB4TmdudWM0YnBPSVNlaFVDdXNxeWlYWXNlaUhqbzZrVmhpR3dUTEt1dVB4MUFJX0NsTTBHWVBRaEhjXzdYQ0RHZ3ViQXRQY003VHVqdlFBMU0tM1JfNGR2dw?oc=5",
+      "id": "51f75fc070f30875",
+      "title": "Evolving Security Networks",
+      "summary": "Evolving Security Networks acabral-sanche… Wed, 07/08/2026 - 10:10 SVG In the Media Jul 7, 2026 CSIS Sixteenth Annual South China Sea Conference Evolving Security Networks Patrick M. Cronin Asia-Pacific Security Chair Patrick M. Cronin In the Media Caption (Screenshot via YouTube) Toggle Table of Contents Contents Contents Share to Twitter Twitter Share to Facebook Facebook Share to LinkedIn LinkedIn Share to E-mail E-mail Print Print Patrick Cronin joins a panel discussion at the Center for Strategic and International Studies' South China Sea conference titled Evolving Security Networks. He e",
+      "link": "https://www.hudson.org/security-alliances/evolving-security-networks-patrick-cronin",
       "date": "2026-07-08",
-      "source": "UK gov.uk announcements",
-      "source_type": "gov",
-      "region": "UK",
+      "source": "Hudson Institute",
+      "source_type": "tt",
+      "region": "CN",
       "lang": "en",
       "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "ea7471dc570f7c8e",
-      "title": "Draft strategic policy guidance for electricity networks growth: consultation (HTML)",
-      "summary": "Draft strategic policy guidance for electricity networks growth: consultation (HTML) &nbsp;&nbsp; GOV.UK",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPRmRoVVhtVnVLekk4UTJNbDJUZFhERGR6dFFPd0cyUG5obHB3aldmQ3V2SC10MXdLem5rSEdyalNkVk9Eb05xeEhiOU90UnhJX0hSLTZRQjFjbGp2akY2YjVWSzNhTzNIdE5YMjdlbmRzcmwxX2lyaWpYU2xWTUFqM2dRV1Y0UmlObjV3TzFIUlRHTDBmRHlBSjk2cDNjbk5WRXlvUm01N2pyQ01SaUFnR2ljR0ZhcGw1WjhmQXpHMnpCUzdkODFBcWVteUNlOVByVGhyRGZ6NzFDY082bDdsdnVjUTY5MzRObHU2clpZdDJSb3dYM2d4WndSTEJKbHk2UEtaQXRmT3c0Y1RGYldKZEhBRFFfUU9l?oc=5",
-      "date": "2026-07-08",
-      "source": "UK gov.uk announcements",
-      "source_type": "gov",
-      "region": "UK",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "874dacb430aecef4",
-      "title": "Draft strategic policy guidance for electricity networks growth",
-      "summary": "Draft strategic policy guidance for electricity networks growth &nbsp;&nbsp; GOV.UK",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM0JuNUpVaHd2TlFsTEZqQ19VMDFVOGpvSVQ3aUJxN25mQ0ZQLWEwcC05aUpKMWN2RE5DUDhrRmJSMmRmLXJvc054TENBcUxXa1lrX3Rvc0FwN1R2N01LVGhBYXBja2xMNDZ1ZmN0Z2s2YlAyOEZRQjE2NU5xbFNIbTdORWJiQVVtNG1aZ2VXUmQ0dGhZUzNJSkk0Y2tjeHIyTHplYWRIQ0V0N2c?oc=5",
-      "date": "2026-07-08",
-      "source": "UK gov.uk announcements",
-      "source_type": "gov",
-      "region": "UK",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
+      "via_gnews": false
     },
     {
       "id": "7acd4051cd25419e",
@@ -221,17 +195,17 @@
       "via_gnews": true
     },
     {
-      "id": "0a10609e1d964334",
-      "title": "Cultural strategy sets out 10-plan to make culture and creativity accessible to one and all",
-      "summary": "Cultural strategy sets out 10-plan to make culture and creativity accessible to one and all &nbsp;&nbsp; Cornwall Council",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPOTgzdHItVDd4RGdNTjlUMHgwdXpBaGdpNFJURVF3ZVJkdFNCN2p5c250c0QxcW93SlgyWXpSRXY3aDBKVGpmMTY1UWdhcGJQYWdVSnA5dnNJdUdBaVNHbXU3WndudWFGTlBnTFAwMmkzV21kaG5mMFVYSWFXUUVrX29TZXVZQkZUVzVHN25MVkR3QUVxcl81Ym5UZ3lwaENQbTVBcVJTU3ZuenJObzBadUcxbWJfWk1XQ01TOUFnYUJrWkNwWHR1OHUxVTlyYkduOTcxZEJTTHJhZi1aWWJRdmNnalExdzBtWjZ1bVgwd0RqbnZ5UndLTzF3?oc=5",
+      "id": "e955237a96de0e66",
+      "title": "Defending the Era of America’s Founding",
+      "summary": "Defending the Era of America’s Founding acabral-sanche… Wed, 07/08/2026 - 09:54 SVG Commentary Jul 7, 2026 Modern Age Magazine Symposium on 1776 Defending the Era of America’s Founding John Fonte Senior Fellow and Director, Center for American Common Culture John Fonte Commentary Caption Thomas Jefferson, John Adams, and Benjamin Franklin writing the Declaration of Independence in Philadelphia, Pennsylvania. (Wikimedia Commons) Toggle Table of Contents Contents Contents Share to Twitter Twitter Share to Facebook Facebook Share to LinkedIn LinkedIn Share to E-mail E-mail Print Print The quarter",
+      "link": "https://www.hudson.org/politics-government/defending-era-americas-founding-john-fonte",
       "date": "2026-07-08",
-      "source": "UK gov.uk announcements",
-      "source_type": "gov",
-      "region": "UK",
+      "source": "Hudson Institute",
+      "source_type": "tt",
+      "region": "US",
       "lang": "en",
       "theme": null,
-      "via_gnews": true
+      "via_gnews": false
     },
     {
       "id": "3c89c8be29bdcef1",
@@ -325,19 +299,6 @@
       "via_gnews": true
     },
     {
-      "id": "1e1f4b28b86b7f88",
-      "title": "New strategy to boost social housing supply",
-      "summary": "New strategy to boost social housing supply &nbsp;&nbsp; North Ayrshire Council",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVDJtYjBaUlV5WjRxY2Y0amRwQWJrUTBFbWg3UGUzRnRJc3gzSV8wLWdYS1RFZjBldVhoMWg1d3FlSUY5UElyX1VYYzdnTWhQdFJsMHdqcGM3cHctSTd5SXJoNlJJOXN6MFVXcUpQUzVVUkRhQ2NRenhzLWI3T1ZUallRb3RxS0U5blE?oc=5",
-      "date": "2026-07-07",
-      "source": "UK gov.uk announcements",
-      "source_type": "gov",
-      "region": "UK",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "e086a6b33c91f367",
       "title": "NATO summit is Europe’s moment to turn crisis into opportunity",
       "summary": "NATO summit is Europe’s moment to turn crisis into opportunity &nbsp;&nbsp; Chatham House",
@@ -401,19 +362,6 @@
       "lang": "en",
       "theme": "security",
       "via_gnews": false
-    },
-    {
-      "id": "b17ba9ca2913f906",
-      "title": "Cornwall's adult social care workforce strategy recognised nationally during Good Care Month",
-      "summary": "Cornwall's adult social care workforce strategy recognised nationally during Good Care Month &nbsp;&nbsp; Cornwall Council",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQ1pxWFM5MmFTSWJhamJySjh0ZkV2U21odFVZNDJHLWRLQVlRSGZxeTVRcTlKYVM2SnFtNzJXa0Mwa2VITl8tZThNUzlNbEhsWkZBVHhQNi1iclFuVDFsaE52Q0Z4ZjVMZ0xacUFIMElKZnVzMnNtN1lkVk9Pb3cyRlJQdXQtZ29udlp2eE5pV0tSQWNZUGwzYTRONkNyVmJmTFZCS2QwNE5rZEhhMlVuZzYxUjRjRkdhdTVYbWtjWWJsa3Q5TG5ic1Q2SkwyQm85eDZ4dFpKV2h0aDVRRmpWanZESWhaVElNVVNFQ2Q1Q0lOZG51R0drbm93?oc=5",
-      "date": "2026-07-07",
-      "source": "UK gov.uk announcements",
-      "source_type": "gov",
-      "region": "UK",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
     },
     {
       "id": "b38f9dcff357e45f",
@@ -554,19 +502,6 @@
       "source": "NATO",
       "source_type": "io",
       "region": "Global",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": true
-    },
-    {
-      "id": "2bdb590227829ed8",
-      "title": "Joint statement from member countries of the Multilateral Defence Mechanism",
-      "summary": "Joint statement from member countries of the Multilateral Defence Mechanism &nbsp;&nbsp; GOV.UK",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNlpLRE8tbFhjOXl0bDhTdzh5RVRManZXcDdoQU5hN2pKZVpFdHVHZlc1NU1BSS1nSVhnZG5YTGZpRFBBdUpLTE1KcXhBYjVkN25oNWp1M0tHQjE5LURwWW9GcmdSejdudHFjRHZicUdlRGVKNEpoUC1IQ0s2elZWMVdTUlJPa1A1ZkJOV0hSTmRCcnhHT1lNanJreVQ2MUs0RmR1aEx2QkVXeEM0LURv?oc=5",
-      "date": "2026-07-06",
-      "source": "UK gov.uk announcements",
-      "source_type": "gov",
-      "region": "UK",
       "lang": "en",
       "theme": "security",
       "via_gnews": true
@@ -754,6 +689,19 @@
       "via_gnews": true
     },
     {
+      "id": "42c0facd53f77fc0",
+      "title": "250 años después: ¿sigue existiendo la idea de Estados Unidos?",
+      "summary": "Estados Unidos (EEUU) celebra el 250 aniversario de su Declaración de Independencia, un acontecimiento que constituye, por sí mismo, un logro histórico extraordinario. Pocas democracias representativas pueden presumir de una continuidad institucional de dos siglos y medio. Sin embargo, esta efeméride no conmemora únicamente la longevidad de la república estadounidense, sino el nacimiento de un [&#8230;] La entrada 250 años después: ¿sigue existiendo la idea de Estados Unidos? se publicó primero en Real Instituto Elcano .",
+      "link": "https://www.realinstitutoelcano.org/comentarios/250-anyos-despues-sigue-existiendo-la-idea-de-estados-unidos/",
+      "date": "2026-07-03",
+      "source": "Real Instituto Elcano (ES)",
+      "source_type": "tt",
+      "region": "ES",
+      "lang": "es",
+      "theme": null,
+      "via_gnews": false
+    },
+    {
       "id": "103312b1e9a157c3",
       "title": "What to Expect at the NATO Summit",
       "summary": "What to Expect at the NATO Summit &nbsp;&nbsp; International Crisis Group",
@@ -819,19 +767,6 @@
       "via_gnews": true
     },
     {
-      "id": "bc85c0053781ada7",
-      "title": "From burden sharing to strategic delivery: NATO and Turkey’s priorities ahead of the Ankara summit",
-      "summary": "As allies gather in Ankara, Turkey's rising influence, US retrenchment, and uneven burden sharing will test whether NATO can convert pledges into action. The post From burden sharing to strategic delivery: NATO and Turkey’s priorities ahead of the Ankara summit appeared first on Atlantic Council .",
-      "link": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/from-burden-sharing-to-strategic-delivery-nato-and-turkeys-priorities-ahead-of-the-ankara-summit/",
-      "date": "2026-07-02",
-      "source": "Atlantic Council",
-      "source_type": "tt",
-      "region": "US",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": false
-    },
-    {
       "id": "5af85ab70c90f975",
       "title": "Europe’s no-panic playbook for a radically different US foreign policy",
       "summary": "How should the United States' allies, particularly in Europe, adapt to this new reality in US foreign policy? The post Europe&#8217;s no-panic playbook for a radically different US foreign policy appeared first on Atlantic Council .",
@@ -894,6 +829,19 @@
       "region": "CN",
       "lang": "en",
       "theme": "economy",
+      "via_gnews": true
+    },
+    {
+      "id": "59a0b0b671e08cca",
+      "title": "South Korea’s Market Boom—and the Bubble Beneath It",
+      "summary": "South Korea’s Market Boom—and the Bubble Beneath It &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbThOMGJIakMwbHZFczlYa3B5YVI0MGhnbUgtaDByR19aVGhyNTh6aDBVQlBkajMxSUxMYW9jZ05Bd2c5OUpaWER4TERMZFZQTXRndFBuSWtZZl9MZE5fcFJNb3lFUTdSWjRmYkd6YV9oR08yM2JGV21vU29Da25aanlB?oc=5",
+      "date": "2026-07-01",
+      "source": "CSIS",
+      "source_type": "tt",
+      "region": "US",
+      "lang": "en",
+      "theme": null,
       "via_gnews": true
     },
     {
@@ -988,6 +936,19 @@
       "via_gnews": true
     },
     {
+      "id": "fe6485cc2f05e83d",
+      "title": "Building Operational Advantage: Allied Command Transformation at the 2026 NATO Summit",
+      "summary": "Building Operational Advantage: Allied Command Transformation at the 2026 NATO Summit &nbsp;&nbsp; NATO's ACT",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14aXRtOWo5aHlVUXVZWlo3eW5GMVNyQ1Jvcm5PQUpHQlM0Q3BIaE1nVDFuWkhDNmoyeGgydkNudjUwNGpEeS1oNDA2SEFiMjFxRGtmMndVQjQyNTZiUXlV?oc=5",
+      "date": "2026-07-01",
+      "source": "NATO",
+      "source_type": "io",
+      "region": "Global",
+      "lang": "en",
+      "theme": "security",
+      "via_gnews": true
+    },
+    {
       "id": "e1350a62332f9ddc",
       "title": "Finnish Foreign Minister Valtonen to attend NATO Summit",
       "summary": "Finnish Foreign Minister Valtonen to attend NATO Summit &nbsp;&nbsp; Valtioneuvosto",
@@ -998,19 +959,6 @@
       "region": "FI",
       "lang": "en",
       "theme": "security",
-      "via_gnews": true
-    },
-    {
-      "id": "23de2e7d4813eb08",
-      "title": "Cornwall Cultural Strategy",
-      "summary": "Cornwall Cultural Strategy &nbsp;&nbsp; Cornwall Council",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNzd5SVFoOHhfX1ZfTFA5MGtlNXFCRDJJeERZdjV5eGhrN3ZaNEtFT2s4RDdEb3NXdFg4d3hKM2JOUE55RFA3TjdzWXNsb1dMOER2ZkQ5T1o1bzIycmtfamdvN3pYSXJNalI1TkNVRi1LMC1fd2h1blRaUmRIM0tfWkNWRTlUTDNsV2NqTVB4TlN5c1VvRmpVTWs3c2FzQy1DWjNNSW85NUwyQnpNS0EwdVlYNzBFenpsNmd4dnEtR0gwS0VMbHBTMG5xdzVWeWdYN2ZSZ2NnT1Q1LXdkTHBPOFc2aw?oc=5",
-      "date": "2026-06-30",
-      "source": "UK gov.uk announcements",
-      "source_type": "gov",
-      "region": "UK",
-      "lang": "en",
-      "theme": null,
       "via_gnews": true
     },
     {
@@ -1287,6 +1235,19 @@
       "via_gnews": true
     },
     {
+      "id": "1246e5cdf11c4400",
+      "title": "La puesta en marcha del Pacto Europeo de Migración y Asilo: un acuerdo de mínimos entre dudas y certezas, apoyos y detractores",
+      "summary": "El Pacto Europeo de Migración y Asilo (PEMA), es decir el núcleo de la nueva política europea de inmigración y asilo, lleva una década diseñándose, negociándose, dibujándose y decidiéndose. Europa se encontró tras 2015 en una encrucijada: o bien la Unión Europea (UE) avanzaba hacia una política migratoria y de asilo más cooperativa y solidaria [&#8230;] La entrada La puesta en marcha del Pacto Europeo de Migración y Asilo: un acuerdo de mínimos entre dudas y certezas, apoyos y detractores se publicó primero en Real Instituto Elcano .",
+      "link": "https://www.realinstitutoelcano.org/comentarios/la-puesta-en-marcha-del-pacto-europeo-de-migracion-y-asilo-un-acuerdo-de-minimos-entre-dudas-y-certezas-apoyos-y-detractores/",
+      "date": "2026-06-22",
+      "source": "Real Instituto Elcano (ES)",
+      "source_type": "tt",
+      "region": "ES",
+      "lang": "es",
+      "theme": null,
+      "via_gnews": false
+    },
+    {
       "id": "af6bae5252c552e2",
       "title": "Global Gas Flaring Tracker Report",
       "summary": "Global Gas Flaring Tracker Report &nbsp;&nbsp; World Bank Group",
@@ -1389,6 +1350,19 @@
       "lang": "en",
       "theme": "security",
       "via_gnews": true
+    },
+    {
+      "id": "8cd709b4eb268e1b",
+      "title": "Estados Unidos y Cuba: una relación presa de la Historia, la inercia estratégica y las políticas internas",
+      "summary": "Mensajes clave Análisis Las relaciones entre EEUU y Cuba constituyen uno de los casos más singulares y duraderos de confrontación bilateral en la política internacional contemporánea. Desde el triunfo de la Revolución Cubana en 1959 ambos países mantienen una relación marcada por la desconfianza mutua y la rivalidad ideológica. Aunque en las últimas seis décadas [&#8230;] La entrada Estados Unidos y Cuba: una relación presa de la Historia, la inercia estratégica y las políticas internas se publicó primero en Real Instituto Elcano .",
+      "link": "https://www.realinstitutoelcano.org/analisis/estados-unidos-y-cuba-una-relacion-presa-de-la-historia-la-inercia-estrategica-y-las-politicas-internas/",
+      "date": "2026-06-18",
+      "source": "Real Instituto Elcano (ES)",
+      "source_type": "tt",
+      "region": "ES",
+      "lang": "es",
+      "theme": "diplomacy",
+      "via_gnews": false
     },
     {
       "id": "34beac284aa8d2d8",
@@ -1506,6 +1480,19 @@
       "lang": "en",
       "theme": "security",
       "via_gnews": true
+    },
+    {
+      "id": "56514084481e4812",
+      "title": "FIMI: desinformación frente al control estratégico del entorno informativo",
+      "summary": "Mensajes clave Análisis El concepto más extendido de desinformación hace referencia a la masiva circulación de contenidos falsos o engañosos por el espacio digital. Sin embargo, también conviene prestar atención a los actores que la producen y sus tácticas, técnicas y procedimientos (TTP) y, cada vez más, incluir en el análisis la reflexión acerca de [&#8230;] La entrada FIMI: desinformación frente al control estratégico del entorno informativo se publicó primero en Real Instituto Elcano .",
+      "link": "https://www.realinstitutoelcano.org/analisis/fimi-desinformacion-frente-al-control-estrategico-del-entorno-informativo/",
+      "date": "2026-06-16",
+      "source": "Real Instituto Elcano (ES)",
+      "source_type": "tt",
+      "region": "ES",
+      "lang": "es",
+      "theme": "technology",
+      "via_gnews": false
     },
     {
       "id": "b7bfd71714408004",
@@ -1677,10 +1664,10 @@
       "via_gnews": true
     },
     {
-      "id": "735f265691693d22",
-      "title": "Council adopts conclusions on the EU maritime industrial strategy - cyprus-presidency.consilium.europa.eu",
-      "summary": "Council adopts conclusions on the EU maritime industrial strategy &nbsp;&nbsp; cyprus-presidency.consilium.europa.eu",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSUhvRjRzbkFNMXBPSkI5V1dIc214c2ptZzRLTl9WcW9pRXREd2NHYnROT3YtZjdBaGdoSXZVa2hoOUlTNTdKQy15SURfbzUzQ29NZ1pvYW56S3NWQWZYYjk2SmlIMTJITS1Hb24wbEEwdGNxNHVGVEJlOFJuNW9vaHNDcS1UYXpxa2tYVGM1a0szRndUbDl0VFRBa3FvWEJUSmt3VkV6Zm0wbGFyMFpUTEFuVTdTOHV3SXpscA?oc=5",
+      "id": "e7d4a709b72a68db",
+      "title": "Council approves conclusions on the EU maritime industrial strategy - cyprus-presidency.consilium.europa.eu",
+      "summary": "Council approves conclusions on the EU maritime industrial strategy &nbsp;&nbsp; cyprus-presidency.consilium.europa.eu",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQVBQSDU5MHBFRWpWYTVLNmkxZnV4UTcxR3lGdlhhUG5KYmVHWjVRZE5hMW93YkxSMlpDaDlnSmdRMXU5X2VYTndhWXJtOWs5WXJteDFqMmtNT180UkJ0Q19RWWJHeUdsRzAwdVdFenpPd1UzdmZONGJ6N05sREdheHlUaXpyMXNqLXFvZV9tREVwVWwzcXhneEt2NGpKTjh2SHhBMlB2bDRsNlI0T3ctTFNrem9DQWsxOXdVX1dLMA?oc=5",
       "date": "2026-06-08",
       "source": "European Council",
       "source_type": "gov",
@@ -1752,6 +1739,19 @@
       "region": "SE",
       "lang": "en",
       "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "1d5fb44eb4154917",
+      "title": "NATO’s Digital Transformation Implementation Strategy 2.0",
+      "summary": "NATO’s Digital Transformation Implementation Strategy 2.0 &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeEFsVnFDd0s0X1ZCVURFci1QaVc5MEtVcm5XTUhJRjZnQlNqTG9OY1hrWUNNRmg0U3NYOGdGMldjNDNEQmZ4QXNRNEl1U2trMlk2YXdkWWFhcmZ5UDlncG9kd1lRN3k3bnJHRG8xUnQ4dDl2cjF4bUNnYXFyLV9DbnVWYjRTUFBGb3VYY0NwMGV6ejJsSXVjdVRjYVJLbkNyTjlWTGxVaXFkUV90LVEtNEVWV21HSC1LTFRsRjZib1Z4TUtXckUxQzEwUUlaLTRKcUwxUFVjaw?oc=5",
+      "date": "2026-05-26",
+      "source": "NATO",
+      "source_type": "io",
+      "region": "Global",
+      "lang": "en",
+      "theme": "security",
       "via_gnews": true
     },
     {
@@ -2017,7 +2017,7 @@
     {
       "id": "95d51f5af5e0d1d3",
       "title": "Japan-ROK relations since 2025: toward a sustainable strategic convergence?",
-      "summary": "Japan-ROK relations since 2025: toward a sustainable strategic convergence? &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
+      "summary": "Japan-ROK relations since 2025: toward a sustainable strategic convergence? &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUGFYZEFCMzRBbjVFUWp2ekEwelJtMW1RRDJiNWEtSjM1Z0tFYjhUVy1GNlBBRFdRdGJWY0xQVGc0dGJ0MWIwR0JYT3FBOUIyOXQxY1dJc24weF9KU0QzNkwtOVdXejFzd1U3U1ByVDFFTTJvdEpYeVFYdDFRZHhhdkZFYUhUcTl5MjJUR3gzcVFmamVReThVRk5jdDZqU2RzTkFaQmZ3aW5ialVUNXB5MV85MXJjajk4NHFOZHJhZWE3REtWajZTTTZkUkxoMXFrZ3lLdGM1YVRsOXNJTTBkdQ?oc=5",
       "date": "2026-05-12",
       "source": "FRS — Recherche Stratégique (FR)",
@@ -2025,6 +2025,19 @@
       "region": "FR",
       "lang": "fr",
       "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "f7203ed3cb5e38e5",
+      "title": "Strategic Dialogue with ACT on Space Deterrence and Defence",
+      "summary": "Strategic Dialogue with ACT on Space Deterrence and Defence &nbsp;&nbsp; NATO's ACT",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN05rN3RGMkxKWVFIcGlMaF9EemNCNk50NURxMmJpakVjSmVOS0txZDRXNVNWTXIyMFp0OUN0Y0NwMndrM0JOREpacGtrQmZ3RnhpSFhOTXZZS0RjY3lZYUFIaEoxREh2YUZqLWF0TG1Ya0w1V1I2ckdDSmhKcFJXZ0xIQQ?oc=5",
+      "date": "2026-05-08",
+      "source": "NATO",
+      "source_type": "io",
+      "region": "Global",
+      "lang": "en",
+      "theme": "security",
       "via_gnews": true
     },
     {
@@ -2119,6 +2132,19 @@
       "via_gnews": true
     },
     {
+      "id": "be2cd3fe04f7c777",
+      "title": "NATO Secretary General visits Türkiye in preparation for Ankara Summit, underlines importance of defence industry",
+      "summary": "NATO Secretary General visits Türkiye in preparation for Ankara Summit, underlines importance of defence industry &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNcl9zM2ZhZnJwZi1Rei1lTldnZ0p2M0U5N2Z1dU5sYjUxLUVFMzVXcjV3NUl5N203UUxYUG9Fc2xZMW5GNjNRSEt4QWxELUpKNEJuUmxPa3hzSDh3c2R6eUdpd1F4TTVaYlh0dnRlRnJzUTF2NWtLTXJTSnpNZ3FENEwzQktMa1UyaGsxYTdyWkR6RnYzRzNtYWdyNHp0SDlGYTVud0pINERDM1FOWHZuTVI1RXh2R2REODFzYUp2bHBMZ0Q2SVluQVFHaVRoMXJWZDhLLUlUTUFSY1lrSWQ5bHdqX21JZGZub216Yjg0MFNQWnUteEZrQTE2R1NtaHZLQmFiMWphcWU?oc=5",
+      "date": "2026-04-22",
+      "source": "NATO",
+      "source_type": "io",
+      "region": "Global",
+      "lang": "en",
+      "theme": "security",
+      "via_gnews": true
+    },
+    {
       "id": "1bfc3f4366cfdfd9",
       "title": "CSR90 The United States, China, and Taiwan: A Strategy to Prevent War",
       "summary": "CSR90 The United States, China, and Taiwan: A Strategy to Prevent War &nbsp;&nbsp; static.cfr.org",
@@ -2158,19 +2184,6 @@
       "via_gnews": true
     },
     {
-      "id": "d3a7fe003814dde2",
-      "title": "OECD Secretary‑General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 United States, April 2026)",
-      "summary": "OECD Secretary‑General Tax Report to G20 Finance Ministers and Central Bank Governors (G20 United States, April 2026) &nbsp;&nbsp; OECD",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdmNTMTg5aWtuZ29lYnIxTWwyRWhSRFNOWlVfREFRdFZmLVpWUG1iQ0h4VGpySW1sb3YwMElFWkFYVkE2aWs3aGRYU2JPUF9pRE82WHYyM25ESkNPQ0I1SXdSckZTUnJuaDJWeGdGQ2E5bUlpWVhYZmhLUE5qYW1XTGladDY5WEFIQXlEcVBqZk1lc290a1o5YnFyWFhyR0UyWnlvWGdVeTRGeVhPMy1pSWZyS1A3d29sYlZoUUUxM3NTeHBhLUR1aUNJcGRLQ005bE9UQmJBb1VZS1ZEdG14M3RZcXoxWS0yMDVocnNacWRhRlF0aFB0OVAwZWY?oc=5",
-      "date": "2026-04-16",
-      "source": "OECD",
-      "source_type": "io",
-      "region": "Global",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "04a6db53114e1ecf",
       "title": "Joint Statement – Lebanon – Latest Developments",
       "summary": "Joint Statement – Lebanon – Latest Developments &nbsp;&nbsp; diplomatie.gouv.fr",
@@ -2205,6 +2218,19 @@
       "source": "Council of Europe",
       "source_type": "io",
       "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "51ca8cfa0da98670",
+      "title": "Annual Reports",
+      "summary": "Annual Reports &nbsp;&nbsp; Ministry of External Affairs",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9IWFpKeHUwRVphaGU3MWY5ZmJlc1B5OUlHdjdTazFIX05QaGpxVUtJblU0S2tEQjBWQUFaU1BTdS1OLXFlV1EyVHZfWHEtWmk3cldyVTVLVG5pOWpraGpTdWV2MDVGanVQWW9HYXFtdHZyUl9VU2FHUE1R?oc=5",
+      "date": "2026-04-13",
+      "source": "India — MEA",
+      "source_type": "gov",
+      "region": "IN",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -2277,7 +2303,7 @@
     {
       "id": "de33afd38003f961",
       "title": "New Entrants in the European Defense Market: A Study of Korea, Brazil and Turkey",
-      "summary": "New Entrants in the European Defense Market: A Study of Korea, Brazil and Turkey &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
+      "summary": "New Entrants in the European Defense Market: A Study of Korea, Brazil and Turkey &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONzRaZHNQbVJ0b29Lb0tFbVZ0SU1IWVp4eTJpZ2FKSXd4eC1oeXA4QzRkT01sZ2tQdklHeDFTSzJFMXlJNDZXVE9RbmlxUEMweXVSNTVSNXNqR2thMVNkLU1EVV9sNV9MSjc5UHBSd0RmMzZQNDRiNjZFRDVURmduV0RPdEtfcHY2bkR4dTRqZjJtc1QxQnF4bW1mendDb05SajRNVGl5Z0tqMU1BcnZ6YXRZWkF0SVpJZUtPYmpVdy1rYVFlUnVVRUpxOEozSHc?oc=5",
       "date": "2026-04-01",
       "source": "FRS — Recherche Stratégique (FR)",
@@ -2537,7 +2563,7 @@
     {
       "id": "b63af8223f8473b3",
       "title": "T-Dome: political instrument or operational solution?",
-      "summary": "T-Dome: political instrument or operational solution? &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
+      "summary": "T-Dome: political instrument or operational solution? &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNE9kSkQ3R1lGQ3VzYWZOUlIyWFAyekdtQVJ1M2xEZFltYWFBV3ptX3JBeUpoYjliUHpFTm9LNjVkaGMzYUdxeVo4dGpwaXktWW1QbnBQLVNLOUtBVVljcTFOX3FDV3hnNkppalBoVkVuVUFGLVR3c3loSEF4aXJWR1VZZmh1Y1hfbkRPVmRxcm5KUkhsRFpvS2Y1T0ZkU0kyQlFDOWtPMDQ1WHJudkk3N0RzSTdHT3VMeWd5dHd0dERzbndzV3dIcHo2N29oaFE?oc=5",
       "date": "2026-02-17",
       "source": "FRS — Recherche Stratégique (FR)",
@@ -2745,7 +2771,7 @@
     {
       "id": "3f21fa7ca22981f9",
       "title": "Promoting “soft connectivity”: China’s standards-setting reforms and international ambitions",
-      "summary": "Promoting “soft connectivity”: China’s standards-setting reforms and international ambitions &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
+      "summary": "Promoting “soft connectivity”: China’s standards-setting reforms and international ambitions &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV0J6c3VVMk05bTBPbjRGMGVIeFhPODNKemdKZ2VvWUhIeUc1cGZyYmtMTnNKOTQzQkFhaXZUN2E5dkM5REtOU0IwdENVbHh4NzBLY0dEemQ2RG1Pa3k2QVlBMXBfX0M0QzBNcW5hZkNsZWROQlp5MmpXNWpOR2FPc0RjSUJJd0ZJR3ZHSEljYzlOUkZ2VnRxVmhB?oc=5",
       "date": "2026-02-01",
       "source": "FRS — Recherche Stratégique (FR)",
@@ -2753,6 +2779,19 @@
       "region": "CN",
       "lang": "fr",
       "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "6f16fd70af8222ff",
+      "title": "The JALLC's Commander attends NATO Strategic Dialogue in Brussels",
+      "summary": "The JALLC's Commander attends NATO Strategic Dialogue in Brussels &nbsp;&nbsp; jallc.nato.int",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNDk1WG5uUktSVFBKRGxZMm1wTDVDOFJwOS1DYklScEhBQjhJak5yWVBKSjNHN0d2aWJycHBpcW5peEw5UnJXendBZThPaDFpUHh6UDFrWEF2bVdZd2s1ckVaUDdpM1hkcGtJUWdQdnV4X25EVW5oSGtmcUY5bFJmUnZuaGlUbjVFNG53bXpKN3hGQkF1RFlqVA?oc=5",
+      "date": "2026-01-29",
+      "source": "NATO",
+      "source_type": "io",
+      "region": "Global",
+      "lang": "en",
+      "theme": "security",
       "via_gnews": true
     },
     {
@@ -3068,19 +3107,6 @@
       "via_gnews": true
     },
     {
-      "id": "637e6de02ec25a17",
-      "title": "Livestream",
-      "summary": "Livestream &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KTE1ONGxlRnluNjBuUGhWc2FfSlJEY3JCRWoweDVic293bk5PeHliZXozdE5IbkdLTGRxX2d0QkkxUkI5aHdvaTJsRm1kX1JqT1phSkVtRThybzN6ZkdDTEJJUWJqVWc?oc=5",
-      "date": "2025-11-13",
-      "source": "NATO",
-      "source_type": "io",
-      "region": "Global",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": true
-    },
-    {
       "id": "603ef1456ad2b5f2",
       "title": "Speech by the Chancellor at the World Climate Leaders' Summit | Federal Government",
       "summary": "Speech by the Chancellor at the World Climate Leaders' Summit | Federal Government &nbsp;&nbsp; bundesregierung.de",
@@ -3367,19 +3393,6 @@
       "via_gnews": true
     },
     {
-      "id": "b81507ba283827a0",
-      "title": "Türkiye to host 2026 NATO Summit in Ankara",
-      "summary": "Türkiye to host 2026 NATO Summit in Ankara &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaFRRY1NmdE5wWVJHWF8ySEdxUlRoWnZpVUQ3Y09pQVhHY1dpTU1xdEhwckcxSUVOR2tDZllEbFJlUWdwVEZaQ01HbnBhWWp0cnRJRTZad0VGV3hIcjRXRmRyR2dEbU9tWnVMMnNxWHVYR05PSWh3ZGsyak56TTExSHhYbVVSdW1tSlhlbE1WWm9BRUw0QjNOSE1SeVZxajhKcU4zekdOX0l4YlU?oc=5",
-      "date": "2025-08-20",
-      "source": "NATO",
-      "source_type": "io",
-      "region": "Global",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": true
-    },
-    {
       "id": "ad17a486f166b23f",
       "title": "Working Paper 25-18: Breaking the deadlock: A single supervisor to unshackle Europe’s capital markets union",
       "summary": "Working Paper 25-18: Breaking the deadlock: A single supervisor to unshackle Europe’s capital markets union &nbsp;&nbsp; Peterson Institute for International Economics",
@@ -3562,19 +3575,6 @@
       "via_gnews": true
     },
     {
-      "id": "a75a7683a9ca4772",
-      "title": "Statement between NATO Secretary General and the four Indo-Pacific partners",
-      "summary": "Statement between NATO Secretary General and the four Indo-Pacific partners &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPX3ZxaVdXYkUyVHF2THRKRExZOElLY01EczJ4ZlZXb1VfeDZSeGxUNWprQU5Qal9YN2hOS1pJZlFFc0Q4VTU0dXpvZFVOQTBWUEtodERrV2dRZkZwWHZJdzBET210akRnWmRORnBUMEtJQUEtY1NiZXYzbXl6UWJLZmoxdzdzQVhUNkhDTzVaVWREcVNKR3UzODdnS3FucEkzQnZMYUxOYnpMWHpGaWZiZnBWOEZHT1Rtamd0TWhKbGJuaGY3Tjl3MUxBNU9WMGVqMzZFM2xFWVVFLUZrV1JleTRhOVBDc1lFbWE3cHJMMjh6dXplSXc?oc=5",
-      "date": "2025-06-25",
-      "source": "NATO",
-      "source_type": "io",
-      "region": "Global",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": true
-    },
-    {
       "id": "fd319cd2b3d8d5b1",
       "title": "Southeast Asian Social Cohesion Radar Report",
       "summary": "Southeast Asian Social Cohesion Radar Report &nbsp;&nbsp; S. Rajaratnam School of International Studies (RSIS)",
@@ -3603,7 +3603,7 @@
     {
       "id": "c31ad0c171064b2c",
       "title": "China and North Korea: evolving dynamics since the outbreak of the war in Ukraine",
-      "summary": "China and North Korea: evolving dynamics since the outbreak of the war in Ukraine &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
+      "summary": "China and North Korea: evolving dynamics since the outbreak of the war in Ukraine &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcHk3dXRSZmRVTHk0U0dUYXQzdnFNN2s2RVk0TVRLbVE3SVVXZW8yYTNvOUdzbGJLOGNvMUFNRXE0Q2ZiQk1fZUtGUHlqRzQtak90LTZUdVcwRk4xLTZVUmQwcS1uQWVPSW5wWTg1d2RYRzRIQmtpUVNTNjFiMXl2azNRSUw2a0NjMWNjUWxXOVNzMVhablVXRmFKT1lzRTZqMnppT0JYTTFuTFI3WEloTGdZYlp5MVQ2YU1LRkNBTGlIQ0RSM1BkVVR6TkRXUFI0VHU4YXZMV09yQQ?oc=5",
       "date": "2025-06-18",
       "source": "FRS — Recherche Stratégique (FR)",
@@ -3624,6 +3624,19 @@
       "region": "EU",
       "lang": "en",
       "theme": "security",
+      "via_gnews": true
+    },
+    {
+      "id": "94d94bd3411b72fe",
+      "title": "2025 Report: Economy and trade",
+      "summary": "2025 Report: Economy and trade &nbsp;&nbsp; Lowy Institute Poll",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yQ1E3QXltM2pZWlJ3VXlNLWViUVpiOW1NbjZxUjIwZWsteUlKa3ZuVDhNYWxmRWd2WnUyZGpvZ2lhN1VYQlR0WWJTMUpLb2Z5MzJuZFFIdEdUa1QzRERUZGVscExRdnlBZFpkMlVn?oc=5",
+      "date": "2025-06-16",
+      "source": "Lowy Institute (AU)",
+      "source_type": "tt",
+      "region": "AU",
+      "lang": "en",
+      "theme": "economy",
       "via_gnews": true
     },
     {
@@ -3744,32 +3757,6 @@
       "via_gnews": true
     },
     {
-      "id": "deb59b7784feb7ac",
-      "title": "NATO Secretary General visits United States in preparation for The Hague Summit",
-      "summary": "NATO Secretary General visits United States in preparation for The Hague Summit &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQTJzSGNJWWFHUU1nYkNYTmgxdnprcWlIVkMwLXh1Rmt1QWZhM3VPdGlKdkxRc1RnbHdVZDY5anEyLU05ekNKZXJhVHFXbnVxNnZPYy1XMDFRTWxtSEl6V3lDZmFfY2hGZkFlanZVbEkyZVVlSUZ6by1BY1VZdk0ydGs3NXlaZXd2OHBfNjgyMEpEbUtEMVB1dXZQVE1BSUtMMjNQcTM3SUY1TTRmUXdXVDZNeU1aSk8yQks0UmFyajN5SURlUHRvNkdzTTRvdXVQenRqZWVOVWhCQU8x?oc=5",
-      "date": "2025-04-25",
-      "source": "NATO",
-      "source_type": "io",
-      "region": "Global",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": true
-    },
-    {
-      "id": "c638031c79e1270d",
-      "title": "NATO Summit media advisory",
-      "summary": "NATO Summit media advisory &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUjdXWVdVbzR3RU5weXdLd1lLTGhMSl8ySFFtS29WTExGLThjVUNyXzJELWp3RFlHdlNIdnplTktXWWp6MU5TZGJoMDVDZkFLSHdpbHVyUDNBaUNMc3Z2RUtfLThHQi03MGlZNlZYLWtnUUQ2OVpPYVpkQWUyR0ppT3hOa3RNMVNSYURFNWoySl9MU3lCOEpTcTFIZTBjWmlTSjlN?oc=5",
-      "date": "2025-04-24",
-      "source": "NATO",
-      "source_type": "io",
-      "region": "Global",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": true
-    },
-    {
       "id": "8a4c7f7e13ba6045",
       "title": "RESEARCH REPORT",
       "summary": "RESEARCH REPORT &nbsp;&nbsp; pure.diis.dk",
@@ -3778,19 +3765,6 @@
       "source": "DIIS (DK)",
       "source_type": "tt",
       "region": "DK",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "20b72095b69f7ce1",
-      "title": "Consumer Vulnerability Strategy",
-      "summary": "Consumer Vulnerability Strategy &nbsp;&nbsp; Ofgem",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91V2l6cVgzeHJuazY3OGw4SDhTdjE1YXJ5d1NDc3FxeVJ1bFhsUXE3dEd3RWUtZUVBVFIzLWJJNWY2UllHN19hOWhMa0F5d3ZuOEJXdUtrZHg0VURBZ29STnpQeGkxdDRoSGFvVFd6VGM?oc=5",
-      "date": "2025-04-15",
-      "source": "UK gov.uk announcements",
-      "source_type": "gov",
-      "region": "UK",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -3835,22 +3809,9 @@
       "via_gnews": true
     },
     {
-      "id": "ab63eab0d3ad6ce0",
-      "title": "NATO launches 2025 NATO Youth Summit in Montenegro",
-      "summary": "NATO launches 2025 NATO Youth Summit in Montenegro &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMXktdHVmRGpfZ09CWW5CNjVvUFpOT1hXVTl5Unk1S2NmaHZKSFAzQWdPZWRpc0hlY0k4bTlkRTc4Ull6WDZRZTRvT1dPRndVSm14cTQyVVlBN244dzFOMmV2Wk5rQncxNHNzTU9meWYzYkpWTUYwVDlHdWRuX1B2S1dHbGo3Nmo0ZG1lbzhPMFdiMHhWdGdjQTViUVFSSFZiR1FYWXBWWHhWUmxLTHA5czQzRmdKdw?oc=5",
-      "date": "2025-03-10",
-      "source": "NATO",
-      "source_type": "io",
-      "region": "Global",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": true
-    },
-    {
       "id": "4cb2d7b198db5a12",
       "title": "One Europe, many policies: balancing EU relations with Taiwan and China",
-      "summary": "One Europe, many policies: balancing EU relations with Taiwan and China &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
+      "summary": "One Europe, many policies: balancing EU relations with Taiwan and China &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOenczbGN4R0JJcVNjSXhheERUVUhpSk4zcDFIclVJTlRmalNHT0ZJRFp5QlZmUVpidkFObFJzalNaY2pLa3VhcXBDTzZnMzQyVEJyWU5MbHRlRzV0ZXZWUWdSdkFoRFQ2a2hyQ2NHVjJIYS1ncEptc18wSm4waDNEaUxOZGpCSmtXdXBZSFdUTmhyWWdEX0hCODBQWjFma1p3REJjdlAyUHBYVFg2VHZNU3VJUUdUcDI5U05oQW5wdlllUnUyRmM3TG9tT2k4MUVqNktRd3drTUhUby1OcDNIMw?oc=5",
       "date": "2025-02-25",
       "source": "FRS — Recherche Stratégique (FR)",
@@ -3869,19 +3830,6 @@
       "source": "RSIS Singapore",
       "source_type": "tt",
       "region": "Asia",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": true
-    },
-    {
-      "id": "10b92e3f9999e3aa",
-      "title": "NATO Defence Ministers conclude meeting, focus on defence spending and support for Ukraine",
-      "summary": "NATO Defence Ministers conclude meeting, focus on defence spending and support for Ukraine &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZmx1eDB4RzEzTWd0NGxrRHpVb0x1MFB6c0J2WTUzT29GNUluRzBuOXJwMlhFNklVZmtNbjNxeHBnTFJyVHBsOEE1eWQ2TUE2SWVSdjlmNzlkQmZvQlV3ZXgxaUszLVBwYVdGY2s5YkZZQmhsZ3lEQnFVbV9RYUVkQkN0aEh5NUhQaEhHQmJaVEtwaGkxT09zS2dmOFpkM2dSNTZydmttS1FjS2hHUXhnXzljTXJOYWFNd3g5VVJBWFBBQXJ1bWtVdEJuQU5WTUVpY0tzRWlGT1YzNDBQblZsZE1IS2FPbmhPSlE?oc=5",
-      "date": "2025-02-13",
-      "source": "NATO",
-      "source_type": "io",
-      "region": "Global",
       "lang": "en",
       "theme": "security",
       "via_gnews": true
@@ -4134,19 +4082,6 @@
       "via_gnews": true
     },
     {
-      "id": "5e49e5f182c93228",
-      "title": "NATO Secretary General concludes landmark 75th Anniversary Washington Summit",
-      "summary": "NATO Secretary General concludes landmark 75th Anniversary Washington Summit &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUXJ2eVRMWVptZmV3T09EbGVGQzJHVUdsTUp1VGVKa0xTWExlSzV0S1ZobVNMX2Mxb0l2Qk9pWHRTbmYzM3VEajV0Yl9jQ2tpZkYyVE85TWFWcnpURVdxVUlBLWw1Sk5SdE9FaWlLTW1KVjRSU0ZPSDdZM3dvcENjZ1FsMGphM0xydE1TTnhlTDFiMUlXa3BhcEstR0Z0Umg3alpQdF96ajdzby1EVk5JYjJzYkJYVXBaMy1kM3lsS0pTWWE5dE5mUWpKcEg1TXBub2RvejlvUlI?oc=5",
-      "date": "2024-07-11",
-      "source": "NATO",
-      "source_type": "io",
-      "region": "Global",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": true
-    },
-    {
       "id": "63c7628e6c878563",
       "title": "Strategic Survey 2016 The Annual Review of World Affairs",
       "summary": "Strategic Survey 2016 The Annual Review of World Affairs &nbsp;&nbsp; The International Institute for Strategic Studies",
@@ -4357,7 +4292,7 @@
     {
       "id": "bc727eecfbe5b21e",
       "title": "The Meloni government’s “Mattei plan”: towards an African policy for Italy?",
-      "summary": "The Meloni government’s “Mattei plan”: towards an African policy for Italy? &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
+      "summary": "The Meloni government’s “Mattei plan”: towards an African policy for Italy? &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa0VxM3Z4ZzBub2lZUC1vOHY3aHlUbzYzLWNNUGpENDVMRmpaQkFZUkVza2RjLXlzZVpNVlVhOHY5cnNZXy1KalIzMlhpckVDM0RSZEhVYnhrcndvcGx6Nm92UVBCcTRsdlBfSm5MYlZETUlpMzFPRTFGRHVSa3lYSW9PSTNIcFRyb1pBQlQ4NF96WVJiTUZQWXdoTHhfMG12NEg0YjFPSy1INjFKcXBQQVNJbV9EUQ?oc=5",
       "date": "2024-04-05",
       "source": "FRS — Recherche Stratégique (FR)",
@@ -4409,7 +4344,7 @@
     {
       "id": "a4e6dff3fdab08a1",
       "title": "“Nuclear spring is coming”: examining French nuclear deterrence in response to Russia’s actions in Ukraine",
-      "summary": "“Nuclear spring is coming”: examining French nuclear deterrence in response to Russia’s actions in Ukraine &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
+      "summary": "“Nuclear spring is coming”: examining French nuclear deterrence in response to Russia’s actions in Ukraine &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSmgwZU9WVmw5ZG13UjV0MmpFcUJDcFlGbjRSeDNELWhPTnRTNG8zdWc0cC1xYWkwNXVfQjlBUERMUTIyckZuaS1YODdZWWtJUUV1YXh5X19JczdfVUdrNzF1Rnp2RXBwNlExWEh5MWgwNW9LS0l0d0tKU2lMWjY2TjlaTWVHbnpoSVIxVWhPanZtdC1oZWNOaTVKOHV6b0ZxbEtfUVlIRDV0REU2aG14dTYtX2lKRzZTYy1zX1prcE9sOHhoMXNBZUJrNUlqOXU4SjdoRFZaVDgzd0pTQ2Jv?oc=5",
       "date": "2024-03-11",
       "source": "FRS — Recherche Stratégique (FR)",
@@ -4422,7 +4357,7 @@
     {
       "id": "fd0fdc4bb3dc6a7d",
       "title": "Navigating Taiwan’s maritime future: a conversation with the Minister of the Ocean Affairs Council",
-      "summary": "Navigating Taiwan’s maritime future: a conversation with the Minister of the Ocean Affairs Council &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
+      "summary": "Navigating Taiwan’s maritime future: a conversation with the Minister of the Ocean Affairs Council &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYUwyTTBjdVVWVGR6YXNuTk5PLVc5UW1XRmhEdl8yNEE0OFRDcmlodjE5Rl9DT0pjVWhKSDltMGtyVUtWemlVYW9DUlpaZnBVN1B6TDVKWl9lNG4xdkZTaDBGRXh0d2NEaEVMVzV4UU9PRVV0ZWJpZWlfbHVodWxlZWZzZ2ROLUM4NGIwSTV5aGVnY2p4Qi10U1ZkbEcyUzJwR2RhQjZGbmt3VnZUZFdGUHRjdmZoQVFkMEJMek95Q01DY29pRXNZZE9XMGtZX3ZvN0VGVkpiLTNoTnBsYnlQVTlVMkNpMWdRbGNpemhENkZqaGlz?oc=5",
       "date": "2024-03-11",
       "source": "FRS — Recherche Stratégique (FR)",
@@ -4539,7 +4474,7 @@
     {
       "id": "add139fe97a6d6a4",
       "title": "Fact sheet No.5: Security and police cooperation Fighting crime and strengthening maritime safety in the Indo-Pacific",
-      "summary": "Fact sheet No.5: Security and police cooperation Fighting crime and strengthening maritime safety in the Indo-Pacific &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
+      "summary": "Fact sheet No.5: Security and police cooperation Fighting crime and strengthening maritime safety in the Indo-Pacific &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdklNLWs4QXI2STJiSllsbXVZQzdaclFYMlRiMnB6Wkk2cDRZbmRUbDJHTXR5Tzg0dlNvcG5BQk4td0o5TzBicUNxV3JGcWE2VFpVTUZ4TmNHdm5JSUZyVUdreTllX0psLXBsX01odVZ1MWpsLUxDTHpsY2t4aDhYQnViVlJfSUhKS1RYTDVxWjBaM3ZXUkJUbFNJbl8?oc=5",
       "date": "2023-12-18",
       "source": "FRS — Recherche Stratégique (FR)",
@@ -4682,7 +4617,7 @@
     {
       "id": "c291f75efcf13cee",
       "title": "The European Union between strategic autonomy and technological sovereignty: impasses and opportunities",
-      "summary": "The European Union between strategic autonomy and technological sovereignty: impasses and opportunities &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
+      "summary": "The European Union between strategic autonomy and technological sovereignty: impasses and opportunities &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeUVyREVQQmJTZjdCR3JDVHFFVTFwWDg2RGNLbm5IYW9tekpaQ3RnRG1GN01YWjMzTHBjM3RCQmN5RHJYbnNNTHRON3FrZzdya3Zrd0tCdDNNbmNsc0ZOREQtRTlYdUtXa21qZFR0WWxPeHdfdWxzNHB6T1M0ZEs4R1BWRXgzaHRaT1NGNzZUWXhUd3JwUUdSUjE4NTF4N3UyLVVSbFpRdDd2Zw?oc=5",
       "date": "2023-09-16",
       "source": "FRS — Recherche Stratégique (FR)",
@@ -4864,26 +4799,13 @@
     {
       "id": "613afa16f544f25b",
       "title": "Note n°15/23",
-      "summary": "Note n°15/23 &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
+      "summary": "Note n°15/23 &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMmJoWTBuT1I2VnJ2akpmcXdRRjRmNFVSaHVKYVZFc2pMdUtGWjhhZW1KckI3RHFubmhoTEtNV3Z1RlZRYlVKdGFBelRBdXpCNFp4ZXQ5Z0MtdDNyQ1h3cU5BU2E1YWdmcUZzUlNfVk0yWDRRNlFCRFE1elVkQWZkdmR2RGZaTVJ6TXdTYk1rSV9iUQ?oc=5",
       "date": "2023-06-30",
       "source": "FRS — Recherche Stratégique (FR)",
       "source_type": "tt",
       "region": "FR",
       "lang": "fr",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "ebfc82c9cb33d665",
-      "title": "2023 Report: Methodology",
-      "summary": "2023 Report: Methodology &nbsp;&nbsp; Lowy Institute Poll",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zY0p3Zi05ZTE5dEtXNDhkV2lLV2NoTWxSdDVXU0ZQazNpZnBhQWZIVnM0SjMtRFVkMEg2ck5EQWhlZ042RHZxRW15UThiVmVNQ1NZWGMzYm0zLTRnSHplQ3ZYQ2JyZw?oc=5",
-      "date": "2023-06-21",
-      "source": "Lowy Institute (AU)",
-      "source_type": "tt",
-      "region": "AU",
-      "lang": "en",
       "theme": null,
       "via_gnews": true
     },
@@ -4981,7 +4903,7 @@
     {
       "id": "849232d771b1865e",
       "title": "French Network for Indo-Pacific Policy Research | Programs / EU | Foundation for Strategic Research",
-      "summary": "French Network for Indo-Pacific Policy Research | Programs / EU | Foundation for Strategic Research &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
+      "summary": "French Network for Indo-Pacific Policy Research | Programs / EU | Foundation for Strategic Research &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSzN5cTJDVFE2dEJsOFA5cVlvUW5lZTNVang3QzdGT0k0emlWNldoNFNzenVJa2JxRE1UWFFQYTV0U3h2MDRoWUNmMUFmcnhUVkluUmRTWGRYeE5rLTY4ak56a2dVdjVOY2lBM2c0ZjdEblQyVlozX3dHNlNIYXg2aDNDT2trNXQzVGdsY3N3aXo4MzFK?oc=5",
       "date": "2023-05-12",
       "source": "FRS — Recherche Stratégique (FR)",
@@ -5371,7 +5293,7 @@
     {
       "id": "6fa56819b4235d0a",
       "title": "EUROPEAN DEFENCE FUND (EDF)",
-      "summary": "EUROPEAN DEFENCE FUND (EDF) &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
+      "summary": "EUROPEAN DEFENCE FUND (EDF) &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSTduSTFuekw5cnljY3ZTclRNTThBT0FKaUp0S1JXYzRxbndMSF9ERXVRdlFVVnBUQkJoelp4SU4yYXp5Y3NpYkJKTkFJX1pJRUk1V2xSU2hDaXJBdDN5a2ZKN0dUelhjTHlocm1PdGhibWQ3VnZoTW9YbkhkeUNxNjh1YTNrYUFJTC1BVw?oc=5",
       "date": "2022-10-03",
       "source": "FRS — Recherche Stratégique (FR)",
@@ -5397,7 +5319,7 @@
     {
       "id": "726db979b07f7cd3",
       "title": "NATO’s New Strategic Concept",
-      "summary": "NATO’s New Strategic Concept &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
+      "summary": "NATO’s New Strategic Concept &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa1ZjaWczOV8yRG94VHgtM3paQk1ZVjIwQXpyZVlaYnZvWkdpZ2VVenF5TV9XSGFjY0ZYZjc5TzZ3bVJ4UHhOclMtS1pxRTBXUS12dDB5M2dHMjM4UHl1UHREdlZ5OVprMzdKMmVKZ0haSmRFanprN0VienUtQUNkdGNZcnNUdXB3WmFPeENTS1N3UXF5bThoV0lybkM?oc=5",
       "date": "2022-09-25",
       "source": "FRS — Recherche Stratégique (FR)",
@@ -5444,6 +5366,19 @@
       "region": "US",
       "lang": "en",
       "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "c6250cf6c9fdb625",
+      "title": "NATO’s New Strategic Concept",
+      "summary": "NATO’s New Strategic Concept &nbsp;&nbsp; NATO Defense College",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxYzl5b25rbnZZUzFNbWtKVjVBeUdMN2VSWDltX3pVX0tZYnFmUUxUMzdkWG15Smo0Ykpyek5MdGc5R3Q1TEk5SHAzSEpid2lwVE5aU0xsOW5sSXpOS1VJOXVjOA?oc=5",
+      "date": "2022-09-14",
+      "source": "NATO",
+      "source_type": "io",
+      "region": "Global",
+      "lang": "en",
+      "theme": "security",
       "via_gnews": true
     },
     {
@@ -5657,7 +5592,7 @@
     {
       "id": "3908d51486fc5ddb",
       "title": "Two months on in the Ukraine war: what role for the kadyrovtsy? | Note de la FRS | Foundation for Strategic Research",
-      "summary": "Two months on in the Ukraine war: what role for the kadyrovtsy? | Note de la FRS | Foundation for Strategic Research &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
+      "summary": "Two months on in the Ukraine war: what role for the kadyrovtsy? | Note de la FRS | Foundation for Strategic Research &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQajJLUnB2eXBISjVTTnU2akdzZjY4empDUUl5cG9PTmFmUFQwRVFJTm5VQ1F5LUJIeG52bVpZbFVrY3c4TzZqYzFRUFl4cl9uSEo2RmRwZW00eVlJMXVFTk1OYVhmOHhqMlpiTEVnYzZiZHlwa3Ezcll2WDVpRWJtekZNei1HWWJDb0ZkTWNwT3M0OUx5b2kzTTVLbEJxd0k?oc=5",
       "date": "2022-05-17",
       "source": "FRS — Recherche Stratégique (FR)",
@@ -5748,7 +5683,7 @@
     {
       "id": "1cd915bfc8c648a0",
       "title": "Programme biologique militaire en Ukraine, histoire d’une désinformation russe",
-      "summary": "Programme biologique militaire en Ukraine, histoire d’une désinformation russe &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
+      "summary": "Programme biologique militaire en Ukraine, histoire d’une désinformation russe &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX0daUWtscXhPQlBkUEh2VXVqcnJuS0NfeklpVFVreHJSdUhkbGQ0VXQ5UERhYmJ6YVlkeUREYnN3VHJiUzU3aFVzbXBCdUdxNldmeFd3M0ZTUFZaSTd4MkwyWU9LV25RM3Y0Qkd1SGxhd3VUY0JPT2NMNVlvalBtWVNhM2tRZFFQSk9PSGJhSnhkcFdUUEdrRzNjYnR3RmZWdk5XbnYweVE1eEVsellBQlJFalQ5S1VXdzl1UmdoUzJOZw?oc=5",
       "date": "2022-03-17",
       "source": "FRS — Recherche Stratégique (FR)",
@@ -5837,19 +5772,6 @@
       "via_gnews": true
     },
     {
-      "id": "470995fd254acee5",
-      "title": "Les enjeux du 6e Sommet Union africaine - Union européenne avec Maud Arnould (Vidéo)",
-      "summary": "Les enjeux du 6e Sommet Union africaine - Union européenne avec Maud Arnould (Vidéo) afrique@ifri.org mer 16/02/2022 - 11:40 16/02/2022 Type d'interventions médiatiques Vidéo Accroche Interview de Maud Arnould, Conseillère Afrique du Haut Représentant de l'Union Européenne pour les affaires étrangères. Référence contenu Centres et Programmes Centre Afrique subsaharienne Contenu intervention médiatique \"L'enjeu, c'est vraiment d'essayer de faire de l'Europe le partenaire de choix des pays africains.\" A l'occasion de la rencontre entre les 27 dirigeants de l'Union Européenne et les 55 chefs des ",
-      "link": "https://www.ifri.org/fr/video/les-enjeux-du-6e-sommet-union-africaine-union-europeenne-avec-maud-arnould-video",
-      "date": "2022-02-16",
-      "source": "IFRI (FR)",
-      "source_type": "tt",
-      "region": "FR",
-      "lang": "fr",
-      "theme": "diplomacy",
-      "via_gnews": false
-    },
-    {
       "id": "8cd470d9afeb41ac",
       "title": "GLOBSEC report: the risk of shell corporations",
       "summary": "GLOBSEC report: the risk of shell corporations &nbsp;&nbsp; GLOBSEC",
@@ -5904,7 +5826,7 @@
     {
       "id": "732cfa5ea645e412",
       "title": "NATO looking East: the case of China | NATO Briefs Series | Foundation for Strategic Research",
-      "summary": "NATO looking East: the case of China | NATO Briefs Series | Foundation for Strategic Research &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
+      "summary": "NATO looking East: the case of China | NATO Briefs Series | Foundation for Strategic Research &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTFhDODJBYlBKR0E2UDBjQmRiWkhwNjNGSDM0NXg5eDZRVzBncVRWcHB3T1NUaUhpbEJ4RHRicWxKMERDa3BjRTU4ZXlkazJ0ZVBLMHJyNmFmT205N1hTSk42SDhXenowckxpWW50UDlMUUZxTm96MENRMnJiYloyMU8talVfUS03MzVLSnZDVmdCb1lxVmJTbDlKSGs?oc=5",
       "date": "2022-01-05",
       "source": "FRS — Recherche Stratégique (FR)",
@@ -6099,7 +6021,7 @@
     {
       "id": "ffa5388209120c83",
       "title": "The European Union between strategic autonomy and technological sovereignty: impasses and opportunities",
-      "summary": "The European Union between strategic autonomy and technological sovereignty: impasses and opportunities &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
+      "summary": "The European Union between strategic autonomy and technological sovereignty: impasses and opportunities &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZlFCem1BR1Q0d3FMX1VvR0NWT0VKN2dyYlY4RUlfWkVNZ0UzYVA5WEphZ0kwbFBuZ3ZOTkhRZURhcVdPR1NhdnZrVllKZ18wNjB3WHhlRG93ZGtxbVZjNkZvOGVOOUgteDI0bXpFMDU5M1lrLWVZMDlpOEV1Wmc5bS1ZWENVN1pzQVpVNnhYNk83NWMyNFdaSHkyWDRGV1g1azJxY2FRUzR4dkgwbzR4X2ZGNk1IRWk2Wl9rQmFSaXJVN1lwWlBxRWNxb1I0bG9yT0Z3ZzIySHVwZF9mTE4ydkNXeTNxdzNuQURVNHVDVjNIYjNGNm5POC1jWWVxNFV4?oc=5",
       "date": "2021-04-16",
       "source": "FRS — Recherche Stratégique (FR)",
@@ -6255,7 +6177,7 @@
     {
       "id": "a89187ad63e855ee",
       "title": "The Turkey-UAE race to the bottom in Libya: a prelude to escalation",
-      "summary": "The Turkey-UAE race to the bottom in Libya: a prelude to escalation &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
+      "summary": "The Turkey-UAE race to the bottom in Libya: a prelude to escalation &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkxMaFFjOUdoNnNvdVFtRHcxTml5bExqSjRqcEg4UmFrOWdfaHFEZXlINmJOSWp2UF8yVmxwRGEyckZBREVobG1vdGM3SG4tV1NPck4zMlZuV0NEa0drVlQ0MzFmUDFZOUdSZjgtUkVrRTdpSW9qdmlub1FlRXhzbDJuNmstc3VZa1hyRzNtNS1QeFRvZGVlM002TGZHSDNNdFdiWHl4T045RjVDZkNR?oc=5",
       "date": "2020-07-15",
       "source": "FRS — Recherche Stratégique (FR)",
@@ -6333,7 +6255,7 @@
     {
       "id": "63c163912236837e",
       "title": "French Nuclear Deterrence Policy, Forces, And Future: A Handbook",
-      "summary": "French Nuclear Deterrence Policy, Forces, And Future: A Handbook &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
+      "summary": "French Nuclear Deterrence Policy, Forces, And Future: A Handbook &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOFRDc01PRGhHakVrT3VHTjZLbVg1TjNxaDNaSndnMU1BdVdxOV9wVVQxUERDbkhhdjM0cS1kaUxqWnhOLW5lTVR1QXNnTk9jc3NFbUdnTUlGX1NVUEZMdnF5M2tHak5jSDFUUVRNMUk3cDlWVl9LWlN0OFNLdDB6cW9BZWVGMGphOXBWT1VzUHBCUlFZZGlYUVU1Xzc0QzRVNjFLTzJueEZWb0p6aXUyMnI0VHBlcnViczhDNnlUc2lHWThfYU1VQ2o3ZWg?oc=5",
       "date": "2020-03-25",
       "source": "FRS — Recherche Stratégique (FR)",
@@ -6424,7 +6346,7 @@
     {
       "id": "2616ce6cc7c8ff2d",
       "title": "François Heisbourg | Research Team | Foundation for Strategic Research",
-      "summary": "François Heisbourg | Research Team | Foundation for Strategic Research &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
+      "summary": "François Heisbourg | Research Team | Foundation for Strategic Research &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OTl8wNGhkaWRHbnZaei1uTnAwU25EWVN5OVJ3N3hNU3I3Xy1MVXc4QUttYktjYTNNbXhWZHVfVjlkem9BbHVKdmRNZVpab0FJa0FhYTVCMG9yajVaY2luVkkzYjhHMmdmWjVvbFNCRHhZdw?oc=5",
       "date": "2019-09-28",
       "source": "FRS — Recherche Stratégique (FR)",
@@ -6476,7 +6398,7 @@
     {
       "id": "aef9285988bfffb4",
       "title": "A future endo-atmospheric interceptor: what threats and what technologies",
-      "summary": "A future endo-atmospheric interceptor: what threats and what technologies &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
+      "summary": "A future endo-atmospheric interceptor: what threats and what technologies &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMWwxQ19kbTRyWFh5clFPZUZlVkNOYzFLeEpkMk0tbDBELUJhdUYyN1BtX1RnVmJzRW8wb1lsQjBPSERFOEl3WkNlTHVsWkc0U3ROTDlFbnNQY1U2aVB4NzYtdWJBOHBFUjdVWlp5Q2s0ZTRuVWhfUVJqVFc3Vnk3WDhkLU12bVk0ZzUwWXVMS0ZucGFWRU11Z29ERFJSdWhxaW1ycVZESUIxanVsaHZ1QmxqTzhoLW1mUGxkbmRtSDR6QWc?oc=5",
       "date": "2019-05-20",
       "source": "FRS — Recherche Stratégique (FR)",
@@ -6528,7 +6450,7 @@
     {
       "id": "40617499d969e466",
       "title": "Update on trade relations between UAE/Iran and Qatar/Iran",
-      "summary": "Update on trade relations between UAE/Iran and Qatar/Iran &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
+      "summary": "Update on trade relations between UAE/Iran and Qatar/Iran &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWGJzNG5HOUd6SUlJRFR2dUtJOER0TVZoMk9Rd3NHNzNoYmJGdUN6RmxtdkF1c2ctcnY2M1Q1bXQ2VEI0THFUU1JzcFNMUEVIMS0xOTlKcDNranFpUzdIcnk3LTFkNFdCN0JxS2o5UDRPRG9mY1B0TjYzaWg3MDRpMW13RllZekhkRWZQb0hfNm93eFJielNWRUpfSkZzMG9jMjM3VTBCREpRbE82Q0lKbV92WWpFczE1dFloaVVRTUcwQjJuTkZ0cVlfb3hMSTBlQW9ZbkZJX194cHZDelk0?oc=5",
       "date": "2019-03-25",
       "source": "FRS — Recherche Stratégique (FR)",
@@ -6541,7 +6463,7 @@
     {
       "id": "c128c25ce1f778d2",
       "title": "mars 2019",
-      "summary": "mars 2019 &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
+      "summary": "mars 2019 &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWGxtbGFLVF9QanFjRU9YVXhYbXZxMHFLYzh1UkFSVWhtbXdfNEE5UTZqd2Fkai1XWTRKRDFmelM4dm9jMjlqcTYtbWlBOXNmVVlpcFM1MWstUkVxdWltMUhCTmRYUzZQZjVMdERLWS01OWxJdFlLdmg5YXFxZVVYbTVZMHRlckgyWmpxaUVJVDlCRTlhQzRZZHZXS0xucVpaSktGQVJfa3ZYZXNGVE45RkVlMlplM3RtUFdqd2FzR3BnQTQ?oc=5",
       "date": "2019-03-12",
       "source": "FRS — Recherche Stratégique (FR)",
@@ -6632,7 +6554,7 @@
     {
       "id": "90408b193896b511",
       "title": "China and European electricity networks: strategy and issues | Note de la FRS | Foundation for Strategic Research",
-      "summary": "China and European electricity networks: strategy and issues | Note de la FRS | Foundation for Strategic Research &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
+      "summary": "China and European electricity networks: strategy and issues | Note de la FRS | Foundation for Strategic Research &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTDhQcW1xTGk0VTRJeXRoVlR1WlRYbFgycmt0ancxaHZTQmlvTEJLTl9lYzVvWDJ2dFdKVk9Mc0ZTcmo1cEdiSHRKMUQwVUxINzhMUnFHcWE2cG5majRoUmRqU0l6d0ozUVhfcWZPSmZyZUx1S3F5STNTaWNibWU1ZVYzM2MyOWk5TG5qTnJldldCQlE4dGxVUkpkMzB4b0ZtZVFtdG5pd0FGUQ?oc=5",
       "date": "2018-09-11",
       "source": "FRS — Recherche Stratégique (FR)",
@@ -6658,7 +6580,7 @@
     {
       "id": "c1cd2f0f75ccfad8",
       "title": "Kazakhstan’s nuclear policy: an efficient niche diplomacy? | Note de la FRS | Foundation for Strategic Research",
-      "summary": "Kazakhstan’s nuclear policy: an efficient niche diplomacy? | Note de la FRS | Foundation for Strategic Research &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
+      "summary": "Kazakhstan’s nuclear policy: an efficient niche diplomacy? | Note de la FRS | Foundation for Strategic Research &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVlZncmpiSzE5UGR5OG15eXozV2wxYTZVeHRtXzliYlMwYlR4bGl1RFJlbjB6VWsxcl9VMHRUa19ZSUlfWVpDdXJaUnZHVjFkVThieTJjUE9VZHVRdG5KVHJBajNLTkdZRzJJWFBPZTF2ZlNfQVJFYVJkZm1CWnhkN0kySmtWQ3hZeUw0eGwzM3JNNHVKTnJMM1NVZWdsbDBZTFZqdEhjUUM0Qmc?oc=5",
       "date": "2018-07-01",
       "source": "FRS — Recherche Stratégique (FR)",
@@ -6801,7 +6723,7 @@
     {
       "id": "ef0c21d25b22d790",
       "title": "Valérie Niquet | Research Team | Foundation for Strategic Research",
-      "summary": "Valérie Niquet | Research Team | Foundation for Strategic Research &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
+      "summary": "Valérie Niquet | Research Team | Foundation for Strategic Research &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zSWY3bmhmNl9VYldlM0JaZlZlX25ESWNiWnBqSXBhTHhNR092T0FvcVJIc1BRMTViTnJWODBIZndzUGw0WXk2UU85Tmt1dXM5VnRHMk9vMElwUFRvR3hoVWw4Rm92ZE5EMXJyNHRB?oc=5",
       "date": "2017-08-03",
       "source": "FRS — Recherche Stratégique (FR)",
@@ -6814,7 +6736,7 @@
     {
       "id": "d646e7ef420025d0",
       "title": "Foundation for Strategic Research",
-      "summary": "Foundation for Strategic Research &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
+      "summary": "Foundation for Strategic Research &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5jN3h1aFF6NXZkelkxa0Z0cWwyd2w4blNhWUhoa2pkVmNobU5LOThCWHNCTTM3Z3hURnhUckY5SEF4cXhOWkE?oc=5",
       "date": "2017-08-03",
       "source": "FRS — Recherche Stratégique (FR)",
@@ -6827,7 +6749,7 @@
     {
       "id": "816a8606a94a49e2",
       "title": "Bruno Tertrais | Research Team | Foundation for Strategic Research",
-      "summary": "Bruno Tertrais | Research Team | Foundation for Strategic Research &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
+      "summary": "Bruno Tertrais | Research Team | Foundation for Strategic Research &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkYUoyLVBpQThScUt5ZWlMNmpuMW96MGdmeVJ5QlgtWDJYdHdIazlYU3RiRktZWVh4RWpseHpFX2VFM21CYXNmWGE3REdIT2E5TWlZcTNCczhyN0FfNWxVUUJUREo4am9oNjItMVNn?oc=5",
       "date": "2017-08-03",
       "source": "FRS — Recherche Stratégique (FR)",
@@ -7303,19 +7225,6 @@
       "region": "US",
       "lang": "en",
       "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "01ae347bf722d195",
-      "title": "Prague Summit Declaration",
-      "summary": "Prague Summit Declaration &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa0pwbGxKeUItRXFHUlpZc3ktRVlsZlV0TGVhLTVEZ09JNldWUlRHcE1EVmJpTHkzVmVLdzZyeDBWME4teFU4cW4taUxCOTNXMFpkNzJORHNMV1gwOGsxZHdTdnN6WlRrZGZzakRlWEx3OU1hQlM0cjNNY3oxdGxSUHh2TWFDazA1bzlEQTFreXpENnp5SkZJRjFNQlJMZnRCN0dwVmk4SnlJekFkbU9nYWNsYw?oc=5",
-      "date": "2002-11-21",
-      "source": "NATO",
-      "source_type": "io",
-      "region": "Global",
-      "lang": "en",
-      "theme": "security",
       "via_gnews": true
     },
     {

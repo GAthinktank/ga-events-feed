@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-08T19:19:18.080367+00:00",
-    "duration_seconds": 87.334777,
+    "generated_at": "2026-07-08T22:03:24.103914+00:00",
+    "duration_seconds": 113.248856,
     "stats": {
       "ok": 85,
       "fail": 14,
-      "items_total": 2327,
-      "items_strict": 564,
-      "events_detected": 3
+      "items_total": 2303,
+      "items_strict": 557,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -74,23 +74,6 @@
       "featured": false,
       "confirmed": true,
       "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "7c9c2d26ed868a0f-evt",
-      "title": "Press briefing - Eurogroup meeting of 9 July 2026",
-      "date": "2026-07-09",
-      "end_date": "2026-07-09",
-      "location": "",
-      "organizer": "European Council",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONkJqSjBic0t2M3Jna1c2RmZwQV9vMHY4UDdiSlAtRUVnT2JuU3hEd1B4QWwxUFp2UmdIMFNRRTJRU1o4d1k5ODNDLUZra2xyMHozWnpkamtBOVV3NTMtMGlxNVR0MFRWQklpeWZZU1FFZ19CVVNLbk1qNkhDRTQ1WWJ0dGh3bVFXOE52WllRZGVYUUl0VERjNnhUeUoxMFVLLVRYU1F5NTBSYWwxaDA5LVI5SkdoQQ?oc=5",
-      "summary": "Press briefing - Eurogroup meeting of 9 July 2026 &nbsp;&nbsp; consilium.europa.eu",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Council",
       "kind": "diplomatic-event",
       "lang": "en"
     },
