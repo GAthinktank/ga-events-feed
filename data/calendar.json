@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-08T08:21:26.460552+00:00",
-    "duration_seconds": 90.079387,
+    "generated_at": "2026-07-08T11:01:31.815633+00:00",
+    "duration_seconds": 91.510542,
     "stats": {
-      "ok": 85,
-      "fail": 14,
-      "items_total": 2327,
-      "items_strict": 560,
-      "events_detected": 2
+      "ok": 86,
+      "fail": 13,
+      "items_total": 2296,
+      "items_strict": 551,
+      "events_detected": 3
     },
     "source_count": 99
   },
@@ -59,6 +59,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "52ba7dfbd68832e6-evt",
+      "title": "Commission decides to refer Greece to the Court of Justice over discriminatory employment conditions for teachers in public schools",
+      "date": "2026-07-08",
+      "end_date": "2026-07-08",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1517",
+      "summary": "European Commission Press release Brussels, 08 Jul 2026 Today, the European Commission decided to refer Greece to the Court of Justice of the European Union (CJEU) for failing to bring its national legislation fully in line with the Directive on fixed-term work (Council Directive 1999/70/EC), which ",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "7c9c2d26ed868a0f-evt",
