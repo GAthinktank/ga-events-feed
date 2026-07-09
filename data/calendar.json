@@ -1,12 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-07-09T11:55:04.763708+00:00",
-    "duration_seconds": 116.126497,
+    "generated_at": "2026-07-09T14:49:06.827744+00:00",
+    "duration_seconds": 94.200997,
     "stats": {
-      "ok": 84,
-      "fail": 15,
-      "items_total": 2277,
-      "items_strict": 545,
+      "ok": 85,
+      "fail": 14,
+      "items_total": 2324,
+      "items_strict": 562,
       "events_detected": 6
     },
     "source_count": 99
@@ -59,6 +59,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "6c805ecffb99b9fa-evt",
+      "title": "Speech by Commissioner Lahbib at the OECD Gender Equality Forum",
+      "date": "2026-07-09",
+      "end_date": "2026-07-09",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "technology",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1575",
+      "summary": "European Commission Speech Paris, 09 Jul 2026 Imagine being a 15-year-old girl. Someone copies a photo from your social media profile. They upload it to an AI app. Minutes later, explicit images of you are ...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "b259d401656590e0-evt",
@@ -121,23 +138,6 @@
       "region": "EU",
       "theme": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMWZ1ajFtQ0VxUXU3eURXQ3F5NzkxcTdPdHZneEdacTlTblZDdmdsZF9YUE5JTGp0aVVaT0NaREVaZDVNa25saG5tSUVHZi1mZ2NaRHg4SnBQUWV4cDUzdXR2NXpJVkJWQzVtRkptLWxaNzlqekZEaXBITkFYeVhHXzl2OTRzeHQ0VkRZWVdlNFFBbVVfcDlrUUIycG01NWtZaG1XbTE4M0o1Ujc2Y1U4bU9kWXB1LW5SbXhKcXAweFN4dFRZUXdYaUlxV3hsUkQxb0ZZdDFPZkdrdXAtNTAwbmJUODFHd0paUUZ6SThOQjZzd25SOUpYSnNZTlFaUQ?oc=5",
-      "summary": "Media advisory - Eurogroup meeting of 9 July and Economic and Financial Affairs Council of 10 July 2026 &nbsp;&nbsp; consilium.europa.eu",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Council",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "0a7a2ec816413d23-evt",
-      "title": "Media advisory - Eurogroup meeting of 9 July and Economic and Financial Affairs Council of 10 July 2026",
-      "date": "2026-07-10",
-      "end_date": "2026-07-10",
-      "location": "",
-      "organizer": "European Council",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQd0VyZzRkMzdyQkJLdC1GZ0U2VVhSYkVEb3loYzJZQnVncEhmNE5aa3pBZUVYQkRTdjJycGtrclFrdXVFZkNacFNWSEU4Y09peVFENmZKTXh3bGZtd0dQT1hCb1lRMV9KV3NydlhiVnhhWThkSmJRYnFhdFBPSG9tcEpURGtqd0lMNV94NmNXWHF0MEZySV9vS3VoU0pIazNwOFBnUTdKTnd4QU1Nc0J5R3lhdV83SWdNNHhSaDg3Z0I3akZPYlVkVG4td2dnY1Eya3JHbjFhRHdWenhILV83WkFqb2VBcjNEa1Y0MlRMWG1BVWF4bW55YVc1cWpjZw?oc=5",
       "summary": "Media advisory - Eurogroup meeting of 9 July and Economic and Financial Affairs Council of 10 July 2026 &nbsp;&nbsp; consilium.europa.eu",
       "featured": false,
       "confirmed": true,
