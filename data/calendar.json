@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-10T11:48:18.198500+00:00",
-    "duration_seconds": 108.006587,
+    "generated_at": "2026-07-10T14:12:53.016742+00:00",
+    "duration_seconds": 89.605649,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2280,
-      "items_strict": 568,
-      "events_detected": 2
+      "items_total": 2278,
+      "items_strict": 560,
+      "events_detected": 3
     },
     "source_count": 99
   },
@@ -59,6 +59,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "77db398e08d6b2fd-evt",
+      "title": "Remarks by Commissioner Dombrovskis at the ECOFIN press conference",
+      "date": "2026-07-10",
+      "end_date": "2026-07-10",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1587",
+      "summary": "European Commission Statement Brussels, 10 Jul 2026 Thank you, Simon. Good afternoon, everyone. Let me start by thanking Minister Harris for presenting the Irish Presidency's priorities at today's meeting. We wel...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "305e9724d634e6cb-evt",
