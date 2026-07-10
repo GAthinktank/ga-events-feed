@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-10T14:12:53.016742+00:00",
-    "duration_seconds": 89.605649,
+    "generated_at": "2026-07-10T16:53:24.956160+00:00",
+    "duration_seconds": 86.987331,
     "stats": {
-      "ok": 84,
-      "fail": 15,
-      "items_total": 2278,
-      "items_strict": 560,
-      "events_detected": 3
+      "ok": 85,
+      "fail": 14,
+      "items_total": 2287,
+      "items_strict": 564,
+      "events_detected": 4
     },
     "source_count": 99
   },
@@ -59,6 +59,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "b8389ea67d9cefcd-evt",
+      "title": "Speech by Commissioner Lahbib at the Health Emergency Preparedness and Response Authority (HERA) Implementation Dialogue",
+      "date": "2026-07-10",
+      "end_date": "2026-07-10",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1588",
+      "summary": "European Commission Speech Brussels, 10 Jul 2026 We are here because we all have something in common: we believe that health security is not the job of one institution or one sector. It is all our responsibili...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "77db398e08d6b2fd-evt",
