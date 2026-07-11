@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-10T21:58:16.923290+00:00",
-    "duration_seconds": 86.743412,
+    "generated_at": "2026-07-11T02:12:08.271134+00:00",
+    "duration_seconds": 109.988647,
     "stats": {
-      "ok": 85,
-      "fail": 14,
-      "items_total": 2286,
-      "items_strict": 563,
-      "events_detected": 4
+      "ok": 84,
+      "fail": 15,
+      "items_total": 2277,
+      "items_strict": 559,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -59,57 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "b8389ea67d9cefcd-evt",
-      "title": "Speech by Commissioner Lahbib at the Health Emergency Preparedness and Response Authority (HERA) Implementation Dialogue",
-      "date": "2026-07-10",
-      "end_date": "2026-07-10",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1588",
-      "summary": "European Commission Speech Brussels, 10 Jul 2026 We are here because we all have something in common: we believe that health security is not the job of one institution or one sector. It is all our responsibili...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "77db398e08d6b2fd-evt",
-      "title": "Remarks by Commissioner Dombrovskis at the ECOFIN press conference",
-      "date": "2026-07-10",
-      "end_date": "2026-07-10",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1587",
-      "summary": "European Commission Statement Brussels, 10 Jul 2026 Thank you, Simon. Good afternoon, everyone. Let me start by thanking Minister Harris for presenting the Irish Presidency's priorities at today's meeting. We wel...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "305e9724d634e6cb-evt",
-      "title": "Media advisory - Eurogroup meeting of 9 July and Economic and Financial Affairs Council of 10 July 2026",
-      "date": "2026-07-10",
-      "end_date": "2026-07-10",
-      "location": "",
-      "organizer": "European Council",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMWZ1ajFtQ0VxUXU3eURXQ3F5NzkxcTdPdHZneEdacTlTblZDdmdsZF9YUE5JTGp0aVVaT0NaREVaZDVNa25saG5tSUVHZi1mZ2NaRHg4SnBQUWV4cDUzdXR2NXpJVkJWQzVtRkptLWxaNzlqekZEaXBITkFYeVhHXzl2OTRzeHQ0VkRZWVdlNFFBbVVfcDlrUUIycG01NWtZaG1XbTE4M0o1Ujc2Y1U4bU9kWXB1LW5SbXhKcXAweFN4dFRZUXdYaUlxV3hsUkQxb0ZZdDFPZkdrdXAtNTAwbmJUODFHd0paUUZ6SThOQjZzd25SOUpYSnNZTlFaUQ?oc=5",
-      "summary": "Media advisory - Eurogroup meeting of 9 July and Economic and Financial Affairs Council of 10 July 2026 &nbsp;&nbsp; consilium.europa.eu",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Council",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "aspen-2026",
