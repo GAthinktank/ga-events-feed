@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-12T10:23:51.964135+00:00",
-    "duration_seconds": 79.079304,
+    "generated_at": "2026-07-12T13:11:17.081432+00:00",
+    "duration_seconds": 95.225293,
     "stats": {
-      "ok": 84,
-      "fail": 15,
-      "items_total": 2288,
-      "items_strict": 568,
-      "events_detected": 1
+      "ok": 86,
+      "fail": 13,
+      "items_total": 2336,
+      "items_strict": 574,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -604,6 +604,23 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "f255670d808833c6-evt",
+      "title": "Informal meeting of energy ministers, 28-29 September 2026",
+      "date": "2028-09-29",
+      "end_date": "2028-09-29",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiNjhQdnJXb0h6S3lTaWxyQThaYVdXdUt4Z09sdlRqeEtTWGxaVFI3R3RtbkgzckJFWER5R293MkFtck9sUFpCejBkcXJuVTJQNHZMQ0xleHFWV2RVNm5xa1Zhd2dJeDBLYnRNUnQ3UQ?oc=5",
+      "summary": "Informal meeting of energy ministers, 28-29 September 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
     }
   ]
 }
