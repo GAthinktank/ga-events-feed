@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-13T17:11:58.948630+00:00",
-    "duration_seconds": 114.974954,
+    "generated_at": "2026-07-13T19:19:57.482198+00:00",
+    "duration_seconds": 111.727557,
     "stats": {
-      "ok": 83,
-      "fail": 16,
-      "items_total": 2281,
-      "items_strict": 550,
-      "events_detected": 2
+      "ok": 85,
+      "fail": 14,
+      "items_total": 2325,
+      "items_strict": 572,
+      "events_detected": 5
     },
     "source_count": 99
   },
@@ -61,6 +61,23 @@
       "kind": "diplomatic-event"
     },
     {
+      "id": "78bcdf3f5df0b387-evt",
+      "title": "Commissioner's Roswall speech at High Level Political Forum 2026 Ministerial Opening",
+      "date": "2026-07-13",
+      "end_date": "2026-07-13",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1603",
+      "summary": "European Commission Speech New York, 13 Jul 2026 Excellencies, Distinguished Delegates, I am honoured to deliver this statement on behalf of the European Union and its Member States. Just over ten years ago, w...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
       "id": "a000167a09ee7942-evt",
       "title": "EU steps up international support for Palestinians with major initiative for Gaza's early recovery and stronger international coordination",
       "date": "2026-07-13",
@@ -74,6 +91,23 @@
       "featured": false,
       "confirmed": true,
       "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "2aca89432621a429-evt",
+      "title": "Agriculture and Fisheries Council, 13 July 2026",
+      "date": "2026-07-13",
+      "end_date": "2026-07-13",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MbmxfTjUwNDkzUDRhdTZOVXZUczY2VTB4VnRmTGZfSjc1anJUT2RYem5lMm1Ib3RhY2NjblF0Wm1SdC10alZPSDZQclpSWEpYM0pzX21wTFVIOUdONk9uQTBDVjB1NHdoSHNjcEU0LUlnUQ?oc=5",
+      "summary": "Agriculture and Fisheries Council, 13 July 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
       "kind": "diplomatic-event",
       "lang": "en"
     },
@@ -621,6 +655,23 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "088fc71ac3ef46e8-evt",
+      "title": "Takeaways from Ankara: Debriefing the 2026 NATO Summit with Representative Mike Turner (R-OH)",
+      "date": "2057-07-20",
+      "end_date": "2057-07-20",
+      "location": "",
+      "organizer": "Hudson Institute",
+      "region": "US",
+      "theme": "security",
+      "link": "https://www.hudson.org/events/takeaways-ankara-debriefing-2026-nato-summit-representative-mike-turner-r-oh",
+      "summary": "Takeaways from Ankara: Debriefing the 2026 NATO Summit with Representative Mike Turner (R-OH) nhuergo@hudson.org Fri, 07/10/2026 - 13:57 20 July 2026 In-Person Event Takeaways from Ankara: Debriefing the 2026 NATO Summit with Representative Mike Turner (R-OH) MONDAY 1:00 p.m. - 1:45 p.m. Event will ",
+      "featured": false,
+      "confirmed": true,
+      "source": "Hudson Institute",
+      "kind": "diplomatic-event",
+      "lang": "en"
     }
   ]
 }
