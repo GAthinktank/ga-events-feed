@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-14T16:11:41.742635+00:00",
-    "duration_seconds": 88.91564,
+    "generated_at": "2026-07-14T19:13:10.536761+00:00",
+    "duration_seconds": 85.93463,
     "stats": {
-      "ok": 86,
-      "fail": 13,
-      "items_total": 2296,
-      "items_strict": 550,
-      "events_detected": 5
+      "ok": 84,
+      "fail": 15,
+      "items_total": 2259,
+      "items_strict": 548,
+      "events_detected": 6
     },
     "source_count": 99
   },
@@ -59,6 +59,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "f1d0edbbf2af9079-evt",
+      "title": "Commissioner's Roswall speech at the United Nations High-Level Meeting on Critical Energy Transition Minerals, New York",
+      "date": "2026-07-14",
+      "end_date": "2026-07-14",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1620",
+      "summary": "European Commission Speech New York, 14 Jul 2026 Thank you, Madam Deputy Secretary-General, Excellencies, ladies and gentlemen. Let me begin by thanking the United Nations for convening this important meeting ...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "b26d769d3987745a-evt",
