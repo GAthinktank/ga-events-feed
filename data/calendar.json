@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-13T22:01:41.131999+00:00",
-    "duration_seconds": 588.636914,
+    "generated_at": "2026-07-14T02:03:43.677589+00:00",
+    "duration_seconds": 110.694518,
     "stats": {
-      "ok": 11,
-      "fail": 88,
-      "items_total": 153,
-      "items_strict": 53,
-      "events_detected": 2
+      "ok": 82,
+      "fail": 17,
+      "items_total": 2244,
+      "items_strict": 539,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -61,40 +61,6 @@
       "kind": "diplomatic-event"
     },
     {
-      "id": "78bcdf3f5df0b387-evt",
-      "title": "Commissioner's Roswall speech at High Level Political Forum 2026 Ministerial Opening",
-      "date": "2026-07-13",
-      "end_date": "2026-07-13",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1603",
-      "summary": "European Commission Speech New York, 13 Jul 2026 Excellencies, Distinguished Delegates, I am honoured to deliver this statement on behalf of the European Union and its Member States. Just over ten years ago, w...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "a000167a09ee7942-evt",
-      "title": "EU steps up international support for Palestinians with major initiative for Gaza's early recovery and stronger international coordination",
-      "date": "2026-07-13",
-      "end_date": "2026-07-13",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1567",
-      "summary": "European Commission Press release Brussels, 13 Jul 2026 Today, the European Commission is convening the second meeting of the Palestine Donor Group (PDG), co-chaired by Commissioner for the Mediterranean Dubravka Šuica and Palestinian Authority's (PA) Prime Minister Mohammad Mustafa. 65 delegations ",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
       "id": "aspen-2026",
       "title": "Aspen Security Forum 2026",
       "date": "2026-07-15",
@@ -125,6 +91,23 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "ddcbbd0e1fd22c4c-evt",
+      "title": "Nota informativa – Vertice NATO (Ankara, 7-8 luglio 2026)",
+      "date": "2026-08-07",
+      "end_date": "2026-08-07",
+      "location": "",
+      "organizer": "Italy — Esteri",
+      "region": "IT",
+      "theme": "security",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS1ZaajBxeXZYaEFjM3lsdlo3WktqdWQ2RWtvWjdZaDJuemswUHZudEJGOW5rN1l6R0xxMnFBTUc0d1FaSzBhdkYwazg4VmpuMjJvZzgtejlQRGxvRDNscGpmVzRCdmV0NGhpSXZwNGxUb0F5ZXB1blNIRV9zUHM2WTdmQkJTdWswcHZSYmU4S1JIY1Y3MjFtUHhDWTQySTBidmlrZWhKTzFFR19RbGYyZW5XbW5ya1ktangtMGZyQlhyeEU?oc=5",
+      "summary": "Nota informativa – Vertice NATO (Ankara, 7-8 luglio 2026) &nbsp;&nbsp; Ministero degli Affari Esteri e della Cooperazione Internazionale",
+      "featured": false,
+      "confirmed": true,
+      "source": "Italy — Esteri",
+      "kind": "diplomatic-event",
+      "lang": "it"
     },
     {
       "id": "unga-2026",
