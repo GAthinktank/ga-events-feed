@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-15T10:45:54.946064+00:00",
-    "duration_seconds": 83.591468,
+    "generated_at": "2026-07-15T13:27:39.360917+00:00",
+    "duration_seconds": 86.438499,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2288,
-      "items_strict": 554,
-      "events_detected": 1
+      "items_total": 2291,
+      "items_strict": 555,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -59,6 +59,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "85fab3e883ecd9e8-evt",
+      "title": "Belgium-India Strategic Dialogue (15 July 2026) – Joint Statement",
+      "date": "2026-07-15",
+      "end_date": "2026-07-15",
+      "location": "",
+      "organizer": "Belgium — Diplomatie",
+      "region": "BE",
+      "theme": "security",
+      "link": "http://diplomatie.belgium.be/nl/nieuws/belgium-india-strategic-dialogue-15-july-2026-joint-statement",
+      "summary": "Belgium-India Strategic Dialogue (15 July 2026) – Joint Statement lien.horemans Wed 15/07/2026 - 11:58 Type d'actualité Déclaration Pays Inde Sujets Joint statement Carte diplomatique Dernière mise à jour le 15 juillet 2026 Cette déclaration est disponible uniquement en anglais. In an ever-changing ",
+      "featured": false,
+      "confirmed": true,
+      "source": "Belgium — Diplomatie",
+      "kind": "diplomatic-event",
+      "lang": "fr"
     },
     {
       "id": "aspen-2026",
