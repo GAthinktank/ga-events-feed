@@ -1,12 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-07-16T10:56:08.991607+00:00",
-    "duration_seconds": 114.853668,
+    "generated_at": "2026-07-16T13:41:31.854868+00:00",
+    "duration_seconds": 85.758503,
     "stats": {
       "ok": 85,
       "fail": 14,
       "items_total": 2300,
-      "items_strict": 559,
+      "items_strict": 552,
       "events_detected": 3
     },
     "source_count": 99
@@ -52,6 +52,19 @@
       "via_gnews": false
     },
     {
+      "id": "bbc04ad53d14cc2a",
+      "title": "Hybrid threats in the OSCE region: UK statement to the OSCE",
+      "summary": "Ambassador Holland updates on the National Security (State Threats) Act 2026 and the recent UK and EU joint cyber sanctions package.",
+      "link": "https://www.gov.uk/government/speeches/hybrid-threats-in-the-osce-region-uk-statement-to-the-osce",
+      "date": "2026-07-16",
+      "source": "UK FCDO",
+      "source_type": "gov",
+      "region": "UK",
+      "lang": "en",
+      "theme": "diplomacy",
+      "via_gnews": false
+    },
+    {
       "id": "7a49cd845cc7e12e",
       "title": "First Nations International Engagement Strategy",
       "summary": "First Nations International Engagement Strategy &nbsp;&nbsp; Australian Government Department of Foreign Affairs and Trade",
@@ -86,19 +99,6 @@
       "source": "UK FCDO",
       "source_type": "gov",
       "region": "UK",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": false
-    },
-    {
-      "id": "afed124e2ea35096",
-      "title": "“We in Europe believe that parents bring up our kids, and not predatory algorithms”, says President von der Leyen.",
-      "summary": "European Commission News Brussels, 16 Jul 2026 President of the Commission Ursula von der Leyen earlier this week received the report of the Special Panel on Child Safety Online alongside the panel's co-c...",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_1630",
-      "date": "2026-07-15",
-      "source": "European Commission — Press",
-      "source_type": "gov",
-      "region": "EU",
       "lang": "en",
       "theme": null,
       "via_gnews": false
@@ -520,19 +520,6 @@
       "via_gnews": true
     },
     {
-      "id": "7e79d5e2db846feb",
-      "title": "NATO’s DIANA selects innovators to drive decision superiority for the Alliance",
-      "summary": "NATO’s DIANA selects innovators to drive decision superiority for the Alliance &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYVpDblFpOHotc2lkME93X1BmNFJNdE9QVi16cTVpbXNMRDZXSzlGT05tYTV2b2xPeHBSMk02SGhSOHh0RWJuRkl3WnVONFNNSDB6cURWdlJCckJMQURneE8wUmxYaFBISDRoTWxxSWV0LWE1dmktVmxYYVZ0S2s4UUw0NVJjZW01OTlUcl9kb2l3ck5oUUIyYWwyMWFlYTlSN2N1Y3NpaGdwTW5fMlZHR0d0angxYUZMb0lvS2lKb1RZU0QzaERNR056bnF3b0NEbWxjNUl6X0ZuQQ?oc=5",
-      "date": "2026-07-13",
-      "source": "NATO",
-      "source_type": "io",
-      "region": "Global",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": true
-    },
-    {
       "id": "47311eeb38a1e6a9",
       "title": "NATO Secretary General attends meeting of the Coalition of the Willing in Paris",
       "summary": "NATO Secretary General attends meeting of the Coalition of the Willing in Paris &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
@@ -754,19 +741,6 @@
       "via_gnews": false
     },
     {
-      "id": "3f52fb53d69e0511",
-      "title": "Top priorities for US-Africa relations in an era of great power competition: Trade, investment, critical minerals, and security",
-      "summary": "Top priorities for US-Africa relations in an era of great power competition: Trade, investment, critical minerals, and security &nbsp;&nbsp; Brookings",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZVFoQzEzd3lWY01aODNUeUF6V2RmdDljbC1NSlBsRU9ZQVRLcTRZaHI5dFJIclJJMnJhOVBBU2RmM0NvQURoRVBBNWloOU9LSjhXdFMwSU9NMjVfbVpBRGo5ZHVNb2pyaHRVVUJDemxYRWFvWnd4ZUlaSi1ndWNEU2RQNXhMNEEtVFpqakxUOUlsbzVkM3BWVENBdUNac2F1ZFppa05TTi1icXRkekVvUHJaeTVGQVdCcWQ4MWNjZDk3UlpmVU9FcEZjcy1xQzNDb2pfajhFODN3X1VLTGNnY2pNXzdRY01Kd3ItbjZB?oc=5",
-      "date": "2026-07-09",
-      "source": "Brookings",
-      "source_type": "tt",
-      "region": "US",
-      "lang": "en",
-      "theme": "diplomacy",
-      "via_gnews": true
-    },
-    {
       "id": "dafae9b52e1a67b9",
       "title": "Prime Minister meets with the Prime Minister of Australia at the 3rd India - Australia Annual Summit (July 09, 2026)",
       "summary": "Prime Minister meets with the Prime Minister of Australia at the 3rd India - Australia Annual Summit (July 09, 2026) &nbsp;&nbsp; Ministry of External Affairs",
@@ -947,19 +921,6 @@
       "lang": "en",
       "theme": "security",
       "via_gnews": true
-    },
-    {
-      "id": "753096cf2fb976c8",
-      "title": "Kroenig interviewed on NPR on the Ankara Summit",
-      "summary": "On July 7, Atlantic Council vice president and Scowcroft Center senior director Matthew Kroenig was interviewed on NPR about the importance of the Ankara Summit amidst heightened transatlantic tensions. The post Kroenig interviewed on NPR on the Ankara Summit appeared first on Atlantic Council .",
-      "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/kroenig-interviewed-in-npr-on-the-ankara-summit/",
-      "date": "2026-07-08",
-      "source": "Atlantic Council",
-      "source_type": "tt",
-      "region": "US",
-      "lang": "en",
-      "theme": "diplomacy",
-      "via_gnews": false
     },
     {
       "id": "7acd4051cd25419e",
@@ -1209,19 +1170,6 @@
       "via_gnews": true
     },
     {
-      "id": "f949eafdcb1b8e59",
-      "title": "Troubled Straits: Analyzing Trade Chokepoints in the South China Sea",
-      "summary": "Troubled Straits: Analyzing Trade Chokepoints in the South China Sea &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IRFI3dkRQQlc4OTVoNkV2TXFWVDVKMGF6ZjFJelZJR2hlZmlJZjhZdGJsTmxxX2gzeHRxVWJZNm4zT1pYQ0pBYlhab1dKNDlTT0ppcFRjNXd5UUFram9nbWR0dm5KT3dtdmxwb1p2ZTY?oc=5",
-      "date": "2026-07-01",
-      "source": "CSIS",
-      "source_type": "tt",
-      "region": "CN",
-      "lang": "en",
-      "theme": "economy",
-      "via_gnews": true
-    },
-    {
       "id": "94a6e65c04d9f4bb",
       "title": "Russian Blood and Treasure: The Ballooning Costs of Putin’s War",
       "summary": "Russian Blood and Treasure: The Ballooning Costs of Putin’s War &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
@@ -1287,19 +1235,6 @@
       "via_gnews": true
     },
     {
-      "id": "c97a35c8b22f30b5",
-      "title": "Bolivia’s Governance Crisis Under Rodrigo Paz",
-      "summary": "Bolivia’s Governance Crisis Under Rodrigo Paz &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ydzZ4bFBhVHVoOWQxdEpQalhmekFYdGJHZXJZeXJ4VmdaQTN6NEJBTDJ1QXBVd1lLWmFvemlIZkhhMzc3eWlCUDZicU12LTdBakZHZm00Z28yUjJhckxyYU5zRlFXNjhSN0t5R09BRDRpRW1IRWdSbGpCWExjZW8?oc=5",
-      "date": "2026-06-30",
-      "source": "CSIS",
-      "source_type": "tt",
-      "region": "US",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "29b3cdf7ed023063",
       "title": "NATO Secretary General visits the United Kingdom to discuss the summit of Allied leaders",
       "summary": "NATO Secretary General visits the United Kingdom to discuss the summit of Allied leaders &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
@@ -1310,19 +1245,6 @@
       "region": "Global",
       "lang": "en",
       "theme": "security",
-      "via_gnews": true
-    },
-    {
-      "id": "848f34abbfb520ea",
-      "title": "Entity List Additions Cool to Their Slowest Pace Since 2008",
-      "summary": "Entity List Additions Cool to Their Slowest Pace Since 2008 &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcThvYllxclpDay01T1JVbnlpRGtUUGpYdklqWDJLN2E0VnZZS1UxYVJ4Y2dicTBDa1o3eGprX3NLQ3NBNlUwQU1zNUNNU0s1aWQ4LWN3QlNCVnZYU1IwNno1amdoejRRdENwXy1PQkJhNWtuYTYxUG90VU1vWHFHdGhIVGpJRTQ?oc=5",
-      "date": "2026-06-29",
-      "source": "CSIS",
-      "source_type": "tt",
-      "region": "US",
-      "lang": "en",
-      "theme": null,
       "via_gnews": true
     },
     {
@@ -1492,19 +1414,6 @@
       "region": "US",
       "lang": "en",
       "theme": "security",
-      "via_gnews": true
-    },
-    {
-      "id": "af6bae5252c552e2",
-      "title": "Global Gas Flaring Tracker Report",
-      "summary": "Global Gas Flaring Tracker Report &nbsp;&nbsp; World Bank Group",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLTM1d1kwZ2QyUVZJckdwOXl5UUNJYThuT1VaSWdkZU9XeGxRU2N6czlUYjU3QVdMYjk0eUJkdjYwdV9YblZEcDBrYlVpODZYb09uUG5xSDYwYjRTUk9fZ1p5YzJ4cXFHTTMtTVItNnpYUkZIQVZEcW5kUzZtekx0YVVRYVh2LW1xeHN3UlQ4bXBtV3Q5YnJsdDdDdjFoRkJQcFU4YmRSLVF5RnZnbWliZGxGbUF5a3dZX1VtZXZYUnhobUt5MVlTd1RhUUo?oc=5",
-      "date": "2026-06-23",
-      "source": "World Bank",
-      "source_type": "io",
-      "region": "Global",
-      "lang": "en",
-      "theme": null,
       "via_gnews": true
     },
     {
@@ -1742,19 +1651,6 @@
       "via_gnews": true
     },
     {
-      "id": "702ab4039c400da8",
-      "title": "President and Ministerial Committee on Foreign and Security Policy discuss current situation in Ukraine, NATO Summit in Ankara and current situation in Middle East - Finnish Government",
-      "summary": "President and Ministerial Committee on Foreign and Security Policy discuss current situation in Ukraine, NATO Summit in Ankara and current situation in Middle East - Finnish Government &nbsp;&nbsp; Valtioneuvosto",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOYVJYckFxQ2J1dWxBVVEzWW9JcVhJbjVGbzhWVjB1ZElsckZoUVJURlVQLUxTaVktOUZ2WWt6OEFtRk5QcjRYUnpVVzFzUUdKU29qMVNwbVBPYnNJTGl6bldJOG9hUi1UT0pnMlhQMGhrZDdrNUdDcEtnd2ZIbVNYdERsMUtJalB5Qkd3cHBhcGdoWktqWEhXcDN3WjVIVzh0Ri1rSkJkZ3EzMHJMSXZua2c2QVBtS19oUXVfMnBGUloyTzZZVV9waHNldzUyZlRBcXRROF9BM3NQa0gzMnZhdHc1blpoWUd6SjlrMUJLRENyVXRSNUx3bnB1ZlNoeHZpMjZXVl92R182VUpoMEhSOWFDQnRocFZHUXE4b2NB?oc=5",
-      "date": "2026-06-16",
-      "source": "Finland — Government",
-      "source_type": "gov",
-      "region": "FI",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": true
-    },
-    {
       "id": "e36ef5e3a5364a73",
       "title": "The Swedish Defence Commission’s interim report on the current state of Sweden’s total defence and the security situation, J",
       "summary": "The Swedish Defence Commission’s interim report on the current state of Sweden’s total defence and the security situation, J &nbsp;&nbsp; Government.se",
@@ -1846,19 +1742,6 @@
       "via_gnews": true
     },
     {
-      "id": "2999acac52a24894",
-      "title": "Increasing focus on nuclear weapons amid heightened escalation risks—new SIPRI Yearbook out now",
-      "summary": "Increasing focus on nuclear weapons amid heightened escalation risks—new SIPRI Yearbook out now &nbsp;&nbsp; Stockholm International Peace Research Institute",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMjc4SnBTbzE3Ni0wcmtPeWo4LWtTMEFNX0NrVk4xM1RqcVYwQmNobnNpaFN2b01GZVB4WFc4d1VZbTlGVEVwM0ZvRTBhMjEwaU4yQjhIalNHZGQwNVVfdzNXemkwLVZIVU12VzRSZEpIWmJHbm5HMEMzN3NXUnhvQWp1eGpQNjVrdGFVdDQ0QW9DUk9tZjlIclV6RmdUSVZpcHJnTFRVWldqYWl0aHBJWFUwMk9Ca0JyVXF5czh0VlR3MVg2bzlRQy03WWt3ZmxyenZ2UkNB?oc=5",
-      "date": "2026-06-08",
-      "source": "SIPRI",
-      "source_type": "tt",
-      "region": "EU",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": true
-    },
-    {
       "id": "27349875a1e822a8",
       "title": "SIPRI Yearbook 2026",
       "summary": "SIPRI Yearbook 2026 &nbsp;&nbsp; Stockholm International Peace Research Institute",
@@ -1895,19 +1778,6 @@
       "region": "EU",
       "lang": "en",
       "theme": "diplomacy",
-      "via_gnews": true
-    },
-    {
-      "id": "656745da7fd84b61",
-      "title": "Financial Management Umbrella Program 2025 Annual Report",
-      "summary": "Financial Management Umbrella Program 2025 Annual Report &nbsp;&nbsp; World Bank Group",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTkVuN3Z0Zkk0dHNzSDR2S3B1LTJfd2RsOU9ILU15SnFuUVpCY1dMT1dNdjlKRnA2eTZJS1FZRERfM2VVZWl2SVVDNzZDbk5Ua3Y5Nk1HaGFpNWZYTmlFYkZrVlRKYW11WFVkaWRvODhmbXdYMWplOWtudFdPZFpwUk5PWThjcldPOVBkQVlPa0JqUTdsZElhZHdVYTBzaUVpSWpmaFpaaEJsS0EtZF9xX0dzLWRzdzdnbzFhUmJmVFVuWVlFcEdQRHU1eDQ4cm1hSVdF?oc=5",
-      "date": "2026-06-01",
-      "source": "World Bank",
-      "source_type": "io",
-      "region": "Global",
-      "lang": "en",
-      "theme": null,
       "via_gnews": true
     },
     {
@@ -2938,6 +2808,19 @@
       "via_gnews": true
     },
     {
+      "id": "d7bdc49ce7e58633",
+      "title": "EUSpring | Report on democracy assistance from the European Union to the Middle East and North Africa",
+      "summary": "EUSpring | Report on democracy assistance from the European Union to the Middle East and North Africa &nbsp;&nbsp; EPC, European Policy Centre",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FS0l0S2pyZkg0UkpUTUR2b1ZOX2JlUEFNZUlNM09lcmgtbXR4Y195cFRIci1UYUE0Tk5ubVMtXzBoemd6czBsbUlRbVJ0UzUxTkRvclFSOTF6QklJdGZrenA5a0tacUY4aTgzYnpDMVNLeGR2N2c?oc=5",
+      "date": "2026-01-05",
+      "source": "European Policy Centre (EPC)",
+      "source_type": "tt",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "1762b8a4aaa3cf01",
       "title": "SIPRI Yearbook 2025 summary: Now available in 14 languages",
       "summary": "SIPRI Yearbook 2025 summary: Now available in 14 languages &nbsp;&nbsp; Stockholm International Peace Research Institute",
@@ -3338,6 +3221,19 @@
       "region": "EU",
       "lang": "en",
       "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "3965dce3a337aa88",
+      "title": "Minister for International Development Cooperation and Foreign Trade invites businesses and organisations to discuss the EU’s new single market strategy",
+      "summary": "Minister for International Development Cooperation and Foreign Trade invites businesses and organisations to discuss the EU’s new single market strategy &nbsp;&nbsp; Government.se",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQeV9MVnJVWDRIV3AxSWpJZGFIazRMdUVsQnNpVVB5U3RVVG53NWlmUXQ1UnNLVFIzNnY4Y0FMc21IRWE5RlJmdGtSQVNqWk5KMnBtWXN1UU53ZklNSGFHZ2lDck5mNWQyaFI1OTV0Z0I0Slg2SFFTRVNOYzlRaWpweXRuZmE3cGhPSjA0YUM4NGhXV3JpLUM1TTl1WjllVHduNTVhYlZzWjgtQjIyWkdnXzM0UVlmVDN2Y094UXBDQ2hpX2Nqa3BCeFZuQmxQeFBhNENFaENDdjBIRTJOdTYxUXRnVU01MzNVNFZWRGFSTGlQMzQyVTlOaHN2S3VhYldMMlNybmZQNjFOM0haM25ZVE8taU53VmstZm1XRmp4azVuQVNCbHJpeQ?oc=5",
+      "date": "2025-09-03",
+      "source": "Sweden — Government",
+      "source_type": "gov",
+      "region": "SE",
+      "lang": "en",
+      "theme": "economy",
       "via_gnews": true
     },
     {
@@ -3744,6 +3640,19 @@
       "via_gnews": true
     },
     {
+      "id": "22b5e10971e0e660",
+      "title": "Voices of the Pacific Climate Crisis Adaptation and Resilience Pacific Ocean and Climate Crisis Assessment Report Volume 1",
+      "summary": "Voices of the Pacific Climate Crisis Adaptation and Resilience Pacific Ocean and Climate Crisis Assessment Report Volume 1 &nbsp;&nbsp; Lowy Institute",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd0VzVkVNVTNEV0VrdERZUDlnbEhEakJPa3Vjc0ZOQW1ablY5Mm12VDdsQUtFblBrNDVBSzVZN1AtMV9CN1pyeDRMOXVna0NCTFVFbnVmU000MUI0aVpfa0lORDRtOVVZY3M3OWRselFIM2RkeHF3S0E3ZTJkNmRMVDFoZlYwM1QxVDZrelgzbW1ScUF0eUJNTGVGNTdLOWV0WDdWRFplWmJGUXdCSVdLazZ4b1BnZ29wNGpYQndDQ0t6bkdZRmh2ZmI4ZEE?oc=5",
+      "date": "2025-04-13",
+      "source": "Lowy Institute (AU)",
+      "source_type": "tt",
+      "region": "AU",
+      "lang": "en",
+      "theme": "climate",
+      "via_gnews": true
+    },
+    {
       "id": "716419a813a93b93",
       "title": "A Democratic Licence to Operate: Report of the Independent Surveillance Review",
       "summary": "A Democratic Licence to Operate: Report of the Independent Surveillance Review &nbsp;&nbsp; Royal United Services Institute (RUSI)",
@@ -3874,9 +3783,9 @@
       "via_gnews": true
     },
     {
-      "id": "91165b358ca1e571",
-      "title": "Annual Report 2023-2024",
-      "summary": "Annual Report 2023-2024 &nbsp;&nbsp; Royal United Services Institute (RUSI)",
+      "id": "da54823767bc2af8",
+      "title": "RUSI Annual Report Summary 2023-2024",
+      "summary": "RUSI Annual Report Summary 2023-2024 &nbsp;&nbsp; Royal United Services Institute (RUSI)",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX09FWG9yRDRwRXNyVmQ1alNVUDVkcW4wNXNkVV9wOEo1bGROWkVja29ic3FVR2NxRW9ob25fcWhCNnNOcmdReFZSTEN4X1oyTlotYkx4TVR0MHpUUnR2Y1NYSkNvVGtDLVROWnBxQzhRclU5TkZzX09MS284OTh5UWEwTXlPTV9lRnNsWk1ET05aaFU0MGhzS0c5dGY?oc=5",
       "date": "2024-12-11",
       "source": "RUSI",
@@ -5434,19 +5343,6 @@
       "via_gnews": true
     },
     {
-      "id": "fea384a7c1d66983",
-      "title": "2022 Report: Safety and Threats to Australia’s interests",
-      "summary": "2022 Report: Safety and Threats to Australia’s interests &nbsp;&nbsp; Lowy Institute Poll",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdkY0UmJnU0ZtREJ2TTlyTTJkYUJRWVFfZ0RzR2tTMlJKMm9iZ3VsWFFCOU1aU0RTS0JhNW5taHIyT3BnSUtBU3FheGFnYXV3dGhhZEdKSE9QVUF4TnZaT0Zqd0FlOE5ONjJUR0Ffd29ZWV91SzBrb0hWMVZCRVRoQ2V3U09tVVp2NDdJ?oc=5",
-      "date": "2022-06-29",
-      "source": "Lowy Institute (AU)",
-      "source_type": "tt",
-      "region": "AU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "d7c5584e71f5db53",
       "title": "Joint Statement on the Announcement of the Partners in the Blue Pacific Initiative",
       "summary": "Joint Statement on the Announcement of the Partners in the Blue Pacific Initiative &nbsp;&nbsp; Australian Government Department of Foreign Affairs and Trade",
@@ -5889,19 +5785,6 @@
       "via_gnews": true
     },
     {
-      "id": "a0e4e95495cc48b0",
-      "title": "DoD's 2021 China Military Power Report: How Advances in AI and Emerging Technologies Will Shape China’s Military",
-      "summary": "DoD's 2021 China Military Power Report: How Advances in AI and Emerging Technologies Will Shape China’s Military &nbsp;&nbsp; Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcXFIc2hhVGh2QzRJbGx6YmdZZ1N6ZDhTVE5zOFZlRkFEVmpQT1lDbW9oZmIyRl9nT1NuaTNMRk5OU2hFLTNsOXZJVm1HbnF5RDFzNmZTcjA2ZjVPNmJMaS00dWFGdHphSGVZUm9LRkI0a253cm1BZzFwcHM3NTlCWEVYeWNlU3BZV1NuU09FWlM0S2VYc0ZYd2tTTThTMVl3djJrd3lnVUR4WG9mR3NDMDFlTWRid0c5TVdn?oc=5",
-      "date": "2021-11-04",
-      "source": "Council on Foreign Relations",
-      "source_type": "tt",
-      "region": "CN",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": true
-    },
-    {
       "id": "9633155d582d58f1",
       "title": "Winning the Tech Talent Competition",
       "summary": "Winning the Tech Talent Competition &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
@@ -6227,10 +6110,10 @@
       "via_gnews": true
     },
     {
-      "id": "cff41c73e6f8aa4b",
-      "title": "SIPRI Yearbook 2020, Summary",
-      "summary": "SIPRI Yearbook 2020, Summary &nbsp;&nbsp; Stockholm International Peace Research Institute",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9faXZLTG54cW8ybC1ZZ3VsZEYtWGFITHFmd1JXTEp4OXdrMWZRZEpoQjk1VFFlSUx1OF9MNVZDX08wQU1hOGNFQ2Y1ckhpWUl0ekYyM29odURlRWFsbHROd2dOM0I5MVctWEN1cEhnMlQzWTVQZEh4UkJ1R1Y?oc=5",
+      "id": "dc0332a91ef4e06d",
+      "title": "SIPRI Yearbook 2020",
+      "summary": "SIPRI Yearbook 2020 &nbsp;&nbsp; Stockholm International Peace Research Institute",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBpOXA0eW5jdGE4Z3lQUTBGTXJoQ0VNOThGN2JoSGZQUUNHQjhKaFRRd0otVlR2SmFLRlJucWhVRFRqY21kRHdOMGg0MA?oc=5",
       "date": "2020-06-14",
       "source": "SIPRI",
       "source_type": "tt",
@@ -6526,6 +6409,19 @@
       "via_gnews": true
     },
     {
+      "id": "efca4c089d1146af",
+      "title": "The Cybersecurity Workforce Gap",
+      "summary": "The Cybersecurity Workforce Gap &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83cWtYYXM3S2RmSG1EN1ZabVZnMHpyU1M1M0VGS3hodHY4ZTFra1UwckplV0NvVjBYSXVUaVRweGdfckJyTTFscmRrRFNQOHJjanRZdkpPem1VVG1CRGdqY0t6ck9wdEQ4?oc=5",
+      "date": "2019-01-29",
+      "source": "CSIS",
+      "source_type": "tt",
+      "region": "US",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "07f03033da469a72",
       "title": "The process of Disarmament-Demobilization-Reintegration (DDR) in Mali: a journey full of pitfalls",
       "summary": "The process of Disarmament-Demobilization-Reintegration (DDR) in Mali: a journey full of pitfalls &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
@@ -6625,6 +6521,19 @@
       "source": "GLOBSEC",
       "source_type": "tt",
       "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "ccdc93ef9e3c5424",
+      "title": "China’s Maritime Silk Road: Strategic and Economic Implications for the Indo-Pacific Region",
+      "summary": "China’s Maritime Silk Road: Strategic and Economic Implications for the Indo-Pacific Region &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUjYtZmZtNzdCOWRfZ2J3WTVjaG1pbFZld05IdGtLUlZHLW13Wmx4eVFjLVFTM3ExUDFNdXFYS3F3ZEwtSDczUmk2am9rTjFjSm00WjZiQUY0cDBnZVRTM1NPTS1iNTdZUHVSazdaM1VONjdjWWE5NjJGMXg5YzRoTGdUYy1WdEJoUmljakVvWGxzRS1SQ2pYT2w5cjBZX3FhRlNETElIMENHd0FxU1pZNg?oc=5",
+      "date": "2018-04-02",
+      "source": "CSIS",
+      "source_type": "tt",
+      "region": "CN",
       "lang": "en",
       "theme": null,
       "via_gnews": true
