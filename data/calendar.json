@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-15T21:56:16.797464+00:00",
-    "duration_seconds": 94.253101,
+    "generated_at": "2026-07-16T02:10:36.163295+00:00",
+    "duration_seconds": 109.625956,
     "stats": {
-      "ok": 84,
-      "fail": 15,
-      "items_total": 2297,
-      "items_strict": 556,
-      "events_detected": 4
+      "ok": 83,
+      "fail": 16,
+      "items_total": 2289,
+      "items_strict": 543,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -59,57 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "16899a26f5a18636-evt",
-      "title": "Remarks by Executive Vice-President Virkkunen and Commissioners Šefčovič and Zaharieva on the EU-India Trade and Technology Council ministerial",
-      "date": "2026-07-15",
-      "end_date": "2026-07-15",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "economy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1632",
-      "summary": "European Commission Speech Brussels, 15 Jul 2026 Executive Vice-President Virkkunen Today we held our third Trade and Technology Council with India. Since 2023, the EU and India have been working together acro...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "b38338d5f450b49a-evt",
-      "title": "EU and India strengthen strategic partnership with third Trade and Technology Council",
-      "date": "2026-07-15",
-      "end_date": "2026-07-15",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "economy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1627",
-      "summary": "European Commission Press release Brussels, 15 Jul 2026 Today, the European Union and India held the third meeting of their Trade and Technology Council (TTC) in Brussels, reaffirming the TTC as a central platform for cooperation on trade, technology and security.",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "85fab3e883ecd9e8-evt",
-      "title": "Belgium-India Strategic Dialogue (15 July 2026) – Joint Statement",
-      "date": "2026-07-15",
-      "end_date": "2026-07-15",
-      "location": "",
-      "organizer": "Belgium — Diplomatie",
-      "region": "BE",
-      "theme": "security",
-      "link": "http://diplomatie.belgium.be/nl/nieuws/belgium-india-strategic-dialogue-15-july-2026-joint-statement",
-      "summary": "Belgium-India Strategic Dialogue (15 July 2026) – Joint Statement lien.horemans Wed 15/07/2026 - 11:58 Type d'actualité Déclaration Pays Inde Sujets Joint statement Carte diplomatique Dernière mise à jour le 15 juillet 2026 Cette déclaration est disponible uniquement en anglais. In an ever-changing ",
-      "featured": false,
-      "confirmed": true,
-      "source": "Belgium — Diplomatie",
-      "kind": "diplomatic-event",
-      "lang": "fr"
     },
     {
       "id": "aspen-2026",
