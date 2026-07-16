@@ -1,17 +1,30 @@
 {
   "meta": {
-    "generated_at": "2026-07-16T13:41:31.854868+00:00",
-    "duration_seconds": 85.758503,
+    "generated_at": "2026-07-16T16:15:06.893886+00:00",
+    "duration_seconds": 86.242736,
     "stats": {
       "ok": 85,
       "fail": 14,
-      "items_total": 2300,
-      "items_strict": 552,
+      "items_total": 2302,
+      "items_strict": 550,
       "events_detected": 3
     },
     "source_count": 99
   },
   "items": [
+    {
+      "id": "7f1af8529b84beb6",
+      "title": "Twelfth anniversary of the downing of Flight MH17: Joint statement to the OSCE",
+      "summary": "The UK and eight other countries marked twelve years since the downing of Flight MH17, stressing their unwavering commitment to truth, justice and accountability, noting international rulings attributing responsibility to Russia, and calling for full compliance with international law and reparation for its wrongful acts.",
+      "link": "https://www.gov.uk/government/speeches/twelfth-anniversary-of-the-downing-of-flight-mh17-joint-statement-to-the-osce",
+      "date": "2026-07-16",
+      "source": "UK FCDO",
+      "source_type": "gov",
+      "region": "UK",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": false
+    },
     {
       "id": "b567fd030de12067",
       "title": "Secretary-General of ASEAN delivers Keynote Speech at the 2026 ASEAN-ROK Regional Connectivity Forum",
@@ -52,6 +65,19 @@
       "via_gnews": false
     },
     {
+      "id": "81fab2dec18e7886",
+      "title": "Innovation under fire: Ukraine’s energy defense is a blueprint for the world",
+      "summary": "Those who still treat energy resilience as a technical matter are not prepared for the changes currently taking place in military doctrine. Thanks to Ukraine, the blueprint to address this vulnerability exists, writes Oleksii Riabchyn. The post Innovation under fire: Ukraine&#8217;s energy defense is a blueprint for the world appeared first on Atlantic Council .",
+      "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/innovation-under-fire-ukraines-energy-defense-is-a-blueprint-for-the-world/",
+      "date": "2026-07-16",
+      "source": "Atlantic Council",
+      "source_type": "tt",
+      "region": "US",
+      "lang": "en",
+      "theme": "security",
+      "via_gnews": false
+    },
+    {
       "id": "bbc04ad53d14cc2a",
       "title": "Hybrid threats in the OSCE region: UK statement to the OSCE",
       "summary": "Ambassador Holland updates on the National Security (State Threats) Act 2026 and the recent UK and EU joint cyber sanctions package.",
@@ -76,6 +102,19 @@
       "lang": "en",
       "theme": "diplomacy",
       "via_gnews": true
+    },
+    {
+      "id": "53e12ff3e666b9db",
+      "title": "European security strengthened under landmark UK and Estonia agreement",
+      "summary": "European security will be strengthened by a new UK-Estonia defence roadmap that will deepen military cooperation, strengthen NATO’s eastern flank and modernise the UK’s Forward Land Forces presence in Estonia for the challenges of modern warfare.",
+      "link": "https://www.gov.uk/government/news/european-security-strengthened-under-landmark-uk-and-estonia-agreement",
+      "date": "2026-07-16",
+      "source": "UK Ministry of Defence",
+      "source_type": "gov",
+      "region": "UK",
+      "lang": "en",
+      "theme": "security",
+      "via_gnews": false
     },
     {
       "id": "97b6a367ed9de281",
@@ -156,17 +195,17 @@
       "via_gnews": false
     },
     {
-      "id": "16899a26f5a18636",
-      "title": "Remarks by Executive Vice-President Virkkunen and Commissioners Šefčovič and Zaharieva on the EU-India Trade and Technology Council ministerial",
-      "summary": "European Commission Speech Brussels, 15 Jul 2026 Executive Vice-President Virkkunen Today we held our third Trade and Technology Council with India. Since 2023, the EU and India have been working together acro...",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1632",
+      "id": "04e6498c2adf8b91",
+      "title": "Remarks",
+      "summary": "Remarks &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQbDhQTldyVVotN3BaMm9uMTMwNkZrTkF6eWdJNTlwRUtJWkFwM3F3Z2wyel9nd2hpaHU2dTg0N2Q2ZERZYzV5V096NUxKNDZoZGZWd2VWcDVDZ2s3Z1BBaDdGQ2Qzdmg1TDNTc2V6UzZxb2ttMUs3RlBqLUZFYmtWSjNPbnozbHRvSTNnMDdTN09mbFp6VGw1TmZWaXZQT0s5ZEdJZ2pGVkpScEFMUTJjUUpvRTIzR2x2VG1Ma2RESmdoUGxVT3JsZWJ5dXgtTlFsakRhQU8wSXl3M0xmS0ozVHlleTE2ZENld1RHS2psVHJJWlpFZTJPbHUtQ3lfamlNa2RjNVRrSVkxemgxcmoyNExKcUJ3cmwzbHNqTA?oc=5",
       "date": "2026-07-15",
-      "source": "European Commission — Press",
-      "source_type": "gov",
-      "region": "EU",
+      "source": "NATO",
+      "source_type": "io",
+      "region": "Global",
       "lang": "en",
-      "theme": "economy",
-      "via_gnews": false
+      "theme": "security",
+      "via_gnews": true
     },
     {
       "id": "f83847437c7d2352",
@@ -192,19 +231,6 @@
       "region": "UK",
       "lang": "en",
       "theme": "security",
-      "via_gnews": false
-    },
-    {
-      "id": "f5704ff18f4ba104",
-      "title": "Policy paper: British Sign Language (BSL) 5-year plan: Foreign, Commonwealth and Development Office",
-      "summary": "This plan sets out how Foreign, Commonwealth and Development Office plans to improve the use of BSL in its communications in the next 5 years. Includes an annual progress update.",
-      "link": "https://www.gov.uk/government/publications/british-sign-language-5-year-plan-foreign-commonwealth-and-development-office",
-      "date": "2026-07-15",
-      "source": "UK FCDO",
-      "source_type": "gov",
-      "region": "UK",
-      "lang": "en",
-      "theme": null,
       "via_gnews": false
     },
     {
@@ -819,19 +845,6 @@
       "via_gnews": true
     },
     {
-      "id": "525676c07ca7522d",
-      "title": "Was the NATO Summit a success?",
-      "summary": "Atlantic Council experts break down an eventful two days in Ankara. The post Was the NATO Summit a success? appeared first on Atlantic Council .",
-      "link": "https://www.atlanticcouncil.org/content-series/fastthinking/was-the-nato-summit-a-success/",
-      "date": "2026-07-08",
-      "source": "Atlantic Council",
-      "source_type": "tt",
-      "region": "US",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": false
-    },
-    {
       "id": "296af042a1de19be",
       "title": "The Ankara Summit Declaration",
       "summary": "The Ankara Summit Declaration &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
@@ -862,19 +875,6 @@
       "title": "Secretary General on the Ankara Summit: NATO delivers",
       "summary": "Secretary General on the Ankara Summit: NATO delivers &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYi1PUVVwdEpoSm1OdEVOVXppbXVONTkxTXV4eDYxajFPUGl3MVEwZkUtWDFEa2xDWFZUTVJXSDktamY4RFdnRDBPSi0xbHZFNXJLZ0hXOUhEVk84X0pueVA0cDVzdm4xdmU3dWl3TW1IallGWWFPeDRXUDJjZmJ0Y0h6emZULXZadTY3YnlSekFyM3RyUTduNGpYam1seTdjVzlEZzE2NmhWTEc4OEVMRnJrVTJ0OXZV?oc=5",
-      "date": "2026-07-08",
-      "source": "NATO",
-      "source_type": "io",
-      "region": "Global",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": true
-    },
-    {
-      "id": "343702c8d62eef09",
-      "title": "Overview - 2026 NATO Summit in Ankara",
-      "summary": "Overview - 2026 NATO Summit in Ankara &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVWFtWXNBLUpSREVZTmE1MUtsNGhULUlVdnF1OEg2MGpYTzR1MllBMTdKNjhCWkhZcjFSMkV5bEQwS2J3Y1FndG40UXFQVzJjV3dQSm9hWUp2QUJhTlkwWTNJdFdGMTNYVUZmamRibjV0SGFxWlUtWWVwbDN0RWROTU50QjNJVF9ISXVZNjM4MjNaMXUtNTFrUA?oc=5",
       "date": "2026-07-08",
       "source": "NATO",
       "source_type": "io",
@@ -975,6 +975,19 @@
       "via_gnews": true
     },
     {
+      "id": "343702c8d62eef09",
+      "title": "Overview - 2026 NATO Summit in Ankara",
+      "summary": "Overview - 2026 NATO Summit in Ankara &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVWFtWXNBLUpSREVZTmE1MUtsNGhULUlVdnF1OEg2MGpYTzR1MllBMTdKNjhCWkhZcjFSMkV5bEQwS2J3Y1FndG40UXFQVzJjV3dQSm9hWUp2QUJhTlkwWTNJdFdGMTNYVUZmamRibjV0SGFxWlUtWWVwbDN0RWROTU50QjNJVF9ISXVZNjM4MjNaMXUtNTFrUA?oc=5",
+      "date": "2026-07-07",
+      "source": "NATO",
+      "source_type": "io",
+      "region": "Global",
+      "lang": "en",
+      "theme": "security",
+      "via_gnews": true
+    },
+    {
       "id": "1bf099119b5407bf",
       "title": "NSPA | NATO Summit: Finland announced as the ninth member of NSPA's Multinational Multi Role Tanker Transport (MRTT) Fleet (MMF) Programme",
       "summary": "NSPA | NATO Summit: Finland announced as the ninth member of NSPA's Multinational Multi Role Tanker Transport (MRTT) Fleet (MMF) Programme &nbsp;&nbsp; NATO Support and Procurement Agency (NSPA)",
@@ -1037,19 +1050,6 @@
       "region": "Global",
       "lang": "en",
       "theme": "security",
-      "via_gnews": true
-    },
-    {
-      "id": "37dd55838945bcd1",
-      "title": "Joint Statement of the African Union–Russian Federation High-Level Consultations",
-      "summary": "Joint Statement of the African Union–Russian Federation High-Level Consultations &nbsp;&nbsp; African Union",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdVBULU91ZHQxaG9QQWFEdnVReTd2S3Y1WF9oX3NsZ3hIdFY2VHBQRjRoZTlaUWV3VFo4aXpnQ05nbF9LeS1QaUhwSjlMSWpzYWN4aWVXNktwYXpPTERWbTJaY21JWnFvREJGZTExaS1QSC1YckJqQ0pfbTBOd2RxaEtOaUtEenhvc25QM2VXRXpxMlI3VnFnR2RLSnlzMl9kZmNKYm9vOA?oc=5",
-      "date": "2026-07-07",
-      "source": "African Union",
-      "source_type": "io",
-      "region": "RU",
-      "lang": "en",
-      "theme": null,
       "via_gnews": true
     },
     {
@@ -1180,6 +1180,19 @@
       "region": "RU",
       "lang": "en",
       "theme": "security",
+      "via_gnews": true
+    },
+    {
+      "id": "06122dd13be32fc5",
+      "title": "Preliminary Report | Independent International Scientific Panel on AI",
+      "summary": "Preliminary Report | Independent International Scientific Panel on AI &nbsp;&nbsp; Welcome to the United Nations",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOVdJYWo0dU9JbGVSbWkySFBMT0loa3RESFFYQXJfSFMxcXFJU2VlWHozWFg0S3NOa19xb0owNWJENTkyU24zNjgtRVFkSUo0a3BBQzlvOWZ1R1Q1aW5CVXFHQW5QQ21nQ2lDQmFBbTdkNHVPSEE4N2hVSFoxYXZKYnhmSlpzMTJNc0VCTF82RQ?oc=5",
+      "date": "2026-07-01",
+      "source": "United Nations",
+      "source_type": "io",
+      "region": "Global",
+      "lang": "en",
+      "theme": "technology",
       "via_gnews": true
     },
     {
@@ -2197,36 +2210,10 @@
       "via_gnews": true
     },
     {
-      "id": "7249b2975b4a0815",
-      "title": "Full Report: Addressing the Costs and Care for Long COVID",
-      "summary": "Full Report: Addressing the Costs and Care for Long COVID &nbsp;&nbsp; OECD",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQWF2OWlNTDJrVDNneWtXc3NsSmd4XzVoaEJIOFp1RmNUYkdJaXYyWHNYckp3MGQyblJQcUJsV2JITHI5V19TZXVWVE1waG9vTndJT3hJSHl6QjJSN0oxaHFNVEhfa2p1b2lNeHFuX205eUdwb21IQVRqUWpTbW4zblN0SW42VWx0S3NZMEhYWkxldEZTNGtpdGpMT3U0QW83TU84R3I3czVPTEM4S3pB?oc=5",
-      "date": "2026-04-08",
-      "source": "OECD",
-      "source_type": "io",
-      "region": "Global",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "c57e429753cd2fee",
       "title": "United Nations High-Level International Conference - New York Declaration on the Peaceful Settlement of the Question of Palestine and the Implementation of the Two-State solution",
       "summary": "United Nations High-Level International Conference - New York Declaration on the Peaceful Settlement of the Question of Palestine and the Implementation of the Two-State solution &nbsp;&nbsp; diplomatie.gouv.fr",
       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNV1VSNGJ4T20xd2QxZjNjSzVGWlQ5YzlMS2ZaY0ZJc2NTcHFnU3dwYWVFSkVia2RXemRzVS1tNXMtWS04UXVwb1ZiR1ZnVnlUOGRRZkxUYjQ3b1hETjV4aXV0eVBUbTZ0X0hWd0NuYWcwWlc4bTg5NVFOR19yVmJQSk5lbk5pa093ZmJYN1pTeE10ZFlRMkNDSWtjQmpHajR0Y0NsSmNmUFRqSEdfdV9TZnMyZjNQV1RoV0VFNlZ2MEh3XzU0eHdPT3pHa1VnR3lRVmJxUUVCRkhITGtfUnpKTTR1SjBRbDJtT2J0TFNESGhGMHBmWklUTjU1bTBRYUVicllxUWQ4OXE3bDB1a0Fna1dzOXNKQQ?oc=5",
-      "date": "2026-04-07",
-      "source": "France — MEAE (Diplomatie)",
-      "source_type": "gov",
-      "region": "FR",
-      "lang": "fr",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "45ab361d0668c365",
-      "title": "Joint statement on protection of journalists",
-      "summary": "Joint statement on protection of journalists &nbsp;&nbsp; diplomatie.gouv.fr",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPcF9Nd3VIT0JRWEgxRVh3Slk5dzBnWFdBeUg5THdsZ3l0VDhXWHV4dWpVdUhGMkY3QzBvNkJ2amRFS2xvTTJVbWNobDBSWkQ5R0ZqNnNPY1RoUTBsejljODhudmd5YzVlUUgyX0lGT0dzaEluczN2TW1BdjE1Ym42RFRSampoYkxxTUE0Nm5FblpoRXhWYlZPWVYybHROaEJYRm9abi1TYU1TdV9jUHZ1c2VjQUZZdk81b3hjSFl5aTcxTkpjLTFuNVlBREZQX2swZ1RwdWd0WEVZckNwLXBqcm5KLVJGZ1NiOVBwNWhrcUIyd3FDVi1VQWxsdEg1a1VVZHdYZllwa2dfSVZ0c0VKUUhOTE0?oc=5",
       "date": "2026-04-07",
       "source": "France — MEAE (Diplomatie)",
       "source_type": "gov",
@@ -2311,19 +2298,6 @@
       "region": "PL",
       "lang": "en",
       "theme": "diplomacy",
-      "via_gnews": true
-    },
-    {
-      "id": "6a30b00545287333",
-      "title": "PISM Strategic Ark 2026",
-      "summary": "PISM Strategic Ark 2026 &nbsp;&nbsp; pism.pl",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaTDZrWFYta1RLQ2d5N2N1WGZDazhtdUxrb0JCNWVGNVdWOE4tOURjYWJZdTBETlNudlRYR2hTUWNodWtBdW5pWVE4TXdqQTY3eFVhOUZoZ2RWYktuY1hBdnhR?oc=5",
-      "date": "2026-03-23",
-      "source": "PISM (PL)",
-      "source_type": "tt",
-      "region": "PL",
-      "lang": "en",
-      "theme": null,
       "via_gnews": true
     },
     {
@@ -2574,6 +2548,19 @@
       "via_gnews": true
     },
     {
+      "id": "77ca3d79fedca332",
+      "title": "Trump is the ‘elephant in the room’ as the African Union holds new summit",
+      "summary": "Trump is the ‘elephant in the room’ as the African Union holds new summit &nbsp;&nbsp; Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZEZaX1A1Y2JONUJmdFdiUDRmMUpFN3dsdHVKWVBNNlNrTDV0X3g1MWJYVjk3S01uY1ZYLU92aEthaDRodU1GanRqc3NvMFVKX19vcnh1QTA5bWdhclJ2cWRibm1fRzFuQXR2ZzdQcy16TVBINnNqSEIxcFlHaDRXZGFiaFF4ZnYyWXF0ak81Q1pJX3RjTm1Dc1h1ZWsza2lUdHNwMXFZLXFqNVhfX1VwTGZR0gG3AUFVX3lxTE90cnAyVFRSeGZLWDRVYWtOWWdzWXNqV0o5RGJGWWdPcjBDekNkdi1vMlBVS3ZRYmppc0M1YjBablBhdmwyMG1idVdTaDlWblhQTHQ2eUlsbEFWY1NQcklBQVNqaGFtYjNFMEV1clB2NkJoSm1jdTJZT0NPQkMwNWJrNVQ4NVV5NXZCYTBRR0hpdVRLX0lCMDFNMWdOUWZVeHoxMEducnFKTWo3YXdyWTBWdElOUGxYMA?oc=5",
+      "date": "2026-02-13",
+      "source": "African Union",
+      "source_type": "io",
+      "region": "Africa",
+      "lang": "en",
+      "theme": "diplomacy",
+      "via_gnews": true
+    },
+    {
       "id": "3dbfb35c1c99c403",
       "title": "A pragmatic agenda for the 2026 African Union Summit",
       "summary": "A pragmatic agenda for the 2026 African Union Summit &nbsp;&nbsp; George W. Bush Presidential Center",
@@ -2799,19 +2786,6 @@
       "title": "Measures and rules developed in the EU member states regarding integration of third country nationals - Comparative Report",
       "summary": "Measures and rules developed in the EU member states regarding integration of third country nationals - Comparative Report &nbsp;&nbsp; EPC, European Policy Centre",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vX3JsN2hPTFVkTTRyc1AxM1hMbEJ3V0FPbGdqcWRvaUFMOXUwV043LUU4VmlqZXlXa044eGZFeGhGaTZTUTNHY1JNRllDNGZmXzhCZGFFNmdPd2U0dG1DanBKRUEzTVVjemtIb05xVElSR2pBdEFEdg?oc=5",
-      "date": "2026-01-05",
-      "source": "European Policy Centre (EPC)",
-      "source_type": "tt",
-      "region": "EU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "d7bdc49ce7e58633",
-      "title": "EUSpring | Report on democracy assistance from the European Union to the Middle East and North Africa",
-      "summary": "EUSpring | Report on democracy assistance from the European Union to the Middle East and North Africa &nbsp;&nbsp; EPC, European Policy Centre",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FS0l0S2pyZkg0UkpUTUR2b1ZOX2JlUEFNZUlNM09lcmgtbXR4Y195cFRIci1UYUE0Tk5ubVMtXzBoemd6czBsbUlRbVJ0UzUxTkRvclFSOTF6QklJdGZrenA5a0tacUY4aTgzYnpDMVNLeGR2N2c?oc=5",
       "date": "2026-01-05",
       "source": "European Policy Centre (EPC)",
       "source_type": "tt",
@@ -3783,19 +3757,6 @@
       "via_gnews": true
     },
     {
-      "id": "da54823767bc2af8",
-      "title": "RUSI Annual Report Summary 2023-2024",
-      "summary": "RUSI Annual Report Summary 2023-2024 &nbsp;&nbsp; Royal United Services Institute (RUSI)",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX09FWG9yRDRwRXNyVmQ1alNVUDVkcW4wNXNkVV9wOEo1bGROWkVja29ic3FVR2NxRW9ob25fcWhCNnNOcmdReFZSTEN4X1oyTlotYkx4TVR0MHpUUnR2Y1NYSkNvVGtDLVROWnBxQzhRclU5TkZzX09MS284OTh5UWEwTXlPTV9lRnNsWk1ET05aaFU0MGhzS0c5dGY?oc=5",
-      "date": "2024-12-11",
-      "source": "RUSI",
-      "source_type": "tt",
-      "region": "UK",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "fe42bb07ac16e01a",
       "title": "INTERPRETATIVE DECLARATION OF THE CODE OF GOOD PRACTICE IN ELECTORAL MATTERS AS CONCERNS DIGITAL TECHNOLOGIES AND ARTIFICIAL INT",
       "summary": "INTERPRETATIVE DECLARATION OF THE CODE OF GOOD PRACTICE IN ELECTORAL MATTERS AS CONCERNS DIGITAL TECHNOLOGIES AND ARTIFICIAL INT &nbsp;&nbsp; coe.int",
@@ -4339,6 +4300,19 @@
       "region": "US",
       "lang": "en",
       "theme": "economy",
+      "via_gnews": true
+    },
+    {
+      "id": "663dec0fc2296742",
+      "title": "SIPRI Yearbook 2023, Summary in Russian",
+      "summary": "SIPRI Yearbook 2023, Summary in Russian &nbsp;&nbsp; Stockholm International Peace Research Institute",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRTQzOTd3SWZYS25hdVFaZ3gyV2xWSEpzNTZjcFJ3d19KUXpQWThja0p3QS1EQXh0S0xlamxCZmozSHo5T2VWX3FjVTdmSVRoaG5QMHpEa0d4X3BpUHExRzZyV0JOM2NPcjY2Tm9mckNDS1NBSTZRR3VyOVJtWi10TWs0cTVyMFlfWmc?oc=5",
+      "date": "2023-12-18",
+      "source": "SIPRI",
+      "source_type": "tt",
+      "region": "RU",
+      "lang": "en",
+      "theme": null,
       "via_gnews": true
     },
     {
@@ -4987,6 +4961,19 @@
       "source": "PISM (PL)",
       "source_type": "tt",
       "region": "PL",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "0d597bc548a4c125",
+      "title": "Report - OECD Workshop on Flexible Food-Grade Plastic Packaging",
+      "summary": "Report - OECD Workshop on Flexible Food-Grade Plastic Packaging &nbsp;&nbsp; OECD",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11LVFaU3ZBRFhpOV9wdjBpaEZWTV8wcnVPMHpxb3Rod2dSLXIwd3ZnMmxNVG1oNnVYR1NQa0U5VHFiMHdtZ0xLdFZrTEVfM1lVMDZlVkktNDYtSkhYTnE2WG13UnQwNlU?oc=5",
+      "date": "2023-02-27",
+      "source": "OECD",
+      "source_type": "io",
+      "region": "Global",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -6110,19 +6097,6 @@
       "via_gnews": true
     },
     {
-      "id": "dc0332a91ef4e06d",
-      "title": "SIPRI Yearbook 2020",
-      "summary": "SIPRI Yearbook 2020 &nbsp;&nbsp; Stockholm International Peace Research Institute",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBpOXA0eW5jdGE4Z3lQUTBGTXJoQ0VNOThGN2JoSGZQUUNHQjhKaFRRd0otVlR2SmFLRlJucWhVRFRqY21kRHdOMGg0MA?oc=5",
-      "date": "2020-06-14",
-      "source": "SIPRI",
-      "source_type": "tt",
-      "region": "EU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "c2dd637c3399ba5d",
       "title": "Policy Brief: Drivers of Disinformation in Central and Eastern Europe and Their Utilization During the Pandemic",
       "summary": "Policy Brief: Drivers of Disinformation in Central and Eastern Europe and Their Utilization During the Pandemic &nbsp;&nbsp; GLOBSEC",
@@ -6431,19 +6405,6 @@
       "source_type": "tt",
       "region": "FR",
       "lang": "fr",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "8ad284cc27109c2e",
-      "title": "United Nations Declaration on the Rights of Indigenous Peoples",
-      "summary": "United Nations Declaration on the Rights of Indigenous Peoples &nbsp;&nbsp; Welcome to the United Nations",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMXpYOTI2NHhBaER6VmhQVldoQ19XRkhlLVJPMXdrdDNKbVRHNno5ejJTU2ExYjlaVFI5aWhYLXFpMzQ4STgtaFJtZnVzXzVlaFFTc1hWY01KUzZaLS1OLVFncmNtdlZYdGZ2eVBLWkVTRnJRV0dRbmRBZGc3Z1AwenVsQk1KcHRieHk3bDhPSTlyekp6Tm5FYWY3ZWp0ckJsNlBrdEpUd2lTQQ?oc=5",
-      "date": "2018-11-23",
-      "source": "United Nations",
-      "source_type": "io",
-      "region": "Global",
-      "lang": "en",
       "theme": null,
       "via_gnews": true
     },
@@ -6835,6 +6796,19 @@
       "region": "DE",
       "lang": "en",
       "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "c2a9a91250264da7",
+      "title": "On Tap Europe: Organised Crime and Illicit Trade in Poland: Country Report",
+      "summary": "On Tap Europe: Organised Crime and Illicit Trade in Poland: Country Report &nbsp;&nbsp; Royal United Services Institute (RUSI)",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQLXhLcS1vV1JfQ2licHdIQ21sdm9ycTFpekdESEhGUFVMaGNpaVZ1eE9PcThoTHYxb1VULTRNc3UtNGdwWXFGbzRwUzlVOWZ0Yklwanl1OXZqN1U0dVdLb3VueTY3amV0VUZ3YTIweTI0b3NEMmZ4M0dpaGpJb3k0di1qaExkeWsyZGprcFRaRGNxM3JubmM0U012RGlZWmR1MG9nd1pqc0F5LW1ZMU5qWWlPTHo4X3VGLUNMTVd0aUNxRGJTSGlIME1pblc2Qmo1QmdvbHBn?oc=5",
+      "date": "2016-08-22",
+      "source": "RUSI",
+      "source_type": "tt",
+      "region": "UK",
+      "lang": "en",
+      "theme": "economy",
       "via_gnews": true
     },
     {
