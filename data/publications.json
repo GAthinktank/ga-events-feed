@@ -1,12 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-07-17T13:19:24.508370+00:00",
-    "duration_seconds": 87.904445,
+    "generated_at": "2026-07-17T16:12:02.841693+00:00",
+    "duration_seconds": 82.88935,
     "stats": {
       "ok": 85,
       "fail": 14,
-      "items_total": 2303,
-      "items_strict": 552,
+      "items_total": 2302,
+      "items_strict": 550,
       "events_detected": 5
     },
     "source_count": 99
@@ -34,6 +34,32 @@
       "source": "European Commission — Press",
       "source_type": "gov",
       "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": false
+    },
+    {
+      "id": "2bc807d7e6c9b0d9",
+      "title": "Remarks by Commissioner Albuquerque at the press conference on the Report on the competitiveness of the EU banking sector",
+      "summary": "European Commission Speech Brussels, 17 Jul 2026 Good afternoon, ladies and gentlemen, and thank you for your presence. Today, the Commission is presenting its report on the competitiveness of the banking sect...",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1650",
+      "date": "2026-07-17",
+      "source": "European Commission — Press",
+      "source_type": "gov",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": false
+    },
+    {
+      "id": "c9019b9cb7acc2a9",
+      "title": "Policy paper: UK strategy on protection from sexual exploitation, abuse and harassment in international work",
+      "summary": "This strategy sets out how the UK will prevent and respond to sexual exploitation, abuse and harassment linked to international work.",
+      "link": "https://www.gov.uk/government/publications/uk-strategy-on-protection-from-sexual-exploitation-abuse-and-harassment-in-international-work",
+      "date": "2026-07-17",
+      "source": "UK FCDO",
+      "source_type": "gov",
+      "region": "UK",
       "lang": "en",
       "theme": null,
       "via_gnews": false
@@ -104,19 +130,6 @@
       "via_gnews": false
     },
     {
-      "id": "7a9777029e061ff5",
-      "title": "Remarks by Executive Vice-President Ribera and Commissioners Hoekstra and Jørgensen at the press conference on the EU Emission Trading System review and the Electrification Action Plan",
-      "summary": "European Commission Speech Brussels, 17 Jul 2026 Executive Vice-President Ribera Thank you very much, and thank you for joining us today. We are presenting a set of important proposals. Recent weeks, and las...",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1643",
-      "date": "2026-07-16",
-      "source": "European Commission — Press",
-      "source_type": "gov",
-      "region": "EU",
-      "lang": "en",
-      "theme": "climate",
-      "via_gnews": false
-    },
-    {
       "id": "41dc1cb3e1dd468a",
       "title": "Questions and Answers on the 2026 Rule of Law Report",
       "summary": "European Commission Questions and answers Brussels, 17 Jul 2026 What is the Rule of Law Report? The Rule of Law Report is the Commission's annual preventive and monitoring tool for taking stock of rule of law developments ac...",
@@ -125,19 +138,6 @@
       "source": "European Commission — Press",
       "source_type": "gov",
       "region": "EU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": false
-    },
-    {
-      "id": "9595b528f56112c0",
-      "title": "Policy paper: The UK’s modern development approach",
-      "summary": "This policy paper sets out how the UK is changing its approach to international development. It explains why change is needed, the UK’s priorities, and 4 key shifts that will guide how development is delivered.",
-      "link": "https://www.gov.uk/government/publications/the-uks-modern-development-approach",
-      "date": "2026-07-16",
-      "source": "UK FCDO",
-      "source_type": "gov",
-      "region": "UK",
       "lang": "en",
       "theme": null,
       "via_gnews": false
@@ -247,19 +247,6 @@
       "via_gnews": false
     },
     {
-      "id": "c04e4c632fca4a16",
-      "title": "Corporate report: FCDO annual report and accounts 2025 to 2026",
-      "summary": "The Foreign, Commonwealth & Development Office (FCDO) annual report and accounts for the financial year 2025 to 2026.",
-      "link": "https://www.gov.uk/government/publications/fcdo-annual-report-and-accounts-2025-to-2026",
-      "date": "2026-07-16",
-      "source": "UK FCDO",
-      "source_type": "gov",
-      "region": "UK",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": false
-    },
-    {
       "id": "636b47cbc23f36e6",
       "title": "Commission boosts Europe's competitiveness, decarbonisation and independence with Electrification Action Plan and ETS review",
       "summary": "European Commission Press release Brussels, 17 Jul 2026 The Commission today presents an Electrification Action Plan to make Europe the first electro-powered continent, and a stronger carbon market to support EU's industry in the clean transition and electrification.",
@@ -364,19 +351,6 @@
       "via_gnews": true
     },
     {
-      "id": "e0cad83090eff661",
-      "title": "Policy paper: British Sign Language (BSL) 5-year plan: Ministry of Defence",
-      "summary": "This plan sets out how the Ministry of Defence plans to improve the use of BSL in its communications in the next 5 years. Includes an annual progress update.",
-      "link": "https://www.gov.uk/government/publications/british-sign-language-5-year-plan-ministry-of-defence",
-      "date": "2026-07-15",
-      "source": "UK Ministry of Defence",
-      "source_type": "gov",
-      "region": "UK",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": false
-    },
-    {
       "id": "32ac2680b2bc013e",
       "title": "NATO Transformation Champions Align Efforts to Accelerate Digital Transformation and Improve Interoperability Across the Alliance",
       "summary": "NATO Transformation Champions Align Efforts to Accelerate Digital Transformation and Improve Interoperability Across the Alliance &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
@@ -414,19 +388,6 @@
       "lang": "en",
       "theme": null,
       "via_gnews": true
-    },
-    {
-      "id": "9fb767d58820cef1",
-      "title": "Corporate report: Ministry of Defence annual report and accounts 2025 to 2026",
-      "summary": "The annual report and accounts consists of a performance report, an accountability report and the annual accounts, providing detail on Defence activity undertaken during financial year 2025 to 2026.",
-      "link": "https://www.gov.uk/government/publications/ministry-of-defence-annual-report-and-accounts-2025-to-2026",
-      "date": "2026-07-15",
-      "source": "UK Ministry of Defence",
-      "source_type": "gov",
-      "region": "UK",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": false
     },
     {
       "id": "829cf14cf97029a2",
@@ -871,19 +832,6 @@
       "via_gnews": true
     },
     {
-      "id": "5a4814c93858089b",
-      "title": "NATO summit dashes Putin’s hopes of outlasting the West in Ukraine",
-      "summary": "This week's NATO summit in Ankara focused on demonstrating a united front in support of Ukraine. This was a major blow for Russian dictator Vladimir Putin, who still hopes Western disunity can hand Russia victory in Ukraine, writes Peter Dickinson. The post NATO summit dashes Putin&#8217;s hopes of outlasting the West in Ukraine appeared first on Atlantic Council .",
-      "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/nato-summit-dashes-putins-hopes-of-outlasting-the-west-in-ukraine/",
-      "date": "2026-07-09",
-      "source": "Atlantic Council",
-      "source_type": "tt",
-      "region": "RU",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": false
-    },
-    {
       "id": "6c3fe22d3d3d99f3",
       "title": "First Nations International Engagement Strategy",
       "summary": "First Nations International Engagement Strategy &nbsp;&nbsp; Australian Government Department of Foreign Affairs and Trade",
@@ -895,32 +843,6 @@
       "lang": "en",
       "theme": "diplomacy",
       "via_gnews": true
-    },
-    {
-      "id": "04b5687a9809aa21",
-      "title": "Eleven takeaways from the NATO Summit in Ankara",
-      "summary": "Atlantic Council experts break down the most important developments coming out of the Ankara summit. The post Eleven takeaways from the NATO Summit in Ankara appeared first on Atlantic Council .",
-      "link": "https://www.atlanticcouncil.org/dispatches/eleven-takeaways-from-the-nato-summit-in-ankara/",
-      "date": "2026-07-09",
-      "source": "Atlantic Council",
-      "source_type": "tt",
-      "region": "US",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": false
-    },
-    {
-      "id": "70732c4ceb19517c",
-      "title": "Charai for The Jerusalem Strategic Tribune: Iran Failed Trump’s Test",
-      "summary": "The post Charai for The Jerusalem Strategic Tribune: Iran Failed Trump&#8217;s Test appeared first on Atlantic Council .",
-      "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/charai-for-the-jerusalem-strategic-tribune-iran-failed-trumps-test/",
-      "date": "2026-07-09",
-      "source": "Atlantic Council",
-      "source_type": "tt",
-      "region": "US",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": false
     },
     {
       "id": "43408a1836265a7c",
@@ -1235,6 +1157,19 @@
       "via_gnews": true
     },
     {
+      "id": "06122dd13be32fc5",
+      "title": "Preliminary Report | Independent International Scientific Panel on AI",
+      "summary": "Preliminary Report | Independent International Scientific Panel on AI &nbsp;&nbsp; Welcome to the United Nations",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOVdJYWo0dU9JbGVSbWkySFBMT0loa3RESFFYQXJfSFMxcXFJU2VlWHozWFg0S3NOa19xb0owNWJENTkyU24zNjgtRVFkSUo0a3BBQzlvOWZ1R1Q1aW5CVXFHQW5QQ21nQ2lDQmFBbTdkNHVPSEE4N2hVSFoxYXZKYnhmSlpzMTJNc0VCTF82RQ?oc=5",
+      "date": "2026-07-01",
+      "source": "United Nations",
+      "source_type": "io",
+      "region": "Global",
+      "lang": "en",
+      "theme": "technology",
+      "via_gnews": true
+    },
+    {
       "id": "a0cc855acf02e34c",
       "title": "Joint statement of the Nordic-Baltic Prime Ministers",
       "summary": "Joint statement of the Nordic-Baltic Prime Ministers &nbsp;&nbsp; Government.se",
@@ -1248,9 +1183,9 @@
       "via_gnews": true
     },
     {
-      "id": "3ec8666322e10e42",
-      "title": "Czechia parliamentary elections 2025: ODIHR election assessment mission final report",
-      "summary": "Czechia parliamentary elections 2025: ODIHR election assessment mission final report &nbsp;&nbsp; OSCE Office for Democratic Institutions and Human Rights",
+      "id": "4394eada095d4773",
+      "title": "Czechia parliamentary elections 2025: ODIHR election assessment mission final report - Organization for Security and Co-operation in Europe",
+      "summary": "Czechia parliamentary elections 2025: ODIHR election assessment mission final report &nbsp;&nbsp; Organization for Security and Co-operation in Europe",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XZnJrSGVXZVpVMU9weG1ZcEZPZk9EUUZUY01fc1IxYlgwajN2bDBvaTZSV1dwZ1Z3RVdva0o2QjA2ekltQXJ4cjhqWkNCSHNLeGc?oc=5",
       "date": "2026-07-01",
       "source": "OSCE",
@@ -1456,6 +1391,19 @@
       "via_gnews": true
     },
     {
+      "id": "af6bae5252c552e2",
+      "title": "Global Gas Flaring Tracker Report",
+      "summary": "Global Gas Flaring Tracker Report &nbsp;&nbsp; World Bank Group",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLTM1d1kwZ2QyUVZJckdwOXl5UUNJYThuT1VaSWdkZU9XeGxRU2N6czlUYjU3QVdMYjk0eUJkdjYwdV9YblZEcDBrYlVpODZYb09uUG5xSDYwYjRTUk9fZ1p5YzJ4cXFHTTMtTVItNnpYUkZIQVZEcW5kUzZtekx0YVVRYVh2LW1xeHN3UlQ4bXBtV3Q5YnJsdDdDdjFoRkJQcFU4YmRSLVF5RnZnbWliZGxGbUF5a3dZX1VtZXZYUnhobUt5MVlTd1RhUUo?oc=5",
+      "date": "2026-06-23",
+      "source": "World Bank",
+      "source_type": "io",
+      "region": "Global",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "585d62280d7bd846",
       "title": "Staatsbezoek – België en Japan, een hereniging in het teken van vriendschap en samenwerking",
       "summary": "Visite d’Etat – La Belgique et le Japon, des retrouvailles sous le signe de l’amitié et de la coopération jeroen.francois Fri 19/06/2026 - 15:19 Type d'actualité Communiqué de presse Pays Japon Sujets Visite d’état Carte diplomatique Dernière mise à jour le 19 juin 2026 Cette année, la Belgique et la Japon célèbrent 160 ans de relations diplomatiques. A cette occasion, Leurs Majestés le Roi et la Reine accueillent Leurs Majestés Impériales l’Empereur Naruhito du Japon et son épouse l’Impératrice Masako pour une visite d'Etat de deux jours en Belgique, du 23 au 24&nbsp;juin 2026, placée sous le",
@@ -1583,19 +1531,6 @@
       "region": "FR",
       "lang": "fr",
       "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "24143f2a023168ab",
-      "title": "Joint Declaration of Intent for Cooperation between Sweden and France on Total Defence and Resilience",
-      "summary": "Joint Declaration of Intent for Cooperation between Sweden and France on Total Defence and Resilience &nbsp;&nbsp; Government.se",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSXVSdzhBTzY0UW5vZjBTTDRQTmdpWGxjQkk5Tk5NbGZNRkpHY25KVUtZSFoyVEUwT1RPVWkxTFR3SXVUT2Y2TG5qN0Z4Nmp2SXlsNFhxV2puUmg3ekI1MjlRcWViOERYM0p1NnZNalprU2lRdU10eS1ZaVM3MUpSbjhaVnM2a3ZRQUtoUnZUMWFLWVRVY2FtSXQzSUs5Ty1uUkZGUjQtdk42UmVfOUNtQU5HNm9RaUhjMzFETnZpbWxnV2o0di1JT0ZZak9LcTZQUUlxU1FNVmlJd184R0NSWmVNdlB0OVNRUnRoNDk3RQ?oc=5",
-      "date": "2026-06-17",
-      "source": "Sweden — Government",
-      "source_type": "gov",
-      "region": "SE",
-      "lang": "en",
-      "theme": "security",
       "via_gnews": true
     },
     {
@@ -2457,6 +2392,19 @@
       "via_gnews": true
     },
     {
+      "id": "93ab47be35cf54e7",
+      "title": "Leimert Park Delegate Represents South Los Angeles at African Union Summit",
+      "summary": "Leimert Park Delegate Represents South Los Angeles at African Union Summit &nbsp;&nbsp; Los Angeles Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUkJKelpocEVqeUtKa2hzV3pKejBacmxsVE1HN0JuY1VCYWJ1RXd3aVJmSGFVdEZKeHBKSTJ4azZZZEJPd1FCSTM2NHIyZ0RzVE1kSkIyRFhsU19qQ0owc0NYNmQ0RmVhaFhJWlZIZS1tNDBaX0FGaVRUcHluNmkxZm9ZcEg1YTMzclE5VS15aTdlc0t6b0xzV0pMNkxwM3dZZVRBbw?oc=5",
+      "date": "2026-02-18",
+      "source": "African Union",
+      "source_type": "io",
+      "region": "Africa",
+      "lang": "en",
+      "theme": "diplomacy",
+      "via_gnews": true
+    },
+    {
       "id": "48e85a45bf66e955",
       "title": "Leaders Prioritise Health Sovereignty and Women's, Children's and Adolescents' Health at the 39th AU Summit - PMNCH",
       "summary": "Leaders Prioritise Health Sovereignty and Women's, Children's and Adolescents' Health at the 39th AU Summit &nbsp;&nbsp; PMNCH - Partnership for Maternal, Newborn and Child Health",
@@ -3247,6 +3195,19 @@
       "region": "EU",
       "lang": "en",
       "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "3965dce3a337aa88",
+      "title": "Minister for International Development Cooperation and Foreign Trade invites businesses and organisations to discuss the EU’s new single market strategy",
+      "summary": "Minister for International Development Cooperation and Foreign Trade invites businesses and organisations to discuss the EU’s new single market strategy &nbsp;&nbsp; Government.se",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQeV9MVnJVWDRIV3AxSWpJZGFIazRMdUVsQnNpVVB5U3RVVG53NWlmUXQ1UnNLVFIzNnY4Y0FMc21IRWE5RlJmdGtSQVNqWk5KMnBtWXN1UU53ZklNSGFHZ2lDck5mNWQyaFI1OTV0Z0I0Slg2SFFTRVNOYzlRaWpweXRuZmE3cGhPSjA0YUM4NGhXV3JpLUM1TTl1WjllVHduNTVhYlZzWjgtQjIyWkdnXzM0UVlmVDN2Y094UXBDQ2hpX2Nqa3BCeFZuQmxQeFBhNENFaENDdjBIRTJOdTYxUXRnVU01MzNVNFZWRGFSTGlQMzQyVTlOaHN2S3VhYldMMlNybmZQNjFOM0haM25ZVE8taU53VmstZm1XRmp4azVuQVNCbHJpeQ?oc=5",
+      "date": "2025-09-03",
+      "source": "Sweden — Government",
+      "source_type": "gov",
+      "region": "SE",
+      "lang": "en",
+      "theme": "economy",
       "via_gnews": true
     },
     {
@@ -4797,6 +4758,19 @@
       "via_gnews": true
     },
     {
+      "id": "5ec6be8d3f4e3142",
+      "title": "Meeting of the Council at Ministerial Level, 7-8 June 2023 UKRAINE COUNTRY PROGRAMME",
+      "summary": "Meeting of the Council at Ministerial Level, 7-8 June 2023 UKRAINE COUNTRY PROGRAMME &nbsp;&nbsp; OECD",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEdGd2OTczV2xUYXpibnNxS0xWU0NOMm5KUnViWF91b044MWJTRXA5NTZpY0RHWkJqQlkxeGpoVGVvbGN2X2pPbFlZMlJTczhaVnlnLVRDZTVSNGdpb2c?oc=5",
+      "date": "2023-05-30",
+      "source": "OECD",
+      "source_type": "io",
+      "region": "Global",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "b3f2a846113de8b4",
       "title": "Mapping the Semiconductor Supply Chain: The Critical Role of the Indo-Pacific Region",
       "summary": "Mapping the Semiconductor Supply Chain: The Critical Role of the Indo-Pacific Region &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
@@ -5200,19 +5174,6 @@
       "via_gnews": true
     },
     {
-      "id": "769caf481084da50",
-      "title": "Re-energising Europe: A package deal for the EU27 - Final Report",
-      "summary": "Re-energising Europe: A package deal for the EU27 - Final Report &nbsp;&nbsp; GLOBSEC",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSThXZU1jdVhJWUVxVjBtRTV0MVZlRnk5Sm5mVkxKUXdFU3lZbkd6bWNoU1l6Y1N3aVZqWVdOekhvSVBkY3U5NWtubk9SQld0Z19FMGtMUVVKTVo3UmpDZDF4OG4xRFdOaXRZaUJ3MmdhT0FwaWdFbEhnZlh3aHZ4TWJBOWxoODJ0TS1kdTdxcXpLVXZqQTNlMXQxNUNSYW9MbzFv?oc=5",
-      "date": "2022-11-01",
-      "source": "GLOBSEC",
-      "source_type": "tt",
-      "region": "EU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "278e3f42f05fba24",
       "title": "From Criminals to Terrorists and Back Quarterly Report: Great Britain & Ireland",
       "summary": "From Criminals to Terrorists and Back Quarterly Report: Great Britain & Ireland &nbsp;&nbsp; GLOBSEC",
@@ -5243,6 +5204,19 @@
       "title": "From Criminals to Terrorists and Back? Quarterly Report: Spain, vol.2",
       "summary": "From Criminals to Terrorists and Back? Quarterly Report: Spain, vol.2 &nbsp;&nbsp; GLOBSEC",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaDU4NDBiQTQxaWI3cUpad2F3RjdFaTdndW1iem1US0E3QUFFNURXaEFidU9NaXByN1lyOTRROTc5c2NjZFY5VXE4aXNRUi1GTDdBM3diR3VWblZzMXBvM3AtVGhsMGtNY01Yc0NwSmROejVOUVoyVy1yWnUxQXZuOHdzQm9kbXlCLS1yeEZZZDNXNlVLWEFXTDhCZGFoVV81WEptM0x6Q3VFWkk?oc=5",
+      "date": "2022-10-28",
+      "source": "GLOBSEC",
+      "source_type": "tt",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "3f6fc2abb08283da",
+      "title": "From Criminals To Terrorists And Back? Quarterly Report: France, vol. 2",
+      "summary": "From Criminals To Terrorists And Back? Quarterly Report: France, vol. 2 &nbsp;&nbsp; GLOBSEC",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmZHUGNRMXU0RnV1N0Z2amxkd2V6YzNhOE4wSHVVZkQ0SnRaYjVmQVFsUXJReFpwSDVMbW9RY3luX2x2UlNYd042SERyODNsQXVyS1V2aVU1UVg4bmo1T3hHVG5pbjUtM0hKckpuMDhLQVNsS3d4TmpDeUpuMWRyYTkwdC1YZmdFLXU0Tkk2MW5ORGc4QWxBR1otLXhHSnZObjhESC10clI1Y0k?oc=5",
       "date": "2022-10-28",
       "source": "GLOBSEC",
       "source_type": "tt",
@@ -6383,19 +6357,6 @@
       "via_gnews": true
     },
     {
-      "id": "9dd30f4ae76eda7f",
-      "title": "Ten Years On: Reassessing the Stoltenberg Report on Nordic Cooperation",
-      "summary": "Ten Years On: Reassessing the Stoltenberg Report on Nordic Cooperation &nbsp;&nbsp; NUPI",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQazdqSXpiMmZVSTZRZXJONXlTR1NSYUNpYlFzeFBUM2M2RFdjcWdYbnRRMU8zdC1MYjdOMUU0bUxVdUN6SnlVd0Q5MUdPWng0ajBCelpsbFg0UFlVMkJ0SXNreFJzdTljcVlHN0JoVFRPREVFRlJZOFowZEdxanhxcE1nQXVDazFCUEpJNUtRNVFPakU0N1g5VkVkb05ZVUlMa2p3b3lLdi1FTVJ6S3Z5YW5PV1dKZWFO?oc=5",
-      "date": "2019-05-06",
-      "source": "NUPI (NO)",
-      "source_type": "tt",
-      "region": "NO",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "c128c25ce1f778d2",
       "title": "mars 2019",
       "summary": "mars 2019 &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
@@ -7142,6 +7103,19 @@
       "summary": "Report Calls for Military Disengagement From Iraq &nbsp;&nbsp; Council on Foreign Relations",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tWnQ0MTJ1VkZrbWt1dERZSzVGbEZyX21RMWRzZlFwMnVuM2JzRlR4OEtpZ0ZHaER2OUhwM0xIRzhsTmFnNjlTaHhjb0hxTEFnWWFkX1NidGxtYWNYSXUtVHFCQ1hNdmlPYzEyVWhEc25ZaDRaQnFWMQ?oc=5",
       "date": "2007-02-07",
+      "source": "Council on Foreign Relations",
+      "source_type": "tt",
+      "region": "US",
+      "lang": "en",
+      "theme": "security",
+      "via_gnews": true
+    },
+    {
+      "id": "c3b90a1da83c71e6",
+      "title": "Cordesman: Report to Congress on Iraq War Borders on ’Deception’",
+      "summary": "Cordesman: Report to Congress on Iraq War Borders on ’Deception’ &nbsp;&nbsp; Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMmdQUVNBN1ZBNnBwRTVYY0ZwM3M1V2xlbENCbFYtR08xWjBYZVNwUG9raEgyQXBzZ2dadjJsdDNHTlRaZTF0RUxVUzFwc2pmUjIyMXpCQW9wdTJ0VFFsVVlWLTNyTTdlQnFweXNrZVd2Rk96SmJaY0t3UmdFdm9fRlJxZEx3TzVB?oc=5",
+      "date": "2006-06-07",
       "source": "Council on Foreign Relations",
       "source_type": "tt",
       "region": "US",
