@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-16T22:01:37.883762+00:00",
-    "duration_seconds": 113.038105,
+    "generated_at": "2026-07-17T02:13:04.500982+00:00",
+    "duration_seconds": 89.605006,
     "stats": {
-      "ok": 84,
-      "fail": 15,
-      "items_total": 2291,
-      "items_strict": 541,
-      "events_detected": 3
+      "ok": 85,
+      "fail": 14,
+      "items_total": 2298,
+      "items_strict": 549,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -91,40 +91,6 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "05088c6e05e2bf94-evt",
-      "title": "Commission approves Czech capacity mechanism under Clean Industrial Deal State Aid Framework",
-      "date": "2026-07-16",
-      "end_date": "2026-07-16",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1611",
-      "summary": "European Commission Press release Brussels, 16 Jul 2026 The European Commission has approved, under EU State aid rules, Czechia's market-wide capacity mechanism. The measure aims to ensure there is sufficient capacity to produce or store electricity, or to reduce electricity consumption so that prod",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "c5c84b5ceeaeedb7-evt",
-      "title": "Commission welcomes political agreement on the Programme for agile and rapid defence innovation",
-      "date": "2026-07-16",
-      "end_date": "2026-07-16",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "security",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1633",
-      "summary": "European Commission Press release Brussels, 16 Jul 2026 The European Commission welcomes the political agreement reached today between the European Parliament and the Council on the Programme for agile and rapid defence innovation (AGILE), to bring disruptive defence technology from the lab to the f",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "ddcbbd0e1fd22c4c-evt",
