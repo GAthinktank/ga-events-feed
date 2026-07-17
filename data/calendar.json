@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-17T05:39:01.617312+00:00",
-    "duration_seconds": 108.495702,
+    "generated_at": "2026-07-17T08:03:07.821827+00:00",
+    "duration_seconds": 97.081831,
     "stats": {
-      "ok": 84,
-      "fail": 15,
-      "items_total": 2290,
-      "items_strict": 541,
-      "events_detected": 1
+      "ok": 85,
+      "fail": 14,
+      "items_total": 2300,
+      "items_strict": 549,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -91,6 +91,23 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "2b8bcdca5b67f057-evt",
+      "title": "Secretary-General of ASEAN attends the 2026 World Artificial Intelligence Conference",
+      "date": "2026-07-17",
+      "end_date": "2026-07-17",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "CN",
+      "theme": "technology",
+      "link": "https://asean.org/secretary-general-of-asean-attends-the-2026-world-artificial-intelligence-conference/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 17 July 2026, attended the Opening Ceremony of the 2026 World Artificial Intelligence Conference (WAIC),&#160;in Shanghai, China. WAIC is a strategic platform to exchange perspectives on AI innovation, governance, and digital transformation, The post",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "ddcbbd0e1fd22c4c-evt",
