@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-17T10:44:00.610321+00:00",
-    "duration_seconds": 110.433631,
+    "generated_at": "2026-07-17T13:19:24.508370+00:00",
+    "duration_seconds": 87.904445,
     "stats": {
-      "ok": 84,
-      "fail": 15,
-      "items_total": 2290,
-      "items_strict": 542,
-      "events_detected": 2
+      "ok": 85,
+      "fail": 14,
+      "items_total": 2303,
+      "items_strict": 552,
+      "events_detected": 5
     },
     "source_count": 99
   },
@@ -91,6 +91,57 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "d431a51f44ccaddd-evt",
+      "title": "Commission launches EU-Ukraine Drone Alliance to boost drone and counter-drone technology",
+      "date": "2026-07-17",
+      "end_date": "2026-07-17",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "security",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1648",
+      "summary": "European Commission Press release Brussels, 17 Jul 2026 The European Commission officially launched the EU-Ukraine Drone Alliance during the third EU-Ukraine Defence Industry Forum in Kyiv. The Alliance will help the EU and Ukraine work more closely on developing and using drones and systems to stop",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "7a9777029e061ff5-evt",
+      "title": "Remarks by Executive Vice-President Ribera and Commissioners Hoekstra and Jørgensen at the press conference on the EU Emission Trading System review and the Electrification Action Plan",
+      "date": "2026-07-17",
+      "end_date": "2026-07-17",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "climate",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1643",
+      "summary": "European Commission Speech Brussels, 17 Jul 2026 Executive Vice-President Ribera Thank you very much, and thank you for joining us today. We are presenting a set of important proposals. Recent weeks, and las...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "755c156217c61dc3-evt",
+      "title": "Secretary-General of ASEAN meets with Vice President of Huawei",
+      "date": "2026-07-17",
+      "end_date": "2026-07-17",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "CN",
+      "theme": "technology",
+      "link": "https://asean.org/secretary-general-of-asean-meets-with-vice-president-of-huawei/",
+      "summary": "On the sidelines of his participation in the 2026 World Artificial Intelligence Conference (WAIC), in Shanghai, China, Secretary-General of ASEAN Dr. Kao Kim Hourn, on 17 July 2026, met with Mr. Zhou Wei, Vice President of Huawei, at the Huawei Lianqiu Lake R&#38;D Center. The meeting provided the T",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "2b8bcdca5b67f057-evt",
