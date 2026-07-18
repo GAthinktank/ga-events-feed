@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-18T18:58:21.726488+00:00",
-    "duration_seconds": 119.434476,
+    "generated_at": "2026-07-18T21:46:08.218883+00:00",
+    "duration_seconds": 83.982025,
     "stats": {
-      "ok": 84,
-      "fail": 15,
-      "items_total": 2285,
+      "ok": 85,
+      "fail": 14,
+      "items_total": 2293,
       "items_strict": 534,
-      "events_detected": 1
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -75,6 +75,23 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "5e5b100821ac2cb2-evt",
+      "title": "Secretary-General of ASEAN shares ASEAN’s perspectives on Global AI Governance at the 2026 High-level Meeting on Global AI Governance",
+      "date": "2026-07-18",
+      "end_date": "2026-07-18",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "CN",
+      "theme": "technology",
+      "link": "https://asean.org/secretary-general-of-asean-shares-aseans-perspectives-on-global-ai-governance-at-the-2026-high-level-meeting-on-global-ai-governance/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 18 July 2026, delivered remarks at the High-Level Meeting on Global AI Governance, held on the sidelines of 2026 World Artificial Intelligence Conference (WAIC)&#160;in Shanghai, China. Dr. Kao was joined by heads of government, international organi ",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "ddcbbd0e1fd22c4c-evt",
