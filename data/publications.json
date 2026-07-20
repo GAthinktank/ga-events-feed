@@ -1,12 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-07-20T13:57:51.342394+00:00",
-    "duration_seconds": 84.670941,
+    "generated_at": "2026-07-20T16:22:36.970255+00:00",
+    "duration_seconds": 91.284169,
     "stats": {
       "ok": 85,
       "fail": 14,
-      "items_total": 2290,
-      "items_strict": 525,
+      "items_total": 2289,
+      "items_strict": 523,
       "events_detected": 2
     },
     "source_count": 99
@@ -52,6 +52,19 @@
       "via_gnews": true
     },
     {
+      "id": "ddb83da8d71ae2c7",
+      "title": "Policy paper: Women in Defence Charter",
+      "summary": "A commitment to improving gender balance in Defence.",
+      "link": "https://www.gov.uk/government/publications/women-in-defence-charter",
+      "date": "2026-07-20",
+      "source": "UK Ministry of Defence",
+      "source_type": "gov",
+      "region": "UK",
+      "lang": "en",
+      "theme": "security",
+      "via_gnews": false
+    },
+    {
       "id": "c098c4183373e9a6",
       "title": "Namibia must turn an African summit into a national opportunity",
       "summary": "Namibia must turn an African summit into a national opportunity &nbsp;&nbsp; Windhoek Observer",
@@ -73,6 +86,19 @@
       "source": "Australia — DFAT",
       "source_type": "gov",
       "region": "AU",
+      "lang": "en",
+      "theme": "diplomacy",
+      "via_gnews": true
+    },
+    {
+      "id": "dbd8ac2f485b204a",
+      "title": "African Union: Extraordinary Summit on Health on July 21-22 in Accra",
+      "summary": "African Union: Extraordinary Summit on Health on July 21-22 in Accra &nbsp;&nbsp; الإذاعة الجزائرية |",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vVjFQc2xUQjBxNXhyX01vVllUZXdKcnpLckN6RGQxS3BfYnpCTjZvMFNjM3RLN2xHQTYtUENKMlowaUh0d1I3SWoxaGlwYTZhMjJB?oc=5",
+      "date": "2026-07-20",
+      "source": "African Union",
+      "source_type": "io",
+      "region": "Africa",
       "lang": "en",
       "theme": "diplomacy",
       "via_gnews": true
@@ -273,19 +299,6 @@
       "via_gnews": false
     },
     {
-      "id": "06710932ff379416",
-      "title": "5th Meeting of the BIMSTEC National Security Chiefs (July 16, 2026)",
-      "summary": "5th Meeting of the BIMSTEC National Security Chiefs (July 16, 2026) &nbsp;&nbsp; Ministry of External Affairs",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUzJfUDRYTjV0bFNHZ2VzUHhORHRyejJwb2FxZnBtLXRJUWFWUWI0NWlwS2hqakpMLXR6RWdIdEhzTTQyb0JYMGVISzU0RTVNU2FzZlZncWluRkc1eGk2UGQ4aTJlalUxUV8ycG9paHZfdS1jcTRSZlhCNDNaNVhTOFNGek1BRzBFZkZRaklpYm1LNUREaVdxamtlSmVkSGRRVDl3OTdjRkt5QVg2NnFQd3pn?oc=5",
-      "date": "2026-07-16",
-      "source": "India — MEA",
-      "source_type": "gov",
-      "region": "IN",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "04e6498c2adf8b91",
       "title": "Remarks",
       "summary": "Remarks &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
@@ -325,19 +338,6 @@
       "via_gnews": true
     },
     {
-      "id": "829cf14cf97029a2",
-      "title": "Corporate report: Armed Forces Pension Scheme annual accounts 2025 to 2026",
-      "summary": "AFPS (incorporating the Armed Forces Compensation Scheme) annual accounts for the year ended at 31 March 2026.",
-      "link": "https://www.gov.uk/government/publications/armed-forces-pension-scheme-annual-accounts-2025-to-2026",
-      "date": "2026-07-15",
-      "source": "UK Ministry of Defence",
-      "source_type": "gov",
-      "region": "UK",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": false
-    },
-    {
       "id": "85fab3e883ecd9e8",
       "title": "Belgium-India Strategic Dialogue (15 July 2026) – Joint Statement",
       "summary": "Belgium-India Strategic Dialogue (15 July 2026) – Joint Statement lien.horemans Wed 15/07/2026 - 11:58 Type d'actualité Déclaration Pays Inde Sujets Joint statement Carte diplomatique Dernière mise à jour le 15 juillet 2026 Cette déclaration est disponible uniquement en anglais. In an ever-changing world, Belgium and India recognise the importance of forging stronger partnerships to address common challenges and seize shared opportunities. On 15 July 2026, the two countries held the first meeting of the Belgium-India Strategic Dialogue, marking a significant step towards strengthening bilatera",
@@ -372,6 +372,19 @@
       "source": "Council on Foreign Relations",
       "source_type": "tt",
       "region": "US",
+      "lang": "en",
+      "theme": "security",
+      "via_gnews": true
+    },
+    {
+      "id": "bc21d1390b6f6cd1",
+      "title": "NATO 3.0: The Ankara Summit Unpacked",
+      "summary": "NATO 3.0: The Ankara Summit Unpacked &nbsp;&nbsp; The International Institute for Strategic Studies",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONkhFTEw2SXpzT1otbXB5R1RnMlo1b1hnNWFnNU9mLTRjTWRaS2QwUlhVbUw5amtNV2ZwQm9ROS11dy1jSVZqdGZKY0hacFZuNFhZRG9vVkNvSVphZG5rMkYxTTJ0MzhZN3BYMHFTOHFWLTk1SlNKMVM5Rk5sRWdSLUh5emFOQUtIU2tFRjBTMTJ2YlFR?oc=5",
+      "date": "2026-07-14",
+      "source": "IISS",
+      "source_type": "tt",
+      "region": "UK",
       "lang": "en",
       "theme": "security",
       "via_gnews": true
@@ -988,6 +1001,19 @@
       "via_gnews": true
     },
     {
+      "id": "29827e04a415aa77",
+      "title": "Human Rights Council – 38th Session Freedom Online Coalition Geneva Network Joint Statement",
+      "summary": "Human Rights Council – 38th Session Freedom Online Coalition Geneva Network Joint Statement &nbsp;&nbsp; Australian Government Department of Foreign Affairs and Trade",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWhwNzZfRVd1Uk8tV2V6elRuX01HamYweWdKYWZRUmtrQjRKd1Qxa2lnUU5Pd2NyRzNpby11VjJGUkUtY1RMbWRGWDMyTjFfTGh1M3FYd0hVQ3hlRkRrQ0k3WHZkckt3X1lCZ09yNTZNYlBQUjdWYUhTbUJRNWpfZldBS3hTT3p4bmNTY1BjRkk4bGVVRWxjLWluRlp4Qk1KakQzbHRMNWhyalV3cldTZjNB?oc=5",
+      "date": "2026-06-25",
+      "source": "Australia — DFAT",
+      "source_type": "gov",
+      "region": "AU",
+      "lang": "en",
+      "theme": "diplomacy",
+      "via_gnews": true
+    },
+    {
       "id": "cfe012373b1e2837",
       "title": "Sweden’s strategy for a peaceful, secure and sustainable Arctic",
       "summary": "Sweden’s strategy for a peaceful, secure and sustainable Arctic &nbsp;&nbsp; Government.se",
@@ -1516,19 +1542,6 @@
       "source": "Bruegel",
       "source_type": "tt",
       "region": "EU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "0cd6ff7d1a4bb391",
-      "title": "India-Norway Joint Statement (May 18, 2026)",
-      "summary": "India-Norway Joint Statement (May 18, 2026) &nbsp;&nbsp; Ministry of External Affairs",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRU92RmpnWnozRE9GZGdpRTZIMndYaExVSHhyOFhYa3BSem1sRVcwT3pLY3NjY292ejJXejBGRWM2OHFhT0szUXNfc2tSbVJTejV2YVQ4OUpFZFJJdlBqT19mQjA1cElIb0JBZ016bjc3NHZlRUdYTmFkTDVKQTc2dmRGTy1WdVhLWjBlTmplNktTejJzU3pZ?oc=5",
-      "date": "2026-05-18",
-      "source": "India — MEA",
-      "source_type": "gov",
-      "region": "IN",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -2093,6 +2106,19 @@
       "via_gnews": true
     },
     {
+      "id": "7d8431b3b2633909",
+      "title": "Strategic Analysis - MP-IDSA",
+      "summary": "Strategic Analysis &nbsp;&nbsp; MP-IDSA",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93OTFDT1RSX3AtOVUybnFyc0VSeTc4SlpKanoyNTNGVElibFBwTi1RMWZJeVdCb3o2ZGNzVml2ZW5EUHlRd1BtbjZJb2hGSzZPMWpISmxLSlFOVlpmTEJSR1dGTnM5bHRYUmc?oc=5",
+      "date": "2026-02-13",
+      "source": "IDSA — Manohar Parrikar Institute",
+      "source_type": "tt",
+      "region": "IN",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "3dbfb35c1c99c403",
       "title": "A pragmatic agenda for the 2026 African Union Summit",
       "summary": "A pragmatic agenda for the 2026 African Union Summit &nbsp;&nbsp; George W. Bush Presidential Center",
@@ -2479,6 +2505,19 @@
       "source_type": "tt",
       "region": "IN",
       "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "1903dc937d812b1b",
+      "title": "Outer space is vital to our security – the Federal Government presents the first Space Safety and Security Strategy",
+      "summary": "Outer space is vital to our security – the Federal Government presents the first Space Safety and Security Strategy &nbsp;&nbsp; Auswärtiges Amt",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdktCTVhmcDFLbWxoc3FEellvVmNud0ctcWY0UkgzX2RVZjczeW1UdnlrejA2N2kyX0hsNWR0WGtidGE2WE8zNXNpbl9IYktNUHpYaUNhV0xDVks4S19VT2pQeXlOWWhmbTV6Q2MtYXJ0WjlONjRxRFRIVWxEM1cxLTl2clYzMGU0cjRjbVdmMmI3Q2pTTkE?oc=5",
+      "date": "2025-11-19",
+      "source": "Germany — Auswärtiges Amt",
+      "source_type": "gov",
+      "region": "DE",
+      "lang": "de",
       "theme": null,
       "via_gnews": true
     },
@@ -4407,19 +4446,6 @@
       "via_gnews": true
     },
     {
-      "id": "919bd91c5df52981",
-      "title": "PISM Report: Is This the Future of Europe? Opportunities and Risks for Poland in a Union of Insiders and Outsiders",
-      "summary": "PISM Report: Is This the Future of Europe? Opportunities and Risks for Poland in a Union of Insiders and Outsiders &nbsp;&nbsp; pism.pl",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMVlFdmxRRXVEOHFiZzUwdU13dU5KVHRrY2hUbGR1ZFA5T3V2UEVBWDltcl96NlEycllFeVpad3djMlIydkdFbU5HY3RNMkxQVlhsQmFLd0ZuUDFxWEd0VVk0UlJmZUU4VGgyanVPNHN6bHQ1MjFqUVpIX1FmUlNlMV9VeXNmd250bXU2SnZKdHhndEFRUllRZFBPcnU5cHZXNmFIUWRoR3RVNmtpVzFicmRsX080YW5LdFZoV1llTnVuaGh4azhBY0JZQ1lFU0hjekVVaFBMUC1pNkhlblVpS1FR?oc=5",
-      "date": "2023-05-12",
-      "source": "PISM (PL)",
-      "source_type": "tt",
-      "region": "PL",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "849232d771b1865e",
       "title": "French Network for Indo-Pacific Policy Research | Programs / EU | Foundation for Strategic Research",
       "summary": "French Network for Indo-Pacific Policy Research | Programs / EU | Foundation for Strategic Research &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
@@ -4429,19 +4455,6 @@
       "source_type": "tt",
       "region": "FR",
       "lang": "fr",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "62a8f3e43caf837b",
-      "title": "Strategic Survey 2020 | The Annual Assessment of Geopolitics",
-      "summary": "Strategic Survey 2020 | The Annual Assessment of Geopolitics &nbsp;&nbsp; The International Institute for Strategic Studies",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONW94THRieDlXYWRrUjZ0MUZnaEc2SnJTTXBiV2NocXpBemp5bnpJVDhNejZKWC01aFBYVnNlWkdOTmJtM3NCbVpILUlYX2dZZmNydHgzdFpKaWRxckFYbDBlTDFuRTVNbnJhQWxKYmVXcmkxTm9pMXdYU1YyeVY0aGtoQ0x2ZEtXaTN6MmFsWW9zUy1JanRDU2VTX1BzenNWNWl1ZXdJUURpbFNwR2dR?oc=5",
-      "date": "2023-05-09",
-      "source": "IISS",
-      "source_type": "tt",
-      "region": "UK",
-      "lang": "en",
       "theme": null,
       "via_gnews": true
     },
@@ -5590,19 +5603,6 @@
       "via_gnews": true
     },
     {
-      "id": "1d59f553f75ba166",
-      "title": "conference report - Woodrow Wilson Center",
-      "summary": "conference report - Woodrow Wilson Center &nbsp;&nbsp; Woodrow Wilson Center",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQemZ6QnJNdk9lbE9pZWJ6OUV3MERxeGtuZDAwTEZmUnU4VmdYVGl0NlBxcExkSGMxMEFUVjFsYmM4Ukwya1czc3NjcHNPQkZiQm5rZGJjYmFUeFJENUVVWTdaa3V3QW8zalUxcHVrSWhYNXRMUWNtci1vZE1DMkxNUnd1ZEtFa21uMEZHal84cGI?oc=5",
-      "date": "2020-12-17",
-      "source": "Wilson Center",
-      "source_type": "tt",
-      "region": "US",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "90488743b9d28058",
       "title": "Why European strategic autonomy matters",
       "summary": "Why European strategic autonomy matters &nbsp;&nbsp; EEAS",
@@ -6146,19 +6146,6 @@
       "region": "CN",
       "lang": "en",
       "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "127ed4ae352e4d2f",
-      "title": "Joint Statement on the Establishment of a Strategic Partnership between Australia and Viet Nam",
-      "summary": "Joint Statement on the Establishment of a Strategic Partnership between Australia and Viet Nam &nbsp;&nbsp; Australian Government Department of Foreign Affairs and Trade",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcEpYSWtKX0xjYXlwNEU1MksxemV6Ql9Qc19LMEJpRkRsdU9qRTFjYU1QTXVXR1RRRGJuMVZWN2JVaVU0V01MNXZVa3Y5Mk9hOWh2OFoyZ2wzdWRsSnRmSE90aVVHS0FDV1VVTl9TZ0FhZnZhbUdKU1NKRHJHa0lJTVFVc3RLb3VlRTYyM3VwM01SOWJ1LVA5Y1JXMGMtektoRHNfdmlpWnFNcWpFTXhRVTZKUHUzQUJKdlQtaUlKUk45bzBQdXFfVWNqR3JqX0dwRVE?oc=5",
-      "date": "2018-03-16",
-      "source": "Australia — DFAT",
-      "source_type": "gov",
-      "region": "AU",
-      "lang": "en",
-      "theme": "diplomacy",
       "via_gnews": true
     },
     {
@@ -6778,19 +6765,6 @@
       "summary": "Report Calls for Military Disengagement From Iraq &nbsp;&nbsp; Council on Foreign Relations",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tWnQ0MTJ1VkZrbWt1dERZSzVGbEZyX21RMWRzZlFwMnVuM2JzRlR4OEtpZ0ZHaER2OUhwM0xIRzhsTmFnNjlTaHhjb0hxTEFnWWFkX1NidGxtYWNYSXUtVHFCQ1hNdmlPYzEyVWhEc25ZaDRaQnFWMQ?oc=5",
       "date": "2007-02-07",
-      "source": "Council on Foreign Relations",
-      "source_type": "tt",
-      "region": "US",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": true
-    },
-    {
-      "id": "c3b90a1da83c71e6",
-      "title": "Cordesman: Report to Congress on Iraq War Borders on ’Deception’",
-      "summary": "Cordesman: Report to Congress on Iraq War Borders on ’Deception’ &nbsp;&nbsp; Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMmdQUVNBN1ZBNnBwRTVYY0ZwM3M1V2xlbENCbFYtR08xWjBYZVNwUG9raEgyQXBzZ2dadjJsdDNHTlRaZTF0RUxVUzFwc2pmUjIyMXpCQW9wdTJ0VFFsVVlWLTNyTTdlQnFweXNrZVd2Rk96SmJaY0t3UmdFdm9fRlJxZEx3TzVB?oc=5",
-      "date": "2006-06-07",
       "source": "Council on Foreign Relations",
       "source_type": "tt",
       "region": "US",
