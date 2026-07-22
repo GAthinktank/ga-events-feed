@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-22T02:10:57.632797+00:00",
-    "duration_seconds": 86.616097,
+    "generated_at": "2026-07-22T05:45:47.429191+00:00",
+    "duration_seconds": 82.184577,
     "stats": {
       "ok": 85,
       "fail": 14,
-      "items_total": 2319,
-      "items_strict": 528,
-      "events_detected": 1
+      "items_total": 2316,
+      "items_strict": 537,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -59,6 +59,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "c6f7f5c6c9f250e5-evt",
+      "title": "Secretary-General of ASEAN Delivers Pre-Recorded Remarks at the ASEAN–China Tourism Dialogue",
+      "date": "2026-07-22",
+      "end_date": "2026-07-22",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "CN",
+      "theme": "diplomacy",
+      "link": "https://asean.org/secretary-general-of-asean-delivers-pre-recorded-remarks-at-the-asean-china-tourism-dialogue/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, delivered pre-recorded remarks at the ASEAN–China Tourism Dialogue, in Langkawi, Malaysia, on 22 July 2026. SG Dr. Kao underscored the strong recovery of ASEAN–China tourism as well as the shared commitment to building a resilient, sustainable, and The ",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "ddcbbd0e1fd22c4c-evt",
