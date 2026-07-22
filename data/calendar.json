@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-21T22:01:44.842406+00:00",
-    "duration_seconds": 89.31217,
+    "generated_at": "2026-07-22T02:10:57.632797+00:00",
+    "duration_seconds": 86.616097,
     "stats": {
       "ok": 85,
       "fail": 14,
-      "items_total": 2315,
-      "items_strict": 534,
-      "events_detected": 2
+      "items_total": 2319,
+      "items_strict": 528,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -59,23 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "e2dce60ebecccbac-evt",
-      "title": "Secretary-General of ASEAN meets with Minister of Foreign Affairs of the People’s Republic of China",
-      "date": "2026-07-21",
-      "end_date": "2026-07-21",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "CN",
-      "theme": "diplomacy",
-      "link": "https://asean.org/secretary-general-of-asean-meets-with-minister-of-foreign-affairs-of-the-peoples-republic-of-china-2/",
-      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 21 July 2026, met with H.E. Wang Yi, Member of the Political Bureau of the Communist Party of China (CPC) Central Committee, Director of the Office of the Central Commission for Foreign Affairs and Minister of Foreign Affairs of China, on the sideli ",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "ddcbbd0e1fd22c4c-evt",
