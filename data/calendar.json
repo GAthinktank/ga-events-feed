@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-23T13:47:45.473566+00:00",
-    "duration_seconds": 108.439953,
+    "generated_at": "2026-07-23T16:24:30.237144+00:00",
+    "duration_seconds": 93.834298,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2307,
-      "items_strict": 552,
-      "events_detected": 1
+      "items_total": 2309,
+      "items_strict": 550,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -59,6 +59,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "5be07a4438ef0d7b-evt",
+      "title": "Commission welcomes the Council's adoption of a renewed Interim Regulation to detect child sexual abuse online",
+      "date": "2026-07-23",
+      "end_date": "2026-07-23",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1676",
+      "summary": "European Commission Press release Brussels, 23 Jul 2026 The Commission welcomes today's adoption by the Council of a proposal to reinstate the interim derogation from certain provisions of the e-Privacy Directive for the purpose of combating online child sexual abuse. Today's Council adoption includ",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "ddcbbd0e1fd22c4c-evt",
