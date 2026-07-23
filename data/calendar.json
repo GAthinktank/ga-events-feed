@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-22T22:02:48.873788+00:00",
-    "duration_seconds": 117.689567,
+    "generated_at": "2026-07-23T02:22:50.502682+00:00",
+    "duration_seconds": 93.487819,
     "stats": {
-      "ok": 84,
-      "fail": 15,
-      "items_total": 2312,
-      "items_strict": 545,
-      "events_detected": 2
+      "ok": 85,
+      "fail": 14,
+      "items_total": 2313,
+      "items_strict": 543,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -59,23 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "169ca1d6dc958fe7-evt",
-      "title": "ASEAN-UK Joint Ministerial Statement on Cooperation on the ASEAN Outlook on the Indo-Pacific: Advancing Together",
-      "date": "2026-07-22",
-      "end_date": "2026-07-22",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "Asia",
-      "theme": "diplomacy",
-      "link": "https://asean.org/asean-uk-joint-ministerial-statement-on-cooperation-on-the-asean-outlook-on-the-indo-pacific-advancing-together/",
-      "summary": "WE the Member States of the Association of Southeast Asian Nations (ASEAN) and the United Kingdom of Great Britain and Northern Ireland (UK), gathered on the occasion of the ASEAN Post-Ministerial Conference with the UK in Manila, 22 July 2026; COMMEMORATING the fifth anniversary of the ASEA The pos",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "ddcbbd0e1fd22c4c-evt",
