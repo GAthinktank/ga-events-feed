@@ -1,17 +1,30 @@
 {
   "meta": {
-    "generated_at": "2026-07-23T02:22:50.502682+00:00",
-    "duration_seconds": 93.487819,
+    "generated_at": "2026-07-23T05:50:52.696007+00:00",
+    "duration_seconds": 91.042501,
     "stats": {
       "ok": 85,
       "fail": 14,
-      "items_total": 2313,
-      "items_strict": 543,
+      "items_total": 2315,
+      "items_strict": 548,
       "events_detected": 1
     },
     "source_count": 99
   },
   "items": [
+    {
+      "id": "da0ba4ecd9ff739b",
+      "title": "Ukraine calls for UN Security Council emergency meeting",
+      "summary": "Ukraine calls for UN Security Council emergency meeting &nbsp;&nbsp; Report.az",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQakQyMi1GQko2bkItWWdZN0l3RGx1QmZxVFBHNDU2U25MTjlDMEtaVFlmTXVkdXlNVy00RkJyU0hQSndDMjFxYkw1aGNIb1JCcjczekhGa0JLZ214V0xHREJzUGF4dFFJNFRFSkNWNVcwNXNfVE1VZGJnbUU2cEVDWWI0dXczVTBXVDVuREthNjN5dGNyYVZV0gGcAUFVX3lxTE1YdzFtaWFDM28zT2FCZWRnTHdQbTF4cnVReElLUUlBQW80Wk5ycWNQNG1FSEdWekhHdVFJNjZtOGxSNUJtRkJkNUdKN2FWR0VVdC1DQlVoUXlMQXhOT1lqX2JxWXpEaHpUU1VReDkzb0FLSzhIS3loY24xRl9NcnRBV2pzckVIQ0w4T0dfMUNDUWNvTmRManBua0VFRA?oc=5",
+      "date": "2026-07-23",
+      "source": "UN Security Council",
+      "source_type": "io",
+      "region": "Global",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
     {
       "id": "c88e9bbedae0dd20",
       "title": "NATO Secretary General meets with the Minister of Defence of Japan",
@@ -34,19 +47,6 @@
       "source": "IDSA — Manohar Parrikar Institute",
       "source_type": "tt",
       "region": "IN",
-      "lang": "en",
-      "theme": "diplomacy",
-      "via_gnews": true
-    },
-    {
-      "id": "7dd49ba896701d82",
-      "title": "Universal healthcare in focus as Samia heads to AU summit",
-      "summary": "Universal healthcare in focus as Samia heads to AU summit &nbsp;&nbsp; dailynews.co.tz",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcGRPVkk2Q0FEV2VSSjFJRFc4N1p1ODktNDFiYTlYcGhnckdhZFZWRGxrVlNLazhyNkRpOEFQQlByeVVOSzNGUUhjMjRUWG9TbGdDMXh3M01xZVY3RVk3UlJ5WWJpUUxtVmZZYy1tQ0o4cU9sbkxSNkxTekF0bkZlcFlNVndWVXFqblE?oc=5",
-      "date": "2026-07-22",
-      "source": "African Union",
-      "source_type": "io",
-      "region": "Africa",
       "lang": "en",
       "theme": "diplomacy",
       "via_gnews": true
@@ -114,19 +114,6 @@
       "region": "Asia",
       "lang": "en",
       "theme": "diplomacy",
-      "via_gnews": false
-    },
-    {
-      "id": "7bd72a7e49be49e3",
-      "title": "Secretary-General of ASEAN attends the ASEAN Post-Ministerial Conference with the EU",
-      "summary": "Secretary-General of ASEAN Dr. Kao Kim Hourn, today participated in the ASEAN Post-Ministerial Conference with the European Union (EU), in Manila, the Philippines. The Meeting noted the progress made in the implementation of the ASEAN-EU Plan of Action (2023–2027) and discussed ways to further st The post Secretary-General of ASEAN attends the ASEAN Post-Ministerial Conference with the EU appeared first on ASEAN Main Portal .",
-      "link": "https://asean.org/secretary-general-of-asean-attends-the-asean-post-ministerial-conference-with-the-eu/",
-      "date": "2026-07-22",
-      "source": "ASEAN",
-      "source_type": "io",
-      "region": "Asia",
-      "lang": "en",
-      "theme": null,
       "via_gnews": false
     },
     {
@@ -530,6 +517,19 @@
       "region": "UK",
       "lang": "en",
       "theme": "security",
+      "via_gnews": true
+    },
+    {
+      "id": "f21efba1c2412d1b",
+      "title": "Minister Lamola to host his German counterpart for bilateral talks",
+      "summary": "Minister Lamola to host his German counterpart for bilateral talks &nbsp;&nbsp; DIRCO",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWlJDR0ZoN2t3MzBsTHBhRFZGVVROMFpublN6QUNhX3l3TkNvTzZCdDN3a1lXeEpEV2ZYT3Y1NTVsZzFrMFUtOFdOZExEekF3WDdZdU5uSTBjUXFMNVVzZ3o3cW9ESVVYSlFpQUxRM1NveWYzT2ZqRnpGNEl2aGhMeVBxSWRFbzJ5YTgtMExqVnlGdw?oc=5",
+      "date": "2026-07-21",
+      "source": "South Africa — DIRCO",
+      "source_type": "gov",
+      "region": "Africa",
+      "lang": "en",
+      "theme": "diplomacy",
       "via_gnews": true
     },
     {
@@ -1388,6 +1388,32 @@
       "region": "EU",
       "lang": "en",
       "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "6980d128be3aa94a",
+      "title": "SIPRI Yearbook 2026, social cohesion in Mauritania, export controls during geopolitical tensions and more",
+      "summary": "SIPRI Yearbook 2026, social cohesion in Mauritania, export controls during geopolitical tensions and more &nbsp;&nbsp; Stockholm International Peace Research Institute",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFU0ZOYW1ZM2EyUkVOSF9OaEI2bUV5dXctMjBDRkhHNW5mTnhSRjFLTEgwVHhNeS1NQVBWUm1JakRlVjJsdmF0allzY3h6UHhaXzk1ZFdsaGRReThP?oc=5",
+      "date": "2026-06-30",
+      "source": "SIPRI",
+      "source_type": "tt",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "5893bbbbabf981c5",
+      "title": "Update on the World Bank Group Climate Change Action Plan",
+      "summary": "Update on the World Bank Group Climate Change Action Plan &nbsp;&nbsp; World Bank Group",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQlB1ZFFnNEtIcW1od0daYUhiTnBXV1dqSFhvN2FUTnhQWnMwSGRLWnp5Q2dyQkNSZWFqMnlEVkwwc1J6aDlHZ1l6SzM2dUxGUHFwQUtNcm9EZUxrc0oxWlZWc1VVVTBFOE9xQzA4RVBKTVlrNFdoOEZVbzk3QndkUDRsOEVaTl83cVZkYUZIbC1CMVpJb1dIOUtaUEJLRDJlLWZ4bHMwM1VPOWhsUjBNSWV3?oc=5",
+      "date": "2026-06-29",
+      "source": "World Bank",
+      "source_type": "io",
+      "region": "Global",
+      "lang": "en",
+      "theme": "climate",
       "via_gnews": true
     },
     {
@@ -2730,19 +2756,6 @@
       "via_gnews": true
     },
     {
-      "id": "d7bdc49ce7e58633",
-      "title": "EUSpring | Report on democracy assistance from the European Union to the Middle East and North Africa",
-      "summary": "EUSpring | Report on democracy assistance from the European Union to the Middle East and North Africa &nbsp;&nbsp; EPC, European Policy Centre",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FS0l0S2pyZkg0UkpUTUR2b1ZOX2JlUEFNZUlNM09lcmgtbXR4Y195cFRIci1UYUE0Tk5ubVMtXzBoemd6czBsbUlRbVJ0UzUxTkRvclFSOTF6QklJdGZrenA5a0tacUY4aTgzYnpDMVNLeGR2N2c?oc=5",
-      "date": "2026-01-05",
-      "source": "European Policy Centre (EPC)",
-      "source_type": "tt",
-      "region": "EU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "1762b8a4aaa3cf01",
       "title": "SIPRI Yearbook 2025 summary: Now available in 14 languages",
       "summary": "SIPRI Yearbook 2025 summary: Now available in 14 languages &nbsp;&nbsp; Stockholm International Peace Research Institute",
@@ -3861,6 +3874,19 @@
       "via_gnews": true
     },
     {
+      "id": "ca0eebdda0f331d6",
+      "title": "Interpretative declaration to the Code of good practice in electoral matters on digital technologies and artificial intelligence",
+      "summary": "Interpretative declaration to the Code of good practice in electoral matters on digital technologies and artificial intelligence &nbsp;&nbsp; coe.int",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MRWpBMWRNdFR4MjlZaXQxSHpYc2ZvU0JyaUR5WWdhTU41ei1NSExkWmk5M1JDYnl3YmJwZm9uVjFXY3pLcmNWcW1jdEIyU0xmNnIyNTc0eWk0SWtXc2NNejNQOHkyZlY1TWJR?oc=5",
+      "date": "2024-11-26",
+      "source": "Council of Europe",
+      "source_type": "io",
+      "region": "EU",
+      "lang": "en",
+      "theme": "technology",
+      "via_gnews": true
+    },
+    {
       "id": "b9aba6a40a064db9",
       "title": "India as a Partner of German Foreign Policy",
       "summary": "India as a Partner of German Foreign Policy &nbsp;&nbsp; Stiftung Wissenschaft und Politik",
@@ -4300,6 +4326,19 @@
       "region": "Africa",
       "lang": "en",
       "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "c78bb90e3dff97a2",
+      "title": "Impact of the Russia–Ukraine War on National Cyber Planning: A Survey of Ten Countries",
+      "summary": "Impact of the Russia–Ukraine War on National Cyber Planning: A Survey of Ten Countries &nbsp;&nbsp; The International Institute for Strategic Studies",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdXRlUjhhR3d3NG9iX1N6Z1lDMUVRVkVFTGdLZVZ6UnFNbWc1QmNEejREckYtNHFNNmFBVWRmbmtOZFFIeEhodWFGYVoxTWM1YWpBTk04RlB4OWY2cUFsV0Vaa2tMOVdyMzZxQVpBQ0Rna3hBS05jNUlUZVlEamM3QlhsWFhlaHlqcnQtMlJ5YXU5clBXdWo1b25wTzllbzhodWw4S003WHNKTlQ1TjVlQ3lPTmtabG1QRm01V0hXUTBRalMxanRUQTZn?oc=5",
+      "date": "2024-01-11",
+      "source": "IISS",
+      "source_type": "tt",
+      "region": "RU",
+      "lang": "en",
+      "theme": "security",
       "via_gnews": true
     },
     {
@@ -4832,19 +4871,6 @@
       "source_type": "tt",
       "region": "FR",
       "lang": "fr",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "62a8f3e43caf837b",
-      "title": "Strategic Survey 2020 | The Annual Assessment of Geopolitics",
-      "summary": "Strategic Survey 2020 | The Annual Assessment of Geopolitics &nbsp;&nbsp; The International Institute for Strategic Studies",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONW94THRieDlXYWRrUjZ0MUZnaEc2SnJTTXBiV2NocXpBemp5bnpJVDhNejZKWC01aFBYVnNlWkdOTmJtM3NCbVpILUlYX2dZZmNydHgzdFpKaWRxckFYbDBlTDFuRTVNbnJhQWxKYmVXcmkxTm9pMXdYU1YyeVY0aGtoQ0x2ZEtXaTN6MmFsWW9zUy1JanRDU2VTX1BzenNWNWl1ZXdJUURpbFNwR2dR?oc=5",
-      "date": "2023-05-09",
-      "source": "IISS",
-      "source_type": "tt",
-      "region": "UK",
-      "lang": "en",
       "theme": null,
       "via_gnews": true
     },
@@ -5642,19 +5668,6 @@
       "via_gnews": true
     },
     {
-      "id": "242d7623096938b8",
-      "title": "Bureau of the Council of Europe Congress adopts a declaration on the situation in Ukraine",
-      "summary": "Bureau of the Council of Europe Congress adopts a declaration on the situation in Ukraine &nbsp;&nbsp; coe.int",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT01ORFlsbE9nZ1NPeHFvSU0xYkU4bWhXckVseHhFM0xVT0RnOGExMUlWUndTM1NLVjN4SWI0WUlCSDBTX3JVRmU4aXJRSzVYdWhMb1BiSFlOLTN2WWNYdWxwbkVkSGl3ZHQzQVd2Z2c3WTV1V0ZnSGVYVGUteERKczVObzZ2bm5XZ2hsOUNIeUtZVVhjdUtyem4wdzRNdFNvaG53VTRNNlpkOVJJMmtmamhIck04bV82UThZN284dXNIZExNVlE?oc=5",
-      "date": "2022-02-28",
-      "source": "Council of Europe",
-      "source_type": "io",
-      "region": "EU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "470995fd254acee5",
       "title": "Les enjeux du 6e Sommet Union africaine - Union européenne avec Maud Arnould (Vidéo)",
       "summary": "Les enjeux du 6e Sommet Union africaine - Union européenne avec Maud Arnould (Vidéo) afrique@ifri.org mer 16/02/2022 - 11:40 16/02/2022 Type d'interventions médiatiques Vidéo Accroche Interview de Maud Arnould, Conseillère Afrique du Haut Représentant de l'Union Européenne pour les affaires étrangères. Référence contenu Centres et Programmes Centre Afrique subsaharienne Contenu intervention médiatique \"L'enjeu, c'est vraiment d'essayer de faire de l'Europe le partenaire de choix des pays africains.\" A l'occasion de la rencontre entre les 27 dirigeants de l'Union Européenne et les 55 chefs des ",
@@ -6058,6 +6071,19 @@
       "via_gnews": true
     },
     {
+      "id": "5c40adcf658cfefb",
+      "title": "Le parti écologiste allemand Bündnis 90/Die Grünen et la politique de sécurité et de défense : la pondération en ligne de mire",
+      "summary": "Le parti écologiste allemand Bündnis 90/Die Grünen et la politique de sécurité et de défense : la pondération en ligne de mire &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZXdxaXZpU3dvaUVSWTlaQUp0aUN4cTRkQUQ4TXkyWTBZQ2pHYjlpUzJtQUFFY250aXJsSVp5enBWS05tNjZlWUhnSFJ3S1Z2MGFCd2pSb3I0Ymt6eWpzR1dyREprQThZa3VZNkNMTWxaMmRvaV8xNUVMN2NrZUkzZW4yZzNBZ0MtQl84S0lDbk9oQlZjYVVLN2MwMGZtVGZXSUlsdEdqeHFZWFI4cHVzMy1tcG5tZ3pidUctZTIxcGkySGw1VVM1dkgxY2paOWljWWlFQVlHd05iWjF3alMyZENWWHFRWTZERTNEaU9fVF9lanhLV0U5dVFGYw?oc=5",
+      "date": "2020-07-17",
+      "source": "FRS — Recherche Stratégique (FR)",
+      "source_type": "tt",
+      "region": "FR",
+      "lang": "fr",
+      "theme": "security",
+      "via_gnews": true
+    },
+    {
       "id": "a89187ad63e855ee",
       "title": "The Turkey-UAE race to the bottom in Libya: a prelude to escalation",
       "summary": "The Turkey-UAE race to the bottom in Libya: a prelude to escalation &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
@@ -6227,24 +6253,24 @@
       "via_gnews": true
     },
     {
+      "id": "b42f4c1e16779c79",
+      "title": "From Criminals to Terrorists and Back? Quarterly Report: Spain, vol.2",
+      "summary": "From Criminals to Terrorists and Back? Quarterly Report: Spain, vol.2 &nbsp;&nbsp; GLOBSEC",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaDU4NDBiQTQxaWI3cUpad2F3RjdFaTdndW1iem1US0E3QUFFNURXaEFidU9NaXByN1lyOTRROTc5c2NjZFY5VXE4aXNRUi1GTDdBM3diR3VWblZzMXBvM3AtVGhsMGtNY01Yc0NwSmROejVOUVoyVy1yWnUxQXZuOHdzQm9kbXlCLS1yeEZZZDNXNlVLWEFXTDhCZGFoVV81WEptM0x6Q3VFWkk?oc=5",
+      "date": "2019-10-30",
+      "source": "GLOBSEC",
+      "source_type": "tt",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "2616ce6cc7c8ff2d",
       "title": "François Heisbourg | Research Team | Foundation for Strategic Research",
       "summary": "François Heisbourg | Research Team | Foundation for Strategic Research &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OTl8wNGhkaWRHbnZaei1uTnAwU25EWVN5OVJ3N3hNU3I3Xy1MVXc4QUttYktjYTNNbXhWZHVfVjlkem9BbHVKdmRNZVpab0FJa0FhYTVCMG9yajVaY2luVkkzYjhHMmdmWjVvbFNCRHhZdw?oc=5",
       "date": "2019-09-28",
-      "source": "FRS — Recherche Stratégique (FR)",
-      "source_type": "tt",
-      "region": "FR",
-      "lang": "fr",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "889e030115c2219d",
-      "title": "Strategic imagery | Publications | Foundation for Strategic Research",
-      "summary": "Strategic imagery | Publications | Foundation for Strategic Research &nbsp;&nbsp; Fondation pour la Recherche Stratégique | FRS",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UYllkZmZWWlEtOU04Q3hwcWxQaHlMZHpIWk1VdW5DUnliaEZmQXB5M01NRkM0Ul9Ddk9hdXBUaUl5Rmo3VE4wZ2VaOURnN3FCV1FNTzRrdlJZaEVzRklXM0x5bUszNmwtOXRyUXpB?oc=5",
-      "date": "2019-09-27",
       "source": "FRS — Recherche Stratégique (FR)",
       "source_type": "tt",
       "region": "FR",
@@ -6396,6 +6422,19 @@
       "via_gnews": true
     },
     {
+      "id": "0eeb3d7cc6894a49",
+      "title": "SIPRI Yearbook editions 2001–16 now freely available to download",
+      "summary": "SIPRI Yearbook editions 2001–16 now freely available to download &nbsp;&nbsp; Stockholm International Peace Research Institute",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbDgxWEJuc1BtaHlYLVlUVGhWSmFBcXdremFubjFCT2VGZUlPaVV5cHVaQ2RNX2xjUUc3UVotaXRNbDhNT2c5dFo5dlhnSVZac0NaRnZuQ0JMOHcwX3luV3Y2d2NoRGJCQ0VwZmozUW5uOWtCc1JDcE1ibmVPc1lJTzZ3aXVEM0VDbXZUVzFxTGFTeEdRNF9qSQ?oc=5",
+      "date": "2018-10-30",
+      "source": "SIPRI",
+      "source_type": "tt",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "77019fac29b6ee81",
       "title": "Strategy for Sweden’s development cooperation with Burkina Faso 2018–2022",
       "summary": "Strategy for Sweden’s development cooperation with Burkina Faso 2018–2022 &nbsp;&nbsp; Government.se",
@@ -6534,6 +6573,19 @@
       "source": "CSIS",
       "source_type": "tt",
       "region": "CN",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "c107f02c2a0889fd",
+      "title": "Conference report: How to save the EU",
+      "summary": "Conference report: How to save the EU &nbsp;&nbsp; Centre for European Reform (CER)",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNG5uU05wWk50OGRvZVdsTGtQd2FHM3hZSC0yOXpCZEFnX053MDZnRHliUENHRUVQeG9SZk9mYkVCOW1YaThHcW5sNGs1LVVHcURFQmxFVVdOQjBTYlJKNzUtZnJFX1ZQc21CUGhxOVB0RXlfMWNibmNNa25UN0xSUXpJdU5NY3F5?oc=5",
+      "date": "2018-01-15",
+      "source": "Centre for European Reform (CER)",
+      "source_type": "tt",
+      "region": "UK",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -7030,6 +7082,19 @@
       "region": "DE",
       "lang": "en",
       "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "c3b90a1da83c71e6",
+      "title": "Cordesman: Report to Congress on Iraq War Borders on ’Deception’",
+      "summary": "Cordesman: Report to Congress on Iraq War Borders on ’Deception’ &nbsp;&nbsp; Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMmdQUVNBN1ZBNnBwRTVYY0ZwM3M1V2xlbENCbFYtR08xWjBYZVNwUG9raEgyQXBzZ2dadjJsdDNHTlRaZTF0RUxVUzFwc2pmUjIyMXpCQW9wdTJ0VFFsVVlWLTNyTTdlQnFweXNrZVd2Rk96SmJaY0t3UmdFdm9fRlJxZEx3TzVB?oc=5",
+      "date": "2006-06-07",
+      "source": "Council on Foreign Relations",
+      "source_type": "tt",
+      "region": "US",
+      "lang": "en",
+      "theme": "security",
       "via_gnews": true
     },
     {
