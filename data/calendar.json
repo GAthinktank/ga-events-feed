@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-24T02:14:13.325032+00:00",
-    "duration_seconds": 85.50529,
+    "generated_at": "2026-07-24T05:55:08.722857+00:00",
+    "duration_seconds": 583.750465,
     "stats": {
-      "ok": 84,
-      "fail": 15,
-      "items_total": 2279,
-      "items_strict": 541,
-      "events_detected": 1
+      "ok": 10,
+      "fail": 89,
+      "items_total": 145,
+      "items_strict": 43,
+      "events_detected": 0
     },
     "source_count": 99
   },
@@ -59,23 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "ddcbbd0e1fd22c4c-evt",
-      "title": "Nota informativa – Vertice NATO (Ankara, 7-8 luglio 2026)",
-      "date": "2026-08-07",
-      "end_date": "2026-08-07",
-      "location": "",
-      "organizer": "Italy — Esteri",
-      "region": "IT",
-      "theme": "security",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS1ZaajBxeXZYaEFjM3lsdlo3WktqdWQ2RWtvWjdZaDJuemswUHZudEJGOW5rN1l6R0xxMnFBTUc0d1FaSzBhdkYwazg4VmpuMjJvZzgtejlQRGxvRDNscGpmVzRCdmV0NGhpSXZwNGxUb0F5ZXB1blNIRV9zUHM2WTdmQkJTdWswcHZSYmU4S1JIY1Y3MjFtUHhDWTQySTBidmlrZWhKTzFFR19RbGYyZW5XbW5ya1ktangtMGZyQlhyeEU?oc=5",
-      "summary": "Nota informativa – Vertice NATO (Ankara, 7-8 luglio 2026) &nbsp;&nbsp; Ministero degli Affari Esteri e della Cooperazione Internazionale",
-      "featured": false,
-      "confirmed": true,
-      "source": "Italy — Esteri",
-      "kind": "diplomatic-event",
-      "lang": "it"
     },
     {
       "id": "unga-2026",
