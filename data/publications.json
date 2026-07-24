@@ -1,17 +1,30 @@
 {
   "meta": {
-    "generated_at": "2026-07-24T16:34:55.912200+00:00",
-    "duration_seconds": 99.854371,
+    "generated_at": "2026-07-24T19:19:34.674184+00:00",
+    "duration_seconds": 86.845383,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2274,
-      "items_strict": 538,
+      "items_total": 2275,
+      "items_strict": 537,
       "events_detected": 1
     },
     "source_count": 99
   },
   "items": [
+    {
+      "id": "3b8300155438ab00",
+      "title": "Ukraine’s remarkable anti-populism",
+      "summary": "Ukraine’s remarkable anti-populism &nbsp;&nbsp; The International Institute for Strategic Studies",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTkR3cWlJb1lCZWRSYzdHQXRocE81Zl9XZUpVckdOLXlGTUVYeGo4TUhURVZEU09HeTkzZ3c3eEJUU3JvWDFZMWhIaXEwd2lhcjVCZV9qcXFnamNmV29EZDNzdGNwTlRDSHQxSVphR2IwTmphZDZsQ1p2V3dUdUhfR1IycmpGdE5jOWMtMmFhM3l4azFaUnV3Tlg4VQ?oc=5",
+      "date": "2026-07-24",
+      "source": "IISS",
+      "source_type": "tt",
+      "region": "UK",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
     {
       "id": "9b1adb163c236c00",
       "title": "Secretary-General of ASEAN meets with Minister of Foreign Affairs of Chile",
@@ -153,6 +166,19 @@
       "region": "Global",
       "lang": "en",
       "theme": "security",
+      "via_gnews": true
+    },
+    {
+      "id": "65ae9f149213ad42",
+      "title": "Latvia, Parliamentary Elections, 3 October 2026: Needs Assessment Mission Report",
+      "summary": "Latvia, Parliamentary Elections, 3 October 2026: Needs Assessment Mission Report &nbsp;&nbsp; OSCE Office for Democratic Institutions and Human Rights",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBRQVdfSlBaVjlPNFdmQWFlRm51QjR6ckp2Q1dldnpsbmZxa0dSVjZ1SUJKZHUzWG14SmJRQWRGUDhqTUVOVThVRDFzMA?oc=5",
+      "date": "2026-07-24",
+      "source": "OSCE",
+      "source_type": "io",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
       "via_gnews": true
     },
     {
@@ -1404,19 +1430,6 @@
       "via_gnews": true
     },
     {
-      "id": "916e2972e74a66a8",
-      "title": "Kazakhstan, Early Parliamentary Elections, 23 August 2026: Needs Assessment Mission Report",
-      "summary": "Kazakhstan, Early Parliamentary Elections, 23 August 2026: Needs Assessment Mission Report &nbsp;&nbsp; OSCE Office for Democratic Institutions and Human Rights",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1bXJlSVZTQi1mbHhSY29LY1RDRkhTYUUzeUx3Z2pKWlJRZFlWRUJTTnZmdmxOVkJPdzJxdmdfckRWVndFc2RVdFZtdw?oc=5",
-      "date": "2026-07-03",
-      "source": "OSCE",
-      "source_type": "io",
-      "region": "EU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "fdf5e706882e98bc",
       "title": "Information for accredited media",
       "summary": "Information for accredited media &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
@@ -2331,19 +2344,6 @@
       "title": "Joint statement on protection of journalists",
       "summary": "Joint statement on protection of journalists &nbsp;&nbsp; diplomatie.gouv.fr",
       "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPcF9Nd3VIT0JRWEgxRVh3Slk5dzBnWFdBeUg5THdsZ3l0VDhXWHV4dWpVdUhGMkY3QzBvNkJ2amRFS2xvTTJVbWNobDBSWkQ5R0ZqNnNPY1RoUTBsejljODhudmd5YzVlUUgyX0lGT0dzaEluczN2TW1BdjE1Ym42RFRSampoYkxxTUE0Nm5FblpoRXhWYlZPWVYybHROaEJYRm9abi1TYU1TdV9jUHZ1c2VjQUZZdk81b3hjSFl5aTcxTkpjLTFuNVlBREZQX2swZ1RwdWd0WEVZckNwLXBqcm5KLVJGZ1NiOVBwNWhrcUIyd3FDVi1VQWxsdEg1a1VVZHdYZllwa2dfSVZ0c0VKUUhOTE0?oc=5",
-      "date": "2026-04-07",
-      "source": "France — MEAE (Diplomatie)",
-      "source_type": "gov",
-      "region": "FR",
-      "lang": "fr",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "c54ef29d6d9faec4",
-      "title": "Joint statement on Lebanon",
-      "summary": "Joint statement on Lebanon &nbsp;&nbsp; diplomatie.gouv.fr",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNdmoyNUpaWDUtVThNYUpBVW1xdHowSEx5dkV3bnFlZjJSNW1rUW5XUkg2X0FVUnEyeWZ0bkt3UXJBYmd1aWM2TmJqeDQwSjJhSW1JMjBBcEFCUDJ0bUhUNGJlU294OHhRSGZ1TDZTMXNLblcwcXFHR0Z0V00waElqTGVRRUFPTl82ODJVRzd2emVGUEdqLWJVcjE0a1ZVMlJrZC1rdFFIeDB5WDgzVEhwSmMtaWg5dnppLWhiRmpxNGxiRmNHSGtUZHMzSmt5eXB4SjE3bjBBYThtQVRoakJmZDBVV2h3Rm92eHljcHRRV3FUWG1ndVJrSzQyMGtwdVk0U1hZSkdmZnZRanhUVk5fTldoZEV6dkE?oc=5",
       "date": "2026-04-07",
       "source": "France — MEAE (Diplomatie)",
       "source_type": "gov",
@@ -3311,6 +3311,19 @@
       "source_type": "gov",
       "region": "IT",
       "lang": "it",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "ad17a486f166b23f",
+      "title": "Working Paper 25-18: Breaking the deadlock: A single supervisor to unshackle Europe’s capital markets union",
+      "summary": "Working Paper 25-18: Breaking the deadlock: A single supervisor to unshackle Europe’s capital markets union &nbsp;&nbsp; Peterson Institute for International Economics",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpNEJVdlZxOGotcmdCd3JsM2x3STFBYldXUjljZTBkSkc0cGFvNVZaNkVSajVHTGs4UGtrUHlMRmQ1NFZEMXZKZTFNMzFhX2hJaU5WUkxTaW1IMXNCZDFCZlJicmpNam5Bcjd5WQ?oc=5",
+      "date": "2025-08-13",
+      "source": "PIIE — Peterson Institute",
+      "source_type": "tt",
+      "region": "US",
+      "lang": "en",
       "theme": null,
       "via_gnews": true
     },
@@ -4368,19 +4381,6 @@
       "via_gnews": true
     },
     {
-      "id": "663dec0fc2296742",
-      "title": "SIPRI Yearbook 2023, Summary in Russian",
-      "summary": "SIPRI Yearbook 2023, Summary in Russian &nbsp;&nbsp; Stockholm International Peace Research Institute",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRTQzOTd3SWZYS25hdVFaZ3gyV2xWSEpzNTZjcFJ3d19KUXpQWThja0p3QS1EQXh0S0xlamxCZmozSHo5T2VWX3FjVTdmSVRoaG5QMHpEa0d4X3BpUHExRzZyV0JOM2NPcjY2Tm9mckNDS1NBSTZRR3VyOVJtWi10TWs0cTVyMFlfWmc?oc=5",
-      "date": "2023-12-18",
-      "source": "SIPRI",
-      "source_type": "tt",
-      "region": "RU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "28a03ac57dbb53fc",
       "title": "Joint statement on settler violence in the West Bank",
       "summary": "Joint statement on settler violence in the West Bank &nbsp;&nbsp; Australian Government Department of Foreign Affairs and Trade",
@@ -4391,6 +4391,19 @@
       "region": "AU",
       "lang": "en",
       "theme": "diplomacy",
+      "via_gnews": true
+    },
+    {
+      "id": "be21b2bc6c91fd56",
+      "title": "POLICY Brief.indd",
+      "summary": "POLICY Brief.indd &nbsp;&nbsp; orfonline.org",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qcU5FWEJkT05MZXZWc3IxOVJIWnZ6NW1RMkt0a3RkOUhJemlPaHNZNHltTzAzek03VmdldHNFbkRUVlZzMmxFSDlXM2kzWWJEQy10dzV2ZjlfY1VYWjR1ZVBCVHBYeUYyUGVyRDdRY2Rsc1FrR2Q4Qg?oc=5",
+      "date": "2023-12-10",
+      "source": "ORF — Observer Research Foundation",
+      "source_type": "tt",
+      "region": "IN",
+      "lang": "en",
+      "theme": null,
       "via_gnews": true
     },
     {
@@ -4625,19 +4638,6 @@
       "region": "AU",
       "lang": "en",
       "theme": "diplomacy",
-      "via_gnews": true
-    },
-    {
-      "id": "db25eaf4286fcf16",
-      "title": "The Armed Conflict Survey 2021",
-      "summary": "The Armed Conflict Survey 2021 &nbsp;&nbsp; The International Institute for Strategic Studies",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTEZSbVJ0aWZuazlsaVlSZVlDdUdXR2VuWDN6TjU5RnVaNkxVT0otallRZEo5WXhqQno4cGtZdzFLY1FrUlRIUV9lTmNBako1NjhHYXdLZjk4MmtqUG0wRTFhQzYwMDBWU3FCc080dWxmVU1sX0s5Mm5zTkZWNlU0ZUo4OEpiZGM3Wkp1c25uLS1UUQ?oc=5",
-      "date": "2023-08-11",
-      "source": "IISS",
-      "source_type": "tt",
-      "region": "UK",
-      "lang": "en",
-      "theme": "security",
       "via_gnews": true
     },
     {
@@ -4987,19 +4987,6 @@
       "source": "SWP Berlin (DE)",
       "source_type": "tt",
       "region": "DE",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "0d597bc548a4c125",
-      "title": "Report - OECD Workshop on Flexible Food-Grade Plastic Packaging",
-      "summary": "Report - OECD Workshop on Flexible Food-Grade Plastic Packaging &nbsp;&nbsp; OECD",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11LVFaU3ZBRFhpOV9wdjBpaEZWTV8wcnVPMHpxb3Rod2dSLXIwd3ZnMmxNVG1oNnVYR1NQa0U5VHFiMHdtZ0xLdFZrTEVfM1lVMDZlVkktNDYtSkhYTnE2WG13UnQwNlU?oc=5",
-      "date": "2023-02-27",
-      "source": "OECD",
-      "source_type": "io",
-      "region": "Global",
       "lang": "en",
       "theme": null,
       "via_gnews": true
