@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-26T21:56:21.612805+00:00",
-    "duration_seconds": 91.200848,
+    "generated_at": "2026-07-27T02:31:35.387401+00:00",
+    "duration_seconds": 86.966192,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2268,
-      "items_strict": 526,
-      "events_detected": 1
+      "items_total": 2271,
+      "items_strict": 528,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -572,6 +572,23 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "0ff2eeedaf0d5457-evt",
+      "title": "Secretary-General of ASEAN to participate in the 10th ASEAN Media Forum",
+      "date": "2029-07-30",
+      "end_date": "2029-07-30",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/secretary-general-of-asean-to-participate-in-the-10th-asean-media-forum/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, will participate in the 10th ASEAN Media Forum (AMF), to be held in Manila, the Philippines, on 29-30 July 2026. Marking a decade of fostering a regional dialogue, the AMF serves as a key platform connecting regional media leaders and chief edit The pos",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     }
   ]
 }
