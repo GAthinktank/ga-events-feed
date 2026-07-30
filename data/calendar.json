@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-30T13:49:20.505921+00:00",
-    "duration_seconds": 88.214037,
+    "generated_at": "2026-07-30T16:24:35.657658+00:00",
+    "duration_seconds": 89.757767,
     "stats": {
       "ok": 84,
       "fail": 15,
       "items_total": 2302,
-      "items_strict": 530,
-      "events_detected": 2
+      "items_strict": 506,
+      "events_detected": 3
     },
     "source_count": 99
   },
@@ -59,6 +59,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "7be9f23c7b253d0a-evt",
+      "title": "Speech by Commissioner McGrath at the High-Level Conference on Listening to Children and Young People - Challenges in Challenging Settings",
+      "date": "2026-07-30",
+      "end_date": "2026-07-30",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1712",
+      "summary": "European Commission Speech Dublin, 30 Jul 2026 Dear Minister Foley, High Commissioner El Haïry, Deputy Minister Grigaliené, Irish Presidency and Commission colleagues, Policy Makers and Practitioners, But ...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "ddcbbd0e1fd22c4c-evt",
