@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-07-31T19:18:27.791972+00:00",
-    "duration_seconds": 87.466619,
+    "generated_at": "2026-07-31T22:02:27.363453+00:00",
+    "duration_seconds": 135.072324,
     "stats": {
-      "ok": 84,
-      "fail": 15,
-      "items_total": 2294,
-      "items_strict": 523,
-      "events_detected": 2
+      "ok": 81,
+      "fail": 18,
+      "items_total": 2248,
+      "items_strict": 498,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -92,23 +92,6 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "71f49984878dea26-evt",
-      "title": "Local Plan Review Call for Sites - Extended to 28 September 2026",
-      "date": "2026-09-28",
-      "end_date": "2026-09-28",
-      "location": "",
-      "organizer": "UK gov.uk announcements",
-      "region": "UK",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbGFuY2diT3hCTnNDU0tqX3ppUExuQm1ST29CNllIVkxvZmNzdjZQUE9EWjUxTjdSRDd5U3V3cmRTRmJhUUZkQXN4TTNhMGlhSk83bDlIZGRZeXY3bWhmbkJxWERKa281cGdBWDNvaVBJbG9JQ3p6TlViU2psMXRSNnYyMldYNGpsMDJaZ2VhY0tKcTdwdkE4cHR5WGxuVVpKQ1g3bG01LW8xaG8?oc=5",
-      "summary": "Local Plan Review Call for Sites - Extended to 28 September 2026 &nbsp;&nbsp; Tunbridge Wells Borough Council",
-      "featured": false,
-      "confirmed": true,
-      "source": "UK gov.uk announcements",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "wb-imf-annual-2026",
