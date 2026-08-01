@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-08-01T10:38:10.900248+00:00",
-    "duration_seconds": 80.868191,
+    "generated_at": "2026-08-01T13:09:25.273665+00:00",
+    "duration_seconds": 88.216873,
     "stats": {
       "ok": 84,
       "fail": 15,
       "items_total": 2295,
-      "items_strict": 523,
-      "events_detected": 2
+      "items_strict": 524,
+      "events_detected": 3
     },
     "source_count": 99
   },
@@ -59,6 +59,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "3dd05bc0372df36e-evt",
+      "title": "Secretary-General of ASEAN attends Welcome Dinner hosted by Ipoh City Council",
+      "date": "2026-08-01",
+      "end_date": "2026-08-01",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "CN",
+      "theme": "diplomacy",
+      "link": "https://asean.org/secretary-general-of-asean-attends-welcome-dinner-hosted-by-ipoh-city-council/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on the evening of 1 August 2026, attended a Welcome Dinner hosted by Ipoh City Council, Malaysia. The gathering provided an informal setting for representatives of ASEAN Member States and China to continue dialogue, exchange views, and strengthen coope ",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "645a1f77e40e3268-evt",
