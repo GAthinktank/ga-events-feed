@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-08-01T21:53:42.103894+00:00",
-    "duration_seconds": 83.918415,
+    "generated_at": "2026-08-02T02:22:44.460431+00:00",
+    "duration_seconds": 91.789949,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2294,
-      "items_strict": 529,
-      "events_detected": 3
+      "items_total": 2295,
+      "items_strict": 526,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -59,40 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "3dd05bc0372df36e-evt",
-      "title": "Secretary-General of ASEAN attends Welcome Dinner hosted by Ipoh City Council",
-      "date": "2026-08-01",
-      "end_date": "2026-08-01",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "CN",
-      "theme": "diplomacy",
-      "link": "https://asean.org/secretary-general-of-asean-attends-welcome-dinner-hosted-by-ipoh-city-council/",
-      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on the evening of 1 August 2026, attended a Welcome Dinner hosted by Ipoh City Council, Malaysia. The gathering provided an informal setting for representatives of ASEAN Member States and China to continue dialogue, exchange views, and strengthen coope ",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "645a1f77e40e3268-evt",
-      "title": "Secretary-General of ASEAN meets with Minister of Housing and Local Government of Malaysia",
-      "date": "2026-08-01",
-      "end_date": "2026-08-01",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "CN",
-      "theme": "diplomacy",
-      "link": "https://asean.org/secretary-general-of-asean-meets-with-minister-of-housing-and-local-government-of-malaysia/",
-      "summary": "Secretary-General of ASEAN Dr. Kao Kim Hourn, on 1 August 2026, met with the Minister of Housing and Local Government of Malaysia, H.E. Nga Kor Ming, on the sidelines of the ASEAN-China Ministerial Roundtable on Construction and Housing, in Ipoh, Malaysia. The Meeting discussed strengthening ASEAN T",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "ddcbbd0e1fd22c4c-evt",
