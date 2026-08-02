@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-08-02T15:58:31.207888+00:00",
-    "duration_seconds": 88.776009,
+    "generated_at": "2026-08-02T19:04:28.813835+00:00",
+    "duration_seconds": 122.135948,
     "stats": {
-      "ok": 84,
-      "fail": 15,
-      "items_total": 2290,
-      "items_strict": 521,
-      "events_detected": 2
+      "ok": 82,
+      "fail": 17,
+      "items_total": 2248,
+      "items_strict": 511,
+      "events_detected": 3
     },
     "source_count": 99
   },
@@ -74,6 +74,23 @@
       "featured": false,
       "confirmed": true,
       "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "f73a955a2293243e-evt",
+      "title": "Informal video conference of home affairs ministers, 4 August 2026",
+      "date": "2026-08-04",
+      "end_date": "2026-08-04",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MWlZUWlgzSTJXRUVPVVAtV0NZbjM3bmllWnh6UGlQUC11TmQ5MHpSb1hsamR0d2VNQ0MxclZMX1E1V0RybG1weHFtajh2SnFLTmtxLXB6Z3NCak9uNTFsMU4xRzRaUktiZElF?oc=5",
+      "summary": "Informal video conference of home affairs ministers, 4 August 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
       "kind": "diplomatic-event",
       "lang": "en"
     },
