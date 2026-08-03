@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-08-03T19:25:49.833998+00:00",
-    "duration_seconds": 88.234505,
+    "generated_at": "2026-08-03T22:05:13.480417+00:00",
+    "duration_seconds": 94.708062,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2290,
-      "items_strict": 516,
-      "events_detected": 3
+      "items_total": 2293,
+      "items_strict": 514,
+      "events_detected": 4
     },
     "source_count": 99
   },
@@ -110,6 +110,23 @@
       "source": "Italy — Esteri",
       "kind": "diplomatic-event",
       "lang": "it"
+    },
+    {
+      "id": "7a14869cd1035d02-evt",
+      "title": "(2nd meeting) - Fifth Session of the Intergovernmental Negotiating Committee on the UN Framework Convention on International Tax Cooperation (INC Tax) - 3 to 13 August 2026",
+      "date": "2026-08-13",
+      "end_date": "2026-08-13",
+      "location": "",
+      "organizer": "United Nations",
+      "region": "Global",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LWkFTNlo2T2pxeU8xSEhZRkRQSUxudThPZlFwTHF5NlZpanZZSTc0d2Z1dWk1aERaSkNnRHhRS2dIZndUVEI5NTUwanp6TVMyUm9SLTh3NA?oc=5",
+      "summary": "(2nd meeting) - Fifth Session of the Intergovernmental Negotiating Committee on the UN Framework Convention on International Tax Cooperation (INC Tax) - 3 to 13 August 2026 &nbsp;&nbsp; UN Web TV",
+      "featured": false,
+      "confirmed": true,
+      "source": "United Nations",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "unga-2026",
