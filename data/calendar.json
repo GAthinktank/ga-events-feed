@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-08-04T08:30:52.810260+00:00",
-    "duration_seconds": 105.730151,
+    "generated_at": "2026-08-04T11:21:42.394313+00:00",
+    "duration_seconds": 92.576637,
     "stats": {
-      "ok": 83,
-      "fail": 16,
-      "items_total": 2283,
-      "items_strict": 490,
-      "events_detected": 3
+      "ok": 84,
+      "fail": 15,
+      "items_total": 2293,
+      "items_strict": 511,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -59,23 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "8bf74b433a6ddf56-evt",
-      "title": "Secretary-General of ASEAN to welcome the Prime Minister of the Kingdom of Thailand to the ASEAN Headquarters/ASEAN Secretariat",
-      "date": "2026-08-04",
-      "end_date": "2026-08-04",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "Asia",
-      "theme": "diplomacy",
-      "link": "https://asean.org/secretary-general-of-asean-to-welcome-the-prime-minister-of-the-kingdom-of-thailand-to-the-asean-headquarters-asean-secretariat/",
-      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, will welcome H.E. Anutin Charnvirakul, Prime Minister of the Kingdom of Thailand, to the ASEAN Headquarters/ASEAN Secretariat, on 4 August 2026. The visit will feature a meeting with the Secretary-General of ASEAN, Policy Speech by the Prime Minister Th",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "f73a955a2293243e-evt",
