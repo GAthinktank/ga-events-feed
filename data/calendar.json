@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-08-05T05:42:54.070798+00:00",
-    "duration_seconds": 82.299526,
+    "generated_at": "2026-08-05T08:29:42.384917+00:00",
+    "duration_seconds": 95.88289,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2290,
-      "items_strict": 522,
-      "events_detected": 1
+      "items_total": 2289,
+      "items_strict": 521,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -59,6 +59,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "dc3505c988f14015-evt",
+      "title": "Secretary-General of ASEAN meets with the Chairman of the National Civil Service Agency of the Republic of Indonesia",
+      "date": "2026-08-05",
+      "end_date": "2026-08-05",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/secretary-general-of-asean-meets-with-the-chairman-of-the-national-civil-service-agency-of-the-republic-of-indonesia/",
+      "summary": "Secretary-General of ASEAN Dr. Kao Kim Hourn, on 5 August 2026, met with Prof. Dr. Zudan Arif Fakrulloh, Chairman of the National Civil Service Agency of the Republic of Indonesia, on the sidelines of the Heads of Civil Service Meeting for the 23rd ASEAN Cooperation on Civil Service Matters (ACCSM) ",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "ddcbbd0e1fd22c4c-evt",
