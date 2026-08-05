@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-08-05T08:29:42.384917+00:00",
-    "duration_seconds": 95.88289,
+    "generated_at": "2026-08-05T11:17:47.751877+00:00",
+    "duration_seconds": 86.299226,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2289,
-      "items_strict": 521,
-      "events_detected": 2
+      "items_total": 2285,
+      "items_strict": 516,
+      "events_detected": 4
     },
     "source_count": 99
   },
@@ -61,6 +61,23 @@
       "kind": "diplomatic-event"
     },
     {
+      "id": "184f349c5198c60a-evt",
+      "title": "Secretary-General of ASEAN meets with Deputy Prime Minister and Minister of Civil Service of the Kingdom of Cambodia",
+      "date": "2026-08-05",
+      "end_date": "2026-08-05",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/secretary-general-of-asean-meets-with-deputy-prime-minister-and-minister-of-civil-service-of-the-kingdom-of-cambodia-2/",
+      "summary": "Secretary-General of ASEAN Dr. Kao Kim Hourn, on 5 August 2026, met with H.E. Hun Many, Deputy Prime Minister and Minister of Civil Service of the Kingdom of Cambodia, on the sidelines of the Heads of Civil Service Meeting for the 23rd ASEAN Cooperation on Civil Service Matters (ACCSM) and the 8th T",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
       "id": "dc3505c988f14015-evt",
       "title": "Secretary-General of ASEAN meets with the Chairman of the National Civil Service Agency of the Republic of Indonesia",
       "date": "2026-08-05",
@@ -71,6 +88,23 @@
       "theme": "diplomacy",
       "link": "https://asean.org/secretary-general-of-asean-meets-with-the-chairman-of-the-national-civil-service-agency-of-the-republic-of-indonesia/",
       "summary": "Secretary-General of ASEAN Dr. Kao Kim Hourn, on 5 August 2026, met with Prof. Dr. Zudan Arif Fakrulloh, Chairman of the National Civil Service Agency of the Republic of Indonesia, on the sidelines of the Heads of Civil Service Meeting for the 23rd ASEAN Cooperation on Civil Service Matters (ACCSM) ",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "e76cd18c9cc60ae2-evt",
+      "title": "The Committee of Permanent Representatives to ASEAN (CPR) and the National Coordinators of the Pacific Alliance (PA) meet to review cooperation and discuss future collaboration",
+      "date": "2026-08-05",
+      "end_date": "2026-08-05",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/the-committee-of-permanent-representatives-to-asean-cpr-and-the-national-coordinators-of-the-pacific-alliance-pa-meet-to-review-cooperation-and-discuss-future-collaboration/",
+      "summary": "The Meeting between the Committee of Permanent Representatives to ASEAN (CPR) and the National Coordinators of the Pacific Alliance was convened on 5 August 2026 at the ASEAN Headquarters/ASEAN Secretariat, in hybrid format. The Meeting exchanged views on developments in both regions, reviewed the T",
       "featured": false,
       "confirmed": true,
       "source": "ASEAN",
