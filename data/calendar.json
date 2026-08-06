@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-08-05T22:09:16.894337+00:00",
-    "duration_seconds": 87.034994,
+    "generated_at": "2026-08-06T02:08:09.921124+00:00",
+    "duration_seconds": 94.419436,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2281,
+      "items_total": 2280,
       "items_strict": 508,
-      "events_detected": 4
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -59,57 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "e0e45686c5b96647-evt",
-      "title": "Secretary-General of ASEAN meets with the Director General of General Department of International Affairs and Training, National Personnel Authority of Japan",
-      "date": "2026-08-05",
-      "end_date": "2026-08-05",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "Asia",
-      "theme": "diplomacy",
-      "link": "https://asean.org/secretary-general-of-asean-meets-with-the-director-general-of-general-department-of-international-affairs-and-training-national-personnel-authority-of-japan/",
-      "summary": "Secretary-General of ASEAN Dr. Kao Kim Hourn, on 5 August 2026, met with Mr. Maeda Mio, Director General of General Department of International Affairs and Training, National Personnel Authority of Japan, on the sidelines of the Heads of Civil Service Meeting for the 8th ASEAN Plus Three Cooperatio ",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "184f349c5198c60a-evt",
-      "title": "Secretary-General of ASEAN meets with Deputy Prime Minister and Minister of Civil Service of the Kingdom of Cambodia",
-      "date": "2026-08-05",
-      "end_date": "2026-08-05",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "Asia",
-      "theme": "diplomacy",
-      "link": "https://asean.org/secretary-general-of-asean-meets-with-deputy-prime-minister-and-minister-of-civil-service-of-the-kingdom-of-cambodia-2/",
-      "summary": "Secretary-General of ASEAN Dr. Kao Kim Hourn, on 5 August 2026, met with H.E. Hun Many, Deputy Prime Minister and Minister of Civil Service of the Kingdom of Cambodia, on the sidelines of the Heads of Civil Service Meeting for the 23rd ASEAN Cooperation on Civil Service Matters (ACCSM) and the 8th T",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "dc3505c988f14015-evt",
-      "title": "Secretary-General of ASEAN meets with the Chairman of the National Civil Service Agency of the Republic of Indonesia",
-      "date": "2026-08-05",
-      "end_date": "2026-08-05",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "Asia",
-      "theme": "diplomacy",
-      "link": "https://asean.org/secretary-general-of-asean-meets-with-the-chairman-of-the-national-civil-service-agency-of-the-republic-of-indonesia/",
-      "summary": "Secretary-General of ASEAN Dr. Kao Kim Hourn, on 5 August 2026, met with Prof. Dr. Zudan Arif Fakrulloh, Chairman of the National Civil Service Agency of the Republic of Indonesia, on the sidelines of the Heads of Civil Service Meeting for the 23rd ASEAN Cooperation on Civil Service Matters (ACCSM) ",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "ddcbbd0e1fd22c4c-evt",
