@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T06:35:46.571133+00:00",
-    "duration_seconds": 91.638073,
+    "generated_at": "2026-08-18T09:28:04.762874+00:00",
+    "duration_seconds": 87.908125,
     "stats": {
       "ok": 85,
       "fail": 14,
       "items_total": 2268,
-      "items_strict": 477,
-      "events_detected": 1
+      "items_strict": 466,
+      "events_detected": 0
     },
     "source_count": 99
   },
@@ -555,23 +555,6 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "a9390d0b6089d761-evt",
-      "title": "Meeting of the Council at Ministerial Level, 30-31 May 2018 GOING DIGITAL IN A MULTILATERAL WORLD",
-      "date": "2030-05-31",
-      "end_date": "2030-05-31",
-      "location": "",
-      "organizer": "OECD",
-      "region": "Global",
-      "theme": "technology",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGd3REQ3pfRWxDemx1UF9DV2RKZTUxcnV4S3BRS1FjWkljMEh5SnkzR3NZUmdGNEJJOXBKTU5vNDlfVVRua1doVnhnaUVPVzRWdmxhOUE1c2RJYTNRNVE?oc=5",
-      "summary": "Meeting of the Council at Ministerial Level, 30-31 May 2018 GOING DIGITAL IN A MULTILATERAL WORLD &nbsp;&nbsp; OECD",
-      "featured": false,
-      "confirmed": true,
-      "source": "OECD",
-      "kind": "diplomatic-event",
-      "lang": "en"
     }
   ]
 }
