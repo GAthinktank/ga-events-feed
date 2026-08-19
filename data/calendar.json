@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-08-18T21:19:48.265464+00:00",
-    "duration_seconds": 85.245419,
+    "generated_at": "2026-08-19T00:58:44.017935+00:00",
+    "duration_seconds": 86.443358,
     "stats": {
       "ok": 85,
       "fail": 14,
-      "items_total": 2262,
-      "items_strict": 470,
-      "events_detected": 2
+      "items_total": 2265,
+      "items_strict": 460,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -59,23 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "cdd3fd12b4b68a7a-evt",
-      "title": "Secretary-General of ASEAN Meets with Vice Minister of Mines and Energy of Brazil",
-      "date": "2026-08-18",
-      "end_date": "2026-08-18",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "Asia",
-      "theme": "diplomacy",
-      "link": "https://asean.org/secretary-general-of-asean-meets-with-vice-minister-of-mines-and-energy-of-brazil/",
-      "summary": "Secretary-General of ASEAN. Dr. Kao Kim Hourn, on 18 August 2026, met with H.E. Gustavo Ataide, Vice Minister of Mines and Energy of Brazil, in Brasilia, during his Working Visit to Brazil. They exchanged views on strengthening ASEAN–Brazil energy cooperation, including energy security, renewable Th",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "bf1c1d04288c617e-evt",
