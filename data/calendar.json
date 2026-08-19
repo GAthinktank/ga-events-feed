@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T12:37:40.535463+00:00",
-    "duration_seconds": 82.123817,
+    "generated_at": "2026-08-19T15:27:22.778827+00:00",
+    "duration_seconds": 89.862709,
     "stats": {
       "ok": 85,
       "fail": 14,
-      "items_total": 2266,
-      "items_strict": 462,
-      "events_detected": 1
+      "items_total": 2267,
+      "items_strict": 465,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -59,6 +59,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "824a6d7d7d10c7f3-evt",
+      "title": "Secretary-General of ASEAN meets with the President of the Brazilian Trade and Investment Promotion Agency",
+      "date": "2026-08-19",
+      "end_date": "2026-08-19",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "economy",
+      "link": "https://asean.org/secretary-general-of-asean-meets-with-the-president-of-the-brazilian-trade-and-investment-promotion-agency/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 19 August 2026, met with Mr. Laudemir André Müller, President of the Brazilian Trade and Investment Promotion Agency (ApexBrasil), in Brasilia, during his Working Visit to Brazil. They exchanged views on the latest economic and investment developm Th",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "bf1c1d04288c617e-evt",
