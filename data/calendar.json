@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T12:47:37.938952+00:00",
-    "duration_seconds": 611.462739,
+    "generated_at": "2026-08-20T15:29:18.850813+00:00",
+    "duration_seconds": 87.834153,
     "stats": {
-      "ok": 9,
-      "fail": 90,
-      "items_total": 134,
-      "items_strict": 23,
-      "events_detected": 0
+      "ok": 85,
+      "fail": 14,
+      "items_total": 2270,
+      "items_strict": 478,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -59,6 +59,40 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "f982cf9db79148a1-evt",
+      "title": "Secretary-General of ASEAN Meets with Secretary of Strategic Policies and Programs of Ministry of Science, Technology and Innovation of Brazil",
+      "date": "2026-08-20",
+      "end_date": "2026-08-20",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/secretary-general-of-asean-meets-with-secretary-of-strategic-policies-and-programs-of-ministry-of-science-technology-and-innovation-of-brazil/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 20 August 2026, met with H.E. Andrea Latge, Secretary of Strategic Policies and Programs of the Ministry of Science, Technology and Innovation of the Federative Republic of Brazil, in Brasília, on the margins of his Working Visit to Brazil. The two T",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "bf1c1d04288c617e-evt",
+      "title": "2026 News items - Deadline to register for 2026 Public Forum is 21 August",
+      "date": "2026-08-21",
+      "end_date": "2026-08-21",
+      "location": "",
+      "organizer": "WTO",
+      "region": "Global",
+      "theme": "economy",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CbkpXanZidE1wSEF1OVdTSFJ5bjdwWWItVTU4aVFEYUNTemtSQ1lnaWYwZ29qNmR1b2NEc3RoeWNNTUtkUVk3dlFKc2dhbWwtUE05bDQzY0dJSUh4NWx5bG05NHNWR1dMNEJJS1pCT19SSVlJ?oc=5",
+      "summary": "2026 News items - Deadline to register for 2026 Public Forum is 21 August &nbsp;&nbsp; World Trade Organization",
+      "featured": false,
+      "confirmed": true,
+      "source": "WTO",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "unga-2026",
