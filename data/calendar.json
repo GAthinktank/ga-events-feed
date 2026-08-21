@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T21:24:06.927201+00:00",
-    "duration_seconds": 111.683793,
+    "generated_at": "2026-08-21T01:02:05.163685+00:00",
+    "duration_seconds": 91.115503,
     "stats": {
-      "ok": 84,
-      "fail": 15,
-      "items_total": 2256,
-      "items_strict": 475,
-      "events_detected": 2
+      "ok": 85,
+      "fail": 14,
+      "items_total": 2270,
+      "items_strict": 482,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -59,23 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "f982cf9db79148a1-evt",
-      "title": "Secretary-General of ASEAN Meets with Secretary of Strategic Policies and Programs of Ministry of Science, Technology and Innovation of Brazil",
-      "date": "2026-08-20",
-      "end_date": "2026-08-20",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "Asia",
-      "theme": "diplomacy",
-      "link": "https://asean.org/secretary-general-of-asean-meets-with-secretary-of-strategic-policies-and-programs-of-ministry-of-science-technology-and-innovation-of-brazil/",
-      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 20 August 2026, met with H.E. Andrea Latge, Secretary of Strategic Policies and Programs of the Ministry of Science, Technology and Innovation of the Federative Republic of Brazil, in Brasília, on the margins of his Working Visit to Brazil. The two T",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "bf1c1d04288c617e-evt",
