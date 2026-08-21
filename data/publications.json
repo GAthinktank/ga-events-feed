@@ -1,12 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T03:47:22.377881+00:00",
-    "duration_seconds": 92.825111,
+    "generated_at": "2026-08-21T06:38:31.464506+00:00",
+    "duration_seconds": 87.17972,
     "stats": {
       "ok": 85,
       "fail": 14,
-      "items_total": 2268,
-      "items_strict": 491,
+      "items_total": 2270,
+      "items_strict": 495,
       "events_detected": 1
     },
     "source_count": 99
@@ -28,7 +28,7 @@
     {
       "id": "d06188750c8a08ee",
       "title": "National Security Science & Technology Strategy",
-      "summary": "National Security Science & Technology Strategy &nbsp;&nbsp; whitehouse.gov",
+      "summary": "National Security Science & Technology Strategy &nbsp;&nbsp; The White House (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ELW1BaUM4dGxFMzUtbF9pZmtSSzZCY1l6VExucmhKZnpKZGNIN1RJR1FQSTF3eWd5ZzVIemVwVGtERGJGMi1mdzVzV1ppeUdQXzZjT005SE5nNlBxdEpwVTNZc01mVXg0b2x6bzVFUW1QSGpoVnh6WTJ3?oc=5",
       "date": "2026-08-21",
       "source": "US White House",
@@ -47,6 +47,19 @@
       "source": "China — MFA",
       "source_type": "gov",
       "region": "CN",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "1e8790ba8247b46d",
+      "title": "4th round of India-Singapore Ministerial Roundtable",
+      "summary": "4th round of India-Singapore Ministerial Roundtable &nbsp;&nbsp; Ministry of External Affairs",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNODlYLVgwQjhVQWZMd3d2X085Y3ZDVk5CaVhyZElTcVdKVllZYlI4aVlhbVB0YnRGQzhTMlVJRWlTaU96MzdMM1JCeTFGNEo0ZWxLVW5lcHNqT29yTEloZk5YMnFfZExpc1htOFpFaHU3ak1UQ1VjOEg5X2xraHRRUERKTDhNM0NVa1U5eTVCZkVKV3RBR3V1OW9BRWlsS1k?oc=5",
+      "date": "2026-08-21",
+      "source": "India — MEA",
+      "source_type": "gov",
+      "region": "IN",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -260,6 +273,19 @@
       "via_gnews": true
     },
     {
+      "id": "6a269dfe714bb800",
+      "title": "China Considering Summit With Seoul in November, South Korean Foreign Ministry Says - The China-Global South Project",
+      "summary": "China Considering Summit With Seoul in November, South Korean Foreign Ministry Says &nbsp;&nbsp; The China-Global South Project",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWlE5cVlmZGU3SlBWVnh1dXNFRVRQX19BQlc4dFh3S2NoSDJuXy1iNm9vakhwdEs5aUhFN3Z3UDVlUVpTLWgzU0FlMlE0d2tJQVk0VlFBTTFJa3dSNXNJdnBYTXd5ZXJXdHlkOFJIVFJIclpuWlVIOUtleTVLX2pxZmdmTERTbzl2U3cxYzNUcmZaUms?oc=5",
+      "date": "2026-08-20",
+      "source": "South Korea — MOFA",
+      "source_type": "gov",
+      "region": "KR",
+      "lang": "en",
+      "theme": "diplomacy",
+      "via_gnews": true
+    },
+    {
       "id": "a6c3e806ffc69480",
       "title": "Announcement of IFC and DaNa Facility Respectful Workplaces Report Launched in Myanmar-language to Help Businesses Prevent Bullying and Sexual Harassment in the Workplace on August 28, 2019 (English)",
       "summary": "Announcement of IFC and DaNa Facility Respectful Workplaces Report Launched in Myanmar-language to Help Businesses Prevent Bullying and Sexual Harassment in the Workplace on August 28, 2019 (English) &nbsp;&nbsp; World Bank Group",
@@ -362,6 +388,19 @@
       "lang": "en",
       "theme": "security",
       "via_gnews": false
+    },
+    {
+      "id": "1a6e039f0e95ed42",
+      "title": "Heads of Finland’s missions abroad to gather for annual meeting in Helsinki",
+      "summary": "Heads of Finland’s missions abroad to gather for annual meeting in Helsinki &nbsp;&nbsp; Valtioneuvosto",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONlFRYU1ER242VVdXRzIwQjFYTmVhLTZBa0docmJUX25ScVpHSEc5d1hheWpiSkFkcVloeGQ5clFIcHhvMXVYZ0FWVzVSeVowU3prQlhhclVxVHV2QlRCRUpaU1AwMFByQzVhNXdFWGZPNUR1UGdEZVFRa1diRXpDbDlNRmhUVS1HNHFhbU1ROEh2S3NzWEh2ZHFsQTROLVAzM285bXRLbVphQ2JW?oc=5",
+      "date": "2026-08-19",
+      "source": "Finland — Government",
+      "source_type": "gov",
+      "region": "FI",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
     },
     {
       "id": "37978d8a1e114d6f",
@@ -559,19 +598,6 @@
       "via_gnews": true
     },
     {
-      "id": "9f3e7a052858d627",
-      "title": "4th round of India-Singapore Ministerial Roundtable",
-      "summary": "4th round of India-Singapore Ministerial Roundtable &nbsp;&nbsp; Ministry of External Affairs",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdFFuWFRQdWZiU1ZyRTJUNTBaM3ExaTBjSEZKSm1NR0Y4U1h0b1F0a3Y4R3FUSy1BUGc0R19URFdBNEdIODBReS1jck5qT0psN0hvVmxXa1lKSWpEQ19DUmpYT2EtQXZMV2V4bkV2cEFZZElCTlMtODZCcnU5LWRoZXEyVS1aOHF0WWR6Mnc1dHVSelBEXzR1Y1hzYW9tUzg?oc=5",
-      "date": "2026-08-18",
-      "source": "India — MEA",
-      "source_type": "gov",
-      "region": "IN",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "2b0253129bc1b313",
       "title": "Weapons of brass destruction? Trump's tariffs target musical instruments as a national security threat",
       "summary": "Weapons of brass destruction? Trump's tariffs target musical instruments as a national security threat &nbsp;&nbsp; Peterson Institute for International Economics",
@@ -622,6 +648,19 @@
       "lang": "en",
       "theme": null,
       "via_gnews": false
+    },
+    {
+      "id": "bbf9fb32bc1ba15c",
+      "title": "Are SBIR “Mills” Truly a Problem?",
+      "summary": "Are SBIR “Mills” Truly a Problem? &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GTXd5am5COXBDOUZxS2VJUlhCUjFlWm1wLTAtamtDdlpmVncxUTdodlR5dEUtem1BaTZzamR5a0NmMmRUT1dnZFZWcGZYMmVEOWEwQ2JuWHJJZjRUVFBDWG00QlRtc1FIbWc?oc=5",
+      "date": "2026-08-17",
+      "source": "CSIS",
+      "source_type": "tt",
+      "region": "US",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
     },
     {
       "id": "465cc32675f1cba2",
@@ -821,7 +860,7 @@
     {
       "id": "381b5cdecaa8f444",
       "title": "Fact Sheet: President Donald J. Trump Bolsters National Security and Strengthens U.S. Supply Chains by Imposing Tariffs on Drones and Their Parts and Components",
-      "summary": "Fact Sheet: President Donald J. Trump Bolsters National Security and Strengthens U.S. Supply Chains by Imposing Tariffs on Drones and Their Parts and Components &nbsp;&nbsp; whitehouse.gov",
+      "summary": "Fact Sheet: President Donald J. Trump Bolsters National Security and Strengthens U.S. Supply Chains by Imposing Tariffs on Drones and Their Parts and Components &nbsp;&nbsp; The White House (.gov)",
       "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNV0FVbTBVRUFjOWlMMGd0azRraDhpcjNMZFF2NDFVT0VXcHFnUHZUT3BweU93MnFyQ01oRlRGNThCdUcwMWxPTDRRQ2FtWlN6R01ZNVFySUs3OVR2TGFrQll2UVpZWngySzNhd01CMzQ5WXdoYzdXMXptc1dLMUpNVzc2bHNwS1dETG1tV2dqbkMwblVwRm5DNFdyUWV0RUsyNEdmUURWaE1PcXVCWmNmMDRZZ3F4UEVnRmRPYkhZbVgtb21BdWQtek5WakU3cWtiMGpOUE91VU02OHlTQkowc1YxeG0yMkVlNnpsNnBSaWdjZkplbmkzaWFTdzI2TGZyYkZHcVV0TVdiQ3h0aDN2dHYwZXBkMm5ES19LLVZMc3ZZM2dyTWtzOElpbmFjZw?oc=5",
       "date": "2026-08-13",
       "source": "US White House",
@@ -1027,6 +1066,19 @@
       "via_gnews": true
     },
     {
+      "id": "15321f848027a940",
+      "title": "Joint Statement by the Ministers of Foreign Affairs of the United Kingdom of Great Britain and Northern Ireland and the Kingdom of Spain on Wildfires and Action on Climate Change",
+      "summary": "Joint Statement by the Ministers of Foreign Affairs of the United Kingdom of Great Britain and Northern Ireland and the Kingdom of Spain on Wildfires and Action on Climate Change &nbsp;&nbsp; GOV.UK",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOV21EaXdzTFFOTDlGVHYxNDlOQ2Vpa0RveTZSTU1RcGNxYjQwVm16MEFDdHY4NzNFYjluQUp2WlMtbkNET25VN3pNUjRYMDBKTGNVbDJtOWg1Y3RGSUJVSDJaRkJzVjRhXzVlVktGZ2FDRUVVTV9nTFM2dDhqRTVfWGNaTlFRRkEyV21YNjM1bVBUNnVyZ0VJdEJPeFRNcWY4aHdkbS1KSE5GNUpXdXJJOUVQbzZCcl9FdUdheFduSk5SRUZRWWxLT3hxc1dmdzNMYkk5OXBTQ1k2cnhnbFhpT0Z2X0RyUnZVcHcxWFB1azZoMEVkMGk2WThyV1hkQ1ZQcTl6RS1kcUxBOGp4bHhwdzk0bw?oc=5",
+      "date": "2026-07-29",
+      "source": "UK gov.uk announcements",
+      "source_type": "gov",
+      "region": "UK",
+      "lang": "en",
+      "theme": "diplomacy",
+      "via_gnews": true
+    },
+    {
       "id": "bc95d1ce585b892a",
       "title": "Joint Statement by the Ministers of Foreign Affairs of France and the United Kingdom of Great Britain and Northern Ireland on Wildfires and Action on Climate Change",
       "summary": "Joint Statement by the Ministers of Foreign Affairs of France and the United Kingdom of Great Britain and Northern Ireland on Wildfires and Action on Climate Change &nbsp;&nbsp; diplomatie.gouv.fr",
@@ -1194,19 +1246,6 @@
       "lang": "fr",
       "theme": "security",
       "via_gnews": false
-    },
-    {
-      "id": "2c6bcb3d212af158",
-      "title": "Joint Statement of G7 Foreign Ministers on El-Obeid (Sudan)",
-      "summary": "Joint Statement of G7 Foreign Ministers on El-Obeid (Sudan) &nbsp;&nbsp; diplomatie.gouv.fr",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd3B4M1UyNlRPaGF3MTJVc3laRnQyNVFNZDJ3ZGp2cnE4a0xBV1ZacHlxQk15MXloc3BzRk9uM3RVT2oyc3J0eUVTbWQ4V0s2T190bUw4U0VnVF9uNjRUdlg4aGc3aTVaSUs2WGlXZEFMcmJQWllpai0yZjRuYkxCZ3QwM1E1UDBVd1EwMk9wVENKTmRsY3dJR1RnczJaNThsMkdSajNIVEJUeWVSX1QyN3pJOGdCODgwWWtsdFBjY2xzVllIUDNqQjJlZmh4a21VZE9Qd3BaS2JIaUFuQ2c?oc=5",
-      "date": "2026-07-14",
-      "source": "France — MEAE (Diplomatie)",
-      "source_type": "gov",
-      "region": "FR",
-      "lang": "fr",
-      "theme": null,
-      "via_gnews": true
     },
     {
       "id": "f3089791e2fefe74",
@@ -1711,19 +1750,6 @@
       "source": "PIIE — Peterson Institute",
       "source_type": "tt",
       "region": "US",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "a588a42bb0de947b",
-      "title": "A Eurasian Alignment of Strategies: Security and Development",
-      "summary": "A Eurasian Alignment of Strategies: Security and Development &nbsp;&nbsp; valdaiclub.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdDFNS2pzOUJaUy1xdVc1R2RtSWxUWGRnYmNESmxvT0xWYXNsMVJjaF9KT19RdlJIVmZ6SEpFU1NRb2UwMklIZkdPdG5TWElXa3BFTGxjZ2xkWXV3c2NmVE1RSUo1SkZMT3BBUWhFUFNiWmNaSGJmRERDUXcwblptM2V6VWZzS1k?oc=5",
-      "date": "2026-06-23",
-      "source": "Valdai Club",
-      "source_type": "tt",
-      "region": "RU",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -2509,19 +2535,6 @@
       "via_gnews": true
     },
     {
-      "id": "9b7de7e1ac75df82",
-      "title": "African Union (AU) Malabo Declaration on Agriculture and Postharvest Losses",
-      "summary": "African Union (AU) Malabo Declaration on Agriculture and Postharvest Losses &nbsp;&nbsp; Food and Agriculture Organization",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNM19ieTlUbTM2eXJoYlhiS3ZWdVlwZlZKSkdZOFBNVkRJVnhxTGR6V05RUG11MV9JdG4xZlZ4NE10cDdFZ1ItN21KRjNOZ3JTWWpOS1FJUjhIb2k4S1FyWnAtWXBTcHlQMGM0RkRMWHVBSXJ6eHpxZ3dyYWg2SkpieGFBTDhXc2tVZEZ3MG9oY0p3ZkpHQTlGYjlFb3FhQ1ZrQWNpSlEtUVItRHllNGVuTldsbEU4UVloeHRyQ0M5dVBDWVZzV0Q0YmN3V01vZFZkZExJYTVFRGJoS09CMU40M2p6WW0?oc=5",
-      "date": "2026-03-29",
-      "source": "African Union",
-      "source_type": "io",
-      "region": "Africa",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "f7e35e1dec4e8eb0",
       "title": "The Nordic-Baltic Eight policy brief: How to implement a full maritime services ban on Russian oil",
       "summary": "The EU is considering a full maritime services ban on Russian oil. While the final proposal is still under negotiation, the measure would replace the current oil price-cap regime by prohibiting European and allied companies from providing maritime services for Russian oil exports, regardless of the sale price. The ban would cover transportation, insurance, financing, [&#8230;]",
@@ -2691,6 +2704,19 @@
       "via_gnews": true
     },
     {
+      "id": "62ad407c200e95f9",
+      "title": "Nigeria and Angola signs Agreement to ease the movement of Diplomats and Government Officials.",
+      "summary": "Nigeria and Angola signs Agreement to ease the movement of Diplomats and Government Officials. &nbsp;&nbsp; Federal Ministry of Foreign Affairs",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONWp1eWp6V2JudmktRjNHQmR2Ql9DWEdTUkgzUzdoTHVBdk0yenBjVTIzT3BTTWlsTHNVc1Fjd1ZUUTN3T3k4WmtBeVdRVTBrZktBMzY1OFl0R0FLTEIwcm1KaWd2aXVKd1NadGZfZ1B4Mk5BODdpbllyZnFORmJ4NlozTzFjT1ZwNkw2NlV2TmFvNGRTWXZXaGNrUHdwbm43Sk1OT3NPWmQyd0dnQ3ZMRDBhdjc5OFJ6cGFFZUlHZnZIRVYtQVdURA?oc=5",
+      "date": "2026-02-15",
+      "source": "Nigeria — MFA",
+      "source_type": "gov",
+      "region": "Africa",
+      "lang": "en",
+      "theme": "diplomacy",
+      "via_gnews": true
+    },
+    {
       "id": "7d8431b3b2633909",
       "title": "Strategic Analysis - MP-IDSA",
       "summary": "Strategic Analysis &nbsp;&nbsp; MP-IDSA",
@@ -2769,9 +2795,22 @@
       "via_gnews": true
     },
     {
+      "id": "991978ad916e1e93",
+      "title": "Sovereign Wealth Funds and Foreign Policy",
+      "summary": "Sovereign Wealth Funds and Foreign Policy &nbsp;&nbsp; Stiftung Wissenschaft und Politik (SWP)",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaGtvLWh5QTBHUnVVWWM4b2M5ODNHS3VpcGFtWEhrV1dNUFhNSHRoUUxqWVpjX0k1YnlSa2N3SUVXdTdwOE5zejEzU2R3M3J5bDluZ2t6Y0U2UkswM2hGMW9WaG81RThhYWtGNjRYaW94a28xbXQzZ1ducGE2ODd4TExQSXFWQTA?oc=5",
+      "date": "2026-02-04",
+      "source": "SWP Berlin (DE)",
+      "source_type": "tt",
+      "region": "DE",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "38e063b0bb22a7a5",
       "title": "Strengthen National Security",
-      "summary": "Strengthen National Security &nbsp;&nbsp; whitehouse.gov",
+      "summary": "Strengthen National Security &nbsp;&nbsp; The White House (.gov)",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mVlhObHpLenRUTDJFVnhlLXpnNzlrUVlfa3huVXBQNmpMZmFlOW5RcjdFanVpR1ZZNnBvaF9BanNta2htanQyS0cxa0Y1SDlBUFFtcUp1YzlIWTZSU2pVdXhYcjZoYkU?oc=5",
       "date": "2026-01-22",
       "source": "US White House",
@@ -2868,19 +2907,6 @@
       "source": "European Policy Centre (EPC)",
       "source_type": "tt",
       "region": "EU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "7207db60669685b2",
-      "title": "South Korean foreign ministry to pursue President Lee's state visit to China early next year: report",
-      "summary": "South Korean foreign ministry to pursue President Lee's state visit to China early next year: report &nbsp;&nbsp; Global Times",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04MHQtWm1OcThaNGVQVS1rcXV3LXFnMGlDM0hyNTlENnQ2Z1NBMFBKVHNWOGhETzNyeGFBMWtrUHEwZS00eWsxNG9RVURtcG9SRWFjMWE4TFk4Y1kwUHNSUWdR?oc=5",
-      "date": "2025-12-19",
-      "source": "South Korea — MOFA",
-      "source_type": "gov",
-      "region": "KR",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -3016,19 +3042,6 @@
       "via_gnews": true
     },
     {
-      "id": "c9aa19a94d1c6e50",
-      "title": "Malaysia’s Foreign Policy under Anwar Ibrahim: Rhetorical Shift, Strategic Continuity?",
-      "summary": "Malaysia’s Foreign Policy under Anwar Ibrahim: Rhetorical Shift, Strategic Continuity? &nbsp;&nbsp; S. Rajaratnam School of International Studies (RSIS)",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONGZ4TWxEaHZiVVdLeXRuU2FTdnVndmYxUDBPRFppcmNQaHBFWFVNME9leFRpeld6M29xUjY4NjVFcDJLZnFfMGJwLXEwSFFVRzByMWNGWkdBS1ZKM0duRkZlWGsyamdIR0k3QVUzd1MxZVdyWEREbER3NGxCTTFGTjF0Mm56SEJoVnM2d1pWWFcweUFXa0s4SnVVZm9nQldwelJyMktoUHQydDkxUS15bGtPYUhwYkZiNkZKb1FNV1BnNzQ?oc=5",
-      "date": "2025-11-25",
-      "source": "RSIS Singapore",
-      "source_type": "tt",
-      "region": "Asia",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "aa4ad79389a89afb",
       "title": "IISS Conflict Trends 2025",
       "summary": "IISS Conflict Trends 2025 &nbsp;&nbsp; The International Institute for Strategic Studies",
@@ -3078,19 +3091,6 @@
       "region": "FR",
       "lang": "fr",
       "theme": "climate",
-      "via_gnews": true
-    },
-    {
-      "id": "26f184590d7eba6a",
-      "title": "The weight of silence: How the Mobondo revolt is shaking western DRC (Summary Report)",
-      "summary": "The weight of silence: How the Mobondo revolt is shaking western DRC (Summary Report) &nbsp;&nbsp; research.diis.dk",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZWhySjMwUUI0VklOeEJuS21OTFJEblpkdzhkeWJuWDVPWkJMTVV4aVhhcTZyRFBzbHp0VnBDeXNUTEhra0t1X2FHWkdqNnBBTWxtRERjNHFyYWVNVHhONzdyWVBGTDFIYmNfMHczUi03R1RhVDI3eG1OQWlUMkk0dlpQd0M0WjlMb2d6RGJUTWVlTk5Gd2UzRko4eWtZOFI1Tkl0MzFPQmVlTU0?oc=5",
-      "date": "2025-11-17",
-      "source": "DIIS (DK)",
-      "source_type": "tt",
-      "region": "DK",
-      "lang": "en",
-      "theme": null,
       "via_gnews": true
     },
     {
@@ -3629,7 +3629,7 @@
     {
       "id": "315a7a684225f522",
       "title": "Fact Sheet: President Donald J. Trump Restricts the Entry of Foreign Nationals to Protect the United States from Foreign Terrorists and Other National Security and Public Safety Threats",
-      "summary": "Fact Sheet: President Donald J. Trump Restricts the Entry of Foreign Nationals to Protect the United States from Foreign Terrorists and Other National Security and Public Safety Threats &nbsp;&nbsp; whitehouse.gov",
+      "summary": "Fact Sheet: President Donald J. Trump Restricts the Entry of Foreign Nationals to Protect the United States from Foreign Terrorists and Other National Security and Public Safety Threats &nbsp;&nbsp; The White House (.gov)",
       "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOYUFCbEFuMWNzWHdzWEhhaWJXN1FSUUR1VzJmZmNscnBMalhZZTBPODVxa3c2SFpRRE1EZmlWakFDU0o5QTltN04ybk43X1hHdHNMLVhHVUhFcGZMWmR3S19aVzl4c1EyZktFXzhzQWc5TjNiVVFFTThlOVhGX2JUV25vanJnQXNNeUc0ZmtlSG1VNC1sc0pLazM2bWZoVmxGVklCX3pmV1Bub2xteHdST05oQ1N4dDJYMUtwQ2xkVDY3czVxZC1TbWl1eWE4M2prV1ZsQW9XSTF4Y0ZjN3NKVEkybzdUUjJTNGhTQzNtLXpNV1lSYXRSaXQ4ZU90U21SWmszcEM1Uk1JY1VPeF9RcXUxLU1STEx0S3owZFlEb1FoY09zM0JzXzdQbDZNbWhUOEkwRzg1bFc2T05iOGNmSmVhN1J4akkxM2VtZDNGLXg?oc=5",
       "date": "2025-06-04",
       "source": "US White House",
@@ -3913,19 +3913,6 @@
       "via_gnews": true
     },
     {
-      "id": "057fcd819624e143",
-      "title": "The Strategic Defence Review",
-      "summary": "The Strategic Defence Review &nbsp;&nbsp; GOV.UK",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9UM1l5VkhVQ1h0Mk13bTc4R1planhRVlBENEVsM3FjY2t2eVJPRHBPSk14NC1WZmliRWZ4ck94VWRCeHJvdmEtc2M5enlxLVNPR2pwM0RJV2VTUjlKTjNiU2RXQktPTExlN09yV3ZYWmZZQUNBWFo2WkZ3?oc=5",
-      "date": "2024-07-17",
-      "source": "UK gov.uk announcements",
-      "source_type": "gov",
-      "region": "UK",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": true
-    },
-    {
       "id": "5117254f58b0b6bb",
       "title": "Washington Summit Declaration",
       "summary": "Washington Summit Declaration &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
@@ -4040,6 +4027,19 @@
       "region": "CN",
       "lang": "en",
       "theme": "economy",
+      "via_gnews": true
+    },
+    {
+      "id": "59f2c125ff5a67ad",
+      "title": "2024 Report: Societal issues",
+      "summary": "2024 Report: Societal issues &nbsp;&nbsp; Lowy Institute Poll",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92XzR5WUdlOHRQSjkyRHNFYV9hdThLbGZOS0ctT19mcmN4NVRNbEkweVhLQ1pud2xQcVNiNUZfM2h5TERteXYwR1dDUW5EQkt1T2lSaWgtWm9hVWp2cENtdXd6MXBvZmtvZ3VZ?oc=5",
+      "date": "2024-06-03",
+      "source": "Lowy Institute (AU)",
+      "source_type": "tt",
+      "region": "AU",
+      "lang": "en",
+      "theme": null,
       "via_gnews": true
     },
     {
@@ -4194,19 +4194,6 @@
       "source": "OECD",
       "source_type": "io",
       "region": "Global",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "b7e91ffc8aba1782",
-      "title": "Wilson Center Annual Report",
-      "summary": "Wilson Center Annual Report &nbsp;&nbsp; Woodrow Wilson International Center for Scholars",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV3Z2S3VxallWNW1YMmRhUGJOYklTYnhzaHYtSXN0X05ZMFFhWWZWb1d1OHdySlhEYl9PbGVWQl9FNGwzb0ZoN013X3pJZy05NDNXdFFEWGU3ajlVcW5aTG1zYVY1clJkSXJCM0QzRms3NUFtNzBZcHczUDZCWUZ0MFBpcFFQYzhuNTFN?oc=5",
-      "date": "2024-03-12",
-      "source": "Wilson Center",
-      "source_type": "tt",
-      "region": "US",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -4506,6 +4493,19 @@
       "source": "GLOBSEC",
       "source_type": "tt",
       "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "61249c83e3ed71e9",
+      "title": "The Global Financial System: A post-GFC Report Card",
+      "summary": "The Global Financial System: A post-GFC Report Card &nbsp;&nbsp; orfonline.org",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTVJ6YUtUSUsteTZkM1JaY09faDl1dkVZSGh4Z1ZJMHNKcE5adjdSbUNsV0ZRMlJmNUltNWRmSUx1U3JHc3NPTXlDS3hQeHhucy1idDJDNWtQSm5ETnR4dEllQm9ZdlRVNVZ3SGp3ZzV0YWNlV0tjX1Z1NFI2QlZqZ1ExeThONnVkQl94NUxB?oc=5",
+      "date": "2023-08-23",
+      "source": "ORF — Observer Research Foundation",
+      "source_type": "tt",
+      "region": "IN",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -4836,6 +4836,19 @@
       "via_gnews": true
     },
     {
+      "id": "cc3760b4520b326e",
+      "title": "Thailand’s Foreign Policy: Hedging by Default?",
+      "summary": "Thailand’s Foreign Policy: Hedging by Default? &nbsp;&nbsp; S. Rajaratnam School of International Studies (RSIS)",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd2pGLXVub3FxU3RvOEUyLXNCVXQwc3lVTkN4RjF6M1FLN3p5V3BaTVJWZmVQZEpCNEd6Q1V3UnVhVGZKZEVuQzFpMUZPT3l4THgwem4tQ2pNb0lXU3ZPWUpnRExITDMyb3BKcGg2NW96OC0wOWN2NVFkN1NRUkpxdERpaHhZdmEzakdhS09wYw?oc=5",
+      "date": "2023-03-15",
+      "source": "RSIS Singapore",
+      "source_type": "tt",
+      "region": "Asia",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "6f3c2dfedca4a0b3",
       "title": "Euro SIFMANet: Paris Report",
       "summary": "Euro SIFMANet: Paris Report &nbsp;&nbsp; Royal United Services Institute (RUSI)",
@@ -4922,6 +4935,19 @@
       "source": "Sweden — Government",
       "source_type": "gov",
       "region": "SE",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "23847721c78c3f47",
+      "title": "New report shows that the V4 population supports Ukrainian refugees with some reservations",
+      "summary": "New report shows that the V4 population supports Ukrainian refugees with some reservations &nbsp;&nbsp; GLOBSEC",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcnQtZ0Z1OTI2S09RRGhrT0NMM2ZJRFZSQ2VqUEhlanV4OGZfVXdkVjYxQ0FPel9lYTE4YVpoeEltdzNhRWQ2cS1jaDVyLWpiZHZfTV9SQnpza3Zja3FaeUZmcHlPYkZpUnBELVZYazdmRmtHSDRLNjhVTmY0Q002UFZzbkl3aURKS1RqOVRhRFpZbTlIUFZ6b1FHV1B4SDhIS0c3aG5JeHQtaHFuR3p2T1phcw?oc=5",
+      "date": "2022-12-12",
+      "source": "GLOBSEC",
+      "source_type": "tt",
+      "region": "EU",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -5158,6 +5184,19 @@
       "region": "LatAm",
       "lang": "es",
       "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "1887a05911b2294b",
+      "title": "CLIMATE & DEFENCE STRATEGY",
+      "summary": "CLIMATE & DEFENCE STRATEGY &nbsp;&nbsp; Ministère des Armées",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNelc0aGxhNEFnTUpPTUVwdWcxQ0Z4aFA5VUZuUHBVM1V0SnRiaEg2cmw0dy1lSms1T3dQdG9qMTYwamRKS2IybzRjM0cwM3hfalgtamplQkl6VktaazJ4VHFTZklhaWxMT3B0QlRjWDc5VjVRSEdTWC1qRXJ3TU5ONUJ6blBwenlJRXNnaXd5YXlpU3p6UktxVFZiZVYwc1VNOXRyRzl3a2NzejlQMThTVw?oc=5",
+      "date": "2022-06-17",
+      "source": "France — Ministère des Armées",
+      "source_type": "gov",
+      "region": "FR",
+      "lang": "fr",
+      "theme": "security",
       "via_gnews": true
     },
     {
@@ -5538,19 +5577,6 @@
       "via_gnews": true
     },
     {
-      "id": "6bdfb115e64a9563",
-      "title": "Report on the Implementation of the Recommendation OF THE COUNCIL concerning Guidelines Governing the Protection of Privacy and",
-      "summary": "Report on the Implementation of the Recommendation OF THE COUNCIL concerning Guidelines Governing the Protection of Privacy and &nbsp;&nbsp; OECD",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nSHBZNkszWVUtYk0tYWI4eXVzQktNcGUtbFNRWWxrV3hLZ1FOS2VIMU5xTVo3Zmh0UjdrU3JTVU9NWU4xODljaktINHo0NFdaOW1aYnJMUy1Mdw?oc=5",
-      "date": "2021-03-17",
-      "source": "OECD",
-      "source_type": "io",
-      "region": "Global",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "1c8404822efb1b18",
       "title": "Universal Declaration of Human Rights",
       "summary": "Universal Declaration of Human Rights &nbsp;&nbsp; Welcome to the United Nations",
@@ -5863,6 +5889,19 @@
       "via_gnews": true
     },
     {
+      "id": "80ad2069f7c1728a",
+      "title": "Into EurAsia: Monitoring the EU’s Central Asia Strategy: Executive Summary and Recommendations",
+      "summary": "Into EurAsia: Monitoring the EU’s Central Asia Strategy: Executive Summary and Recommendations &nbsp;&nbsp; ceps.eu",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRmw3anZDNkVsZGZlcXFGTUVycElMbXdfWGNuazVydVZtU2JXMmp3eGVFbVdMclkxSWNfVmJqRXFCMkJubkxCSkpxM0ZlVlR0cTRHTkMzZThIbUw3VGJydWl3ZlZOMVR6LVY2TEt6bkNYbE8tcjQwbGFjd1F1aEpSVUd1WTNJdVBxY25OOU5CY0ZDaDhJYjhPQXFjRXRFaDZyRXd5eWtOUlBaRWllendXcWVyVE0zR3hHSG5qNzFB?oc=5",
+      "date": "2019-05-19",
+      "source": "CEPS",
+      "source_type": "tt",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "578928669aa8c3bd",
       "title": "Armed Conflict Survey 2019",
       "summary": "Armed Conflict Survey 2019 &nbsp;&nbsp; The International Institute for Strategic Studies",
@@ -5873,6 +5912,19 @@
       "region": "UK",
       "lang": "en",
       "theme": "security",
+      "via_gnews": true
+    },
+    {
+      "id": "a3033baf68f0903a",
+      "title": "10 years on: Reassesing the Stoltenberg Report on Nordic foreign affairs cooperation",
+      "summary": "10 years on: Reassesing the Stoltenberg Report on Nordic foreign affairs cooperation &nbsp;&nbsp; DIIS",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMXZYZEM2eTZVeFlvMm1KQlRYWXVQWUdXdUFfX3hRN01kZEFMdXA0V2pmMy1YdDJveGJaV0hRRFVnSEdWTUNjMmZTN1ZWWkUyOWdQQ2xFaWdod1VOYl9JWVk1cFdLLUltbmYwWF9VS3VvQWpnOV9ZdC1CMUV3eEJ1TmZxdjU5a3ZDZ2hLamJ1ZHpWVGhSNmtiT1BrMWF3azhHN3JIa1RfS01LZmxsWlZtTFl0bGo1UQ?oc=5",
+      "date": "2019-05-08",
+      "source": "DIIS (DK)",
+      "source_type": "tt",
+      "region": "DK",
+      "lang": "en",
+      "theme": "diplomacy",
       "via_gnews": true
     },
     {
@@ -5910,6 +5962,19 @@
       "source": "FRS — Recherche Stratégique (FR)",
       "source_type": "tt",
       "region": "FR",
+      "lang": "fr",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "b3922abeb6bf9718",
+      "title": "The economic presence of China in the Maghreb: Ambitions and limits",
+      "summary": "The economic presence of China in the Maghreb: Ambitions and limits &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSEY4NjdXNTlmTWc2aDBSVDBMUVRyaGNDTnNmTjFldlBzOGp1SDh4aThLWDFfZEtLd0ZqdURVcDNqZGcxeEFUdFFYcXNrVnVpUWxLcUJEZzg1bUVfTXd6NUZoRTVsWUplNF9lVUkwdDh4ckdXZ0xKR2xhY2Zldl9KeThVR0xZVGlxMzkxczJlMmFwdkwyTkZqTUoyaXhjVlY1SnJ3WExUQW8xajJ3SDJpN2FxdzZBUHhPdEluclFYMVduMjNCMWlucUtQMW11c1Vzc0RiUU1DaGotX1o1SGJ3?oc=5",
+      "date": "2018-10-29",
+      "source": "FRS — Recherche Stratégique (FR)",
+      "source_type": "tt",
+      "region": "CN",
       "lang": "fr",
       "theme": null,
       "via_gnews": true
@@ -6006,16 +6071,16 @@
       "via_gnews": true
     },
     {
-      "id": "3d375704833a9294",
-      "title": "Xavier Pasco | Research Team | Foundation for Strategic Research",
-      "summary": "Xavier Pasco | Research Team | Foundation for Strategic Research &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yVUc4ZHk4Q18tZU4yTDFiR29ibzVEX2Raak01MTEtamFkWHNHd211QVVfY1lScS1XZVNDWXRjNlR0aUVPZEZROTVFWk1KZG5jQ1haNnppSTVCeUMtRDNsU1lDVDMzUHNONGxJ?oc=5",
-      "date": "2017-08-03",
-      "source": "FRS — Recherche Stratégique (FR)",
+      "id": "35169291b5728736",
+      "title": "A Commentary on the World Bank Report 'Breaking the Conflict Trap'",
+      "summary": "A Commentary on the World Bank Report 'Breaking the Conflict Trap' &nbsp;&nbsp; Clingendael",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeGt5djEwQXVrVjRhczJ1VE9ZSHpYUVV6WTM3YkxLODAxR1lmQ201ZnBENlBBeE9OM3IydFJjc1BHYkRadGx3eTYxZ25HRHd3OEFibWtSZm1rT3I3VjVsWTF6TlZkODFTV2hwaS1wcDF4LTFWQ1B2eDFnQWVCN3l5TDR3RkJSX3lBNUlLazhQOHFOaTg?oc=5",
+      "date": "2017-09-27",
+      "source": "Clingendael (NL)",
       "source_type": "tt",
-      "region": "FR",
-      "lang": "fr",
-      "theme": null,
+      "region": "NL",
+      "lang": "en",
+      "theme": "security",
       "via_gnews": true
     },
     {
@@ -6274,19 +6339,6 @@
       "source": "IISS",
       "source_type": "tt",
       "region": "UK",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "b81f8ef913025e0b",
-      "title": "SWP Research Paper 2009/C 10, September 2009, 37 pages",
-      "summary": "SWP Research Paper 2009/C 10, September 2009, 37 pages &nbsp;&nbsp; Stiftung Wissenschaft und Politik (SWP)",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUpUN19qWE5TQzAtQ3dsWS1PbjUtZkt3Q04wSGk3cnJEWUh4LURsRVA2aDZBeEhINHZ4WnBxRkJRZzg4SU5hYlMtR0dxWUsxN05CcTFPV2ZoOXFqWFBQNzJJYjhSYTlLcDdfTThtcXZhdlJLTHpQTnhFYVY1OXNza2lKN2k0aDBibDZtZTQ3WmdPZFE?oc=5",
-      "date": "2009-09-10",
-      "source": "SWP Berlin (DE)",
-      "source_type": "tt",
-      "region": "DE",
       "lang": "en",
       "theme": null,
       "via_gnews": true
