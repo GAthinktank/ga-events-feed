@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T21:20:09.620670+00:00",
-    "duration_seconds": 95.0903,
+    "generated_at": "2026-08-22T00:58:30.720824+00:00",
+    "duration_seconds": 91.323523,
     "stats": {
       "ok": 85,
       "fail": 14,
-      "items_total": 2263,
-      "items_strict": 493,
-      "events_detected": 1
+      "items_total": 2242,
+      "items_strict": 499,
+      "events_detected": 0
     },
     "source_count": 99
   },
@@ -59,23 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "bf1c1d04288c617e-evt",
-      "title": "2026 News items - Deadline to register for 2026 Public Forum is 21 August",
-      "date": "2026-08-21",
-      "end_date": "2026-08-21",
-      "location": "",
-      "organizer": "WTO",
-      "region": "Global",
-      "theme": "economy",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CbkpXanZidE1wSEF1OVdTSFJ5bjdwWWItVTU4aVFEYUNTemtSQ1lnaWYwZ29qNmR1b2NEc3RoeWNNTUtkUVk3dlFKc2dhbWwtUE05bDQzY0dJSUh4NWx5bG05NHNWR1dMNEJJS1pCT19SSVlJ?oc=5",
-      "summary": "2026 News items - Deadline to register for 2026 Public Forum is 21 August &nbsp;&nbsp; World Trade Organization",
-      "featured": false,
-      "confirmed": true,
-      "source": "WTO",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "unga-2026",
