@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T12:39:09.726958+00:00",
-    "duration_seconds": 90.399431,
+    "generated_at": "2026-08-25T15:38:46.655597+00:00",
+    "duration_seconds": 89.571706,
     "stats": {
-      "ok": 84,
-      "fail": 15,
-      "items_total": 2221,
-      "items_strict": 461,
-      "events_detected": 1
+      "ok": 83,
+      "fail": 16,
+      "items_total": 2200,
+      "items_strict": 458,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -59,6 +59,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "bd25edb501351946-evt",
+      "title": "Opening address by Commissioner Šuica on the \"Current Issues in the European Union and the Priorities of the Republic of Croatia” at the Conference of Ambassadors, Consuls General, Consuls and Military Attachés of the Republic of Croatia",
+      "date": "2026-08-25",
+      "end_date": "2026-08-25",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "security",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/hr/speech_26_1759",
+      "summary": "European Commission Govor Zagreb, 25 Aug 2026 Poštovane ekscelencije, dame i gospodo, Zadovoljstvo je biti ovdje, među toliko prijatelja i poznanika. Dragi Gordane, hvala ti što si nas i ove godine okupio...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "f9dbbe6d13671a83-evt",
