@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-08-24T21:24:56.500257+00:00",
-    "duration_seconds": 86.676963,
+    "generated_at": "2026-08-25T01:01:00.941351+00:00",
+    "duration_seconds": 120.038397,
     "stats": {
-      "ok": 84,
-      "fail": 15,
-      "items_total": 2254,
-      "items_strict": 483,
-      "events_detected": 1
+      "ok": 82,
+      "fail": 17,
+      "items_total": 2206,
+      "items_strict": 455,
+      "events_detected": 0
     },
     "source_count": 99
   },
@@ -59,23 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "9b19a817b94b48fa-evt",
-      "title": "Video message by President von der Leyen at the ONS Conference",
-      "date": "2026-08-24",
-      "end_date": "2026-08-24",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1754",
-      "summary": "European Commission Speech Brussels, 24 Aug 2026 Ladies and gentlemen, For more than fifty years, ONS has brought together governments and industry to tackle the world's energy challenges. Today, that mission ...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "unga-2026",
