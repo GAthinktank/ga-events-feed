@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T06:39:02.912076+00:00",
-    "duration_seconds": 89.168661,
+    "generated_at": "2026-08-25T09:31:45.513097+00:00",
+    "duration_seconds": 112.653742,
     "stats": {
-      "ok": 84,
-      "fail": 15,
-      "items_total": 2243,
-      "items_strict": 469,
-      "events_detected": 0
+      "ok": 83,
+      "fail": 16,
+      "items_total": 2238,
+      "items_strict": 460,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -59,6 +59,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "f9dbbe6d13671a83-evt",
+      "title": "Speech by Commissioner Kos at the Conference of Ambassadors, Consuls General, Consuls and Military Attachés",
+      "date": "2026-08-25",
+      "end_date": "2026-08-25",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "security",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1756",
+      "summary": "European Commission Speech Zagreb, 25 Aug 2026 Why is EU enlargement today more than enlarging our Union? What do we need to do to get ready for new members? How can we reconcile the need for time for delive...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "unga-2026",
