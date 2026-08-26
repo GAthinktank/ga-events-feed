@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-08-25T21:23:55.639711+00:00",
-    "duration_seconds": 113.948024,
+    "generated_at": "2026-08-26T01:01:52.662883+00:00",
+    "duration_seconds": 94.689698,
     "stats": {
-      "ok": 83,
-      "fail": 16,
-      "items_total": 2206,
-      "items_strict": 445,
-      "events_detected": 2
+      "ok": 84,
+      "fail": 15,
+      "items_total": 2219,
+      "items_strict": 460,
+      "events_detected": 0
     },
     "source_count": 99
   },
@@ -59,40 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "bd25edb501351946-evt",
-      "title": "Opening address by Commissioner Šuica on the \"Current Issues in the European Union and the Priorities of the Republic of Croatia” at the Conference of Ambassadors, Consuls General, Consuls and Military Attachés of the Republic of Croatia",
-      "date": "2026-08-25",
-      "end_date": "2026-08-25",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "security",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/hr/speech_26_1759",
-      "summary": "European Commission Govor Zagreb, 25 Aug 2026 Poštovane ekscelencije, dame i gospodo, Zadovoljstvo je biti ovdje, među toliko prijatelja i poznanika. Dragi Gordane, hvala ti što si nas i ove godine okupio...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "f9dbbe6d13671a83-evt",
-      "title": "Speech by Commissioner Kos at the Conference of Ambassadors, Consuls General, Consuls and Military Attachés",
-      "date": "2026-08-25",
-      "end_date": "2026-08-25",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "security",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1756",
-      "summary": "European Commission Speech Zagreb, 25 Aug 2026 Why is EU enlargement today more than enlarging our Union? What do we need to do to get ready for new members? How can we reconcile the need for time for delive...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "unga-2026",
