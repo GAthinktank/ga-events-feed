@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-08-27T00:25:27.550877+00:00",
-    "duration_seconds": 106.145548,
+    "generated_at": "2026-08-27T13:40:45.720034+00:00",
+    "duration_seconds": 90.991171,
     "stats": {
-      "ok": 83,
-      "fail": 16,
-      "items_total": 2238,
-      "items_strict": 454,
-      "events_detected": 0
+      "ok": 84,
+      "fail": 15,
+      "items_total": 2247,
+      "items_strict": 471,
+      "events_detected": 3
     },
     "source_count": 99
   },
@@ -59,6 +59,57 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "4b5655912d588629-evt",
+      "title": "Speech by President von der Leyen at the annual conference ‘La Rencontre des Entrepreneurs de France 2026'",
+      "date": "2026-08-27",
+      "end_date": "2026-08-27",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1765",
+      "summary": "European Commission Speech Paris, 27 Aug 2026 “Check against delivery” President of MEDEF, Patrick Martin, Executive Vice-President, Stéphane Séjourné, Ministers, Members of Parliament, Business leaders, ...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "5a85ef4b017a3dfc-evt",
+      "title": "The ASEAN Defence Senior Officials’ Meeting (ADSOM) and ADSOM-Plus convene via videoconference, hosted by the Philippines",
+      "date": "2026-08-27",
+      "end_date": "2026-08-27",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "security",
+      "link": "https://asean.org/the-asean-defence-senior-officials-meeting-adsom-and-adsom-plus-convene-via-videoconference-hosted-by-the-philippines/",
+      "summary": "The ASEAN Defence Senior Officials’ Meeting (ADSOM) and ADSOM-Plus were convened via videoconference, on 26-27 August 2026. The Meetings brought together ADSOM Leaders from all ASEAN Member States, as well as senior officials responsible for defence from the Plus Countries. The Deputy Secretary-G Th",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "c8c7337b7642aa50-evt",
+      "title": "Joint Statement for the Fourteenth ASEAN Plus Three Labour Ministers Meeting (14th ALMM+3)",
+      "date": "2026-08-27",
+      "end_date": "2026-08-27",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/joint-statement-for-the-fourteenth-asean-plus-three-labour-ministers-meeting-14th-almm3/",
+      "summary": "The 14th ASEAN Plus Three Labour Ministers Meeting (14th ALMM+3) was held on 27 August 2026 in Bangkok, Thailand, and chaired by H.E. Julapun Amornvivat, Minister of Labour of Thailand. The Meeting was attended by the Labour Ministers/Heads of Delegation of Brunei Darussalam, Indonesia, Lao PDR, The",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "unga-2026",
