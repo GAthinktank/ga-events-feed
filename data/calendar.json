@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-08-28T00:13:48.294877+00:00",
-    "duration_seconds": 84.809404,
+    "generated_at": "2026-08-28T14:51:37.567493+00:00",
+    "duration_seconds": 118.072244,
     "stats": {
-      "ok": 84,
-      "fail": 15,
-      "items_total": 2221,
-      "items_strict": 463,
-      "events_detected": 0
+      "ok": 83,
+      "fail": 16,
+      "items_total": 2235,
+      "items_strict": 455,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -59,6 +59,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "29fa0a11c52bf049-evt",
+      "title": "ASEAN Sub Committee on Budget Meeting FY2027",
+      "date": "2026-08-28",
+      "end_date": "2026-08-28",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/asean-sub-committee-on-budget-meeting-fy2027/",
+      "summary": "The annual ASEAN Sub-Committee on Budget Meeting was convened from 26 &#8211; 28 August 2026 at the ASEAN Headquarters/ASEAN Secretariat to deliberate on the operational budget of the ASEAN Secretariat for the forthcoming year. Chaired by Ms. Maria Elena Cristina D. Maningat, Deputy Permanent Repre ",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "unga-2026",
