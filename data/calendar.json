@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-08-28T23:51:03.833355+00:00",
-    "duration_seconds": 89.48909,
+    "generated_at": "2026-08-29T05:22:07.613966+00:00",
+    "duration_seconds": 82.57084,
     "stats": {
-      "ok": 84,
-      "fail": 15,
-      "items_total": 2228,
-      "items_strict": 463,
-      "events_detected": 2
+      "ok": 83,
+      "fail": 16,
+      "items_total": 2218,
+      "items_strict": 440,
+      "events_detected": 0
     },
     "source_count": 99
   },
@@ -59,40 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "7853cb56dc868e2d-evt",
-      "title": "The 41st Meeting of the ASEAN-IPR Governing Council and 12th Interface Meeting between the Governing Council and the Advisory Board of ASEAN-IPR discusses initiatives to strengthen peace resilience and conflict prevention in the region.",
-      "date": "2026-08-28",
-      "end_date": "2026-08-28",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "Asia",
-      "theme": "security",
-      "link": "https://asean.org/the-41st-meeting-of-the-asean-ipr-governing-council-and-12th-interface-meeting-between-the-governing-council-and-the-advisory-board-of-asean-ipr-discusses-initiatives-to-strengthen-peace-resilience-an/",
-      "summary": "The 41st Meeting of the Governing Council of the ASEAN Institute for Peace and Reconciliation (ASEAN-IPR), held on 28 August 2026 in Manila, the Philippines, deliberated on ongoing programmes and new initiatives in research and capacity-building aimed at strengthening peace resilience and conflict T",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "29fa0a11c52bf049-evt",
-      "title": "ASEAN Sub Committee on Budget Meeting FY2027",
-      "date": "2026-08-28",
-      "end_date": "2026-08-28",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "Asia",
-      "theme": "diplomacy",
-      "link": "https://asean.org/asean-sub-committee-on-budget-meeting-fy2027/",
-      "summary": "The annual ASEAN Sub-Committee on Budget Meeting was convened from 26 &#8211; 28 August 2026 at the ASEAN Headquarters/ASEAN Secretariat to deliberate on the operational budget of the ASEAN Secretariat for the forthcoming year. Chaired by Ms. Maria Elena Cristina D. Maningat, Deputy Permanent Repre ",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "unga-2026",
