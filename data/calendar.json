@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-02T02:34:44.115340+00:00",
-    "duration_seconds": 92.13607,
+    "generated_at": "2026-09-02T07:34:20.127437+00:00",
+    "duration_seconds": 92.581049,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2246,
-      "items_strict": 439,
-      "events_detected": 0
+      "items_total": 2250,
+      "items_strict": 428,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -91,6 +91,23 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "a12628336f7d46af-evt",
+      "title": "Media advisory - Accreditation for the European Council, 15 and 16 October 2026",
+      "date": "2026-10-16",
+      "end_date": "2026-10-16",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNEh2TU1mZFV3U3pGMGZCLXFIOGJ5MHJfUlcta3htbWhqTHpiTC1rQzlzblBjaDE0ODRHSmk1SkxubElEUVUwbjM0RzEwWlQwY29rNTlFUXVPNlMxYWtKbDJNN1phamJONEZna1A3Q1RKeGZkVFUxMHN0cXliZktxckUwdXdHMnlOc2RGdzlHSFN3bldnRDVmVEcwdWcyWlphem5uS21PX21ySUVCR2FMekRuWmhueVhIdXdoZVg1T044Y3h5UDhFX2lqSS10eUNxVHVNR184azRjVGd2?oc=5",
+      "summary": "Media advisory - Accreditation for the European Council, 15 and 16 October 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "eu-council-2026-10",
