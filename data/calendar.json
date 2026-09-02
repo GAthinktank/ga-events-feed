@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-01T22:58:40.057493+00:00",
-    "duration_seconds": 106.707949,
+    "generated_at": "2026-09-02T02:34:44.115340+00:00",
+    "duration_seconds": 92.13607,
     "stats": {
-      "ok": 83,
-      "fail": 16,
-      "items_total": 2241,
-      "items_strict": 425,
-      "events_detected": 1
+      "ok": 84,
+      "fail": 15,
+      "items_total": 2246,
+      "items_strict": 439,
+      "events_detected": 0
     },
     "source_count": 99
   },
@@ -59,23 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "59b691632df4345d-evt",
-      "title": "Speech by Commissioner Jozef Síkela at the Opening of the EU Arctic Forum in Brussels",
-      "date": "2026-09-01",
-      "end_date": "2026-09-01",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "climate",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1784",
-      "summary": "European Commission Speech Brussels, 01 Sep 2026 Thank you, Commissioner Kadis. Distinguished guests,Ladies and gentlemen, We meet after a summer that showed us again how exposed Europe is to climate change. F...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "unga-2026",
