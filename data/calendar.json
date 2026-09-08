@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-07T23:16:24.156309+00:00",
-    "duration_seconds": 83.476507,
+    "generated_at": "2026-09-08T02:47:22.088992+00:00",
+    "duration_seconds": 83.115269,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2265,
-      "items_strict": 484,
-      "events_detected": 1
+      "items_total": 2266,
+      "items_strict": 491,
+      "events_detected": 0
     },
     "source_count": 99
   },
@@ -59,23 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "7476aee21dc88a97-evt",
-      "title": "Keynote Speech by Executive Vice-President Teresa Ribera at the OECD Conference ‘Modernising merger control for an evolving world'",
-      "date": "2026-09-07",
-      "end_date": "2026-09-07",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1807",
-      "summary": "European Commission Speech Paris, 07 Sep 2026 Thank you for the very nice, kind and comprehensive introduction. After such a long journey, we have had the privilege of enjoying your brains, your inputs, you...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "unga-2026",
