@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-08T23:09:10.421478+00:00",
-    "duration_seconds": 92.420427,
+    "generated_at": "2026-09-09T02:46:59.507030+00:00",
+    "duration_seconds": 85.069177,
     "stats": {
       "ok": 84,
       "fail": 15,
       "items_total": 2266,
-      "items_strict": 473,
-      "events_detected": 2
+      "items_strict": 470,
+      "events_detected": 0
     },
     "source_count": 99
   },
@@ -59,40 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "804c634c8206db76-evt",
-      "title": "Speech by Commissioner Šefčovič at BoKoWiTa, the Conference of the Heads of German Missions Abroad Business Forum",
-      "date": "2026-09-08",
-      "end_date": "2026-09-08",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1816",
-      "summary": "European Commission Speech Berlin, 08 Sep 2026 Dear Minister, dear Johann, Dear Heads of Mission, Sehr geehrte Damen und Herren. It is a pleasure to be here in Berlin today to discuss with you this important...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "3e86d154d6173373-evt",
-      "title": "Commissioner Roswall's speech at the conference, “World Lake Day in the Lake Balaton Region”",
-      "date": "2026-09-08",
-      "end_date": "2026-09-08",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1812",
-      "summary": "European Commission Speech Budapest, 08 Sep 2026 Ladies and Gentlemen, I am delighted to join you today, on the banks of the beautiful Lake Balaton. And I am delighted to celebrate the second World Lake ...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "unga-2026",
