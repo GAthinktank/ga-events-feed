@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-09T22:54:32.820062+00:00",
-    "duration_seconds": 102.737751,
+    "generated_at": "2026-09-10T02:49:33.859734+00:00",
+    "duration_seconds": 114.531404,
     "stats": {
-      "ok": 84,
-      "fail": 15,
-      "items_total": 2270,
-      "items_strict": 473,
-      "events_detected": 3
+      "ok": 83,
+      "fail": 16,
+      "items_total": 2263,
+      "items_strict": 469,
+      "events_detected": 0
     },
     "source_count": 99
   },
@@ -59,57 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "6b01a828cec924d2-evt",
-      "title": "Secretary-General of ASEAN delivers pre-recorded remarks at the Ninth ASEAN–India Ministerial Meeting on Agriculture and Forestry",
-      "date": "2026-09-09",
-      "end_date": "2026-09-09",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "IN",
-      "theme": "diplomacy",
-      "link": "https://asean.org/secretary-general-of-asean-delivers-pre-recorded-remarks-at-the-ninth-asean-india-ministerial-meeting-on-agriculture-and-forestry/",
-      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, delivered pre-recorded remarks at the Ninth ASEAN–India Ministerial Meeting on Agriculture and Forestry (9th AIMMAF), on 9 September 2026. In his remarks, SG Dr. Kao underscored the importance of strengthening ASEAN–India cooperation on food securi The ",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "42e56712f474adcc-evt",
-      "title": "Secretary-General of ASEAN Highlights Regional Connectivity and Economic Cooperation in Media Interview on the margins of the 11th Belt and Road Summit",
-      "date": "2026-09-09",
-      "end_date": "2026-09-09",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "CN",
-      "theme": "diplomacy",
-      "link": "https://asean.org/secretary-general-of-asean-highlights-regional-connectivity-and-economic-cooperation-in-media-interview-on-the-margins-of-the-11th-belt-and-road-summit/",
-      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 9 September 2026, engaged with media representatives from leading regional and international news outlets during an interview on the sidelines of the 11th Belt and Road Summit in Hong Kong, China. Dr. Kao shared ASEAN&#8217;s perspectives on regiona ",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "bb7c7d627439c251-evt",
-      "title": "Secretary-General of ASEAN delivers keynote luncheon speech at the 11th Belt and Road Summit",
-      "date": "2026-09-09",
-      "end_date": "2026-09-09",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "CN",
-      "theme": "diplomacy",
-      "link": "https://asean.org/secretary-general-of-asean-delivers-keynote-luncheon-speech-at-the-11th-belt-and-road-summit/",
-      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 9 September 2026, delivered a keynote luncheon address at the 11th Belt and Road Summit in Hong Kong, China. In his remarks, Dr. Kao highlighted ASEAN’s transformation agenda and connectivity priorities and underscored the importance of strengthen Th",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "unga-2026",
