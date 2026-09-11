@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-11T13:13:03.945694+00:00",
-    "duration_seconds": 113.335039,
+    "generated_at": "2026-09-11T18:09:29.633484+00:00",
+    "duration_seconds": 119.082079,
     "stats": {
-      "ok": 83,
-      "fail": 16,
-      "items_total": 2257,
-      "items_strict": 483,
-      "events_detected": 4
+      "ok": 82,
+      "fail": 17,
+      "items_total": 2228,
+      "items_strict": 469,
+      "events_detected": 5
     },
     "source_count": 99
   },
@@ -108,6 +108,23 @@
       "featured": false,
       "confirmed": true,
       "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "511ed09d82c18351-evt",
+      "title": "IAI Task Force and ASEAN Partners Reaffirm Support for Work Plan V (2026–2030), Narrowing the Development Gap in ASEAN",
+      "date": "2026-09-11",
+      "end_date": "2026-09-11",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/iai-task-force-and-asean-partners-reaffirm-support-for-work-plan-v-2026-2030-narrowing-the-development-gap-in-asean/",
+      "summary": "JAKARTA, 11 September 2026 – The 16th Consultation Meeting of the Initiative for ASEAN Integration (IAI) Task Force and ASEAN Partners took place today at the ASEAN Secretariat/ASEAN Headquarters in Jakarta. The meeting brought together IAI Task Force Members from all ASEAN Member States, The post I",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
       "kind": "diplomatic-event",
       "lang": "en"
     },
