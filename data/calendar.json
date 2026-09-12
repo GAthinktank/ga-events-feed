@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-11T22:57:19.984486+00:00",
-    "duration_seconds": 93.852753,
+    "generated_at": "2026-09-12T02:51:59.197735+00:00",
+    "duration_seconds": 88.395386,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2266,
-      "items_strict": 453,
-      "events_detected": 5
+      "items_total": 2268,
+      "items_strict": 488,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -59,74 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "075fe776464e5d94-evt",
-      "title": "Speaking notes by Commissioner Kubilius at the first Board meeting of the EU-Ukraine Drone Alliance",
-      "date": "2026-09-11",
-      "end_date": "2026-09-11",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1849",
-      "summary": "European Commission Speech Brussels, 11 Sep 2026 Ladies and gentlemen, Welcome to Brussels at this very special moment: The very first Board meeting of the EU–Ukraine Drone Alliance. We had over 400 applicants...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "93f3a191da31f8b5-evt",
-      "title": "Speech by Executive Vice-President Virkkunen at Irish Presidency's Conference on Online Safety for Children and Young People",
-      "date": "2026-09-11",
-      "end_date": "2026-09-11",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1846",
-      "summary": "European Commission Speech Dublin, 11 Sep 2026 Dear colleagues, it is a pleasure to address you today at the Irish Presidency's Conference on Online Safety for Children and Young People. It is fitting that w...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "44f740194b9d50e4-evt",
-      "title": "Commission presents landmark India trade deal to Council for signature",
-      "date": "2026-09-11",
-      "end_date": "2026-09-11",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "economy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1842",
-      "summary": "European Commission Press release Brussels, 11 Sep 2026 Today, the European Commission has put forward its proposals to the Council for the signature and conclusion of Free Trade Agreement (FTA) between the European Union and India, seeking authorization for its signature and conclusion.",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "511ed09d82c18351-evt",
-      "title": "IAI Task Force and ASEAN Partners Reaffirm Support for Work Plan V (2026–2030), Narrowing the Development Gap in ASEAN",
-      "date": "2026-09-11",
-      "end_date": "2026-09-11",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "Asia",
-      "theme": "diplomacy",
-      "link": "https://asean.org/iai-task-force-and-asean-partners-reaffirm-support-for-work-plan-v-2026-2030-narrowing-the-development-gap-in-asean/",
-      "summary": "JAKARTA, 11 September 2026 – The 16th Consultation Meeting of the Initiative for ASEAN Integration (IAI) Task Force and ASEAN Partners took place today at the ASEAN Secretariat/ASEAN Headquarters in Jakarta. The meeting brought together IAI Task Force Members from all ASEAN Member States, The post I",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "84afe1e92ff01206-evt",
