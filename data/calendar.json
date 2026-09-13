@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-13T17:54:29.735059+00:00",
-    "duration_seconds": 85.262816,
+    "generated_at": "2026-09-13T20:13:11.295745+00:00",
+    "duration_seconds": 84.345163,
     "stats": {
       "ok": 84,
       "fail": 15,
       "items_total": 2265,
-      "items_strict": 506,
-      "events_detected": 1
+      "items_strict": 508,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -59,6 +59,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "36c5baf2d5c3b62c-evt",
+      "title": "Prime Minister's opening address during the 18th BRICS Summit session: \"Resilience, Innovation, Cooperation, and Sustainability: Shaping the Future for Inclusive Global Development\" (13 September 2026)",
+      "date": "2026-09-13",
+      "end_date": "2026-09-13",
+      "location": "",
+      "organizer": "India — MEA",
+      "region": "IN",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPQ29aYlNienNHMDZqX1NiemRZNlBxV3YyZEZJQjcxNG5wZ3hnVk5xQ21HVFVtQWFMNkRpSXNUR1hBYWE0WXRDLWwzdGtId200TnlZdFFydHI1ekJKa2x6Z1dBTzZlaHZOTXdHdjhFemM4Tm1oUDkyM3oyMllxS2dKTFdUZHc2b1ZaX0JyWFVOMGhqSFF5b1lnbG5LaUVEaDQzZG9hOXJuZXgyS3pYYm1uVEZTRUd4eFhwdFY2Ukg1OWZFZFVPMExNUHdOSzdZaDhVUW1VUXBjVTZwbXpLVjZadDVSUUo4VjhzLWpvQ1Q1Y0V2R2RyYzBnYzZpTXVpbEQyQ2VBX1NZWWVnMHplc3YxTVk0R0ZKYnAtLWdjMmVmRVdXTVFPWVFja1kwQmJjUHVYYUlFbThkU1pldU9XMjF2VDJmTG5OZTBsdlByalB4VmhkQW9QYXF6NUpNWXAxX25YbVE?oc=5",
+      "summary": "Prime Minister's opening address during the 18th BRICS Summit session: \"Resilience, Innovation, Cooperation, and Sustainability: Shaping the Future for Inclusive Global Development\" (13 September 2026) &nbsp;&nbsp; Ministry of External Affairs",
+      "featured": false,
+      "confirmed": true,
+      "source": "India — MEA",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "a111a49ede06e8e3-evt",
