@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-13T02:50:24.147263+00:00",
-    "duration_seconds": 107.969199,
+    "generated_at": "2026-09-13T07:57:31.694687+00:00",
+    "duration_seconds": 89.667439,
     "stats": {
-      "ok": 83,
-      "fail": 16,
-      "items_total": 2254,
-      "items_strict": 488,
-      "events_detected": 1
+      "ok": 84,
+      "fail": 15,
+      "items_total": 2267,
+      "items_strict": 480,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -59,6 +59,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "36c5baf2d5c3b62c-evt",
+      "title": "Prime Minister's opening address during the 18th BRICS Summit session: \"Resilience, Innovation, Cooperation, and Sustainability: Shaping the Future for Inclusive Global Development\" (13 September 2026)",
+      "date": "2026-09-13",
+      "end_date": "2026-09-13",
+      "location": "",
+      "organizer": "India — MEA",
+      "region": "IN",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPQ29aYlNienNHMDZqX1NiemRZNlBxV3YyZEZJQjcxNG5wZ3hnVk5xQ21HVFVtQWFMNkRpSXNUR1hBYWE0WXRDLWwzdGtId200TnlZdFFydHI1ekJKa2x6Z1dBTzZlaHZOTXdHdjhFemM4Tm1oUDkyM3oyMllxS2dKTFdUZHc2b1ZaX0JyWFVOMGhqSFF5b1lnbG5LaUVEaDQzZG9hOXJuZXgyS3pYYm1uVEZTRUd4eFhwdFY2Ukg1OWZFZFVPMExNUHdOSzdZaDhVUW1VUXBjVTZwbXpLVjZadDVSUUo4VjhzLWpvQ1Q1Y0V2R2RyYzBnYzZpTXVpbEQyQ2VBX1NZWWVnMHplc3YxTVk0R0ZKYnAtLWdjMmVmRVdXTVFPWVFja1kwQmJjUHVYYUlFbThkU1pldU9XMjF2VDJmTG5OZTBsdlByalB4VmhkQW9QYXF6NUpNWXAxX25YbVE?oc=5",
+      "summary": "Prime Minister's opening address during the 18th BRICS Summit session: \"Resilience, Innovation, Cooperation, and Sustainability: Shaping the Future for Inclusive Global Development\" (13 September 2026) &nbsp;&nbsp; Ministry of External Affairs",
+      "featured": false,
+      "confirmed": true,
+      "source": "India — MEA",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "84afe1e92ff01206-evt",
