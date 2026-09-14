@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-14T11:36:58.241890+00:00",
-    "duration_seconds": 86.56832,
+    "generated_at": "2026-09-14T17:32:22.544625+00:00",
+    "duration_seconds": 96.033748,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2266,
-      "items_strict": 504,
-      "events_detected": 2
+      "items_total": 2267,
+      "items_strict": 466,
+      "events_detected": 3
     },
     "source_count": 99
   },
@@ -59,6 +59,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "c0cfacaa477cae40-evt",
+      "title": "Joint statement by Executive Vice-President Virkkunen, High Representative Kallas and Commissioner McGrath ahead of International Day of Democracy",
+      "date": "2026-09-14",
+      "end_date": "2026-09-14",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1861",
+      "summary": "European Commission Statement Brussels, 14 Sep 2026 Democracy is built on the ability of people to shape the decisions that affect their lives. It is sustained through dialogue, differing opinions and compromise, and reinforced by everyday acts of participation, responsibility and courage.",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "776372de9bb35a0a-evt",
