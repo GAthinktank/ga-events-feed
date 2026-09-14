@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-14T03:04:31.308304+00:00",
-    "duration_seconds": 85.565163,
+    "generated_at": "2026-09-14T11:36:58.241890+00:00",
+    "duration_seconds": 86.56832,
     "stats": {
       "ok": 84,
       "fail": 15,
       "items_total": 2266,
-      "items_strict": 499,
-      "events_detected": 1
+      "items_strict": 504,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -59,6 +59,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "776372de9bb35a0a-evt",
+      "title": "3rd ASEAN Think Tanks Summit (ATTS) Advances Ideas for ASEAN’s Future",
+      "date": "2026-09-14",
+      "end_date": "2026-09-14",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/3rd-asean-think-tanks-summit-atts-advances-ideas-for-aseans-future/",
+      "summary": "JAKARTA, 14 September 2026 – The 3rd ASEAN Think Tanks Summit (ATTS) convened today at the ASEAN Secretariat in Jakarta. The two-day event brings together experts from leading think tanks and research institutions across ASEAN and its Dialogue and Development Partners to share analysis and provi The",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "a111a49ede06e8e3-evt",
