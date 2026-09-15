@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-14T21:22:26.828620+00:00",
-    "duration_seconds": 92.361756,
+    "generated_at": "2026-09-15T03:06:56.717108+00:00",
+    "duration_seconds": 89.956494,
     "stats": {
-      "ok": 83,
-      "fail": 16,
-      "items_total": 2238,
-      "items_strict": 492,
-      "events_detected": 3
+      "ok": 84,
+      "fail": 15,
+      "items_total": 2269,
+      "items_strict": 496,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -59,40 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "c0cfacaa477cae40-evt",
-      "title": "Joint statement by Executive Vice-President Virkkunen, High Representative Kallas and Commissioner McGrath ahead of International Day of Democracy",
-      "date": "2026-09-14",
-      "end_date": "2026-09-14",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1861",
-      "summary": "European Commission Statement Brussels, 14 Sep 2026 Democracy is built on the ability of people to shape the decisions that affect their lives. It is sustained through dialogue, differing opinions and compromise, and reinforced by everyday acts of participation, responsibility and courage.",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "776372de9bb35a0a-evt",
-      "title": "3rd ASEAN Think Tanks Summit (ATTS) Advances Ideas for ASEAN’s Future",
-      "date": "2026-09-14",
-      "end_date": "2026-09-14",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "Asia",
-      "theme": "diplomacy",
-      "link": "https://asean.org/3rd-asean-think-tanks-summit-atts-advances-ideas-for-aseans-future/",
-      "summary": "JAKARTA, 14 September 2026 – The 3rd ASEAN Think Tanks Summit (ATTS) convened today at the ASEAN Secretariat in Jakarta. The two-day event brings together experts from leading think tanks and research institutions across ASEAN and its Dialogue and Development Partners to share analysis and provi The",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "a111a49ede06e8e3-evt",
