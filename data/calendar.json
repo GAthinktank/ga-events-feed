@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-16T10:45:55.339579+00:00",
-    "duration_seconds": 82.702197,
+    "generated_at": "2026-09-16T16:01:02.039620+00:00",
+    "duration_seconds": 93.328948,
     "stats": {
-      "ok": 83,
-      "fail": 16,
-      "items_total": 2259,
-      "items_strict": 504,
-      "events_detected": 2
+      "ok": 82,
+      "fail": 17,
+      "items_total": 2242,
+      "items_strict": 478,
+      "events_detected": 3
     },
     "source_count": 99
   },
@@ -59,6 +59,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "26b218cf8b099f84-evt",
+      "title": "Secretary-General of ASEAN meets with Administrator of the National Energy Administration of China",
+      "date": "2026-09-16",
+      "end_date": "2026-09-16",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "CN",
+      "theme": "diplomacy",
+      "link": "https://asean.org/secretary-general-of-asean-meets-with-administrator-of-the-national-energy-administration-of-china/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 16 September 2026, met with H.E. Wang Hongzhi, Administrator of the National Energy Administration of China, on the sidelines of his working visit to China. They discussed advancing practical ASEAN–China cooperation on energy security, the ASEAN P Th",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "8f00f488afc7cf2b-evt",
