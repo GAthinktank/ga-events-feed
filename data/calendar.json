@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-18T07:56:28.445968+00:00",
-    "duration_seconds": 86.755861,
+    "generated_at": "2026-09-18T13:21:00.956636+00:00",
+    "duration_seconds": 90.661275,
     "stats": {
       "ok": 83,
       "fail": 16,
-      "items_total": 2274,
-      "items_strict": 520,
-      "events_detected": 3
+      "items_total": 2272,
+      "items_strict": 514,
+      "events_detected": 7
     },
     "source_count": 99
   },
@@ -59,6 +59,74 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "3b0d4558bbaaa97f-evt",
+      "title": "Commissioner Roswall's speech at the Clean Growth Summit – Road to COP31",
+      "date": "2026-09-18",
+      "end_date": "2026-09-18",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1909",
+      "summary": "European Commission Speech Lisbon, 18 Sep 2026 Ladies and gentlemen, distinguished guests, Mayor Araújo, Professor Arezes, dear Lidia – thank you for the invitation. I am delighted to be here in beautif...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "90c510d9767d9060-evt",
+      "title": "Remarks by Commissioner Dombrovskis at Eurogroup press conference",
+      "date": "2026-09-18",
+      "end_date": "2026-09-18",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1905",
+      "summary": "European Commission Statement Dublin, 18 Sep 2026 Thank you, Kyriakos. Good morning, everyone. It's good to be back in Dublin. This week is well suited to taking stock, looking ahead, and preparing for a busy e...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "43b49cd86aa222db-evt",
+      "title": "Secretary-General of ASEAN attends the 18th Dialogue with FJCCIA in Manila, the Philippines",
+      "date": "2026-09-18",
+      "end_date": "2026-09-18",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "economy",
+      "link": "https://asean.org/secretary-general-of-asean-attends-the-18th-dialogue-with-fjccia-in-manila-the-philippines/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 18 September 2026, attended the 18th Dialogue with the Federation of Japanese Chambers of Commerce and Industry in ASEAN (FJCCIA) in Manila, the Philippines, held on the sidelines of the 58th ASEAN Economic Ministers&#8217; (AEM) Meeting and Related ",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "9707f4a4a1b43c01-evt",
+      "title": "Remarks by Kyriakos Pierrakakis following the Eurogroup meeting of 18 September 2026",
+      "date": "2026-09-18",
+      "end_date": "2026-09-18",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQmhDXzBrNm94ZWpVOGlqemQ3X1NoU1Y0eEtJT0piN3lSWlBNbTNETHpwaFNKQWQySHNWbmd1UmdQWmxFamRQR1p4ZTNwMHNOTXFOMk5zOEltbHdtVGpueklKazBNelhlUUQxeEluenJ5OTd2Y2MzeG9GZVVhTENnTUFjaldUbjh2WWp1SjdCTjdBT3hMQUp4bGxBYXNNLWhUUUFTNkRhSVFaTm1KM21hUFR4aXdRa0dmTFliRU9yb3VzWXpBMzRpU2JJQmNkaUMwazBDZzhuOXY0SXc0LUtXYWFLMWhPVjQ?oc=5",
+      "summary": "Remarks by Kyriakos Pierrakakis following the Eurogroup meeting of 18 September 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "129952f5ec0d6811-evt",
