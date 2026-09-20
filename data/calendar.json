@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-20T10:31:52.398116+00:00",
-    "duration_seconds": 90.758107,
+    "generated_at": "2026-09-20T15:20:09.915571+00:00",
+    "duration_seconds": 82.59873,
     "stats": {
       "ok": 83,
       "fail": 16,
-      "items_total": 2271,
-      "items_strict": 504,
-      "events_detected": 0
+      "items_total": 2270,
+      "items_strict": 516,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -59,6 +59,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "029658696a55b03c-evt",
+      "title": "Joint Media Statement of the Fifth AEM Troika Open-Ended Dialogue with Switzerland Trade Minister",
+      "date": "2026-09-20",
+      "end_date": "2026-09-20",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "economy",
+      "link": "https://asean.org/joint-media-statement-of-the-fifth-aem-troika-open-ended-dialogue-with-switzerland-trade-minister/",
+      "summary": "The Fifth ASEAN Economic Ministers (AEM) Troika Open-ended Dialogue with Switzerland was held on 20 September 2026 in Manila, Philippines. The Consultation was co-chaired by H.E. Ma. Cristina A. Roque, Secretary of the Department of Trade and Industry of the Philippines and H.E. State Secretary Hel ",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "unga-2026",
