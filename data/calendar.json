@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-20T15:20:09.915571+00:00",
-    "duration_seconds": 82.59873,
+    "generated_at": "2026-09-20T20:13:53.739776+00:00",
+    "duration_seconds": 86.961657,
     "stats": {
       "ok": 83,
       "fail": 16,
-      "items_total": 2270,
-      "items_strict": 516,
-      "events_detected": 1
+      "items_total": 2267,
+      "items_strict": 515,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -59,6 +59,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "d12c07a13fe39b6d-evt",
+      "title": "UN Private Sector Forum - UN Global Compact",
+      "date": "2026-09-20",
+      "end_date": "2026-09-20",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1912",
+      "summary": "European Commission Speech New York, 20 Sep 2026 Good morning, ladies and gentlemen, and thank you for giving me the floor at such an important event. I arrived in New York yesterday from Prague. This summer w...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "029658696a55b03c-evt",
