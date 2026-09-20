@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-19T22:38:47.089154+00:00",
-    "duration_seconds": 92.03745,
+    "generated_at": "2026-09-20T03:04:47.216764+00:00",
+    "duration_seconds": 86.232836,
     "stats": {
       "ok": 83,
       "fail": 16,
-      "items_total": 2260,
-      "items_strict": 472,
-      "events_detected": 2
+      "items_total": 2268,
+      "items_strict": 504,
+      "events_detected": 0
     },
     "source_count": 99
   },
@@ -59,40 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "70cf8f61361dade4-evt",
-      "title": "Remarks by Commissioner Dombrovskis at the informal ECOFIN press conference",
-      "date": "2026-09-19",
-      "end_date": "2026-09-19",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1906",
-      "summary": "European Commission Statement Dublin, 19 Sep 2026 Thank you, Simon. Good afternoon, everyone. We started our discussions on competitiveness in the banking sector. Europe needs a competitive banking sector to fi...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "129952f5ec0d6811-evt",
-      "title": "Media advisory - Eurogroup meeting and Informal meeting of Economic and Financial Affairs Ministers of 18 and 19 September 2026, Dublin, Ireland",
-      "date": "2026-09-19",
-      "end_date": "2026-09-19",
-      "location": "",
-      "organizer": "European Council",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOMElTaEZ6bkJTVHMxbWpNWnFyM2Jrcy0wMVVVMVZucVBqeDZ6UDJVVXRIazh5OUEtQmJNZTNDUHQ4Y3JkYTFraHVLVVRjb1FLdFE3U2k4SGlmVks5MVFJVWZEaFFreFZhRWpPdFdwUVRUVHYzWVNuaTFrQWxCaUdzVGpKZEpxZU1iSUE0MndoLWJVZnRIc0pNTFRqVnNpaktqN2phSkpVSjExWkpYVGRCM0FTbWs4NFV6azRKekhYTUlPb3c5azdzOG5Ua1ZtY0YwSjYwdGJIYmlmODFBUkoxelJ2YnM4cVpFQ1lwZ0dYa1FtYmlhbHhqcE1jLWFnWExWcEVOWnRRUWtId0F1YXZnV0VheDhQbnNkT2NaSUFTcnBDTkJMcjdWd2MxNk5SV2FBR0E?oc=5",
-      "summary": "Media advisory - Eurogroup meeting and Informal meeting of Economic and Financial Affairs Ministers of 18 and 19 September 2026, Dublin, Ireland &nbsp;&nbsp; consilium.europa.eu",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Council",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "unga-2026",
