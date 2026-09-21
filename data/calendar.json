@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-20T22:55:44.020899+00:00",
-    "duration_seconds": 85.26333,
+    "generated_at": "2026-09-21T03:01:46.927145+00:00",
+    "duration_seconds": 88.906521,
     "stats": {
       "ok": 83,
       "fail": 16,
       "items_total": 2269,
-      "items_strict": 513,
-      "events_detected": 2
+      "items_strict": 515,
+      "events_detected": 0
     },
     "source_count": 99
   },
@@ -59,40 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "d12c07a13fe39b6d-evt",
-      "title": "UN Private Sector Forum - UN Global Compact",
-      "date": "2026-09-20",
-      "end_date": "2026-09-20",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1912",
-      "summary": "European Commission Speech New York, 20 Sep 2026 Good morning, ladies and gentlemen, and thank you for giving me the floor at such an important event. I arrived in New York yesterday from Prague. This summer w...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "029658696a55b03c-evt",
-      "title": "Joint Media Statement of the Fifth AEM Troika Open-Ended Dialogue with Switzerland Trade Minister",
-      "date": "2026-09-20",
-      "end_date": "2026-09-20",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "Asia",
-      "theme": "economy",
-      "link": "https://asean.org/joint-media-statement-of-the-fifth-aem-troika-open-ended-dialogue-with-switzerland-trade-minister/",
-      "summary": "The Fifth ASEAN Economic Ministers (AEM) Troika Open-ended Dialogue with Switzerland was held on 20 September 2026 in Manila, Philippines. The Consultation was co-chaired by H.E. Ma. Cristina A. Roque, Secretary of the Department of Trade and Industry of the Philippines and H.E. State Secretary Hel ",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "unga-2026",
