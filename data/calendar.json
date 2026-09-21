@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-21T17:45:42.163128+00:00",
-    "duration_seconds": 85.316467,
+    "generated_at": "2026-09-21T21:38:18.261657+00:00",
+    "duration_seconds": 91.646845,
     "stats": {
       "ok": 83,
       "fail": 16,
-      "items_total": 2274,
-      "items_strict": 514,
-      "events_detected": 2
+      "items_total": 2269,
+      "items_strict": 517,
+      "events_detected": 4
     },
     "source_count": 99
   },
@@ -61,6 +61,23 @@
       "kind": "diplomatic-event"
     },
     {
+      "id": "2b4f22389d6d6098-evt",
+      "title": "Joint press release following the trilateral Leaders meeting reviewing the progress of EU-Australia relations",
+      "date": "2026-09-21",
+      "end_date": "2026-09-21",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1925",
+      "summary": "European Commission Statement New York, 21 Sep 2026 The President of the European Commission, Ursula von der Leyen, the President of the European Council, Antonio Costa, and the Prime Minister of Australia, Antho...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
       "id": "aabeefe76b2c6f64-evt",
       "title": "Joint Media Statement of the 5th RCEP Ministers’ Meeting",
       "date": "2026-09-21",
@@ -74,6 +91,23 @@
       "featured": false,
       "confirmed": true,
       "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "cbb2c2d0f23a5957-evt",
+      "title": "Declaration of the Partners for Multilateralism (P4M) summit, 21 September 2026",
+      "date": "2026-09-21",
+      "end_date": "2026-09-21",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVkFaSmlRaDFCMVpVNWlwUk1fbmJWU2EtRTlkcjhPRnVBS2tKaWJWOG1GbnJlY0M4WU1Sd2hjOGFhOF9ENUx0TldPZF9nRXJWLTZOT1RtWHRYb3gzdTIybjhsaDF0UjJSeFpHZXBBM2I1cFJtX3VHVzRQbEVQWmJqNnRNREE0U0tBeDRlUU1tWDdPTWtKQ1JyX0N3MGdQN3JJRkVKa1dmSWRVUWFWTXpzNjdIYTNDMUV5Q3BTNnF1VHNWOXhFdUdWak9PejVnQ3FxT0YtSXlpQ205TDZM?oc=5",
+      "summary": "Declaration of the Partners for Multilateralism (P4M) summit, 21 September 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
       "kind": "diplomatic-event",
       "lang": "en"
     },
