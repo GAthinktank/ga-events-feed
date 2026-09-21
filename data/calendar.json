@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-21T03:01:46.927145+00:00",
-    "duration_seconds": 88.906521,
+    "generated_at": "2026-09-21T11:58:27.546621+00:00",
+    "duration_seconds": 580.155632,
     "stats": {
-      "ok": 83,
-      "fail": 16,
-      "items_total": 2269,
-      "items_strict": 515,
-      "events_detected": 0
+      "ok": 9,
+      "fail": 90,
+      "items_total": 138,
+      "items_strict": 35,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -59,6 +59,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "aabeefe76b2c6f64-evt",
+      "title": "Joint Media Statement of the 5th RCEP Ministers’ Meeting",
+      "date": "2026-09-21",
+      "end_date": "2026-09-21",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "CN",
+      "theme": "economy",
+      "link": "https://asean.org/joint-media-statement-of-the-5th-rcep-ministers-meeting/",
+      "summary": "ASEAN alongside Australia, China, Japan, New Zealand, and the Republic of Korea gathered in Manila on 21 September 2026 for the Fifth RCEP Ministers’ Meeting. The Meeting was co-chaired by H.E. Diah Roro Esti Widya Putri, Vice Minister of Trade of the Republic of Indonesia and the Honourable Dr. The",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "unga-2026",
