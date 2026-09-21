@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-21T11:58:27.546621+00:00",
-    "duration_seconds": 580.155632,
+    "generated_at": "2026-09-21T17:45:42.163128+00:00",
+    "duration_seconds": 85.316467,
     "stats": {
-      "ok": 9,
-      "fail": 90,
-      "items_total": 138,
-      "items_strict": 35,
-      "events_detected": 1
+      "ok": 83,
+      "fail": 16,
+      "items_total": 2274,
+      "items_strict": 514,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -92,6 +92,23 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "ae43495bb8c7c3cf-evt",
+      "title": "Press briefing - Competitiveness Council of 24 September 2026",
+      "date": "2026-09-24",
+      "end_date": "2026-09-24",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOFd3bWkwNFhzVDRyQTBmWnVoZzVIek5NSndwaGQtM0JnbWZGX0NySXltTTByZ3Z2MTNVakNndFY5RTBTVjRDNmpmQmJ4WVViWDFvRVEyN3AzS0dNeEFFOWxOQTV2TXRkdmRsQlZRWmxYV0VnclVRUVdxM3pFRXlvUjFNLS1DWUlZOGVOMDF0b0tOVTFOb01MZGZXcm5JakFMcm9FM05YNmo1ZkhEcXVxNTdoUWZZN1RLWndnN25tTXFhcjc5cFE?oc=5",
+      "summary": "Press briefing - Competitiveness Council of 24 September 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "wb-imf-annual-2026",
