@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-23T03:01:42.629260+00:00",
-    "duration_seconds": 88.221969,
+    "generated_at": "2026-09-23T10:40:52.866037+00:00",
+    "duration_seconds": 85.489306,
     "stats": {
       "ok": 83,
       "fail": 16,
       "items_total": 2275,
-      "items_strict": 501,
-      "events_detected": 2
+      "items_strict": 524,
+      "events_detected": 8
     },
     "source_count": 99
   },
@@ -77,6 +77,57 @@
       "kind": "diplomatic-event"
     },
     {
+      "id": "9b2934cadb2b4333-evt",
+      "title": "Opening address by Commissioner Kubilius at the 2nd Access to Space Conference \"Ready to Launch: Building Europe's Competitive, Resilient and Responsive Access to Space\"",
+      "date": "2026-09-23",
+      "end_date": "2026-09-23",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1945",
+      "summary": "European Commission Speech Brussels, 23 Sep 2026 Distinguished guests, Dear Director-General, dear Josef, Ladies and Gentlemen, I am glad to be here with you to discuss our European access to space, the most...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "4c4b5f8d67c557d3-evt",
+      "title": "Commission proposes to unlock €4.2 billion in Cohesion funding for Hungary and restore full access to Erasmus+ and Horizon Europe",
+      "date": "2026-09-23",
+      "end_date": "2026-09-23",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1941",
+      "summary": "European Commission Press release Brussels, 23 Sep 2026 Today the European Commission has proposed to the Council to lift the protective measures adopted in 2022 concerning Hungary under the Conditionality Regulation, as it considers that Hungary has addressed the rule of law breaches affecting the ",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "539e675b663fd708-evt",
+      "title": "Joint press release - Launch of a French National Hub for Social, Intermediate and Sustainable Housing",
+      "date": "2026-09-23",
+      "end_date": "2026-09-23",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "economy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1940",
+      "summary": "European Commission Press release Bordeaux, 23 Sep 2026 A strategic cooperation between the French State, Caisse des Dépôts, the Union sociale pour l'Habitat (USH), the European Investment Bank (EIB) and the Council of Europe Development Bank (CEB), supported by the European Commission, to accelerat",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
       "id": "f4ee009d0638dc3f-evt",
       "title": "Speech by President von der Leyen at the high-level dialogue on ‘Protecting Children's Rights facing Artificial Intelligence'",
       "date": "2026-09-23",
@@ -90,6 +141,40 @@
       "featured": false,
       "confirmed": true,
       "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "4eba7a8620604dd2-evt",
+      "title": "Secretary-General of ASEAN delivers remarks at the High-Level Session of the International Conference on Combating Online Scams",
+      "date": "2026-09-23",
+      "end_date": "2026-09-23",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/secretary-general-of-asean-delivers-remarks-at-the-high-level-session-of-the-international-conference-on-combating-online-scams/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 23 September 2026, delivered remarks at the “High-Level session: Online Scams as a Global Emergency” of the International Conference on Combating Online Scams, held in Phnom Penh, Cambodia. The event is hosted by the Royal Government of the King The ",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "7ac44499fdeeea1c-evt",
+      "title": "Secretary-General of ASEAN attends Opening Ceremony of the International Conference on Combating Online Scams in the Kingdom of Cambodia",
+      "date": "2026-09-23",
+      "end_date": "2026-09-23",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/secretary-general-of-asean-attends-opening-ceremony-of-the-international-conference-on-combating-online-scams-in-the-kingdom-of-cambodia/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 23 September 2026, attended the Opening Ceremony of the International Conference on Combating Online Scams, in Phnom Penh, Cambodia. The Opening Ceremony was presided over by Samdech Moha Borvor Thipadei Hun Manet, Prime Minister of the Kingdom of C ",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
       "kind": "diplomatic-event",
       "lang": "en"
     },
@@ -589,6 +674,23 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "641c1596a586d1ba-evt",
+      "title": "EU-Canada summit, 29-30 October 2026",
+      "date": "2029-10-30",
+      "end_date": "2029-10-30",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNajFveDZxbUNudU9iS2RuOGozdWhDc19VaV80eWU3SGFTTmN0QTlUUEd2TlNqUWNMOUQ4cERtNXBwWmhmdUk2SGFYTlpvcHRFS3FMbEtIUV9fcGZMUlVtTjhseE1ueDF0anY3ckFQSHl0NnoycFFVWXpVUmdqWkNlR0NfQTE5QQ?oc=5",
+      "summary": "EU-Canada summit, 29-30 October 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
     }
   ]
 }
