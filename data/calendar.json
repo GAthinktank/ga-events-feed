@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-23T21:00:42.000268+00:00",
-    "duration_seconds": 86.169198,
+    "generated_at": "2026-09-23T23:33:09.821130+00:00",
+    "duration_seconds": 84.526425,
     "stats": {
-      "ok": 82,
-      "fail": 17,
-      "items_total": 2244,
-      "items_strict": 495,
-      "events_detected": 4
+      "ok": 83,
+      "fail": 16,
+      "items_total": 2274,
+      "items_strict": 523,
+      "events_detected": 6
     },
     "source_count": 99
   },
@@ -124,6 +124,40 @@
       "featured": false,
       "confirmed": true,
       "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "5343eed3051b0295-evt",
+      "title": "ASEAN Co-Chair’s Press Statement of the Association of Southeast Asian Nations-Cooperation Council for the Arab States of the Gulf Foreign Ministers’ Meeting",
+      "date": "2026-09-23",
+      "end_date": "2026-09-23",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/asean-co-chairs-press-statement-of-the-association-of-southeast-asian-nations-cooperation-council-for-the-arab-states-of-the-gulf-foreign-ministers-meeting/",
+      "summary": "The Association of Southeast Asian Nations (ASEAN)-Cooperation Council for the Arab States of the Gulf (GCC) Foreign Ministers’ Meeting was held on 23 September 2026 in New York, the United States, on the sidelines of the 81st United Nations General Assembly High-Level Week. The Meeting was co-ch Th",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "ae43495bb8c7c3cf-evt",
+      "title": "Press briefing - Competitiveness Council of 24 September 2026",
+      "date": "2026-09-24",
+      "end_date": "2026-09-24",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOFd3bWkwNFhzVDRyQTBmWnVoZzVIek5NSndwaGQtM0JnbWZGX0NySXltTTByZ3Z2MTNVakNndFY5RTBTVjRDNmpmQmJ4WVViWDFvRVEyN3AzS0dNeEFFOWxOQTV2TXRkdmRsQlZRWmxYV0VnclVRUVdxM3pFRXlvUjFNLS1DWUlZOGVOMDF0b0tOVTFOb01MZGZXcm5JakFMcm9FM05YNmo1ZkhEcXVxNTdoUWZZN1RLWndnN25tTXFhcjc5cFE?oc=5",
+      "summary": "Press briefing - Competitiveness Council of 24 September 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
       "kind": "diplomatic-event",
       "lang": "en"
     },
