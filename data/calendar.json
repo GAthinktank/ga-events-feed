@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-22T23:27:43.222786+00:00",
-    "duration_seconds": 92.171534,
+    "generated_at": "2026-09-23T03:01:42.629260+00:00",
+    "duration_seconds": 88.221969,
     "stats": {
       "ok": 83,
       "fail": 16,
-      "items_total": 2277,
-      "items_strict": 515,
-      "events_detected": 5
+      "items_total": 2275,
+      "items_strict": 501,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -59,57 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "72eaade19dc51e1d-evt",
-      "title": "Joint press release: Commission and EIB Group launch European Institutional Investors Pact to boost investment in European tech scale-ups",
-      "date": "2026-09-22",
-      "end_date": "2026-09-22",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1937",
-      "summary": "European Commission Press release Brussels, 22 Sep 2026 The European Commission and the European Investment Bank (EIB) Group launched today the European Institutional Investors Pact (EIIP) at the TechEU Equity Summit.",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "cb88270d4b82aca3-evt",
-      "title": "Remarks by Commissioner Serafin at the General Affairs Council in Brussels",
-      "date": "2026-09-22",
-      "end_date": "2026-09-22",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1936",
-      "summary": "European Commission Speech Brussels, 22 Sep 2026 Opening remarks Thank you Thomas, dear Presidency, dear Ministers, This is my fourth MFF negotiation. So I have to admit that some of the discussions come with ...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "fef1a0fd2c16aa50-evt",
-      "title": "Commissioner Roswall's speech at the 9th meeting of the Zero Pollution Stakeholder Platform",
-      "date": "2026-09-22",
-      "end_date": "2026-09-22",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1935",
-      "summary": "European Commission Speech Brussels, 22 Sep 2026 Good morning, ladies and gentlemen, partners, friends. Welcome to the launch of the renewed Zero Pollution Stakeholder Platform. Let me especially welcome ...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "unga-2026",
