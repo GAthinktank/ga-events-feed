@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-24T02:52:49.091279+00:00",
-    "duration_seconds": 89.354487,
+    "generated_at": "2026-09-24T08:05:39.622304+00:00",
+    "duration_seconds": 82.261414,
     "stats": {
       "ok": 83,
       "fail": 16,
-      "items_total": 2276,
-      "items_strict": 521,
-      "events_detected": 1
+      "items_total": 2277,
+      "items_strict": 490,
+      "events_detected": 3
     },
     "source_count": 99
   },
@@ -75,6 +75,40 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "cb52d4f8173487e1-evt",
+      "title": "Joint Communiqué: Seventh Trilateral Meeting of the European Union, the African Union, and the United Nations",
+      "date": "2026-09-24",
+      "end_date": "2026-09-24",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1962",
+      "summary": "European Commission Statement New York, 24 Sep 2026 The European Union, the African Union, and the United Nations convened for their Seventh Trilateral Meeting, reaffirming their shared commitment to effective m...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "55a120d5a9f6e5c2-evt",
+      "title": "Speech by President von der Leyen at the High-Level meeting on Climate Action and Just Transition",
+      "date": "2026-09-24",
+      "end_date": "2026-09-24",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "climate",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1955",
+      "summary": "European Commission Speech New York, 24 Sep 2026 President Erdoğan, Prime Minister Albanese, It is good to be back in the United Nations to discuss climate and energy policy. I think this summer was a summer o...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "ae43495bb8c7c3cf-evt",
