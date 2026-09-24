@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-23T23:33:09.821130+00:00",
-    "duration_seconds": 84.526425,
+    "generated_at": "2026-09-24T02:52:49.091279+00:00",
+    "duration_seconds": 89.354487,
     "stats": {
       "ok": 83,
       "fail": 16,
-      "items_total": 2274,
-      "items_strict": 523,
-      "events_detected": 6
+      "items_total": 2276,
+      "items_strict": 521,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -75,74 +75,6 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "55a120d5a9f6e5c2-evt",
-      "title": "Speech by President von der Leyen at the High-Level meeting on Climate Action and Just Transition",
-      "date": "2026-09-23",
-      "end_date": "2026-09-23",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "climate",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1955",
-      "summary": "European Commission Speech New York, 23 Sep 2026 President Erdoğan, Prime Minister Albanese, It is good to be back in the United Nations to discuss climate and energy policy. I think this summer was a summer o...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "4eba7a8620604dd2-evt",
-      "title": "Secretary-General of ASEAN delivers remarks at the High-Level Session of the International Conference on Combating Online Scams",
-      "date": "2026-09-23",
-      "end_date": "2026-09-23",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "Asia",
-      "theme": "diplomacy",
-      "link": "https://asean.org/secretary-general-of-asean-delivers-remarks-at-the-high-level-session-of-the-international-conference-on-combating-online-scams/",
-      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 23 September 2026, delivered remarks at the “High-Level session: Online Scams as a Global Emergency” of the International Conference on Combating Online Scams, held in Phnom Penh, Cambodia. The event is hosted by the Royal Government of the King The ",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "7ac44499fdeeea1c-evt",
-      "title": "Secretary-General of ASEAN attends Opening Ceremony of the International Conference on Combating Online Scams in the Kingdom of Cambodia",
-      "date": "2026-09-23",
-      "end_date": "2026-09-23",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "Asia",
-      "theme": "diplomacy",
-      "link": "https://asean.org/secretary-general-of-asean-attends-opening-ceremony-of-the-international-conference-on-combating-online-scams-in-the-kingdom-of-cambodia/",
-      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 23 September 2026, attended the Opening Ceremony of the International Conference on Combating Online Scams, in Phnom Penh, Cambodia. The Opening Ceremony was presided over by Samdech Moha Borvor Thipadei Hun Manet, Prime Minister of the Kingdom of C ",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "5343eed3051b0295-evt",
-      "title": "ASEAN Co-Chair’s Press Statement of the Association of Southeast Asian Nations-Cooperation Council for the Arab States of the Gulf Foreign Ministers’ Meeting",
-      "date": "2026-09-23",
-      "end_date": "2026-09-23",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "Asia",
-      "theme": "diplomacy",
-      "link": "https://asean.org/asean-co-chairs-press-statement-of-the-association-of-southeast-asian-nations-cooperation-council-for-the-arab-states-of-the-gulf-foreign-ministers-meeting/",
-      "summary": "The Association of Southeast Asian Nations (ASEAN)-Cooperation Council for the Arab States of the Gulf (GCC) Foreign Ministers’ Meeting was held on 23 September 2026 in New York, the United States, on the sidelines of the 81st United Nations General Assembly High-Level Week. The Meeting was co-ch Th",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "ae43495bb8c7c3cf-evt",
@@ -640,23 +572,6 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "641c1596a586d1ba-evt",
-      "title": "EU-Canada summit, 29-30 October 2026",
-      "date": "2029-10-30",
-      "end_date": "2029-10-30",
-      "location": "",
-      "organizer": "European Council",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNajFveDZxbUNudU9iS2RuOGozdWhDc19VaV80eWU3SGFTTmN0QTlUUEd2TlNqUWNMOUQ4cERtNXBwWmhmdUk2SGFYTlpvcHRFS3FMbEtIUV9fcGZMUlVtTjhseE1ueDF0anY3ckFQSHl0NnoycFFVWXpVUmdqWkNlR0NfQTE5QQ?oc=5",
-      "summary": "EU-Canada summit, 29-30 October 2026 &nbsp;&nbsp; consilium.europa.eu",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Council",
-      "kind": "diplomatic-event",
-      "lang": "en"
     }
   ]
 }
