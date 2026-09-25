@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-24T23:44:56.325156+00:00",
-    "duration_seconds": 90.063022,
+    "generated_at": "2026-09-25T03:08:57.141395+00:00",
+    "duration_seconds": 83.445153,
     "stats": {
       "ok": 83,
       "fail": 16,
-      "items_total": 2276,
-      "items_strict": 525,
-      "events_detected": 4
+      "items_total": 2275,
+      "items_strict": 532,
+      "events_detected": 0
     },
     "source_count": 99
   },
@@ -75,74 +75,6 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "6d01700c06011954-evt",
-      "title": "Opening remarks by Commissioner Hansen at the “EU AgRI 2040” Agricultural Research and Innovation Conference",
-      "date": "2026-09-24",
-      "end_date": "2026-09-24",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1968",
-      "summary": "European Commission Speech Brussels, 24 Sep 2026 Commissioner Zaharieva, dear Ekaterina, Distinguished speakers and panellists, Dear participants, It is a real pleasure to open with you all, the fourth EU Agri...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "cb52d4f8173487e1-evt",
-      "title": "Joint Communiqué: Seventh Trilateral Meeting of the European Union, the African Union, and the United Nations",
-      "date": "2026-09-24",
-      "end_date": "2026-09-24",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_1962",
-      "summary": "European Commission Statement New York, 24 Sep 2026 The European Union, the African Union, and the United Nations convened for their Seventh Trilateral Meeting, reaffirming their shared commitment to ef...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "ae43495bb8c7c3cf-evt",
-      "title": "Press briefing - Competitiveness Council of 24 September 2026",
-      "date": "2026-09-24",
-      "end_date": "2026-09-24",
-      "location": "",
-      "organizer": "European Council",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOFd3bWkwNFhzVDRyQTBmWnVoZzVIek5NSndwaGQtM0JnbWZGX0NySXltTTByZ3Z2MTNVakNndFY5RTBTVjRDNmpmQmJ4WVViWDFvRVEyN3AzS0dNeEFFOWxOQTV2TXRkdmRsQlZRWmxYV0VnclVRUVdxM3pFRXlvUjFNLS1DWUlZOGVOMDF0b0tOVTFOb01MZGZXcm5JakFMcm9FM05YNmo1ZkhEcXVxNTdoUWZZN1RLWndnN25tTXFhcjc5cFE?oc=5",
-      "summary": "Press briefing - Competitiveness Council of 24 September 2026 &nbsp;&nbsp; consilium.europa.eu",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Council",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "37e19ca3280bf98d-evt",
-      "title": "Statement of the OSCE Mission to Moldova following the meeting of Political Representatives on 24 September 2026",
-      "date": "2026-09-24",
-      "end_date": "2026-09-24",
-      "location": "",
-      "organizer": "OSCE",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZbTI0RDhqSDdpQTBVaVl1dE44dktiM0tnVC1NVk1leHBFZ0VzQU1vbW5BNjRyRGJVdzRMWE83OGVUSkhRdWk5MjJoQ2toTkdXTWxmZ3ZnVWNhRy1XeFlrRmln?oc=5",
-      "summary": "Statement of the OSCE Mission to Moldova following the meeting of Political Representatives on 24 September 2026 &nbsp;&nbsp; OSCE Mission to Moldova",
-      "featured": false,
-      "confirmed": true,
-      "source": "OSCE",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "wb-imf-annual-2026",
