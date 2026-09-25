@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-25T03:08:57.141395+00:00",
-    "duration_seconds": 83.445153,
+    "generated_at": "2026-09-25T11:01:53.275779+00:00",
+    "duration_seconds": 93.060688,
     "stats": {
       "ok": 83,
       "fail": 16,
-      "items_total": 2275,
-      "items_strict": 532,
-      "events_detected": 0
+      "items_total": 2280,
+      "items_strict": 536,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -555,6 +555,40 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "e422d8c85b9e4533-evt",
+      "title": "Secretary-General of ASEAN to participate in the Australia-ASEAN Business Forum 2026 in Adelaide, Australia",
+      "date": "2029-09-30",
+      "end_date": "2029-09-30",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/secretary-general-of-asean-to-participate-in-the-australia-asean-business-forum-2026-in-adelaide-australia/",
+      "summary": "At the invitation of Mr. Francis Wong OAM, Chairman of Australia-ASEAN Business Forum, Secretary-General of ASEAN Dr. Kao Kim Hourn, will participate in the Australia-ASEAN Business Forum 2026, to be held in Adelaide, Australia, on 29-30 September 2026. During the Forum, Dr. Kao will deliver keynot ",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "641c1596a586d1ba-evt",
+      "title": "EU-Canada summit, 29-30 October 2026",
+      "date": "2029-10-30",
+      "end_date": "2029-10-30",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNajFveDZxbUNudU9iS2RuOGozdWhDc19VaV80eWU3SGFTTmN0QTlUUEd2TlNqUWNMOUQ4cERtNXBwWmhmdUk2SGFYTlpvcHRFS3FMbEtIUV9fcGZMUlVtTjhseE1ueDF0anY3ckFQSHl0NnoycFFVWXpVUmdqWkNlR0NfQTE5QQ?oc=5",
+      "summary": "EU-Canada summit, 29-30 October 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
     }
   ]
 }
