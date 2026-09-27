@@ -1,12 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-09-26T23:22:37.694545+00:00",
-    "duration_seconds": 126.854793,
+    "generated_at": "2026-09-27T03:20:23.559226+00:00",
+    "duration_seconds": 88.73134,
     "stats": {
       "ok": 83,
       "fail": 16,
       "items_total": 2268,
-      "items_strict": 530,
+      "items_strict": 536,
       "events_detected": 1
     },
     "source_count": 99
@@ -58,22 +58,6 @@
       "featured": true,
       "confirmed": true,
       "source": "manual",
-      "kind": "diplomatic-event"
-    },
-    {
-      "id": "unga-2026",
-      "title": "UN General Assembly — High-Level Week 2026",
-      "date": "2026-09-22",
-      "end_date": "2026-09-26",
-      "location": "New York",
-      "organizer": "United Nations",
-      "region": "Global",
-      "theme": "diplomacy",
-      "link": "https://www.un.org/en/ga/",
-      "summary": "",
-      "featured": true,
-      "confirmed": false,
-      "source": "recurring-template",
       "kind": "diplomatic-event"
     },
     {
