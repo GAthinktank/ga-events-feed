@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-28T12:45:47.903303+00:00",
-    "duration_seconds": 117.45369,
+    "generated_at": "2026-09-28T21:03:03.918507+00:00",
+    "duration_seconds": 85.599546,
     "stats": {
-      "ok": 82,
-      "fail": 17,
-      "items_total": 2259,
+      "ok": 83,
+      "fail": 16,
+      "items_total": 2287,
       "items_strict": 525,
-      "events_detected": 5
+      "events_detected": 7
     },
     "source_count": 99
   },
@@ -61,6 +61,23 @@
       "kind": "diplomatic-event"
     },
     {
+      "id": "0d445b50934e6a1a-evt",
+      "title": "Commissioner Roswall's opening remarks, 2nd Union for the Mediterranean (UfM) Ministerial Meeting on Water",
+      "date": "2026-09-28",
+      "end_date": "2026-09-28",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1999",
+      "summary": "European Commission Speech Rome, 28 Sep 2026 Minister Tajani, Minister Abu Soud, Secretary General Hajali, Good afternoon your excellencies, ladies and gentlemen. It is an honour for me to be here represe...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
       "id": "b314c29ba33205df-evt",
       "title": "Commission launches EU Screening Week with new recommendations on cardiovascular health checks",
       "date": "2026-09-28",
@@ -74,6 +91,23 @@
       "featured": false,
       "confirmed": true,
       "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "31da5cbeb32cef36-evt",
+      "title": "Secretary-General of ASEAN Joins Working Dinner with Australia–ASEAN Business Leaders in Adelaide",
+      "date": "2026-09-28",
+      "end_date": "2026-09-28",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/secretary-general-of-asean-joins-working-dinner-with-australia-asean-business-leaders-in-adelaide/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 28 September 2026, attended a Working Dinner, hosted by Mr. Francis Wong OAM, Chairman of Australia-ASEAN Business Forum, prior to the start of Australia–ASEAN Business Forum 2026, on 29 September 2026, in Adelaide, Australia. The dinner provided The",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
       "kind": "diplomatic-event",
       "lang": "en"
     },
