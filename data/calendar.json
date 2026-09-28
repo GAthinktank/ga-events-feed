@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-27T23:35:05.755446+00:00",
-    "duration_seconds": 85.622765,
+    "generated_at": "2026-09-28T03:17:22.839828+00:00",
+    "duration_seconds": 81.669583,
     "stats": {
       "ok": 83,
       "fail": 16,
-      "items_total": 2258,
-      "items_strict": 524,
-      "events_detected": 3
+      "items_total": 2261,
+      "items_strict": 521,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -59,40 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "bbc0b6ce701e9575-evt",
-      "title": "Secretary-General of ASEAN visits the Art Gallery of New South Wales",
-      "date": "2026-09-27",
-      "end_date": "2026-09-27",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "Asia",
-      "theme": "diplomacy",
-      "link": "https://asean.org/secretary-general-of-asean-visits-the-art-gallery-of-new-south-wales/",
-      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 27 September 2026, visited the Art Gallery of New South Wales, which hosts one of the most prominent collections of Southeast Asian art in Australia, featuring classical textiles, sculptures, ceramics, and cutting-edge contemporary visual arts. The T",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "3429ec29e6040367-evt",
-      "title": "Secretary-General of ASEAN meets with Governor of New South Wales, Australia",
-      "date": "2026-09-27",
-      "end_date": "2026-09-27",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "Asia",
-      "theme": "diplomacy",
-      "link": "https://asean.org/secretary-general-of-asean-meets-with-governor-of-new-south-wales-australia/",
-      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 27 September 2026, met with The Honourable Margaret Beazley AC KC, Governor of New South Wales, in Sydney, Australia, on the sidelines of the Australia-ASEAN Business Forum 2026. SG Dr. Kao and Governor Beazley discussed the growing links bet The pos",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "wb-imf-annual-2026",
