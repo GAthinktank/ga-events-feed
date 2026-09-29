@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-29T03:55:00.319310+00:00",
-    "duration_seconds": 85.406962,
+    "generated_at": "2026-09-29T12:02:25.524331+00:00",
+    "duration_seconds": 134.442487,
     "stats": {
-      "ok": 83,
-      "fail": 16,
-      "items_total": 2287,
-      "items_strict": 506,
-      "events_detected": 2
+      "ok": 82,
+      "fail": 17,
+      "items_total": 2255,
+      "items_strict": 478,
+      "events_detected": 0
     },
     "source_count": 99
   },
@@ -59,23 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "0ff8573d82a3b22c-evt",
-      "title": "Justice and Home Affairs Council (Home Affairs), 1 October 2026",
-      "date": "2026-10-01",
-      "end_date": "2026-10-01",
-      "location": "",
-      "organizer": "European Council",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2SndzRnBPMG5IUjdTVDRWdkloeXdaa2p4bjNoUngyS1FYVl9Hb050NUdVRXA3dGlsLWh3TFd2VVE1QnpfM0haZnFFTC1OVlRNMDc4VnlYbFJMOXhIWkhzWUNTeDJTRnl5UzVZ?oc=5",
-      "summary": "Justice and Home Affairs Council (Home Affairs), 1 October 2026 &nbsp;&nbsp; consilium.europa.eu",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Council",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "wb-imf-annual-2026",
@@ -556,23 +539,6 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "e422d8c85b9e4533-evt",
-      "title": "Secretary-General of ASEAN to participate in the Australia-ASEAN Business Forum 2026 in Adelaide, Australia",
-      "date": "2029-09-30",
-      "end_date": "2029-09-30",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "Asia",
-      "theme": "diplomacy",
-      "link": "https://asean.org/secretary-general-of-asean-to-participate-in-the-australia-asean-business-forum-2026-in-adelaide-australia/",
-      "summary": "At the invitation of Mr. Francis Wong OAM, Chairman of Australia-ASEAN Business Forum, Secretary-General of ASEAN Dr. Kao Kim Hourn, will participate in the Australia-ASEAN Business Forum 2026, to be held in Adelaide, Australia, on 29-30 September 2026. During the Forum, Dr. Kao will deliver keynot ",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
     }
   ]
 }
