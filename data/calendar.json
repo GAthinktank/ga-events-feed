@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-30T00:03:24.928452+00:00",
-    "duration_seconds": 83.189864,
+    "generated_at": "2026-09-30T09:16:07.658601+00:00",
+    "duration_seconds": 87.098929,
     "stats": {
       "ok": 83,
       "fail": 16,
-      "items_total": 2260,
-      "items_strict": 492,
-      "events_detected": 0
+      "items_total": 2265,
+      "items_strict": 524,
+      "events_detected": 4
     },
     "source_count": 99
   },
@@ -59,6 +59,74 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "3b98ae845c016260-evt",
+      "title": "Secretary-General of ASEAN Highlights ASEAN–Australia Partnership in Interview with InDaily",
+      "date": "2026-09-30",
+      "end_date": "2026-09-30",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/secretary-general-of-asean-highlights-asean-australia-partnership-in-interview-with-indaily/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 30 September 2026, gave an interview to InDaily, media partner of the Australia–ASEAN Business Forum 2026, in Adelaide, Australia. Dr. Kao shared perspectives on deepening ASEAN–Australia economic integration and advancing practical coope The post Se",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "afcd1fa3210045a0-evt",
+      "title": "Secretary-General of ASEAN Meets wih Senator of South Australia",
+      "date": "2026-09-30",
+      "end_date": "2026-09-30",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "economy",
+      "link": "https://asean.org/secretary-general-of-asean-meets-wih-senator-of-south-australia/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 30 September 2026, met with Senator Anne Ruston of South Australia, in Adelaide, Australia, on the sidelines of the Australia-ASEAN Business Forum, to exchange views on strengthening ASEAN-Australia cooperation, including in trade and investment, di ",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "d1d34d675402a2bb-evt",
+      "title": "Secretary-General of ASEAN meets with Minister for Energy and Mining of South Australia",
+      "date": "2026-09-30",
+      "end_date": "2026-09-30",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/secretary-general-of-asean-meets-with-minister-for-energy-and-mining-of-south-australia/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 30 September 2026, met with Hon. Tom Koutsantonis MP, Treasurer and Minister for Energy and Mining of South Australia, in Adelaide, Australia, on the sidelines of the Australia-ASEAN Business Forum 2026. They exchanged views on practical cooperation ",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "ef5b57f86a73da3a-evt",
+      "title": "Secretary-General of ASEAN Delivers Opening Remarks at the Australia–ASEAN Energy Leadership Dialogue",
+      "date": "2026-09-30",
+      "end_date": "2026-09-30",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/secretary-general-of-asean-delivers-opening-remarks-at-the-australia-asean-energy-leadership-dialogue/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, delivered opening remarks at the Australia–ASEAN Energy Leadership Dialogue, held as part of the Australia–ASEAN Business Forum 2026 in Adelaide, Australia, on 30 September 2026. The session discussed shared priorities in energy security and transi The ",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "wb-imf-annual-2026",
