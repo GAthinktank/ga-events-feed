@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-09-30T09:16:07.658601+00:00",
-    "duration_seconds": 87.098929,
+    "generated_at": "2026-09-30T17:31:07.333335+00:00",
+    "duration_seconds": 99.150363,
     "stats": {
       "ok": 83,
       "fail": 16,
-      "items_total": 2265,
-      "items_strict": 524,
-      "events_detected": 4
+      "items_total": 2268,
+      "items_strict": 528,
+      "events_detected": 7
     },
     "source_count": 99
   },
@@ -59,6 +59,57 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "02878d52e1fe9ea6-evt",
+      "title": "Statement by President von der Leyen at the joint press conference with Albanian Prime Minister Rama",
+      "date": "2026-09-30",
+      "end_date": "2026-09-30",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2031",
+      "summary": "European Commission Statement Tirana, 30 Sep 2026 Dear Edi, It is always a pleasure to see you and to be in Tirana. My experience is that Albanians carry Europe in their hearts. It's wonderful to be back. And y...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "62b3caa651eacbe1-evt",
+      "title": "Remarks by Commissioner Brunner at the press conference on the European Union Critical Communication System",
+      "date": "2026-09-30",
+      "end_date": "2026-09-30",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2025",
+      "summary": "European Commission Speech Brussels, 30 Sep 2026 Thank you, Henna. Today, we deliver on another proposal that makes our Union stronger. Step by step, we are delivering on our internal security strategy, Protec...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "2bf794c7baac4a2d-evt",
+      "title": "Remarks by Executive Vice-President Virkkunen and Commissioner Brunner on the EU Critical Communication System",
+      "date": "2026-09-30",
+      "end_date": "2026-09-30",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2024",
+      "summary": "European Commission Speech Brussels, 30 Sep 2026 Executive Vice-President Virkkunen: Good morning, everyone, and welcome to today's read-out of the College meeting. Today, we adopted two proposals linked to th...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "3b98ae845c016260-evt",
