@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-01T12:19:32.992995+00:00",
-    "duration_seconds": 85.079607,
+    "generated_at": "2026-10-01T20:05:32.908890+00:00",
+    "duration_seconds": 108.011389,
     "stats": {
       "ok": 83,
       "fail": 16,
-      "items_total": 2301,
-      "items_strict": 534,
-      "events_detected": 3
+      "items_total": 2274,
+      "items_strict": 524,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -61,33 +61,16 @@
       "kind": "diplomatic-event"
     },
     {
-      "id": "cf7af8d227160a43-evt",
-      "title": "Speech by Commissioner Lahbib at the North Atlantic Council",
+      "id": "fc52de4e72e53469-evt",
+      "title": "Statement by President von der Leyen at the joint press conference with the Prime Minister of Kosovo, Albin Kurti",
       "date": "2026-10-01",
       "end_date": "2026-10-01",
       "location": "",
       "organizer": "European Commission — Press",
       "region": "EU",
       "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2035",
-      "summary": "European Commission Speech Brussels, 01 Oct 2026 Let's take a quick look at today's reality. A drone entering our airspace. Cyberattacks on our hospitals. Disinformation targeting our elections. Sabotage plots...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "d391288f65c65ea0-evt",
-      "title": "Keynote speech by Jozef Síkela at the Ambrela Development Forum 2026: Re-centering Human Development in the Global Gateway",
-      "date": "2026-10-01",
-      "end_date": "2026-10-01",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2033",
-      "summary": "European Commission Speech Bratislava, 01 Oct 2026 Distinguished guests, It is a pleasure to be back in Bratislava. For five years, as CEO of Slovenská sporiteľňa, this city was my home. Today I come in a differ...",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2042",
+      "summary": "European Commission Statement Pristina, 01 Oct 2026 Prime Minister Kurti, Dear Albin. Thank you for welcoming me back to Pristina, for the sixth time. Kosovo is going through an important political moment. I want...",
       "featured": false,
       "confirmed": true,
       "source": "European Commission — Press",
