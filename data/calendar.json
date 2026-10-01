@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-01T03:48:54.037347+00:00",
-    "duration_seconds": 80.602771,
+    "generated_at": "2026-10-01T12:19:32.992995+00:00",
+    "duration_seconds": 85.079607,
     "stats": {
       "ok": 83,
       "fail": 16,
-      "items_total": 2271,
-      "items_strict": 539,
-      "events_detected": 0
+      "items_total": 2301,
+      "items_strict": 534,
+      "events_detected": 3
     },
     "source_count": 99
   },
@@ -59,6 +59,57 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "cf7af8d227160a43-evt",
+      "title": "Speech by Commissioner Lahbib at the North Atlantic Council",
+      "date": "2026-10-01",
+      "end_date": "2026-10-01",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2035",
+      "summary": "European Commission Speech Brussels, 01 Oct 2026 Let's take a quick look at today's reality. A drone entering our airspace. Cyberattacks on our hospitals. Disinformation targeting our elections. Sabotage plots...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "d391288f65c65ea0-evt",
+      "title": "Keynote speech by Jozef Síkela at the Ambrela Development Forum 2026: Re-centering Human Development in the Global Gateway",
+      "date": "2026-10-01",
+      "end_date": "2026-10-01",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2033",
+      "summary": "European Commission Speech Bratislava, 01 Oct 2026 Distinguished guests, It is a pleasure to be back in Bratislava. For five years, as CEO of Slovenská sporiteľňa, this city was my home. Today I come in a differ...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "4364580e08e60923-evt",
+      "title": "Deputy Secretary-General of ASEAN for Community and Corporate Affairs meets the Ambassador of the Kingdom of Norway to ASEAN",
+      "date": "2026-10-01",
+      "end_date": "2026-10-01",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/deputy-secretary-general-of-asean-for-community-and-corporate-affairs-meets-the-ambassador-of-the-kingdom-of-norway-to-asean/",
+      "summary": "Deputy Secretary-General of ASEAN for Community and Corporate Affairs, H.E. Nararya Sanggramawijaya Soeprapto on 1 October 2026, met with H.E. Mariann Ruud Hagen, Ambassador of the Kingdom of Norway to ASEAN. During their discussion, DSG Nararya provided updates on ongoing ASEAN-Norway cooperation T",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "wb-imf-annual-2026",
