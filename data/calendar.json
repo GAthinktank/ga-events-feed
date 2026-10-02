@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-02T00:29:18.901118+00:00",
-    "duration_seconds": 86.64737,
+    "generated_at": "2026-10-02T09:18:28.242984+00:00",
+    "duration_seconds": 104.387296,
     "stats": {
       "ok": 83,
       "fail": 16,
-      "items_total": 2277,
-      "items_strict": 500,
-      "events_detected": 0
+      "items_total": 2273,
+      "items_strict": 523,
+      "events_detected": 3
     },
     "source_count": 99
   },
@@ -59,6 +59,57 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "fc52de4e72e53469-evt",
+      "title": "Statement by President von der Leyen at the joint press conference with the Prime Minister of Kosovo, Albin Kurti",
+      "date": "2026-10-02",
+      "end_date": "2026-10-02",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2042",
+      "summary": "European Commission Statement Pristina, 02 Oct 2026 Prime Minister Kurti, Dear Albin. Thank you for welcoming me back to Pristina, for the sixth time. Kosovo is going through an important political moment. I want...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "dfcf3b31e7cd7f7b-evt",
+      "title": "Media advisory - Justice and Home Affairs Council of 1 and 2 October 2026",
+      "date": "2026-10-02",
+      "end_date": "2026-10-02",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ0UtcHMxakI4ZXlhVkVzVE40UlVOWFZ3MHVMb3ZGalRYLUp6cmFSOXBITnJfUGNkUWZQZVM0QWt5bVV1bExwbHllZEZNaGZDYnUwalI3RGxqU3I2QkNrYVAxQ0ZHOHB4aTBLMF9oNVZfc2YtbUdpbHdZbTBFeEZfMFcyQ2lPQUtla25fZkhVN1EzZjdGRmlPck5WbFN6QlU0ZnZhUDFaU3VDX0FZT3pYbnk0RXFxRzcweEU2Q2VWVnphRFZ2REJyckVEWWZuTzFhTWtnUlFn?oc=5",
+      "summary": "Media advisory - Justice and Home Affairs Council of 1 and 2 October 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "8eb83a45a85eca3a-evt",
+      "title": "10th EU-Republic of Moldova Association Council, 5 October 2026",
+      "date": "2026-10-05",
+      "end_date": "2026-10-05",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHZEN08xZ2VBNG1vM29acWRfU1VVMkxnV1VkbW95SEplQndUTzFvVmRtMUxnUVRySERvbnVGYVdiN21ZTkFsQzZjY195Q2xXc0pwS05sYWRrbVRUZFZVYy15OGRURmhWdmtMUGNsMmxLXzlWM0RRWmp4Z3REWUZ5Ym9FMV9oNjN5bDY3RXlIY2QxU1Uy?oc=5",
+      "summary": "10th EU-Republic of Moldova Association Council, 5 October 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "wb-imf-annual-2026",
