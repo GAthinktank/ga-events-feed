@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-01T20:05:32.908890+00:00",
-    "duration_seconds": 108.011389,
+    "generated_at": "2026-10-02T00:29:18.901118+00:00",
+    "duration_seconds": 86.64737,
     "stats": {
       "ok": 83,
       "fail": 16,
-      "items_total": 2274,
-      "items_strict": 524,
-      "events_detected": 2
+      "items_total": 2277,
+      "items_strict": 500,
+      "events_detected": 0
     },
     "source_count": 99
   },
@@ -59,40 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "fc52de4e72e53469-evt",
-      "title": "Statement by President von der Leyen at the joint press conference with the Prime Minister of Kosovo, Albin Kurti",
-      "date": "2026-10-01",
-      "end_date": "2026-10-01",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2042",
-      "summary": "European Commission Statement Pristina, 01 Oct 2026 Prime Minister Kurti, Dear Albin. Thank you for welcoming me back to Pristina, for the sixth time. Kosovo is going through an important political moment. I want...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "4364580e08e60923-evt",
-      "title": "Deputy Secretary-General of ASEAN for Community and Corporate Affairs meets the Ambassador of the Kingdom of Norway to ASEAN",
-      "date": "2026-10-01",
-      "end_date": "2026-10-01",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "Asia",
-      "theme": "diplomacy",
-      "link": "https://asean.org/deputy-secretary-general-of-asean-for-community-and-corporate-affairs-meets-the-ambassador-of-the-kingdom-of-norway-to-asean/",
-      "summary": "Deputy Secretary-General of ASEAN for Community and Corporate Affairs, H.E. Nararya Sanggramawijaya Soeprapto on 1 October 2026, met with H.E. Mariann Ruud Hagen, Ambassador of the Kingdom of Norway to ASEAN. During their discussion, DSG Nararya provided updates on ongoing ASEAN-Norway cooperation T",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "wb-imf-annual-2026",
