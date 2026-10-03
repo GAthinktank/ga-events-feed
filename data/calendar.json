@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-02T21:46:00.028056+00:00",
-    "duration_seconds": 91.861165,
+    "generated_at": "2026-10-03T03:32:00.223329+00:00",
+    "duration_seconds": 88.188081,
     "stats": {
       "ok": 83,
       "fail": 16,
-      "items_total": 2272,
-      "items_strict": 542,
-      "events_detected": 2
+      "items_total": 2271,
+      "items_strict": 547,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -59,23 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "970f92bf625b18d2-evt",
-      "title": "G7 Leaders' Statement on global energy security and market stability",
-      "date": "2026-10-02",
-      "end_date": "2026-10-02",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2057",
-      "summary": "European Commission Statement Brussels, 02 Oct 2026 Today, we, the Leaders of the G7, convened a virtual meeting to address the deepening challenges to our energy security. Facing unprecedented volatility in oil ...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "348c19f596f732e8-evt",
