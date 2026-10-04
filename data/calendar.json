@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-03T23:30:19.181548+00:00",
-    "duration_seconds": 86.026951,
+    "generated_at": "2026-10-04T04:00:39.453290+00:00",
+    "duration_seconds": 103.729729,
     "stats": {
-      "ok": 83,
-      "fail": 16,
-      "items_total": 2278,
-      "items_strict": 551,
-      "events_detected": 2
+      "ok": 82,
+      "fail": 17,
+      "items_total": 2271,
+      "items_strict": 550,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -59,23 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "348c19f596f732e8-evt",
-      "title": "Media advisory – The 10th meeting of the EU-Republic of Moldova Association Council, 5 October 2026",
-      "date": "2026-10-05",
-      "end_date": "2026-10-05",
-      "location": "",
-      "organizer": "European Council",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOWRpOVpDckhCM0w3b19yS3d0X2Iya2Vqd2NGdGQ2TTRlNG1XTGhoLWkybFJ2bFVGdHBLcEMyMzl1Y0NjT2pMSVVydDF2ekxIZHJyQ1NyQ2hrQXZfbUxySTJBaVIxNEJnV3l2WW9uVE02cjRyNzY1dUlhUzJhaW1aWTczR0pGOWs3U0xzZlVjb0hxS19jTnBMWEkyZVNpaTlqMjd5Ui1tQ2ZPZmpXWGxzdEJnSUd0NzV4UWNoSGsyUXVMZERfM1oxUk0yb3lmVWNWXzdYRDhZXzFEYkMyMUUtaU9QVi1na0R0eWI3Z19mMkxJdHBWSTVJ?oc=5",
-      "summary": "Media advisory – The 10th meeting of the EU-Republic of Moldova Association Council, 5 October 2026 &nbsp;&nbsp; consilium.europa.eu",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Council",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "8eb83a45a85eca3a-evt",
