@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-05T13:27:13.830556+00:00",
-    "duration_seconds": 116.45362,
+    "generated_at": "2026-10-05T21:48:17.079776+00:00",
+    "duration_seconds": 80.964058,
     "stats": {
-      "ok": 82,
-      "fail": 17,
-      "items_total": 2285,
-      "items_strict": 509,
-      "events_detected": 2
+      "ok": 83,
+      "fail": 16,
+      "items_total": 2296,
+      "items_strict": 520,
+      "events_detected": 3
     },
     "source_count": 99
   },
@@ -88,6 +88,23 @@
       "theme": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHZEN08xZ2VBNG1vM29acWRfU1VVMkxnV1VkbW95SEplQndUTzFvVmRtMUxnUVRySERvbnVGYVdiN21ZTkFsQzZjY195Q2xXc0pwS05sYWRrbVRUZFZVYy15OGRURmhWdmtMUGNsMmxLXzlWM0RRWmp4Z3REWUZ5Ym9FMV9oNjN5bDY3RXlIY2QxU1Uy?oc=5",
       "summary": "10th EU-Republic of Moldova Association Council, 5 October 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "b61ebb26927ee4f7-evt",
+      "title": "Press briefing - Eurogroup meeting of 8 October 2026",
+      "date": "2026-10-08",
+      "end_date": "2026-10-08",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR3RKUlJoS2Y4NVJrdEhBNGJhY2VWTUpGdk5nd016V3JZWmtxZUNrS25Od3JtczRPYTV4Q29XTExQWkExczhrLWVhbGZKMDYtR1hnZEJpS3VnQXgxYzdtT08zZzFWeW50Qm12ME1uYTB1WGxOV3RIcXI1ZnMteTFpQm5CS3VrVVMxZ3ZhemM3LVJ3aTRGY0FkMWJEQVRuZkt1TWF3SEd2bU1LN3FiUFJKWTNGRFVVLW5wZUE?oc=5",
+      "summary": "Press briefing - Eurogroup meeting of 8 October 2026 &nbsp;&nbsp; consilium.europa.eu",
       "featured": false,
       "confirmed": true,
       "source": "European Council",
