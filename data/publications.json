@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-06T19:58:32.363728+00:00",
-    "duration_seconds": 88.449854,
+    "generated_at": "2026-10-07T00:20:39.006050+00:00",
+    "duration_seconds": 87.959958,
     "stats": {
       "ok": 83,
       "fail": 16,
       "items_total": 2296,
-      "items_strict": 551,
-      "events_detected": 2
+      "items_strict": 548,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -177,6 +177,19 @@
       "source": "UK gov.uk announcements",
       "source_type": "gov",
       "region": "UK",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "f0ed9e94df3f68d0",
+      "title": "CFR 2026 Annual Report: Letter From the Chair",
+      "summary": "CFR 2026 Annual Report: Letter From the Chair &nbsp;&nbsp; Council on Foreign Relations (CFR)",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sSmdRTUZ3ekZTTTNZOGY3Ym1VQ0ZScktLSVZFVlZleTh3ZUg5RGkyS0UtX05PbFZpVmRKcjBramF3NnV3akxwUUJuVkVZWjdIOWoyX01ackZNbTBTUTBON0VHVjR1QQ?oc=5",
+      "date": "2026-10-06",
+      "source": "Council on Foreign Relations",
+      "source_type": "tt",
+      "region": "US",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -806,19 +819,6 @@
       "via_gnews": true
     },
     {
-      "id": "139e911ea1f42a2c",
-      "title": "States Weekly: September 30, 2026",
-      "summary": "States Weekly: September 30, 2026 &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUbHhLdjNkc1J5WjVwX3c3VUJRRVJhaDd1WEpSU3dGRlAyYnVUVjI2U05zN0twck1RTUczaW1udXFTTXdxcy1RaXlnOXg2N0VibFBnWEJfdUdCQUNjcjJxdXpaZzJZWlY3RkFEVElR?oc=5",
-      "date": "2026-09-30",
-      "source": "CSIS",
-      "source_type": "tt",
-      "region": "US",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "190b962f71cc762b",
       "title": "Statement by OECD Secretary-General Mathias Cormann on the conclusion of the Global Forum on Steel Excess Capacity Ministerial Meeting",
       "summary": "Statement by OECD Secretary-General Mathias Cormann on the conclusion of the Global Forum on Steel Excess Capacity Ministerial Meeting &nbsp;&nbsp; OECD",
@@ -1066,19 +1066,6 @@
       "via_gnews": true
     },
     {
-      "id": "b1407425c5b79902",
-      "title": "Europe needs a new strategy for Russian gray zone aggression",
-      "summary": "Europe needs a new counter-hybrid playbook, but an approach that focuses on coordinating responses after Russian attacks have already taken place is not an effective deterrent, write Maksym Beznosiuk and William Dixon. The post Europe needs a new strategy for Russian gray zone aggression appeared first on Atlantic Council .",
-      "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/europe-needs-a-new-strategy-for-russian-grey-zone-aggression/",
-      "date": "2026-09-29",
-      "source": "Atlantic Council",
-      "source_type": "tt",
-      "region": "RU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": false
-    },
-    {
       "id": "7c1cc83db610195d",
       "title": "Co-chairs' statement on the occasion of the Ministerial Meeting on Coordinating Efforts for De-Escalation and Supporting Inter-Sudanese Dialogue",
       "summary": "Co-chairs' statement on the occasion of the Ministerial Meeting on Coordinating Efforts for De-Escalation and Supporting Inter-Sudanese Dialogue &nbsp;&nbsp; Ministère de l'Europe et des Affaires étrangères",
@@ -1157,6 +1144,19 @@
       "via_gnews": true
     },
     {
+      "id": "858c82e5fa77839f",
+      "title": "The Eighth African Union Mid-Year Coordination Summit (El-Alamein 2026)",
+      "summary": "The Eighth African Union Mid-Year Coordination Summit (El-Alamein 2026) &nbsp;&nbsp; الهيئة العامة للاستعلامات",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcEtGang2bkNuMXJPZFdseXZmVWdDajVYaXQzaWJYdlM2dGctTjVBRVNIRnJzemhBeG9DVW1iSFJjVkxzTnZoWHVyVTBfekNSaXZHb1VaODd1VFNJOWd1X0YydWZWbEM3T1ljbUNMbkN2MG9CbUNOemM1ZUhQemdITUlmSkxOSmVlY24xcFI4TmdsLUFyNUNMQzRUeDVpN09Bek9vQm5NZHFpaTlBV3E2Rkxn?oc=5",
+      "date": "2026-09-28",
+      "source": "African Union",
+      "source_type": "io",
+      "region": "Africa",
+      "lang": "en",
+      "theme": "diplomacy",
+      "via_gnews": true
+    },
+    {
       "id": "aad92e789ceadaef",
       "title": "Takeaways from the Trump-Xi White House Summit",
       "summary": "Takeaways from the Trump-Xi White House Summit &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
@@ -1167,6 +1167,19 @@
       "region": "CN",
       "lang": "en",
       "theme": "diplomacy",
+      "via_gnews": true
+    },
+    {
+      "id": "0ebf89cfc768c7b8",
+      "title": "Report of the Secretary-General on the Implementation of UN Security Council Resolution 2334 (2016) delivered by Ramiz Alakbarov, Acting Special Coordinator for the Middle East Peace Process (28 September 2026)",
+      "summary": "Report of the Secretary-General on the Implementation of UN Security Council Resolution 2334 (2016) delivered by Ramiz Alakbarov, Acting Special Coordinator for the Middle East Peace Process (28 September 2026) &nbsp;&nbsp; ReliefWeb",
+      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPVVRfRGpZWjVoVWppTlRydzN2alE4b2w5YjJNLU15UmFhNGx4XzRWWmZwWERrc3g2Z21kYXlRX3dJbHI1THJPUzI2Y1pMYng4LV93YUF6d24xYVpkZWpfeWhodXZ3dEZvR1JscVBGb0F5eng4U1pjQVdXbEtPN0VpTHgwLVliTnIzekRHeDBDcnZkNnNZN1ZhSENxbnp2eDA1aHZDbkJuRlYwQ294bkxnLXJsWjFVemRXUTRtVlkwdlVSX3NTanRzSFkzZHZ5Y1pvNnZFVV91cGdvZkNYY0QtMVRPd1Foa0ZoWUpiUVV5d2g4N0xxUWxCaGdibXZyUGFHQUEyR3ktMWM3cGw1d2tPVmJ5cG1RS1lUbEI2ZlpwQkxoZEhGTHQ2cVlBYTZuTTVNT2c4eHZsa21XMW16akpxd3FTNXB4T3g3WmJFRXl6emhrWTBFNWV0RA?oc=5",
+      "date": "2026-09-28",
+      "source": "UN Security Council",
+      "source_type": "io",
+      "region": "Global",
+      "lang": "en",
+      "theme": null,
       "via_gnews": true
     },
     {
@@ -1440,19 +1453,6 @@
       "region": "SE",
       "lang": "en",
       "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "4b24745798f6f093",
-      "title": "JOINT STATEMENT OFFICIAL OFFICIAL Joint Statement of the Foreign Ministers and high-level representatives of Australia, France,",
-      "summary": "JOINT STATEMENT OFFICIAL OFFICIAL Joint Statement of the Foreign Ministers and high-level representatives of Australia, France, &nbsp;&nbsp; Ministry of Foreign Affairs of Japan",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuWWZkVUlIVUJzX0RCMGFpR0Rza2lQRmZNNmNxYXpLSTF5a0xZUUhZSG9LSVNkMFFIUGFlWTlUT2Jld3BoUWFtenZwX09ZRUs2UlBXRQ?oc=5",
-      "date": "2026-09-22",
-      "source": "Japan — MOFA",
-      "source_type": "gov",
-      "region": "JP",
-      "lang": "en",
-      "theme": "diplomacy",
       "via_gnews": true
     },
     {
@@ -1798,6 +1798,19 @@
       "title": "China considering summit with Seoul in November, South Korean foreign ministry says",
       "summary": "China considering summit with Seoul in November, South Korean foreign ministry says &nbsp;&nbsp; The Lufkin Daily News",
       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNT2Q1UmNNOXVVNnc0MjFwc0ktR0pUVUtlb2t5VGpPNmtIUm5BSUxfTjZ2dHo2YmdQVU9ySzR6aFkzUlVLVE1sS3JfbmV1MjdvZDFEaUZDd0VTdmZhdm5aWGhPN3FzR1k0TVd1Y0JILTZMQ1pPUVJnbENDeDRXOXk5amtHWFVWUzJzX0JiRDhVMjNCUm9EcFl1Z2g1bzZrUDlUY3VFVnVRNEt1TWUtcDJKLUhzTHpqLW55TE1aZE9TQVNMeV9NSmJRTklaczQyeFJlS0hKRUVwLUJ4MXh5Tm5TaEk4d09Jc2tQcTF6YXFqdzdrZkVkZnFuRjlJYVdXVzhjNElCbER2b0xFMzBl?oc=5",
+      "date": "2026-08-20",
+      "source": "South Korea — MOFA",
+      "source_type": "gov",
+      "region": "KR",
+      "lang": "en",
+      "theme": "diplomacy",
+      "via_gnews": true
+    },
+    {
+      "id": "9f8a5f59832b0244",
+      "title": "China considering summit with Seoul in November, South Korean foreign ministry says",
+      "summary": "China considering summit with Seoul in November, South Korean foreign ministry says &nbsp;&nbsp; CNA",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMElvMEZkMTZJSk9JX2VuWjVBVjJaMlczbWNWV3pTRGg0RU1oMm8xSS1XRkdOZzF4VTFzbk9ZbWtTRElmWnp6Q2F4TVg4YjBZV0c4bzRpcjM5M2JCZFI4T3JsWlBzX1BLZlc3ZzBlM1J2VDJrZFlyRG11RUg3NS16aHd6S1B4al8yRVdjdk1nVlRwVHJ3cWptTzd4MHpDSG1GLU9VNUptRC1zWXhfalNYd2FkcmYxeWxDc2FjX1ktaw?oc=5",
       "date": "2026-08-20",
       "source": "South Korea — MOFA",
       "source_type": "gov",
@@ -2613,6 +2626,19 @@
       "via_gnews": true
     },
     {
+      "id": "b45ff4ca8316b6b1",
+      "title": "Our Customer Strategy - Every Contact Matters",
+      "summary": "Our Customer Strategy - Every Contact Matters &nbsp;&nbsp; Middlesbrough Council",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUFlSR2h4RFVqeWRLbFpONmhmNGZaekhGUFc3Ykhlb0duY3hnUy1XdWdyeU1jTDlzaHljT0o5ME1zeEZ2ZkJONkZGWm1rMl82SGdGX0hXM2JEa1ZZWDhYc19tRDRNY3lRTUJWUG9PVjk5eEVVQlk0N3hCbzZrOGp1WTB0UEhBeDNGVXRfeVNITHZzV1BGZUlYMnZJTFN2SVBzYU1kUkk3LWpna09CZkdoQ21vd1liOUty?oc=5",
+      "date": "2026-04-02",
+      "source": "UK gov.uk announcements",
+      "source_type": "gov",
+      "region": "UK",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "22f8c7f38c228e7f",
       "title": "Dichiarazione congiunta della 15ª riunione della Commissione mista USA-Italia sulla cooperazione scientifica e tecnologica",
       "summary": "Dichiarazione congiunta della 15ª riunione della Commissione mista USA-Italia sulla cooperazione scientifica e tecnologica &nbsp;&nbsp; Ambasciata d'Italia a Washington",
@@ -2791,19 +2817,6 @@
       "source_type": "gov",
       "region": "FR",
       "lang": "fr",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "4dec9915a8989278",
-      "title": "MERICS REPORT",
-      "summary": "MERICS REPORT &nbsp;&nbsp; Mercator Institute for China Studies",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSlVoc0pOdkN5a0VpUnd2MlJnTnQ4emViMmJmZmJPa2Etb3EyRjFXb0xxelIxcGlaNzJGSFBhMjRFOEdzRGtBSzQxUkRFZklicC01aEpWZWlXLWNja2ZiY1dMclpKMXlmRXJEYXdBcEM0aDc5SmN5OFAxdVlCa1RnaXh6eXVZM1I0NGxmNmlaSHNFOHhWSE9URUU1RUFUaUlJY0o1Qw?oc=5",
-      "date": "2026-02-23",
-      "source": "MERICS — China analysis",
-      "source_type": "tt",
-      "region": "CN",
-      "lang": "en",
       "theme": null,
       "via_gnews": true
     },
@@ -4485,19 +4498,6 @@
       "via_gnews": true
     },
     {
-      "id": "3134df4b56d685a6",
-      "title": "South Korea and China’s top envoys eye trilateral summit with Japan",
-      "summary": "South Korea and China’s top envoys eye trilateral summit with Japan &nbsp;&nbsp; The Japan Times",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdlZEanZBVHpqV3U3MDRUZFgtNkhVWWdBZFR0SXpvcGdsdWFYSVVQSTBzTXdMb1o5TnNBcEZRc2U4UkpiT1E3S1hnb3BUMHN4UzhJQmJTd3N0MUY3YnhYbVpNVDRDOVBHNjNoSE5MRzlTTFZvc2NOWUVyM01LMGxfWHIyZERmS2UxWkN4SV9JODFReG84U3BMeUY0VWl0WUdaWEZyVU5vTUR1OUpLcWNveQ?oc=5",
-      "date": "2024-05-14",
-      "source": "South Korea — MOFA",
-      "source_type": "gov",
-      "region": "KR",
-      "lang": "en",
-      "theme": "diplomacy",
-      "via_gnews": true
-    },
-    {
       "id": "c5abbd2863509b6b",
       "title": "Declaration of Value – new procedures,",
       "summary": "Declaration of Value – new procedures, &nbsp;&nbsp; Ministero degli Affari Esteri e della Cooperazione Internazionale",
@@ -4992,19 +4992,6 @@
       "via_gnews": true
     },
     {
-      "id": "96fbc30b5e0975a7",
-      "title": "States invest in nuclear arsenals as geopolitical relations deteriorate—New SIPRI Yearbook out now",
-      "summary": "States invest in nuclear arsenals as geopolitical relations deteriorate—New SIPRI Yearbook out now &nbsp;&nbsp; Stockholm International Peace Research Institute",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPajN6bHpoaE5SRnJEWFpobWY4czNvb0tjZC1Fdl93UmctaldNY1ZFYklKb1ByQ3lkN0FyVzJ6eEZ0VDFrRElOeElsQjdxV1YtTTlfUWVEeEtJeVZ6LUxEVUNjTkZVRTZIQ3pPZFlqX0Rtc2Y0aUJ0c1RnWUJfanRIeHVBbWFxM2x4WHRoU3BBTl9sWXNlR25LQnR5eGNXNnd6aEU3VGx0OEZsMzJFcmNsV2FsRnlZcVFnQ0VUdTdQOHRraFBJOTc0ZzMyS2EwY3dta21Ua1hR?oc=5",
-      "date": "2023-06-12",
-      "source": "SIPRI",
-      "source_type": "tt",
-      "region": "EU",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": true
-    },
-    {
       "id": "2f96850e05d2bb25",
       "title": "Dichiarazione dell’Italia Conferenza Mediterranea OSCE Tirana, 24-25 ottobre 2019 Excellencies, Distinguished Guests, Ladies a",
       "summary": "Dichiarazione dell’Italia Conferenza Mediterranea OSCE Tirana, 24-25 ottobre 2019 Excellencies, Distinguished Guests, Ladies a &nbsp;&nbsp; Rappresentanza Permanente d'Italia OSCE",
@@ -5223,6 +5210,19 @@
       "region": "RU",
       "lang": "en",
       "theme": "security",
+      "via_gnews": true
+    },
+    {
+      "id": "5a477640c1ed2249",
+      "title": "Middle East | IISS Research programme",
+      "summary": "Middle East | IISS Research programme &nbsp;&nbsp; The International Institute for Strategic Studies",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JZi05UmNtaG5CNWFwWFRqMk5lcDlCQkFLT0JBU1I0OTFOeWRjb3daZEl5dDVSUk1uOXlhb2pVZXJwWWtCbUhtUzJab3ROTDg4cnIyRQ?oc=5",
+      "date": "2023-03-30",
+      "source": "IISS",
+      "source_type": "tt",
+      "region": "UK",
+      "lang": "en",
+      "theme": null,
       "via_gnews": true
     },
     {
@@ -5496,6 +5496,19 @@
       "region": "IN",
       "lang": "en",
       "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "379e39f2a0bf5ea3",
+      "title": "Press statement by President Charles Michel following the trilateral meeting with President Aliyev of Azerbaijan and Prime Minister Pashinyan of Armenia, 31 August 2022",
+      "summary": "Press statement by President Charles Michel following the trilateral meeting with President Aliyev of Azerbaijan and Prime Minister Pashinyan of Armenia, 31 August 2022 &nbsp;&nbsp; Consilium.europa.eu",
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPUTd3SzBlTUw0cWQwZ2JlOHdWa21KeVk2QUtpMlFfalB4UldnT05ETjhyaTdNZjh4emdmTFlPUnRTUFRXOXRjMU15RVJ0ZDU2dUExN3RfV1lTb0ptbXh4bWFCLWl3a3RKekltc25oWGhIaDZCZ2pXb05vSGU2UTdvQUF0QmNETWJCQnV3MmJtYjR6YzJQMmRaU3Z5RDdTc05UWUktMVVQV205WWNIUzQwLVF4eXBURUxFVlphRnA5U29MZmlsXzNYNkszNEtYRHhrZjhPY1dkLXFsMDlBMFRPOFM1c1NodWEyV0pzUm9pWThYOHpuZFZxZ09WM1BfdEhyQno2bXdBX3ItYkVRZFo5TlA4aHJ6Njl0V3o4MWw1SFJkVGtLcXNjX210WUNkSGJva0hvZHRBTGFyX29qbzc2dUpjZU80M1JpM1lKUXczUDNBaDVRQlE?oc=5",
+      "date": "2022-08-31",
+      "source": "European Council",
+      "source_type": "gov",
+      "region": "EU",
+      "lang": "en",
+      "theme": "diplomacy",
       "via_gnews": true
     },
     {
@@ -5791,6 +5804,19 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JcG5DU2QteEl1ZFB2VG5Wd0hFUXpfME9uc0dmUTAtcjZNbk5ta0M0cjljamZaMndQeXhIR0FmRktxenhIaEJWQWt2RmdETUpKR2hvdXNxS1VRYU9mdnY5S05sdWZkUkpEaURMdGVn?oc=5",
       "date": "2021-10-28",
       "source": "CSIS",
+      "source_type": "tt",
+      "region": "US",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "49dcda76edfb4620",
+      "title": "The Mosaic Approach: a Multidimensional Strategy for Strengthening America's Critical Minerals Supply Chain",
+      "summary": "The Mosaic Approach: a Multidimensional Strategy for Strengthening America's Critical Minerals Supply Chain &nbsp;&nbsp; wilsoncenter.org",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRnJhdDdiXzFNZUowOXNBMnQ2X2gwN1dJb3czZFNmTUtkc2cwVWRJWEtJYmUtX0xzMGdtaUw0YTM0MmNDX1dmS2xVcmUtdXFlSmVBdHZMVnVHWVgycGptQWpVRncwSHk0X1FabzhVY3dEWTNLYTBXakx1YmxCeG9qRWpNZUFjbEhUSXNzS21kNm9SV3NwU0tHQWRiYXgtMFRhc05JRW1RNE55bFB5YmNoaTBkaktmd2JUZzg4MDNVOEU?oc=5",
+      "date": "2021-10-07",
+      "source": "Wilson Center",
       "source_type": "tt",
       "region": "US",
       "lang": "en",
@@ -6240,6 +6266,19 @@
       "via_gnews": true
     },
     {
+      "id": "9a1da3e11e5267bc",
+      "title": "The Future of Space 2060 and Implications for U.S. Strategy",
+      "summary": "The Future of Space 2060 and Implications for U.S. Strategy &nbsp;&nbsp; Aerospace Security",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQmhSYmhQVEdjUkJjODBiZThHYkJRLWZTaER5R0dFUVBCZE5rUUN4dy1oVk5HdGxXaWlWSEhNeklaclhDTXp2UktnUTFQTHljdldmWWJHbFFKRHR6RUlkYlFwVzRqcmFFSHlvaXNadDdCeEFXYzdQOGNGWnJaNGFrZGlwN2xrcXY2TjFzak5Gdw?oc=5",
+      "date": "2019-09-05",
+      "source": "CSIS",
+      "source_type": "tt",
+      "region": "US",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "ed44a52d0fe1c160",
       "title": "Working Paper 19-15 Measuring the Rise of Economic Nationalism",
       "summary": "Working Paper 19-15 Measuring the Rise of Economic Nationalism &nbsp;&nbsp; Peterson Institute for International Economics",
@@ -6500,19 +6539,6 @@
       "via_gnews": true
     },
     {
-      "id": "41fe2ecb018e916a",
-      "title": "From Criminals to Terrorists and Back? Quarterly Report 2018 Italy",
-      "summary": "From Criminals to Terrorists and Back? Quarterly Report 2018 Italy &nbsp;&nbsp; GLOBSEC",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPODRtdUxFNXFCM1hJcWhGVHpvMHZsS0hmcGw4UF9DYkZ1MU1yMVZXUUNmV05TdGtyby1QZm5JaFNsOVZ1QndKWVZSckM3cEw3ODd5cmtFV1lsM0ZNUllmdDZQUVE1NFlyd1ZXY1E0anJVUDdlSlRLM21NRE1PbVpwRGNyak9aOVVheVc5TkhlbXllSW1tcGdRWlVKT0JzVVplUkxIc216bWU?oc=5",
-      "date": "2018-05-25",
-      "source": "GLOBSEC",
-      "source_type": "tt",
-      "region": "EU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "20cd6a96e0e5b91a",
       "title": "From Criminals to Terrorism and Back? Quarterly Report 2018 Netherlands",
       "summary": "From Criminals to Terrorism and Back? Quarterly Report 2018 Netherlands &nbsp;&nbsp; GLOBSEC",
@@ -6539,19 +6565,6 @@
       "via_gnews": true
     },
     {
-      "id": "5494f6ac14d44353",
-      "title": "STRATEGIA DEL GOVERNO ITALIANO PER L’ARTICO",
-      "summary": "STRATEGIA DEL GOVERNO ITALIANO PER L’ARTICO &nbsp;&nbsp; Ministero degli Affari Esteri e della Cooperazione Internazionale",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLUhYazlmN21FNEFpVmVFWFQ2UlNnSmlBNnJaT0tabjNjaVlaWjZIN0ZXZjRzbnR2cG5QRnhMQkFRcDQtNTdIbXQwMGdKSERjRk53THZTcDlBTnBaSVJLaVRGelpUNklfQVZsQzR6Z1htNVQ2dTdnM0JYdkg4MDU3YVFaVTUyNllvX2dB?oc=5",
-      "date": "2018-02-10",
-      "source": "Italy — Esteri",
-      "source_type": "gov",
-      "region": "IT",
-      "lang": "it",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "b8765f048265568a",
       "title": "China’s Belt and Road Initiative: Five Years Later",
       "summary": "China’s Belt and Road Initiative: Five Years Later &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
@@ -6560,19 +6573,6 @@
       "source": "CSIS",
       "source_type": "tt",
       "region": "CN",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "c97b14152809f228",
-      "title": "Report of the Independent Review into The Investigation and Prosecution of Rape in London by Rt Hon Dame Elish Angiolini DBE QC",
-      "summary": "Report of the Independent Review into The Investigation and Prosecution of Rape in London by Rt Hon Dame Elish Angiolini DBE QC &nbsp;&nbsp; The Crown Prosecution Service",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPblJtVUVIMUFISFN4YUJpdXNUZjVncHlxbThJU1hRYmdvU252amRlb0JnRDlkVEl4blQwR01jUEVhZVU4S2ZyRmEwNU5KdlV1akZVTWVUQTl4TktnU3hVVzFWY0JPcjlVcFVJUVlhb0FqRl9vT0JkV3BHMnpIS3R0OVNldW54cFlfVzV0d0FuVDMwRm9Oc1EySW5wTDZMZzNvd2syM3IwODNxOUwyNC04a1Mzd05xOUY2aGpUcg?oc=5",
-      "date": "2017-12-21",
-      "source": "UK gov.uk announcements",
-      "source_type": "gov",
-      "region": "UK",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -6942,19 +6942,6 @@
       "via_gnews": true
     },
     {
-      "id": "d8006cae188a1b18",
-      "title": "SWP Research Paper 2011/RP 01, February 2011, 34 pages",
-      "summary": "SWP Research Paper 2011/RP 01, February 2011, 34 pages &nbsp;&nbsp; Stiftung Wissenschaft und Politik (SWP)",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdlBKWXo0T21Fb3Z1Ul9palE1NE02UmtXVjBwSHNwallLbWZGTFFLdXdpbzNLTUt0bllnWk1aY21vTy1COGFSZWJRaXlHMGRyNXpBZDhubEVMc0N5aWI0TUk4czZ6YlZSWEVTRnkxckJuYVY5bTdudmoxMGQ2ck1aUGRVcFhpa3dJRmdKdkRR?oc=5",
-      "date": "2011-02-01",
-      "source": "SWP Berlin (DE)",
-      "source_type": "tt",
-      "region": "DE",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "b2b1073dd54fa5a3",
       "title": "Australia-China joint statement",
       "summary": "Australia-China joint statement &nbsp;&nbsp; Australian Government Department of Foreign Affairs and Trade",
@@ -7043,32 +7030,6 @@
       "region": "US",
       "lang": "en",
       "theme": "security",
-      "via_gnews": true
-    },
-    {
-      "id": "c3b90a1da83c71e6",
-      "title": "Cordesman: Report to Congress on Iraq War Borders on ’Deception’",
-      "summary": "Cordesman: Report to Congress on Iraq War Borders on ’Deception’ &nbsp;&nbsp; Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMmdQUVNBN1ZBNnBwRTVYY0ZwM3M1V2xlbENCbFYtR08xWjBYZVNwUG9raEgyQXBzZ2dadjJsdDNHTlRaZTF0RUxVUzFwc2pmUjIyMXpCQW9wdTJ0VFFsVVlWLTNyTTdlQnFweXNrZVd2Rk96SmJaY0t3UmdFdm9fRlJxZEx3TzVB?oc=5",
-      "date": "2006-06-07",
-      "source": "Council on Foreign Relations",
-      "source_type": "tt",
-      "region": "US",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": true
-    },
-    {
-      "id": "8a596e162e424132",
-      "title": "The International Institute for Strategic Studies",
-      "summary": "The International Institute for Strategic Studies &nbsp;&nbsp; The International Institute for Strategic Studies",
-      "link": "https://news.google.com/rss/articles/CBMiOEFVX3lxTE9rbm5kdjZEMWJlTDhhdzI1QktXYWFPV3cxbXdZOUFCOUxYNVA1blJVa2RTdlhuNHln?oc=5",
-      "date": "2005-09-29",
-      "source": "IISS",
-      "source_type": "tt",
-      "region": "UK",
-      "lang": "en",
-      "theme": null,
       "via_gnews": true
     },
     {
