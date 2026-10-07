@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-07T09:42:23.621264+00:00",
-    "duration_seconds": 82.204013,
+    "generated_at": "2026-10-07T18:21:30.585308+00:00",
+    "duration_seconds": 85.60343,
     "stats": {
       "ok": 83,
       "fail": 16,
-      "items_total": 2293,
-      "items_strict": 547,
-      "events_detected": 1
+      "items_total": 2278,
+      "items_strict": 537,
+      "events_detected": 4
     },
     "source_count": 99
   },
@@ -61,6 +61,23 @@
       "kind": "diplomatic-event"
     },
     {
+      "id": "68aba8306fb59940-evt",
+      "title": "Keynote speech by Commissioner Kubilius in the conference \"Military Schengen 2026. Military Logistics: Requirements for Infrastructure and Carriers\"",
+      "date": "2026-10-07",
+      "end_date": "2026-10-07",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "security",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2098",
+      "summary": "European Commission Speech Hamburg, 07 Oct 2026 Good afternoon, It's a pleasure to be in Hamburg. And to speak about military mobility. Because everybody knows, how important Hamburg Port is for the economy...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
       "id": "b61ebb26927ee4f7-evt",
       "title": "Press briefing - Eurogroup meeting of 8 October 2026",
       "date": "2026-10-08",
@@ -71,6 +88,40 @@
       "theme": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR3RKUlJoS2Y4NVJrdEhBNGJhY2VWTUpGdk5nd016V3JZWmtxZUNrS25Od3JtczRPYTV4Q29XTExQWkExczhrLWVhbGZKMDYtR1hnZEJpS3VnQXgxYzdtT08zZzFWeW50Qm12ME1uYTB1WGxOV3RIcXI1ZnMteTFpQm5CS3VrVVMxZ3ZhemM3LVJ3aTRGY0FkMWJEQVRuZkt1TWF3SEd2bU1LN3FiUFJKWTNGRFVVLW5wZUE?oc=5",
       "summary": "Press briefing - Eurogroup meeting of 8 October 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "2d707bc63d0e3dd1-evt",
+      "title": "Media advisory - Eurogroup meeting of 8 October and Economic and Financial Affairs Council of 9 October 2026",
+      "date": "2026-10-09",
+      "end_date": "2026-10-09",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZjd0N1VFSlhxVDJ4cDhBYmctNkpYUHE5SzlDLVcxTUNOaVBlOENwa05XTHM4djBnSWJFdmpjcHlSOTJlWVlDNUZua0N6T1JLMjNNdk0yQU91VktOc1FBcURaVEVEeDN4OXlPWEhGa3RING9aMy1ienFJb1kxbnczOW4wX051bVZyUlRoam5NT0NPaGRBYVJiSlpQdjd4REVTdkU0VXlmVGhicDRNUGd3aVpoQWZwSTdxUTBBZ3h5ZjZ1eDNXVUlxbGFZZDJOUDJKeHJTNU1xd1RxaVNWYlJlM3lyM21VeDAxekN0dkUybDRic19YbnM4dFowdlRvb094bXFJUA?oc=5",
+      "summary": "Media advisory - Eurogroup meeting of 8 October and Economic and Financial Affairs Council of 9 October 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "425089041e8b6877-evt",
+      "title": "Media advisory - Eurogroup meeting of 8 October and Economic and Financial Affairs Council of 9 October 2026",
+      "date": "2026-10-09",
+      "end_date": "2026-10-09",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQRk1qLW1CcE1LT25MM1RFTlAybUhNdU5MMGhlVDRWYWl0M3JibXBOUFhxY2ppTjN4U2pST1FFVlFFQ1BLTjBUR2t5aVlWaldZSnpNT0U0SUhSVy0tbUYySUZhTW56NWhvMFZsdkJFZWl2V3NEczQ3ODB6Y09abDhZYk5yRGhhQ0I4YV84TTZhZHc0RGdqQVRrelRvbDEyaHpGUDZkQ3RaeS1sRFVsT2VGTWdBdmp6aTVPc2Rva1I3ajU0Nll3c0dxMHd4SnRhemZvbkIyakp5RzhXaVBFYXRsTkZHV0U3dF9pS0ZTb3pwZjVaeDBTU2hSQkZoVVpkMmI2RWh1Sg?oc=5",
+      "summary": "Media advisory - Eurogroup meeting of 8 October and Economic and Financial Affairs Council of 9 October 2026 &nbsp;&nbsp; consilium.europa.eu",
       "featured": false,
       "confirmed": true,
       "source": "European Council",
