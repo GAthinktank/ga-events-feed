@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-07T18:21:30.585308+00:00",
-    "duration_seconds": 85.60343,
+    "generated_at": "2026-10-08T00:41:56.062130+00:00",
+    "duration_seconds": 88.100163,
     "stats": {
       "ok": 83,
       "fail": 16,
       "items_total": 2278,
-      "items_strict": 537,
-      "events_detected": 4
+      "items_strict": 539,
+      "events_detected": 3
     },
     "source_count": 99
   },
@@ -59,23 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "68aba8306fb59940-evt",
-      "title": "Keynote speech by Commissioner Kubilius in the conference \"Military Schengen 2026. Military Logistics: Requirements for Infrastructure and Carriers\"",
-      "date": "2026-10-07",
-      "end_date": "2026-10-07",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "security",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2098",
-      "summary": "European Commission Speech Hamburg, 07 Oct 2026 Good afternoon, It's a pleasure to be in Hamburg. And to speak about military mobility. Because everybody knows, how important Hamburg Port is for the economy...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "b61ebb26927ee4f7-evt",
