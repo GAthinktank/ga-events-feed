@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-08T00:41:56.062130+00:00",
-    "duration_seconds": 88.100163,
+    "generated_at": "2026-10-08T09:53:05.278898+00:00",
+    "duration_seconds": 86.041367,
     "stats": {
       "ok": 83,
       "fail": 16,
-      "items_total": 2278,
-      "items_strict": 539,
-      "events_detected": 3
+      "items_total": 2281,
+      "items_strict": 540,
+      "events_detected": 4
     },
     "source_count": 99
   },
@@ -61,6 +61,23 @@
       "kind": "diplomatic-event"
     },
     {
+      "id": "ce6197be75f61b6e-evt",
+      "title": "Speech by Commissioner Kos at the International Conference on Corridor VIII in Sofia",
+      "date": "2026-10-08",
+      "end_date": "2026-10-08",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "economy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2107",
+      "summary": "European Commission Speech Sofia, 08 Oct 2026 How can we make sure European trade routes are more secure, in a world where they are increasingly under pressure? How can we strengthen our independence? Why ...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
       "id": "b61ebb26927ee4f7-evt",
       "title": "Press briefing - Eurogroup meeting of 8 October 2026",
       "date": "2026-10-08",
@@ -78,23 +95,6 @@
       "lang": "en"
     },
     {
-      "id": "2d707bc63d0e3dd1-evt",
-      "title": "Media advisory - Eurogroup meeting of 8 October and Economic and Financial Affairs Council of 9 October 2026",
-      "date": "2026-10-09",
-      "end_date": "2026-10-09",
-      "location": "",
-      "organizer": "European Council",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZjd0N1VFSlhxVDJ4cDhBYmctNkpYUHE5SzlDLVcxTUNOaVBlOENwa05XTHM4djBnSWJFdmpjcHlSOTJlWVlDNUZua0N6T1JLMjNNdk0yQU91VktOc1FBcURaVEVEeDN4OXlPWEhGa3RING9aMy1ienFJb1kxbnczOW4wX051bVZyUlRoam5NT0NPaGRBYVJiSlpQdjd4REVTdkU0VXlmVGhicDRNUGd3aVpoQWZwSTdxUTBBZ3h5ZjZ1eDNXVUlxbGFZZDJOUDJKeHJTNU1xd1RxaVNWYlJlM3lyM21VeDAxekN0dkUybDRic19YbnM4dFowdlRvb094bXFJUA?oc=5",
-      "summary": "Media advisory - Eurogroup meeting of 8 October and Economic and Financial Affairs Council of 9 October 2026 &nbsp;&nbsp; consilium.europa.eu",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Council",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
       "id": "425089041e8b6877-evt",
       "title": "Media advisory - Eurogroup meeting of 8 October and Economic and Financial Affairs Council of 9 October 2026",
       "date": "2026-10-09",
@@ -104,6 +104,23 @@
       "region": "EU",
       "theme": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQRk1qLW1CcE1LT25MM1RFTlAybUhNdU5MMGhlVDRWYWl0M3JibXBOUFhxY2ppTjN4U2pST1FFVlFFQ1BLTjBUR2t5aVlWaldZSnpNT0U0SUhSVy0tbUYySUZhTW56NWhvMFZsdkJFZWl2V3NEczQ3ODB6Y09abDhZYk5yRGhhQ0I4YV84TTZhZHc0RGdqQVRrelRvbDEyaHpGUDZkQ3RaeS1sRFVsT2VGTWdBdmp6aTVPc2Rva1I3ajU0Nll3c0dxMHd4SnRhemZvbkIyakp5RzhXaVBFYXRsTkZHV0U3dF9pS0ZTb3pwZjVaeDBTU2hSQkZoVVpkMmI2RWh1Sg?oc=5",
+      "summary": "Media advisory - Eurogroup meeting of 8 October and Economic and Financial Affairs Council of 9 October 2026 &nbsp;&nbsp; consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "2d707bc63d0e3dd1-evt",
+      "title": "Media advisory - Eurogroup meeting of 8 October and Economic and Financial Affairs Council of 9 October 2026",
+      "date": "2026-10-09",
+      "end_date": "2026-10-09",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZjd0N1VFSlhxVDJ4cDhBYmctNkpYUHE5SzlDLVcxTUNOaVBlOENwa05XTHM4djBnSWJFdmpjcHlSOTJlWVlDNUZua0N6T1JLMjNNdk0yQU91VktOc1FBcURaVEVEeDN4OXlPWEhGa3RING9aMy1ienFJb1kxbnczOW4wX051bVZyUlRoam5NT0NPaGRBYVJiSlpQdjd4REVTdkU0VXlmVGhicDRNUGd3aVpoQWZwSTdxUTBBZ3h5ZjZ1eDNXVUlxbGFZZDJOUDJKeHJTNU1xd1RxaVNWYlJlM3lyM21VeDAxekN0dkUybDRic19YbnM4dFowdlRvb094bXFJUA?oc=5",
       "summary": "Media advisory - Eurogroup meeting of 8 October and Economic and Financial Affairs Council of 9 October 2026 &nbsp;&nbsp; consilium.europa.eu",
       "featured": false,
       "confirmed": true,
