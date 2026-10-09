@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-09T00:57:31.599735+00:00",
-    "duration_seconds": 85.30172,
+    "generated_at": "2026-10-09T09:56:53.134943+00:00",
+    "duration_seconds": 79.02867,
     "stats": {
       "ok": 83,
       "fail": 16,
-      "items_total": 2274,
-      "items_strict": 543,
-      "events_detected": 2
+      "items_total": 2269,
+      "items_strict": 537,
+      "events_detected": 3
     },
     "source_count": 99
   },
@@ -61,6 +61,23 @@
       "kind": "diplomatic-event"
     },
     {
+      "id": "5bf3fe0a6c5bc26c-evt",
+      "title": "Speech by Commissioner Albuquerque (by video message) for the EIF Financial Institutions Shareholder Group Annual Meeting",
+      "date": "2026-10-09",
+      "end_date": "2026-10-09",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2052",
+      "summary": "European Commission Speech Online, 09 Oct 2026 Good morning, ladies and gentlemen. Let me start by thanking our hosts Marjut, José, and Manuel for inviting me to join you today. It's rare to have so many ins...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
       "id": "425089041e8b6877-evt",
       "title": "Media advisory - Eurogroup meeting of 8 October and Economic and Financial Affairs Council of 9 October 2026",
       "date": "2026-10-09",
@@ -78,7 +95,7 @@
       "lang": "en"
     },
     {
-      "id": "2d707bc63d0e3dd1-evt",
+      "id": "5e1efccdadcbedbb-evt",
       "title": "Media advisory - Eurogroup meeting of 8 October and Economic and Financial Affairs Council of 9 October 2026",
       "date": "2026-10-09",
       "end_date": "2026-10-09",
@@ -86,7 +103,7 @@
       "organizer": "European Council",
       "region": "EU",
       "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZjd0N1VFSlhxVDJ4cDhBYmctNkpYUHE5SzlDLVcxTUNOaVBlOENwa05XTHM4djBnSWJFdmpjcHlSOTJlWVlDNUZua0N6T1JLMjNNdk0yQU91VktOc1FBcURaVEVEeDN4OXlPWEhGa3RING9aMy1ienFJb1kxbnczOW4wX051bVZyUlRoam5NT0NPaGRBYVJiSlpQdjd4REVTdkU0VXlmVGhicDRNUGd3aVpoQWZwSTdxUTBBZ3h5ZjZ1eDNXVUlxbGFZZDJOUDJKeHJTNU1xd1RxaVNWYlJlM3lyM21VeDAxekN0dkUybDRic19YbnM4dFowdlRvb094bXFJUA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxONFpZeTRVcE4wYU4wcEZWc2gyMUk3bnhDNHMyM200U3EyRE4xTFM5S3Iwa2Z2ZnhqTnU3QnJ1Ml9nZ040SVh6NUYxV19MWHhuaFR0YXlJc0FFWU45WUVPakpUbFFFQmxVYTFxRVplWEtZSGJWYTBUa1p3ZkFrN3FORERNS2xkOGtzV2gwOWptQUtJRjVHRHI0NDlEWmsyTWtqYzlCbFlmUEhINVBNQ182MWl3OEx1ZUVPYmVZbHZpeGszWFV4VFc0VG9NdHNNUlJ2b2RfYW9ERXJfSkNLRzFaNlhqYUljYUg4OTBNbE41amlSdXgtMWFWbDdpTVpZWXRSS3A1WQ?oc=5",
       "summary": "Media advisory - Eurogroup meeting of 8 October and Economic and Financial Affairs Council of 9 October 2026 &nbsp;&nbsp; consilium.europa.eu",
       "featured": false,
       "confirmed": true,
