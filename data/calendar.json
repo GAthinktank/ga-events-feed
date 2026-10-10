@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-10T11:49:03.501720+00:00",
-    "duration_seconds": 85.635325,
+    "generated_at": "2026-10-10T16:52:40.866653+00:00",
+    "duration_seconds": 110.860907,
     "stats": {
-      "ok": 83,
-      "fail": 16,
-      "items_total": 2270,
-      "items_strict": 535,
-      "events_detected": 1
+      "ok": 82,
+      "fail": 17,
+      "items_total": 2255,
+      "items_strict": 530,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -71,6 +71,23 @@
       "theme": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJZDJZRU5LZXFJMHVzX3d6YXdsNkJ4SnNiMjBXeEZtSU9nalo0d0xwWTlfWmk4blJvSWtSTnYzekpuZFlUZTJIV1V0YngzbWxIYklrYVNxdmRZN1RE?oc=5",
       "summary": "Presidency events - Press conference on the MFF - 2026-10-10 &nbsp;&nbsp; Council Live",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "929cc89614992ba8-evt",
+      "title": "29th Accession Conference with Montenegro, 12 October 2026",
+      "date": "2026-10-12",
+      "end_date": "2026-10-12",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeDEyeUN0cGxNYktzRk9CWTJ6MUg0aFZ0bGhmaUNZcjVyRUNoeFQ1NGRSTERVMzJSS281ZlFSM1pxWDB2QXVoOEtzN1dZeVh1cWx5NVlHdG8yWDQ4ZmpBU1JIZUhCcWV6N3V1cXJ6OG1GLWtuQWFObjNrd2hqcTRFWVNQQzJnT0ZKRHVobEJKR1RtTWFZZTBEcXBkYnFuZWRpWS1J?oc=5",
+      "summary": "29th Accession Conference with Montenegro, 12 October 2026 &nbsp;&nbsp; consilium.europa.eu",
       "featured": false,
       "confirmed": true,
       "source": "European Council",
