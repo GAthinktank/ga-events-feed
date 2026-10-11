@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-10T21:04:55.008602+00:00",
-    "duration_seconds": 86.489628,
+    "generated_at": "2026-10-11T03:38:02.744394+00:00",
+    "duration_seconds": 93.6571,
     "stats": {
       "ok": 83,
       "fail": 16,
-      "items_total": 2269,
-      "items_strict": 535,
-      "events_detected": 2
+      "items_total": 2277,
+      "items_strict": 545,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -59,23 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "2287e03e8b52e6af-evt",
-      "title": "Presidency events - Press conference on the MFF - 2026-10-10",
-      "date": "2026-10-10",
-      "end_date": "2026-10-10",
-      "location": "",
-      "organizer": "European Council",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJZDJZRU5LZXFJMHVzX3d6YXdsNkJ4SnNiMjBXeEZtSU9nalo0d0xwWTlfWmk4blJvSWtSTnYzekpuZFlUZTJIV1V0YngzbWxIYklrYVNxdmRZN1RE?oc=5",
-      "summary": "Presidency events - Press conference on the MFF - 2026-10-10 &nbsp;&nbsp; Council Live",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Council",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "929cc89614992ba8-evt",
