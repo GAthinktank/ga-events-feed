@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-12T14:16:07.504070+00:00",
-    "duration_seconds": 84.694766,
+    "generated_at": "2026-10-12T22:23:10.556542+00:00",
+    "duration_seconds": 87.356756,
     "stats": {
       "ok": 83,
       "fail": 16,
-      "items_total": 2265,
-      "items_strict": 531,
-      "events_detected": 1
+      "items_total": 2281,
+      "items_strict": 544,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -59,6 +59,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "3a8534411a8da61e-evt",
+      "title": "Press remarks by Commissioner Hoekstra following the Environment (ENVI) Council",
+      "date": "2026-10-12",
+      "end_date": "2026-10-12",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "climate",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2145",
+      "summary": "European Commission Speech Luxembourg, 12 Oct 2026 Ladies and gentlemen, First of all, let me thank the two ministers and the Irish Presidency for the work today. This was a testament to our commitment on climat...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "929cc89614992ba8-evt",
