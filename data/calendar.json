@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-13T05:11:10.793548+00:00",
-    "duration_seconds": 80.204945,
+    "generated_at": "2026-10-13T13:26:09.923344+00:00",
+    "duration_seconds": 84.900905,
     "stats": {
       "ok": 83,
       "fail": 16,
-      "items_total": 2285,
-      "items_strict": 541,
-      "events_detected": 1
+      "items_total": 2286,
+      "items_strict": 547,
+      "events_detected": 5
     },
     "source_count": 99
   },
@@ -59,6 +59,74 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "872202ba375132bd-evt",
+      "title": "Commissioner Roswall's opening speech at the event, 'Water Innovation Europe 2026'",
+      "date": "2026-10-13",
+      "end_date": "2026-10-13",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2152",
+      "summary": "European Commission Speech Dublin, 13 Oct 2026 Distinguished guests, ladies and gentlemen, I am delighted to be back in Dublin and happy to once again open the Water Innovation Europe conference. Let m...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "bc312650b03339e6-evt",
+      "title": "Speech by Commissioner Hoekstra at the Annual meeting of the Heads of the Contact Committee of the Supreme Audit Institutions of the European Union",
+      "date": "2026-10-13",
+      "end_date": "2026-10-13",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2151",
+      "summary": "European Commission Speech Paris, 13 Oct 2026 Ladies and Gentlemen, Thank you for welcoming me during a complicated time. Let me also thank you for your efforts, Amélie, and the efforts of many in the room ...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "cbac976e33e573f5-evt",
+      "title": "Keynote speech by Commissioner Síkela at the High-level EU-Malaysia Business Forum",
+      "date": "2026-10-13",
+      "end_date": "2026-10-13",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2130",
+      "summary": "European Commission Speech Bangkok, 13 Oct 2026 Honourable Minister Johari Ghani, Dear EU ambassadors and representatives, Distinguished guests, ladies and gentlemen, good morning. Let me start with a questio...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "c49235aec65e0a83-evt",
+      "title": "Secretary-General of ASEAN Exchanges Views with Minister of Foreign Affairs of Russian Federation in Moscow",
+      "date": "2026-10-13",
+      "end_date": "2026-10-13",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "RU",
+      "theme": "diplomacy",
+      "link": "https://asean.org/secretary-general-of-asean-exchanges-views-with-minister-of-foreign-affairs-of-russian-federation-in-moscow/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 13 October 2026, started his Working Visit to the Russian Federation by meeting with Minister of Foreign Affairs of the Russian Federation, H.E. Sergey Lavrov. &#160;Both sides reviewed ASEAN-Russia cooperation and discussed concrete ways to advance ",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "wb-imf-annual-2026",
