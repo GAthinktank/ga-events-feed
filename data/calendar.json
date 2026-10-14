@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-14T00:06:11.618058+00:00",
-    "duration_seconds": 92.093821,
+    "generated_at": "2026-10-14T08:20:30.914191+00:00",
+    "duration_seconds": 77.199037,
     "stats": {
       "ok": 83,
       "fail": 16,
-      "items_total": 2268,
-      "items_strict": 540,
-      "events_detected": 0
+      "items_total": 2267,
+      "items_strict": 542,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -75,6 +75,40 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "31bbfd34690069a2-evt",
+      "title": "Speech by Executive Vice-President Virkkunen at the International AI Summit in Dublin",
+      "date": "2026-10-14",
+      "end_date": "2026-10-14",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2150",
+      "summary": "European Commission Speech Dublin, 14 Oct 2026 Prime Minister Martin, Minister Smyth, Minister Burke, thank you for inviting me. I would like to begin with a remarkable story from Ireland's past. In 1858, on...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "0ea10bfc6057324a-evt",
+      "title": "Secretary-General of ASEAN delivers Pre-Recorded Remarks at the Opening Ceremony of the 11th ASEAN Ministerial Conference on Cybersecurity",
+      "date": "2026-10-14",
+      "end_date": "2026-10-14",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "technology",
+      "link": "https://asean.org/secretary-general-of-asean-delivers-pre-recorded-remarks-at-the-opening-ceremony-of-the-11th-asean-ministerial-conference-on-cybersecurity/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, today delivered pre-recorded remarks at the Opening Ceremony of the 11th ASEAN Ministerial Conference on Cybersecurity on 14 October 2026 in Singapore. In his remarks, SG Dr. Kao highlighted the importance of reinforcing ASEAN’s cyber resilien The post ",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "eu-council-2026-10",
