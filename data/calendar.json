@@ -1,12 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-10-15T13:53:30.466607+00:00",
-    "duration_seconds": 89.287226,
+    "generated_at": "2026-10-15T18:51:54.079972+00:00",
+    "duration_seconds": 89.357207,
     "stats": {
       "ok": 83,
       "fail": 16,
       "items_total": 2266,
-      "items_strict": 545,
+      "items_strict": 551,
       "events_detected": 8
     },
     "source_count": 99
@@ -75,6 +75,23 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "7263add7a09440a1-evt",
+      "title": "Speech by Commissioner Albuquerque (by video message) for the Malta's Financial Wellbeing Conference 2026: From Access to Trust",
+      "date": "2026-10-15",
+      "end_date": "2026-10-15",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2176",
+      "summary": "European Commission Speech Online, 15 Oct 2026 Good morning to everyone gathered in Malta today. Although other commitments mean that I am joining you from Brussels, I was determined to contribute to this im...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "159a0e1d8a236726-evt",
@@ -155,23 +172,6 @@
       "theme": "diplomacy",
       "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2165",
       "summary": "European Commission Press release Brussels, 15 Oct 2026 EU leaders and social partners met in Brussels for the Tripartite Social Summit, a twice-yearly forum for dialogue that brings together the leaders of the EU institutions and the European social partners.",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "6797a31ed8bae4e4-evt",
-      "title": "Commissioners Kubilius and Lahbib strengthen global disaster risk management through space technologies",
-      "date": "2026-10-15",
-      "end_date": "2026-10-15",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2164",
-      "summary": "European Commission Press release Brussels, 15 Oct 2026 On the occasion of the International Day for Disaster Risk Management, the European Commission is convening the very first cross-regional dialogue ‘From Space to Grassroots: Strengthening Community Resilience to Natural Hazards through Space Te",
       "featured": false,
       "confirmed": true,
       "source": "European Commission — Press",
