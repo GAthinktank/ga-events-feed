@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-15T02:56:06.841250+00:00",
-    "duration_seconds": 94.109189,
+    "generated_at": "2026-10-15T07:57:47.494176+00:00",
+    "duration_seconds": 83.346635,
     "stats": {
       "ok": 83,
       "fail": 16,
-      "items_total": 2269,
-      "items_strict": 536,
-      "events_detected": 0
+      "items_total": 2254,
+      "items_strict": 552,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -75,6 +75,40 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "24cf57561258f240-evt",
+      "title": "Main messages from the Tripartite Social Summit",
+      "date": "2026-10-15",
+      "end_date": "2026-10-15",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2165",
+      "summary": "European Commission Press release Brussels, 15 Oct 2026 EU leaders and social partners met in Brussels for the Tripartite Social Summit, a twice-yearly forum for dialogue that brings together the leaders of the EU institutions and the European social partners.",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "9b6abacbceaa1e33-evt",
+      "title": "The 9th ASEAN Ministerial Meeting on Drug Matters convenes via videoconference, hosted by the Philippines",
+      "date": "2026-10-15",
+      "end_date": "2026-10-15",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/the-9th-asean-ministerial-meeting-on-drug-matters-convenes-via-videoconference-hosted-by-the-philippines/",
+      "summary": "The 9th ASEAN Ministerial Meeting on Drug Matters (AMMD) was convened via videoconference on 15 October 2026. The Meetings brought together AMMD Leaders from all ASEAN Member States. The Deputy Secretary-General of ASEAN for ASEAN Political-Security Community, H.E. Dato’ Astanah Abdul Aziz, repre Th",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "eu-council-2026-10",
