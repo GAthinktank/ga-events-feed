@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-16T18:36:12.737584+00:00",
-    "duration_seconds": 93.42134,
+    "generated_at": "2026-10-16T23:14:19.128704+00:00",
+    "duration_seconds": 82.286612,
     "stats": {
       "ok": 84,
       "fail": 15,
       "items_total": 2271,
-      "items_strict": 565,
-      "events_detected": 3
+      "items_strict": 573,
+      "events_detected": 4
     },
     "source_count": 99
   },
@@ -85,9 +85,9 @@
       "location": "",
       "organizer": "European Commission — Press",
       "region": "EU",
-      "theme": "diplomacy",
+      "theme": "security",
       "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2190",
-      "summary": "European Commission Statement Brussels, 16 Oct 2026 Good evening, We have had a long and dense European Council. Let me touch on some of the main topics, starting with European competitiveness and I will go strai...",
+      "summary": "European Commission Statement Brussels, 16 Oct 2026 We have had a long and dense European Council. Let me touch on some of the main topics, starting with European competitiveness and I will go straight into energy. Households and industry are paying the price for a war far beyond our borders. Since ",
       "featured": false,
       "confirmed": true,
       "source": "European Commission — Press",
@@ -108,6 +108,23 @@
       "featured": false,
       "confirmed": true,
       "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "f67fb40fbb2eaf25-evt",
+      "title": "European Council conclusions, 15 and 16 October 2026",
+      "date": "2026-10-16",
+      "end_date": "2026-10-16",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRG83RnhzbFNDR2dtU1EzQTVrWDNaTTBrUEx0YkljWXFSM1J0VEhMWW5NQ25nUjlfaVZuTzZRRzhGOV9Hc3RoRkRUdmN0aVNzbXBYalRRLVJTM1JZbkprYTQtLV9xd0lZYWtCYlg4cnpuSXBvb1plUXJncXYwUHZYaTQtTlVONXpyTGRXbEFacVFnUEdJYzVpcUFNcy1hbUcxcERkYVp0a09kTTZsXzNvWnRpRVM5bko3TlhR?oc=5",
+      "summary": "European Council conclusions, 15 and 16 October 2026 &nbsp;&nbsp; Consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
       "kind": "diplomatic-event",
       "lang": "en"
     },
