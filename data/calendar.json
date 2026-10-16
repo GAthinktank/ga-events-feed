@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-16T07:51:55.970968+00:00",
-    "duration_seconds": 90.573762,
+    "generated_at": "2026-10-16T13:43:42.156446+00:00",
+    "duration_seconds": 94.172243,
     "stats": {
-      "ok": 83,
-      "fail": 16,
-      "items_total": 2269,
-      "items_strict": 555,
-      "events_detected": 0
+      "ok": 84,
+      "fail": 15,
+      "items_total": 2270,
+      "items_strict": 558,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -59,6 +59,40 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "a4a6951308a4169d-evt",
+      "title": "Speech by Executive Vice-President Teresa Ribera at 17th Conference of the Parties to the United Nations Convention on Biological Diversity (COP17)",
+      "date": "2026-10-16",
+      "end_date": "2026-10-16",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "climate",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2191",
+      "summary": "European Commission Speech Yerevan, 16 Oct 2026 Dear Prime Minister, Pashinyan, Dear Secretary-General of the United Nations, António Guterres, Dear Heads of State and Government, Dear colleagues and dear fri...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "f82f591c40a7894d-evt",
+      "title": "Statement by President von der Leyen with Presidents Zelenskyy and Costa ahead of the European Council meeting of 16 October",
+      "date": "2026-10-16",
+      "end_date": "2026-10-16",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2181",
+      "summary": "European Commission Statement Brussels, 16 Oct 2026 Good morning. It is a very important moment again to have you here in the European Council. You have participated in countless European Councils, and this shows...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "eu-council-2026-10",
