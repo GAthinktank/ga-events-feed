@@ -1,12 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-10-17T17:44:20.449304+00:00",
-    "duration_seconds": 87.146341,
+    "generated_at": "2026-10-17T20:01:48.561825+00:00",
+    "duration_seconds": 95.751648,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2263,
-      "items_strict": 563,
+      "items_total": 2273,
+      "items_strict": 573,
       "events_detected": 0
     },
     "source_count": 99
@@ -65,16 +65,29 @@
       "via_gnews": true
     },
     {
-      "id": "152f0a637521d3a3",
-      "title": "Beyond Parallel",
-      "summary": "Beyond Parallel &nbsp;&nbsp; Beyond Parallel",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1OZjg0VU0tSDZsUXQxUnpWbVU4VktWSG9YWGViWlVOUGVLdjU0X1Bza3NlM3JrRlRRVG5POFVrdTFJVkdrOF9z?oc=5",
+      "id": "e25bfa12be1bc5b4",
+      "title": "Belgium travel advice",
+      "summary": "FCDO travel advice for Belgium. Includes safety and security, insurance, entry requirements and legal differences.",
+      "link": "https://www.gov.uk/foreign-travel-advice/belgium",
       "date": "2026-10-17",
-      "source": "CSIS",
-      "source_type": "tt",
-      "region": "US",
+      "source": "UK FCDO",
+      "source_type": "gov",
+      "region": "UK",
       "lang": "en",
       "theme": null,
+      "via_gnews": false
+    },
+    {
+      "id": "12349b50b1b4dd48",
+      "title": "Africa has just one representative in UN top job race after ex-Senegalese president drops out",
+      "summary": "Africa has just one representative in UN top job race after ex-Senegalese president drops out &nbsp;&nbsp; Business Insider Africa",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQk45N3l1aFJBTWVxUEFVNHllWV9ORkd5VDBld2w3OFNNSlZ4WjVKR09pVGVPWWZDUVNWMGM0R21GZkRsSi1RZ2hwcE5KV0ZjYXZiLW1MVS0ySjZ1Q2k5MWMzM0NYYTB1dW9hLXEzaTVWZzEyWV9RLTFTS3ZCYVBCRXg1MnVsWC1jOTdUOERobGVOUlM4LVlPeVdzM1RuT2hPYkswVlRNTEFNMUFWeGpqOUphaDI4YS1fcU5DNjItSDJnbHQ3TGR4NXM0UzRibzFjZ0xXR2ROMA?oc=5",
+      "date": "2026-10-17",
+      "source": "UN Security Council",
+      "source_type": "io",
+      "region": "Global",
+      "lang": "en",
+      "theme": "diplomacy",
       "via_gnews": true
     },
     {
@@ -104,19 +117,6 @@
       "via_gnews": false
     },
     {
-      "id": "77066bc78bfa318a",
-      "title": "Venezuela's Military: What Comes Next?",
-      "summary": "Venezuela's Military: What Comes Next? &nbsp;&nbsp; Wilson Center",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jZXVaZzY0X0o4dHNxU0dMQ0RnOVo2N1hULVM2TkY5ZzNBVGNQcjlxNzdRLVRxdm9KWXFpNmhtXzc3T2FWVkJmS1pITW9FS3BqZXBUSVcyQlhheWdnLThvc2VmX3RWbDVRYUdZTER4YUhiVnRabDVBSkVR?oc=5",
-      "date": "2026-10-16",
-      "source": "Wilson Center",
-      "source_type": "tt",
-      "region": "US",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": true
-    },
-    {
       "id": "e2f1f02eb0a7bb09",
       "title": "Ukrainian drone strikes highlight the vulnerability of Russia’s data centers",
       "summary": "The idea of Ukrainian drones silencing Kremlin bots clearly caught the world’s imagination, but the real story behind Ukraine’s recent drone strikes on Russia’s mega data centers is one of strategic vulnerability, writes Leonid Baratz. The post Ukrainian drone strikes highlight the vulnerability of Russia’s data centers appeared first on Atlantic Council .",
@@ -128,19 +128,6 @@
       "lang": "en",
       "theme": null,
       "via_gnews": false
-    },
-    {
-      "id": "d568ed6539d023ee",
-      "title": "UN Security Council slams ‘escalatory’ Houthi attacks on Saudi Arabia",
-      "summary": "UN Security Council slams ‘escalatory’ Houthi attacks on Saudi Arabia &nbsp;&nbsp; The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR285eUZ1clJ3akpKODdLbHd5TTZPcllmZXJhaU5pRnNWQmxuMGxPSkM4OWlZSHZEXzFydlFCeko3MFVOQVVKTEtYNmVFRTIzV3U4WW9TdUhCbXpNN2h4bVA0eVlBZ1BMcHQtMFhnbFM5UXFQaE1LNGtncnU3RU9LWE4yZUZRdXk1ZHc2ekNIUnM0M0duZ2IzUjNWRndwZ2NhVk1nUlprdTBWR25XRm5Qc1Z6NA?oc=5",
-      "date": "2026-10-16",
-      "source": "UN Security Council",
-      "source_type": "io",
-      "region": "Global",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
     },
     {
       "id": "2f820bdcc7d28aff",
@@ -793,19 +780,6 @@
       "via_gnews": true
     },
     {
-      "id": "44f724382cf65e1b",
-      "title": "Has Mauritius lost its agency in the Chagos deal?",
-      "summary": "Has Mauritius lost its agency in the Chagos deal? &nbsp;&nbsp; ISS Africa",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNajNpRFp1TlFpX2dNSXRFVU0wNWs0ZEktcXFiSWMxMjBfR1FnSGFvZ2t5V2NuQ0VJTkx0eW0zSGtQc2tkT0xjS2Uxb2ptN25WVmNGV1ZGbTBVQWxRakZNSlJzUVFkU1RfR2o4OWYyMzEtUERBU3hQdURmYkl4M2lTMFdDaVpPdFU?oc=5",
-      "date": "2026-10-16",
-      "source": "ISS Africa",
-      "source_type": "tt",
-      "region": "Africa",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "7f9a5691c7df51a2",
       "title": "HE GCCSG Welcomes UN Security Council Position on Houthi Attacks Against the Kingdom of Saudi Arabia & Rejection of Threats to Its Security & Stability, Affirming GCC States",
       "summary": "HE GCCSG Welcomes UN Security Council Position on Houthi Attacks Against the Kingdom of Saudi Arabia & Rejection of Threats to Its Security & Stability, Affirming GCC States &nbsp;&nbsp; الأمانة العامة لمجلس التعاون لدول الخليج العربية",
@@ -988,19 +962,6 @@
       "via_gnews": true
     },
     {
-      "id": "9108e09d645bdf21",
-      "title": "Courtesy Call on Parliamentary Vice-Minister for Foreign Affairs OZORA by Mr. Toufik MILAT Ambassador of the People’s Democratic Republic of Algeria to Japan",
-      "summary": "Courtesy Call on Parliamentary Vice-Minister for Foreign Affairs OZORA by Mr. Toufik MILAT Ambassador of the People’s Democratic Republic of Algeria to Japan &nbsp;&nbsp; Ministry of Foreign Affairs of Japan",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QT3ktZDg4RmhGN3oyYzlaUkZic0p3dl9MMDdXVG14a29KWlpNM3duU1UxVnVKa0t2UWRTQVNlTG9RS2FkdTg5OEcyazhoUFNhOEQ4TmRRNGpILWlNaWdFUmg5ME9Bc04xdFY2TFhMOTk?oc=5",
-      "date": "2026-10-16",
-      "source": "Japan — MOFA",
-      "source_type": "gov",
-      "region": "JP",
-      "lang": "en",
-      "theme": "diplomacy",
-      "via_gnews": true
-    },
-    {
       "id": "793eb4e0bf1aba42",
       "title": "Countries are grappling with mounting climate losses",
       "summary": "Countries are grappling with mounting climate losses &nbsp;&nbsp; DIIS",
@@ -1077,6 +1038,19 @@
       "lang": "en",
       "theme": null,
       "via_gnews": false
+    },
+    {
+      "id": "73f111c93ef38bd8",
+      "title": "Analyst, U.S. Advocacy",
+      "summary": "Analyst, U.S. Advocacy &nbsp;&nbsp; International Crisis Group",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KeFJOal84bWFnb0FZOGVTNFBtTVBhcFVmN1NzMGhpbHhoc2VQTUF5VVdFQWU0YVRRWFdEQUdPOXlOU1dWcEpJLVRfaVJ4MEh5aERpSUMtMUFXcm5lMk9j?oc=5",
+      "date": "2026-10-16",
+      "source": "International Crisis Group",
+      "source_type": "tt",
+      "region": "Global",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
     },
     {
       "id": "e39a0ea23095fcdc",
@@ -1313,19 +1287,6 @@
       "via_gnews": false
     },
     {
-      "id": "cc54d7c137fcccf5",
-      "title": "The Ocean Act must deliver at home to lead abroad",
-      "summary": "The Ocean Act must deliver at home to lead abroad &nbsp;&nbsp; EPC, European Policy Centre",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbW1GZ3A5ZERacllqQ3JLTWRGU3pKUUxrVFJJNGJjdERrbmRnY2dodlJoU0Q0cmVnNzR4Ymw0ams5U3g3dm9HUVlvbmZNeHgxcVkzOUZ4cHBwTFktejZYWUJoZk91VTRySFhicHItdlNBQXlIX1pxZ0RFTEkyWFR5UkVfTzdPN2Ra?oc=5",
-      "date": "2026-10-15",
-      "source": "European Policy Centre (EPC)",
-      "source_type": "tt",
-      "region": "EU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "f6063ab35d29dda0",
       "title": "The Nord Stream Conspiracy: A Conversation with Bojan Pancevski",
       "summary": "The Nord Stream Conspiracy: A Conversation with Bojan Pancevski nhuergo@hudson.org Thu, 10/15/2026 - 15:20 22 October 2026 Virtual Event The Nord Stream Conspiracy: A Conversation with Bojan Pancevski THURSDAY 12:00 p.m. - 1:00 p.m. Inquiries: nhuergo@hudson.org . &nbsp; The Nord Stream Conspiracy: A Conversation with Bojan Pancevski Virtual Event Online Only October 22, 2026 Share: Share to Twitter Twitter Share to Facebook Facebook Share to LinkedIn LinkedIn Caption Gas leaks from Nord Stream 2, as seen from a Danish F-16 interceptor, on September 27, 2022. (Danish Defense via Getty Images) ",
@@ -1337,6 +1298,19 @@
       "lang": "en",
       "theme": "security",
       "via_gnews": false
+    },
+    {
+      "id": "b9729a1ffe255e0f",
+      "title": "The Future of U.S.-UK Defense Cooperation with UK Secretary of Defence Wes Streeting",
+      "summary": "The Future of U.S.-UK Defense Cooperation with UK Secretary of Defence Wes Streeting &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObzRyQUVqbVdQeUZqYnFUblpmSFBFQjNfb2FMald5OFZSSk1QR3JLcFR3aElNd09aNzliOTZhWS1qVmg3enkwNVkxTTNPQkQtbTZMVC1LMTI4RUFrSTYyakpsRWd0cmZabVZoR0RabVQxaU82a2plXzdiS1M2S0dFOVRmb3hYbFRlSHVrVjRkXzNyWnY4b25obTJqQQ?oc=5",
+      "date": "2026-10-15",
+      "source": "CSIS",
+      "source_type": "tt",
+      "region": "US",
+      "lang": "en",
+      "theme": "security",
+      "via_gnews": true
     },
     {
       "id": "4ba064fcc23581da",
@@ -1612,19 +1586,6 @@
       "via_gnews": false
     },
     {
-      "id": "88d610d644c4c227",
-      "title": "Russia: list of designations and sanctions notices",
-      "summary": "List of designated persons and notices issued about new designations, revocations, delistings and other changes to the UK Sanctions List.",
-      "link": "https://www.gov.uk/guidance/russia-list-of-designations-and-sanctions-notices",
-      "date": "2026-10-15",
-      "source": "UK FCDO",
-      "source_type": "gov",
-      "region": "UK",
-      "lang": "en",
-      "theme": "economy",
-      "via_gnews": false
-    },
-    {
       "id": "29a6f7a57dc809d1",
       "title": "Rubio Push on Greenland Delivers a Huge Diplomatic Win for US Against China",
       "summary": "Rubio Push on Greenland Delivers a Huge Diplomatic Win for US Against China bbert@hudson.org Thu, 10/15/2026 - 11:38 SVG Commentary Oct 15, 2026 Fox News Rubio Push on Greenland Delivers a Huge Diplomatic Win for US Against China Rebeccah L. Heinrichs Senior Fellow and Director, Keystone Defense Initiative Rebeccah L. Heinrichs Commentary Caption Secretary of State Marco Rubio speaks during a joint press conference with Iceland's prime minister at the House of Collections in Reykjavik on October 6, 2026. (Getty Images) Toggle Table of Contents Contents Contents Share to Twitter Twitter Share t",
@@ -1729,19 +1690,6 @@
       "via_gnews": false
     },
     {
-      "id": "324cd9917810f54a",
-      "title": "Philanthropy Hub",
-      "summary": "Philanthropy Hub &nbsp;&nbsp; World Bank Group",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ha0Fza0lxdWJfNWNFUkFvaGt4UkZNZ3ZKV0QzUFBoeEc5czNzdmdZdTluM19HVE5QYjM0RjBpWXVGTl9mc3RWcklKLTJHNEVieHhnbVRrYmVKd0x2eEFkUXROYVQ3U19DeDlLZnNVcw?oc=5",
-      "date": "2026-10-15",
-      "source": "World Bank",
-      "source_type": "io",
-      "region": "Global",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "3efd6d5034926a04",
       "title": "Official Statistics: Armed Forces Compensation Scheme statistics: background quality report",
       "summary": "Statistics on compensation recipients and new claims, awards and appeals made under the Armed Forces and Reserve Forces Compensation Scheme.",
@@ -1843,19 +1791,6 @@
       "region": "Global",
       "lang": "en",
       "theme": "security",
-      "via_gnews": true
-    },
-    {
-      "id": "fd7b0707bb028c53",
-      "title": "Meeting between Parliamentary Vice-Minister for Foreign Affairs OZORA and Ms. Yamamoto, President and CEO of the U.S.-Japan Council",
-      "summary": "Meeting between Parliamentary Vice-Minister for Foreign Affairs OZORA and Ms. Yamamoto, President and CEO of the U.S.-Japan Council &nbsp;&nbsp; Ministry of Foreign Affairs of Japan",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41SjlyVmlWcmRadHI4MlpfeEhKMkJjZG1ha3JNSDhhSjQ1LXN0aVdRY0QweHNkci1yVnhLNWo4eDVadzM3X1JreF8yaUxyN2R6RE9LcXE3WGJSNUpWVWtQdS12Zi05SDlmUEs1bldjUkk?oc=5",
-      "date": "2026-10-15",
-      "source": "Japan — MOFA",
-      "source_type": "gov",
-      "region": "JP",
-      "lang": "en",
-      "theme": "diplomacy",
       "via_gnews": true
     },
     {
@@ -3289,19 +3224,6 @@
       "via_gnews": true
     },
     {
-      "id": "173f379c7a8c40ff",
-      "title": "The frog’s still boiling: Five conclusions for Europe ahead of the October European Council",
-      "summary": "The frog’s still boiling: Five conclusions for Europe ahead of the October European Council &nbsp;&nbsp; EPC, European Policy Centre",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNi1CdVR2ZDNKRHFQQkNaRFBFME53TXcybVdqMnppR21raE5NQk9Ea3RndU05R0xGTjNSVnNlLTFoU0tkZHFxR0pRSENCc2pzQURFRFUzR0c1MEY1ZWNidE1wb2NNY1dxcjdfZVlYT2pkY1FlNm41cXhyNko1azVkaHU0Tkg4U3dBYUx2UjNxSlFkb25xLWtaSnlieG5EbnFWb2tORzR3VGpQajg3eHNJc3U3Y2xMeGM2QzhfbS1R?oc=5",
-      "date": "2026-10-13",
-      "source": "European Policy Centre (EPC)",
-      "source_type": "tt",
-      "region": "EU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "852eab1a2d6a57fe",
       "title": "The Irish ‘box’: the worst possible compromise for the EU budget",
       "summary": "The Irish ‘box’: the worst possible compromise for the EU budget &nbsp;&nbsp; Bruegel",
@@ -3484,19 +3406,6 @@
       "via_gnews": true
     },
     {
-      "id": "1a155202268b80b1",
-      "title": "Japan-Australia-India-U.S.(Quad) Cyber Senior Officials’ Meeting",
-      "summary": "Japan-Australia-India-U.S.(Quad) Cyber Senior Officials’ Meeting &nbsp;&nbsp; Ministry of Foreign Affairs of Japan",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnVS12N3FVWTNBNFg4djIwZzNCVE5pSUFhTXZZMFR6SzN3TmdZWjRwYjY1QlJsbVNCN0FVQjY0dzVXa0dsLUxOckg5bndkWGxGcWpjaFQxRDF3TXlUWld0RTJVdEZKekQ5eHdJVnhQMUI?oc=5",
-      "date": "2026-10-13",
-      "source": "Japan — MOFA",
-      "source_type": "gov",
-      "region": "JP",
-      "lang": "en",
-      "theme": "diplomacy",
-      "via_gnews": true
-    },
-    {
       "id": "617dabc3d78b9c1f",
       "title": "Is China dynamic or dysfunctional?",
       "summary": "Is China dynamic or dysfunctional? &nbsp;&nbsp; Brookings",
@@ -3599,6 +3508,19 @@
       "lang": "en",
       "theme": null,
       "via_gnews": false
+    },
+    {
+      "id": "bea484092362c0eb",
+      "title": "Diplomacy or Coercion?",
+      "summary": "Diplomacy or Coercion? &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8ybWtHb1VzY0pHMUlHWUwzY3Z5MUtBcWlkMnZmNjR2bjJVRnM2WGtLTmRBaU1IbW5CajFQbERWOVVjcUl5eThTUk83S0s5c2FUakVlclc0WUdPZVQ3WnFTZw?oc=5",
+      "date": "2026-10-13",
+      "source": "CSIS",
+      "source_type": "tt",
+      "region": "US",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
     },
     {
       "id": "ba1d8927f17d50c7",
@@ -4251,19 +4173,6 @@
       "via_gnews": true
     },
     {
-      "id": "73c3e8e1fa9c4cd3",
-      "title": "Bosnian elections 2026: How Dodik won without running",
-      "summary": "Bosnian elections 2026: How Dodik won without running &nbsp;&nbsp; EPC, European Policy Centre",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUlhnS1BqWjRBNnFkYWpLVzJnaktqSElHMDlIakFuNXhVSnBmcElvOERzRkprUmdDTkhQeVVZVXFLVVhSclI4TThibUYybnp4dVZyMFI5eEVfOUt3REI3b2JUbjNBWmU4OXRUOFJZRFRLRl9NSUlHRDV2aHJqcFYzakRNTC1nbDVyaVVBZA?oc=5",
-      "date": "2026-10-12",
-      "source": "European Policy Centre (EPC)",
-      "source_type": "tt",
-      "region": "EU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "f886d3838351d094",
       "title": "Ahead of a presidential election, France first needs to help itself on debt",
       "summary": "Ahead of a presidential election, France first needs to help itself on debt &nbsp;&nbsp; Bruegel",
@@ -4706,19 +4615,6 @@
       "via_gnews": true
     },
     {
-      "id": "74c79fd1bb719534",
-      "title": "Statement",
-      "summary": "Statement &nbsp;&nbsp; OSCE Mission to Bosnia and Herzegovina",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mSDVyc3dPeDVDYnNhUHpoVXJZLW14U0J3Vm51VXpDUjNFY1cyb3pfbWZLeTd6bTdFaWpmUnhvTTYtRUZYTXRtYy15NHRZb1lMZndZWUs3ZVZBWGNoQVdtTnpTaFNYd3hSVERBSWtVb0w?oc=5",
-      "date": "2026-10-09",
-      "source": "OSCE",
-      "source_type": "io",
-      "region": "EU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "e89b7252fbee078e",
       "title": "State Minister for Foreign Affairs NAKASONE’s attendance at the",
       "summary": "State Minister for Foreign Affairs NAKASONE’s attendance at the &nbsp;&nbsp; Ministry of Foreign Affairs of Japan",
@@ -4901,6 +4797,19 @@
       "via_gnews": true
     },
     {
+      "id": "44e2db822b800788",
+      "title": "FY26 DRS Annual Report About DRS",
+      "summary": "FY26 DRS Annual Report About DRS &nbsp;&nbsp; World Bank Group",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbFRZdlBWb0hoVE12RTN3U0k4M2xWYjV1bUFRbXhoYXlaTC02UUZKRGVJbnhTbWJ1QUtzTzdBV0lrSkd5QUZXMC1XclloM1BYcHc1LWJxNXVPYmk4SlhJNlZGWEZla1B6T2xxbDdFWmp1NTZaWS0xbklyV05lTnN5R1diei0xMVgyS1hUaXZPMlV4VDlTbmlyN2ZKNXJwcnVIZDk4OGd6WHVUblQ0XzZZcnd3UQ?oc=5",
+      "date": "2026-10-09",
+      "source": "World Bank",
+      "source_type": "io",
+      "region": "Global",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "5209d990a742a865",
       "title": "Enabling NATO’s technological transformation",
       "summary": "NATO faces persistent challenges in translating technological potential into operational capability. Recent analysis of NATO innovation efforts suggests that the limiting factor is often the ability of organizations and operators to adopt, experiment with, and implement new capabilities effectively. The post Enabling NATO&#8217;s technological transformation appeared first on Atlantic Council .",
@@ -5002,19 +4911,6 @@
       "region": "US",
       "lang": "en",
       "theme": "technology",
-      "via_gnews": true
-    },
-    {
-      "id": "5e56b7329bdea9a6",
-      "title": "Statement on attacks targeting airports in the Kingdom of Saudi Arabia",
-      "summary": "Statement on attacks targeting airports in the Kingdom of Saudi Arabia &nbsp;&nbsp; Ministry of External Affairs , Government of India",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSWVyMFFJQ3Iza0w4dS1BYk9jQWFyOE1KQkxMZHVuQUdoNDRPdi1zYzlZcGJ5NWJ6S0ZlcGlJaVZmV0xrNnFyTnRLRjdwdG5vNV83Rms2UjVOZ2FIajd1Qmk2Wlk2cUh4bEhtRmcybWZGOE96U3FSYURsQzh3OEVpTWltU01oUnM4eVFseC1KQWRrbkNIVERtLUUxMm1VaGFnRndPTllUVjVTTEFWYUwyQmwtZTRMWHJrMVRoOXA3X0Q?oc=5",
-      "date": "2026-10-08",
-      "source": "India — MEA",
-      "source_type": "gov",
-      "region": "IN",
-      "lang": "en",
-      "theme": null,
       "via_gnews": true
     },
     {
@@ -5130,19 +5026,6 @@
       "source": "US White House",
       "source_type": "gov",
       "region": "US",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "e42399119fd6cee7",
-      "title": "Everything must change in EU migration policy, for everything to stay the same? Lessons from Lampedusa",
-      "summary": "Everything must change in EU migration policy, for everything to stay the same? Lessons from Lampedusa &nbsp;&nbsp; EPC, European Policy Centre",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQnN2NlZVVzF6NWIxTmJWYXVYQlFwRXFxcGpyZ2xzVFNTOWpsdW5fYjZQZUVxTU01VW1Xa2RmQjFVV1pGQnlBT3ZIM3U5ZGlYQXp1YnAtT3N2cUg3ZlhIMmswanRVblkya2NWdmVTQ2hMLXBYNmgxNzFSc2h4SFJKZ0ROTG1TYU52Y09pRGVXbTZna0QxZ0Y4NFEtWVVFOWtQdDBaREU2dGxqWC1DdUVralhoa0Z6WThFVmNjam9WSGlCS2l3b2dZSTNuRk8?oc=5",
-      "date": "2026-10-08",
-      "source": "European Policy Centre (EPC)",
-      "source_type": "tt",
-      "region": "EU",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -5343,6 +5226,19 @@
       "via_gnews": true
     },
     {
+      "id": "49cd9653e60d709f",
+      "title": "OSCE Mission to Montenegro supports capacity-building of Parliamentary Education Centre trainers",
+      "summary": "OSCE Mission to Montenegro supports capacity-building of Parliamentary Education Centre trainers &nbsp;&nbsp; OSCE Mission to Montenegro",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hM1BFT1Q0cjNkRXRJQVFDcFVBYndfV08xRjgtU3ZIT3VmTFFCZ1RDSnRvMU5NT091LXhPemQ5SjdZd2YxZHZqcUo3eXcxbGdVSHJOV0tNWnBZWUNFaFdvcDVheG5VbVcyV3c?oc=5",
+      "date": "2026-10-07",
+      "source": "OSCE",
+      "source_type": "io",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "6bcc703d580908c4",
       "title": "Learning Without Bleeding: China’s Lessons from the Russia-Ukraine Drone War",
       "summary": "Learning Without Bleeding: China’s Lessons from the Russia-Ukraine Drone War &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
@@ -5458,19 +5354,6 @@
       "lang": "en",
       "theme": "security",
       "via_gnews": false
-    },
-    {
-      "id": "2b58c8aeaaa46aca",
-      "title": "The EU’s fifteen-year question",
-      "summary": "The EU’s fifteen-year question &nbsp;&nbsp; EPC, European Policy Centre",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRbk1UM04ycWUyb2V6MmZGZkRmZUdEQWpoSGx4NXprOERCWmlMWkUxdC01XzRSWHhDbDNJUjJ0Z3loQU1vQS0xZlpIVkFCTEIzV0hLaFJGN1BndGZid043d21rWmtaYXphUmN3ajBB?oc=5",
-      "date": "2026-10-06",
-      "source": "European Policy Centre (EPC)",
-      "source_type": "tt",
-      "region": "EU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
     },
     {
       "id": "5dfe3e20602bb6e5",
@@ -5603,10 +5486,10 @@
       "via_gnews": true
     },
     {
-      "id": "b9001af612ab4ca0",
-      "title": "Warsaw Human Dimension Conference 2026: ODIHR side events",
-      "summary": "Warsaw Human Dimension Conference 2026: ODIHR side events &nbsp;&nbsp; OSCE Office for Democratic Institutions and Human Rights",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KcXJRUHVkdGpLY0JIT0U2RHZqTnZzN0Q4RlRuWTB3ZlNTclFMT3lCU0hTOGhETnZlNGh2aVdReUJ6Mnljb0RGcm1NSQ?oc=5",
+      "id": "8d40478ef43c2796",
+      "title": "Warsaw Human Dimension Conference opens with call to turn human rights commitments into action - Organization for Security and Co-operation in Europe",
+      "summary": "Warsaw Human Dimension Conference opens with call to turn human rights commitments into action &nbsp;&nbsp; Organization for Security and Co-operation in Europe",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5icGdCeUtMRDgxY04wb2NBazhvaWx5M05CQlZDTy1VNVhyNTlDZVZjMWl3bWtBTjZJbExJaHpJUGpkazZpTVJ4ejRwWGFqS2pPQWJkalBR?oc=5",
       "date": "2026-10-05",
       "source": "OSCE",
       "source_type": "io",
@@ -5689,19 +5572,6 @@
       "source": "African Union",
       "source_type": "io",
       "region": "Africa",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "02814f90eef9b295",
-      "title": "(c) Head of OSCE Mission to Montenegro Jan Haukaas and…",
-      "summary": "(c) Head of OSCE Mission to Montenegro Jan Haukaas and… &nbsp;&nbsp; OSCE Mission to Montenegro",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WVnRhRzNOU3V2TVBJdk9kOWxaLXZwY2JHcUVDWG5uam1heWRFZFV6dlVGbGFMaVlLNTlxc1ByQlZ2WXNvVVprZFZ4Z2g1bU5NYUE?oc=5",
-      "date": "2026-10-05",
-      "source": "OSCE",
-      "source_type": "io",
-      "region": "EU",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -5808,19 +5678,6 @@
       "region": "UK",
       "lang": "en",
       "theme": "economy",
-      "via_gnews": true
-    },
-    {
-      "id": "97f697c1a356d38b",
-      "title": "President and Ministerial Committee on Foreign and Security Policy discuss current situation in Ukraine and Finland’s relationship with China - Finnish Government",
-      "summary": "President and Ministerial Committee on Foreign and Security Policy discuss current situation in Ukraine and Finland’s relationship with China - Finnish Government &nbsp;&nbsp; Valtioneuvosto",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQdTc4UERaV0VGS1pMdVV3UGQycFJlZklIZjdjRldRZ2wyS2Y2akVjMW84b0MzN2pjUDZZXzBqTkNIcF9GSGJfbU9nVkV5RVJwVDNXZ2FqNWRnQkpVYWRiUkduR2duMVJkbTl5VklWUTc3YTZ3NENyYVpRSWg0MUJfNHVHaXMtY0l5YUZmaHMxRldIamtwYy11dVkyUFRoOTBsV0hGMnN1U280QVRNZHZ1R1ByUEFzQnpfRXJTZHUxWjBWWTlGZXJTeUp3c0FoQnFuSXR2X3ljeklCa3pnQnFwRlRCeDdKdmxRcUlsaHhRTDdRd3lxUUJQc2xPdUJ1Y0JOcXc?oc=5",
-      "date": "2026-10-02",
-      "source": "Finland — Government",
-      "source_type": "gov",
-      "region": "FI",
-      "lang": "en",
-      "theme": null,
       "via_gnews": true
     },
     {
@@ -6292,19 +6149,6 @@
       "via_gnews": true
     },
     {
-      "id": "3c95bcd5d4352a36",
-      "title": "How a Dutch merger just cost the European Greens a founding party",
-      "summary": "How a Dutch merger just cost the European Greens a founding party &nbsp;&nbsp; EPC, European Policy Centre",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcVBxZUJjcUlfbzR0eG1KbGJpZEJJeEhnNFlsQkJ1NS1mRDJWQWFWdlYyQWR2LWJLODUtSVVrX2V3SU9zQ0d4SEYzaHBVWHljWUYtdE9jVGNoaEk1XzRMQUlZdWlqMnMtWnVmNk1fOVV4emRpRGtJcG9hRnloWXR0NWxKLUpWNm1QRWY2MTcyUkZUQmg0YmVHeWRYZEJQdw?oc=5",
-      "date": "2026-09-29",
-      "source": "European Policy Centre (EPC)",
-      "source_type": "tt",
-      "region": "EU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "59e30f206479b251",
       "title": "Education at a Glance 2026",
       "summary": "Education at a Glance 2026 &nbsp;&nbsp; OECD",
@@ -6396,19 +6240,6 @@
       "via_gnews": true
     },
     {
-      "id": "4400def7ea53f4db",
-      "title": "Renters versus rentiers: A new class divide in Europe?",
-      "summary": "Renters versus rentiers: A new class divide in Europe? &nbsp;&nbsp; EPC, European Policy Centre",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdWN5Qkw0Vmx0RGZVQXdMLUFWOWpQMzA3VUdxN2hKNGpQZEdqSjRFN19PeU1yd0pWaWplcWJVRzJhMksySWd2RmIyYW9IN3VkOG1UazEyY2pjbUxRSHlsdjZKZlRQV2JvUW04V2NqNVkxLVdGNmVMcTljdDJrSXhrd1lWZWVwTkNrY2JpXw?oc=5",
-      "date": "2026-09-28",
-      "source": "European Policy Centre (EPC)",
-      "source_type": "tt",
-      "region": "EU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "ccb39aa92b8672d0",
       "title": "Press release on Foreign Minister Sergey Lavrov’s meeting with Secretary of Foreign Affairs of the United Mexican States Roberto Velasco Alvarez - The Ministry of Foreign Affairs of the Russian Federation",
       "summary": "Press release on Foreign Minister Sergey Lavrov’s meeting with Secretary of Foreign Affairs of the United Mexican States Roberto Velasco Alvarez - The Ministry of Foreign Affairs of the Russian Federation &nbsp;&nbsp; Министерство иностранных дел России",
@@ -6456,6 +6287,19 @@
       "source": "Valdai Club",
       "source_type": "tt",
       "region": "RU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "4c9c5981a0e90a60",
+      "title": "OAS Draft Resolution Describes Nicaragua as a “Threat” to the Hemisphere",
+      "summary": "OAS Draft Resolution Describes Nicaragua as a “Threat” to the Hemisphere &nbsp;&nbsp; Confidencial Nicaragua",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ0h1a2tXcmRqOUQyUnFGaUFwNl9ha2h4cUZBNlllaVZocTU5cXFOX2VXVEtQUG9nOHlVLUtId0lhWUFEME1FZTBCaTZyanF6c2ZrdUZ5V1NXWVQwcUVJWjM1c1hNb2E5YWcxWEhKV01TdzJSb1dDMlhEa3FwdGJvdjFxWWlyT0trbmpGd2dmQ1NuN2lCQ1VkaEozMGh3U3FfSjhSVHJ3bHktbTlQLUFjNw?oc=5",
+      "date": "2026-09-28",
+      "source": "OAS — Organization of American States",
+      "source_type": "io",
+      "region": "LatAm",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -6721,19 +6565,6 @@
       "via_gnews": true
     },
     {
-      "id": "b0f76fcd04104c86",
-      "title": "Knowledge without action: why Europe's research on illiberalism must be put to work",
-      "summary": "Knowledge without action: why Europe's research on illiberalism must be put to work &nbsp;&nbsp; EPC, European Policy Centre",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObTJWMjZUV2NfeGZvOXhTdWZ5TlVjSUc1MGIxRGRMN0k1SnBDc19NTWpGdkxna3NEeWtMTWR2TXFlbDhXeW9XSGJTLS0zUnE5QmtIOGM2YlZ2bVdMOEtWTmFncmNialc3Y1hjd2xxdkRhSzJ5amp2RHZyS1o5aG9xN3RZWmwzVlFkOU1XTDdCcTFzQmhmNkpjaks3bnR6R0h6ZENNbTdJdjE1dUpvb1M3X3JmMA?oc=5",
-      "date": "2026-09-25",
-      "source": "European Policy Centre (EPC)",
-      "source_type": "tt",
-      "region": "EU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "0fbd41cea3545165",
       "title": "FIIA appoints 14 non-resident fellows for 2026–2029",
       "summary": "The Finnish Institute of International Affairs is pleased to announce the appointment of 14 distinguished experts as non-resident fellows for the 2026–2029 term. The fellows will strengthen FIIA’s four research programmes by increasing the depth and breadth of expertise at FIIA and by contributing to publications and events. Their profiles can be found on the [&#8230;]",
@@ -6838,29 +6669,16 @@
       "via_gnews": true
     },
     {
-      "id": "cfb73519092670ad",
-      "title": "Non-EU workers in a changing labour market: what role for fair labour mobility?",
-      "summary": "Non-EU workers in a changing labour market: what role for fair labour mobility? &nbsp;&nbsp; EPC, European Policy Centre",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSHRuRmp5aE1zMHk1QThzdU1kdFBSSjBvN0hLdVc1Qk55Q2swcTA1dDlSNmpjX3dOaWFQU0V1eDdqTVNsQVg1SmJQVU9lRGtabVlNYnV5NkFhQmZKMndaTUZ3aWo4X3pNV1VGbER2V0l2aTJDSTM3S0ZsX3JwdGxOZk1hcXJ3N3NTLXNlOXBnUDNMMEpCeTJsQi04WkhkZTlfVExGcHBQRXZxX2J2X2c?oc=5",
+      "id": "9b0a40aea22d118e",
+      "title": "Foreign Minister’s Commendations for FY 2026",
+      "summary": "Foreign Minister’s Commendations for FY 2026 &nbsp;&nbsp; Ministry of Foreign Affairs of Japan",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzUUFjcFIyZ2FCTFlXVEd0RUhQQmVQdldqZlFwNkR2ZFRvZVY4cEF0bDJjX3p1cVkzcUczUVg0NmRHRl9TdnlQSjhJRVlZMDBVM0Nya1NxM2VOaFY5cjNWYlNOTE5DMGpuek9SUk1fVXA?oc=5",
       "date": "2026-09-24",
-      "source": "European Policy Centre (EPC)",
-      "source_type": "tt",
-      "region": "EU",
+      "source": "Japan — MOFA",
+      "source_type": "gov",
+      "region": "JP",
       "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "e0db7c33a2ab504a",
-      "title": "Europe’s security moment: Time to widen the options",
-      "summary": "Europe’s security moment: Time to widen the options &nbsp;&nbsp; EPC, European Policy Centre",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd1ZCenlKUVlNQW5aMGVRWjVkZU9WT292dnJ0alF2WGFGNFlXdHF1b3ByRW9NNmVDNGhHXzVLTDRpRmZCRnhPVjJNX2xoajhwVFlqM2p4cGZlQkNIT0FfTHFmUVlPZHo2ZXJuMnlNa19oODA3bUtmbG5aTXNhcGNJT3pZQm84YjBk?oc=5",
-      "date": "2026-09-24",
-      "source": "European Policy Centre (EPC)",
-      "source_type": "tt",
-      "region": "EU",
-      "lang": "en",
-      "theme": null,
+      "theme": "diplomacy",
       "via_gnews": true
     },
     {
@@ -6939,19 +6757,6 @@
       "region": "US",
       "lang": "en",
       "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "f644cd2f87f3bf2d",
-      "title": "What happens to the time released by AI?",
-      "summary": "What happens to the time released by AI? &nbsp;&nbsp; EPC, European Policy Centre",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqRVJOMWtyZ1l0U3QxUU1KQzM3RTlvN3dDdGZMaGtjZ3V1NW00UUNUaWxOUGx6NmMyVjlZT292MXhfQlB1M2hYMUp4TC1OYmItUWxDT1BicVZ0eXBPaUZjdXRWQTNVVGp3QS1ETFVYdW5yVmpWVU5DT09Daw?oc=5",
-      "date": "2026-09-23",
-      "source": "European Policy Centre (EPC)",
-      "source_type": "tt",
-      "region": "EU",
-      "lang": "en",
-      "theme": "technology",
       "via_gnews": true
     },
     {
@@ -7189,6 +6994,19 @@
       "via_gnews": true
     },
     {
+      "id": "4b24745798f6f093",
+      "title": "JOINT STATEMENT OFFICIAL OFFICIAL Joint Statement of the Foreign Ministers and high-level representatives of Australia, France,",
+      "summary": "JOINT STATEMENT OFFICIAL OFFICIAL Joint Statement of the Foreign Ministers and high-level representatives of Australia, France, &nbsp;&nbsp; Ministry of Foreign Affairs of Japan",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuWWZkVUlIVUJzX0RCMGFpR0Rza2lQRmZNNmNxYXpLSTF5a0xZUUhZSG9LSVNkMFFIUGFlWTlUT2Jld3BoUWFtenZwX09ZRUs2UlBXRQ?oc=5",
+      "date": "2026-09-22",
+      "source": "Japan — MOFA",
+      "source_type": "gov",
+      "region": "JP",
+      "lang": "en",
+      "theme": "diplomacy",
+      "via_gnews": true
+    },
+    {
       "id": "ef12defe4d81ff0d",
       "title": "France mulls new UN Security Council resolution on Hormuz, diplomats say",
       "summary": "France mulls new UN Security Council resolution on Hormuz, diplomats say &nbsp;&nbsp; Reuters",
@@ -7241,19 +7059,6 @@
       "via_gnews": true
     },
     {
-      "id": "6fc9585089bb7a36",
-      "title": "Belarus Has Much More to Offer Poland Than Ukraine Does",
-      "summary": "Belarus Has Much More to Offer Poland Than Ukraine Does &nbsp;&nbsp; Российский совет по международным делам",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbDFKbzJhY09YWVdyYnE0NGd2SGJBcnplUmt3cWJJcExIcERqZFpXdzdTQl96cjJWYnNWNkRvZm1ycjBHVEMzR1pZM3d4X0Y3eEZybVBUdUUxSTVNMkxGSnRaWkxpZEJXX0IzQmVqdHdkSXdubHduekxPNE9tbG85WW5VNl91RC1wTHZXaTVOYjVHQ0hFYm0yR3kxQnFZVnkwM3RQRF8yRmJ5OEVtN0hwUDVPRDMtM1R3Vmw1al9GcWNob3VGUnhmaHB4Zmg?oc=5",
-      "date": "2026-09-22",
-      "source": "RIAC — Russian Int. Affairs Council",
-      "source_type": "tt",
-      "region": "RU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "b949c1aea9cc5335",
       "title": "Altman and Amodei expected to join UN Security Council meeting about AI",
       "summary": "Altman and Amodei expected to join UN Security Council meeting about AI &nbsp;&nbsp; CNBC",
@@ -7301,19 +7106,6 @@
       "source": "Chatham House",
       "source_type": "tt",
       "region": "UK",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "eb67b6f488fc171b",
-      "title": "Russia’s Potemkin elections and implications for Ukraine",
-      "summary": "Russia’s Potemkin elections and implications for Ukraine &nbsp;&nbsp; EPC, European Policy Centre",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZlUzOWJ2MTlNSkpLLTFEblBkQ2VZU2dDVzBQVGlqUUZld280dVcyakJmbmJjR0NVUUdCMTg1TnFXMVRETDFKZGxyT280QnQ3Yjl6eExuNXM2OVlIbXNicHJ3bWRKS3FjVHFlbmx0MWFodkNoWmIzb3dUVHRrTmlBVnZuTUF1VmtFb3NxVUljbkY?oc=5",
-      "date": "2026-09-21",
-      "source": "European Policy Centre (EPC)",
-      "source_type": "tt",
-      "region": "RU",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -7462,6 +7254,19 @@
       "via_gnews": true
     },
     {
+      "id": "4d36e0bf41e5b1dc",
+      "title": "Press Conference by Foreign Minister MOTEGI Toshimitsu",
+      "summary": "Press Conference by Foreign Minister MOTEGI Toshimitsu &nbsp;&nbsp; Ministry of Foreign Affairs of Japan",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yS2syRTBJTmp4S3lTeFRqWjlqZWQzNDRNRk5DMW5BR294cU8xLXc2cGloNEF3M3pIWmJsemdkT090dVN3TGJWS3pNZGlCeGNiWDI4T1Itd1d6aWp2cUNXY19pd0g5Q1Z0TnpGclhzUQ?oc=5",
+      "date": "2026-09-18",
+      "source": "Japan — MOFA",
+      "source_type": "gov",
+      "region": "JP",
+      "lang": "en",
+      "theme": "diplomacy",
+      "via_gnews": true
+    },
+    {
       "id": "1749a9493c0fd1c5",
       "title": "Minister of Defence Häkkänen visits Middle East - Finnish Government",
       "summary": "Minister of Defence Häkkänen visits Middle East - Finnish Government &nbsp;&nbsp; Valtioneuvosto",
@@ -7535,19 +7340,6 @@
       "source": "US State Department",
       "source_type": "gov",
       "region": "US",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "97c053e41a59c210",
-      "title": "Moscow’s Other Front: Why Ukraine’s Churches Are a Security Issue",
-      "summary": "Moscow’s Other Front: Why Ukraine’s Churches Are a Security Issue &nbsp;&nbsp; Royal United Services Institute (RUSI)",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcmVVeWFsTkZnOWFDQ2hZSGQyV1B2NUdlT2s3SHFienRBMjBVN2ZZcGFEM3VGZjdwMmtKR2dTaHhiUmxITTF1ODdYRUhRYUZVcUYyTERrVUUtVXVUaFhIQ0FSWkpUZmR5MHR4TWozRHdsMnQ4c1IxeHZDOTJBNm9aVVZkUHpUQVV1ZEdkX3lWbEpaMmROYU1MMG1kUkM?oc=5",
-      "date": "2026-09-17",
-      "source": "RUSI",
-      "source_type": "tt",
-      "region": "RU",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -7631,19 +7423,6 @@
       "via_gnews": true
     },
     {
-      "id": "392b0bb5a2e8c9b1",
-      "title": "Russia Officially Recognizes the Grand Strategic Challenge Posed by Poland",
-      "summary": "Russia Officially Recognizes the Grand Strategic Challenge Posed by Poland &nbsp;&nbsp; Российский совет по международным делам",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbHVVRExIdW5hRXNEMU5ZM0JOaXZ6WmxwX0NMaDF5QkR6THBCcDRyTFkyRVJKQXJrU0F4d1ZIT1k2ZFBZRkRuaW1qTnI3MllWRHpFeTNmY1FITGNHRU14MVRXYkVrV3ZJdXNIdVBDdjdNaHVIOHNSVjZVVEdfRDBObzEwblBzUGJsNEdmci1Cbk1Id3BUa0FjemZpZ1lrZmhITDcwc0cyUGFYYkFGaGswMjRvbUZVdjM2SWxxdlNSUzZ6MUJDem1SQVFGN2R5eEVvc21IMUEtQkd4ZG43UDE1aW85dGtrd0tfbW5pWU1B?oc=5",
-      "date": "2026-09-16",
-      "source": "RIAC — Russian Int. Affairs Council",
-      "source_type": "tt",
-      "region": "RU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "c07c0e0bfc886acd",
       "title": "ODIHR opens election observation mission in Serbia",
       "summary": "ODIHR opens election observation mission in Serbia &nbsp;&nbsp; OSCE Office for Democratic Institutions and Human Rights",
@@ -7667,6 +7446,19 @@
       "region": "Global",
       "lang": "en",
       "theme": "development",
+      "via_gnews": true
+    },
+    {
+      "id": "7501d03a2f169639",
+      "title": "Electability over ideology: Takeaways from the 2026 primaries",
+      "summary": "Electability over ideology: Takeaways from the 2026 primaries &nbsp;&nbsp; Brookings",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQkN3WFBKVFVSTTBUeFZhS09qMkVucWlKQVB2M0RrVlU0d3hTWDhqQzgxQ3RfY2lqYVFXWHpWUFBYRWlfdTRWbmxqa0p2NURoSkZkUG9RZjBac3JpTWxIakFjZlAta1RXUm5GX2hYdXdYN0x5WFRVbS1QbUVIa2JTaVVvdGh6YXdDSGJvcHAzaU9McE9Mc2VRYkhmb1M?oc=5",
+      "date": "2026-09-16",
+      "source": "Brookings",
+      "source_type": "tt",
+      "region": "US",
+      "lang": "en",
+      "theme": null,
       "via_gnews": true
     },
     {
@@ -7878,19 +7670,6 @@
       "via_gnews": true
     },
     {
-      "id": "08061511497e12fc",
-      "title": "EU EEAS Spokesperson Statement on the death of Ratko Mladić",
-      "summary": "EU EEAS Spokesperson Statement on the death of Ratko Mladić &nbsp;&nbsp; EU u Srbiji",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT0dXV2g5dzM2SUdTT1hsSlFuWmpwYl9aMzV5MUtQSjJIQVYyOU8zTGZSRjFiZU5nT185b25PNGprM1Z0WmItWnhFQ01mT0NxMzZTYjcwdEpmem1EYUhiVFdIUHd5VFZFY1o5cEFnSXFIM2ZCd09FY29lWTJ3NjQzMS05Q1kxRjN1MjlKdmxrRnNoMGF1NmtTUEEybFVicjBhYnpsMldKTW4zLVZncHoyZTVn?oc=5",
-      "date": "2026-09-07",
-      "source": "European External Action Service",
-      "source_type": "gov",
-      "region": "EU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "941106005e050567",
       "title": "Annual Report 2026",
       "summary": "Annual Report 2026 &nbsp;&nbsp; orfonline.org",
@@ -7964,6 +7743,19 @@
       "source": "China — MFA",
       "source_type": "gov",
       "region": "CN",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "282cf60db011e550",
+      "title": "Opening Ceremony and Ministerial Roundtable",
+      "summary": "Opening Ceremony and Ministerial Roundtable &nbsp;&nbsp; OECD WebTV",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVlNCaW1fRm1qNUdoMU5vejQ1QXhmRDNYVG1JeE5zc2tZUk0wSHVfRmYyUnVsOGdXQVBFOUhzVGlOQ3Q2NUFaR2pCeUY3dTAtTkJWQmpnNkZNYjBXWThUNUQtSEk1clVnWWNqcHQ5OU8yU2JKWloxc196a1p6dWw2NnJ6VlNBYWV4Vm12eWZsT2g3SHl4SFprZURGampfVTctNFNxSnM4eTFwNWp5NTFvOUVtVQ?oc=5",
+      "date": "2026-09-02",
+      "source": "OECD",
+      "source_type": "io",
+      "region": "Global",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -8320,6 +8112,19 @@
       "via_gnews": true
     },
     {
+      "id": "29b87f50f0b1ce88",
+      "title": "RIAC :: Experts from Russia and Pakistan Discuss Prospects for Cybersecurity Cooperation",
+      "summary": "RIAC :: Experts from Russia and Pakistan Discuss Prospects for Cybersecurity Cooperation &nbsp;&nbsp; Российский совет по международным делам",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdTRlY1pVc0ZBWmFjNU8yVEZGcnVoYlVhUDBMVWhSS0lIOUEyeUxCQWNNYzZnV2dGeEZseENJS1dTWHhPMi1oakRiei1lQklqWXUzMWlyZzZ4Yk5vYXpON0VFaTctbjBfRkk1S0VFN1FOeUJMUTlSRFBpVF9nUFhrT1h4Z3pDWlFMQ1RPbHBBNFNsYzdzWG5qbEJxMlpubGV0cUIyVmhmMFhxM2FOclZNcUFqczkydw?oc=5",
+      "date": "2026-08-20",
+      "source": "RIAC — Russian Int. Affairs Council",
+      "source_type": "tt",
+      "region": "RU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "86df2866ebc9d96d",
       "title": "China urges South Korea not to take sides, blames US policy for Korea tensions",
       "summary": "China urges South Korea not to take sides, blames US policy for Korea tensions &nbsp;&nbsp; Reuters",
@@ -8606,14 +8411,14 @@
       "via_gnews": true
     },
     {
-      "id": "1e78effce29fcef3",
-      "title": "Forty-Ninth (49th) Ordinary Session of the Executive Council",
-      "summary": "Forty-Ninth (49th) Ordinary Session of the Executive Council &nbsp;&nbsp; African Union",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNODR3alFRTGloNDFZcmtuczRQUHVyQ01ocll2TWV3RmdlWUlfV1ZNT2lrTG1SNjZvX296T0RYTXFfcW9TcmR1R0hiTmxqUENxRHU3MVhHbHl1M3B3bElCc19CWUE5a25aWWI4TnA3V0RCaFVCVDZ2Q2NmejRzdGNZZnIzODZtUnMtZlhaZ0wyY1pFa0hObzBUOA?oc=5",
+      "id": "c616dc3ebe6f2263",
+      "title": "The EU’s response to Ceuta: the first stress test after the Pact reforms?",
+      "summary": "The EU’s response to Ceuta: the first stress test after the Pact reforms? &nbsp;&nbsp; EPC, European Policy Centre",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOekJoTmpIM29oUS15LXNBdEZiaXZRYnE2NkFncHFPMEFBNjVGRnpRSDZhU3BTUUZpRlRDMy0tRURhdmVsU1YtLXEwZmlxOGJoOV9BYVl3dl9MaVNjZkhUUGVYQ3Y4LXBlaDVXb3RONzAtZExGb19ETjBsTTFfeGQ3UExNMlBFX0lqTlJwTktEMDJOUnl0eWVOUzkzZzFYWk5hT09UTQ?oc=5",
       "date": "2026-08-05",
-      "source": "African Union",
-      "source_type": "io",
-      "region": "Africa",
+      "source": "European Policy Centre (EPC)",
+      "source_type": "tt",
+      "region": "EU",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -8714,6 +8519,19 @@
       "title": "The 49th Ordinary Session of the Executive Council of the African Union Opens in Addis Ababa",
       "summary": "The 49th Ordinary Session of the Executive Council of the African Union Opens in Addis Ababa &nbsp;&nbsp; African Union",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWVJXS2w3VjN4elZhLUJGOVVpWTJ0aW1YTVNhbjltcnFRdTR2ZWtNQTFOdXM3MFBUSm01My02NGNmdk5nRFVHWENSTzRlYjhHZ2dmYlZXVDJGQmFxcnNOMVpKV3hoZ1dNUHd5V1ZYLWlUU1Rwd21EQW8wR2xpQkVnNm4zYjY3LXgwQTRxNnB3SFdrU2JnMWQzLWJnWDhqYkNsQzhjaG1nU3dNZw?oc=5",
+      "date": "2026-07-28",
+      "source": "African Union",
+      "source_type": "io",
+      "region": "Africa",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "1ac3c426dee212c3",
+      "title": "Statement by Mr. Claver Gatete at the 49th Ordinary Session of the Executive Council of the African Union",
+      "summary": "Statement by Mr. Claver Gatete at the 49th Ordinary Session of the Executive Council of the African Union &nbsp;&nbsp; United Nations Economic Commission for Africa",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR0QzUHJ0c0VndDF2STZ6aDRubVNZTFM2U1c0NVhIM2hfYVE1LTFRZFYxa1JRQ0o0V2dvQzFRMlFkODZtWHYydExINVBQM044SFFxSDVqdzE0eFRUSjd4TV91UXJ2NVNXZVcxajl1MDVoTkpPaTRpei1lblB1MjVLTG1yUGpCSFdTcW9nTnpqbUZ4YU4wU240eVhDYjlOV3IyeFl2YzZpSU5HcjRiU2JBdWo0WmN3cGQ4eUVQOXhB?oc=5",
       "date": "2026-07-28",
       "source": "African Union",
       "source_type": "io",
@@ -9011,7 +8829,7 @@
     {
       "id": "914ff3bcf7002911",
       "title": "Ministry of Foreign Affairs",
-      "summary": "Ministry of Foreign Affairs &nbsp;&nbsp; Nigeria's Ministry of Foreign Affairs",
+      "summary": "Ministry of Foreign Affairs &nbsp;&nbsp; Federal Ministry of Foreign Affairs",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51ZURfbVRoQmRBZ1puck5XNTVDNDRTbEVJZVlwSmxQcnJSTXkwaHJBRnN4TFFhUTAyR0xhMWFEc1ozZEdIU0tLQkJHTl9ZQk1qUXgyX1hKSDNIalJIWnlTOFdRMkRpaTA2Q3U0?oc=5",
       "date": "2026-07-09",
       "source": "Nigeria — MFA",
@@ -9201,19 +9019,6 @@
       "region": "Global",
       "lang": "en",
       "theme": "security",
-      "via_gnews": true
-    },
-    {
-      "id": "3f927e02dbb56f7a",
-      "title": "Serbia’s Mrdić law reversal: tactical compliance is not EU reform",
-      "summary": "Serbia’s Mrdić law reversal: tactical compliance is not EU reform &nbsp;&nbsp; EPC, European Policy Centre",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORS13TEo2OWN4QXpkWG8yd1BpYVFBWUFrMmpDTXRSV0NhbEY3YWlDUjNBV1h2clFkdFRaWHBwSEhMbFdMX1ZVMWlDRzRTX3BuNmo1SWV3LUJVUWw3NllyWDBQa3F2Y01xOUk1b3BLMlJ1X2ZmZHc3MUpDYlV0NTd4OW1mQ3plYmpadnpyTmk3MjE5R1ZUdWhPeE5tVQ?oc=5",
-      "date": "2026-07-07",
-      "source": "European Policy Centre (EPC)",
-      "source_type": "tt",
-      "region": "EU",
-      "lang": "en",
-      "theme": null,
       "via_gnews": true
     },
     {
@@ -9544,7 +9349,7 @@
     {
       "id": "bf491b8b2893897b",
       "title": "CCJ statement on the Chișinău Political Declaration and the universality of human rights",
-      "summary": "CCJ statement on the Chișinău Political Declaration and the universality of human rights &nbsp;&nbsp; www.coe.int",
+      "summary": "CCJ statement on the Chișinău Political Declaration and the universality of human rights &nbsp;&nbsp; coe.int",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaHlRMmhBVjR3NndHVXJQVWVXbkZ0OTVtSTh6RkVLa3d0ZU42WHRvaFNPUl9IU0tueWpaNExXTUp2ZkVKSXZ4RlR6bWVqeV9XQVd0Q3NOS3M0Z0RfOU81TFJWZVZOMWM3Y0FTdnZmazVBS3FxMFhhdkZZcnY3ZnhXQlh6Uy1oZWViU3JlcDhhaWlFMG5jaVdJLVA5cDNOV3NvcEtiU2VQeXRFekx3YWxmamtJNHc3elhpWmNrTVZGSTV4bmVIZmJUaHpDbktKRmZ0Vmc?oc=5",
       "date": "2026-06-24",
       "source": "Council of Europe",
@@ -9566,32 +9371,6 @@
       "lang": "en",
       "theme": null,
       "via_gnews": false
-    },
-    {
-      "id": "756252ad3d7836de",
-      "title": "Starmer's resignation shows the limits of imitating the right",
-      "summary": "Starmer's resignation shows the limits of imitating the right &nbsp;&nbsp; EPC, European Policy Centre",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcnFaTWxkTUNMUmZxSjEzdGU2S2E1NFByWFNCZ1owd1RUTVFybkZibEVmRlUxSnBQbFpqUjFMVlhtd0MzZE5CWkRIU2lFZVA2ZVk1dTNrTmY4ZDNEQ1hRY3lfeklVYTRzc3d6TzVvc1VwNnF4T2ljbkJoY0VvS2JrM3RoZ2Y2azRtR0ZnM3JaMExodUVYZTZ3?oc=5",
-      "date": "2026-06-23",
-      "source": "European Policy Centre (EPC)",
-      "source_type": "tt",
-      "region": "EU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "91c404b9227d9d3a",
-      "title": "Russia’s Foreign and Security Priorities in the Era of World Turbulence",
-      "summary": "Russia’s Foreign and Security Priorities in the Era of World Turbulence &nbsp;&nbsp; Российский совет по международным делам",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbVA4NGwwZjhCU0VLcGQwZldLMDM5WUctWVltdmJlUlZUcWRhb2dtbTZvczdra1JDWGtxcnlGcDhvUG5kajRyOW10VTVPbjJ5TVBJa1JvaWNyVjZkVnBXSDk0dFdLdW9WSkZXcHhsLWU5MHdEaXFWQWVpcG50UmhsMVZKb0ZXMlpJdVhVUHZRTHVBS2ZpM05KZDRmR09sRFhibmY1Nmx0ZUtESGRTYUJydkZoYlNnTTJ5bF9zX25uaThXaVNXM1hSVGZ1LXB2SUE?oc=5",
-      "date": "2026-06-23",
-      "source": "RIAC — Russian Int. Affairs Council",
-      "source_type": "tt",
-      "region": "RU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
     },
     {
       "id": "f6035bff57fe7eb3",
@@ -9661,7 +9440,7 @@
     {
       "id": "19760f7849b432a3",
       "title": "Your Voice Matters! Help Shape the Future EU Youth Strategy",
-      "summary": "Your Voice Matters! Help Shape the Future EU Youth Strategy &nbsp;&nbsp; European External Action Service (EEAS)",
+      "summary": "Your Voice Matters! Help Shape the Future EU Youth Strategy &nbsp;&nbsp; EEAS",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUmw2d1FaVThnN0l3dmtBdzYyVGswQjF6RVEyTlhIaG85d2hUYWd1bE5peDlVaHNOYkZUSkgxcnhZZzNUblJDczR6Z2NQM041ZDYxNjRpeWhManZBaHBPbDB0N1BSVWw4TS16aU9lUVBoRkd3WUllTnNTc3FScDFZcFBpUjdNMXNFZEtHUDI5R29wMnhsYUdEbDNSX2RpdmdidE5NWEl3?oc=5",
       "date": "2026-06-17",
       "source": "European External Action Service",
@@ -9919,6 +9698,19 @@
       "via_gnews": true
     },
     {
+      "id": "9a32584248bfee2c",
+      "title": "Guide to Consular Services",
+      "summary": "Guide to Consular Services &nbsp;&nbsp; Ministry of External Affairs , Government of India",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YRlN4aDJpN1U1N0JXVnl5YTZiTHA4akM2Sl9FS3hMQ1BFb2l2QzlBWEV4UHhUMkstTjh0MUdTbXVoN2Y3Q3hoM2tHYkVsTmdFMlc2U0pabXhDOW9VT0FpNnB4OEM?oc=5",
+      "date": "2026-06-02",
+      "source": "India — MEA",
+      "source_type": "gov",
+      "region": "IN",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "c75c04ab8102cf45",
       "title": "Wilson in the World: NATO Prepares for Drone War with Russia",
       "summary": "Wilson in the World: NATO Prepares for Drone War with Russia &nbsp;&nbsp; wilsoncenter.org",
@@ -9994,6 +9786,19 @@
       "region": "AU",
       "lang": "en",
       "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "631c9394bdd5d4af",
+      "title": "Driving Defence: The automotive sector’s role as a potential enabler of Europe’s defence surge",
+      "summary": "Driving Defence: The automotive sector’s role as a potential enabler of Europe’s defence surge &nbsp;&nbsp; EPC, European Policy Centre",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeDF5TWFFUFg4MmJVci1Qd3VRSEV2Rm9pdFA2MTVVcEFUX2xxVk1MaHBOcHcwcy1hekdKREZKSk82ZTRGQWVkWVB0SUxyV2VRV3pzaXM1VGlFREhiUE9SZzJ2R3ZPUUVNWXpPN0JuRHlvV2gzcEpIYmxKeG5MNWZ0bnB3NmRBMEZHMUx3azN4aEtBQXRiRHdRbVNGRXUxVG5feFVJbUR4NE9SbXBOQlltOWh1c0pPMmtjamx6YVhPZUk?oc=5",
+      "date": "2026-05-29",
+      "source": "European Policy Centre (EPC)",
+      "source_type": "tt",
+      "region": "EU",
+      "lang": "en",
+      "theme": "security",
       "via_gnews": true
     },
     {
@@ -10253,19 +10058,6 @@
       "source_type": "gov",
       "region": "IT",
       "lang": "it",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "c18397789b8a938e",
-      "title": "The 46 countries of the Council of Europe come together to issue a declaration on the European Convention on Human Rights and migration",
-      "summary": "The 46 countries of the Council of Europe come together to issue a declaration on the European Convention on Human Rights and migration &nbsp;&nbsp; coe.int",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOaWdITHZ5OFBaOUQ4S1MtVTV3RzBSc2dZbjl2bU12RGR6R1pFRHpoYk5GeHpIaXdhZ09Ta0JKYUlPTy1jcy1RdXg0UFhjRmhCR3gwTXdBampZbl9ZN0t2UVdnZlNxbEVxTGV5TXJZUU9uNFd3b2FOdHdjRW43NHVkMEFuOWc1UG1oNHFPZzRlY1dHTm1oalpBMGpjdFgxZC1PVHJ4V0F2VnJNMlp0SHpWeWRlNi03cW9xek5UZHpidzhldjBVMy1RUXYxZHN5c21Talp1d0hrNUFGRWZEaG5JZWQ1U01ja014WXJuaTNEQ0FLdmJXTWY4VFYxaU54eU1m?oc=5",
-      "date": "2026-05-19",
-      "source": "Council of Europe",
-      "source_type": "io",
-      "region": "EU",
-      "lang": "en",
       "theme": null,
       "via_gnews": true
     },
@@ -11128,19 +10920,6 @@
       "via_gnews": true
     },
     {
-      "id": "405e0dbcb7b7faf3",
-      "title": "KINDIKI CLOSES AMBASSADORS' CONFERENCE WITH CALL FOR RESULTS-DRIVEN DIPLOMACY AND ECONOMIC TRANSFORMATION",
-      "summary": "KINDIKI CLOSES AMBASSADORS' CONFERENCE WITH CALL FOR RESULTS-DRIVEN DIPLOMACY AND ECONOMIC TRANSFORMATION &nbsp;&nbsp; Kenya Ministry of Foreign Affairs",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMG54bEFmNlk2UEdjQWhLVzlIWkNEYl9sOVdZeFVWaklhRkpraEpHTWp1RGZqTmdvenFnUXRKMUd1SW80NUk2cFhkd0NxazZFM2VDemE2b283bFJ6aWhjT3c5aVAxbXBOdXZjRFJwTk1SSkktbGtpcnh1TFZmMlpjeHBZN2c3bW5YcUtlb1hIYkVITVBZZ1FDczdaVjVzelJOY2h4SEhBaHhzVFZWS1dhbjQ4ZlJzUUFH?oc=5",
-      "date": "2026-03-31",
-      "source": "Kenya — MFA",
-      "source_type": "gov",
-      "region": "Africa",
-      "lang": "en",
-      "theme": "diplomacy",
-      "via_gnews": true
-    },
-    {
       "id": "87ba03a50f4fa255",
       "title": "Breaking the deadlock on AI governance",
       "summary": "Breaking the deadlock on AI governance &nbsp;&nbsp; Chatham House",
@@ -11310,19 +11089,6 @@
       "via_gnews": true
     },
     {
-      "id": "9116703b7f459ed9",
-      "title": "Why Ukraine will not – and should not – give up the Donbas or any other territory",
-      "summary": "Why Ukraine will not – and should not – give up the Donbas or any other territory &nbsp;&nbsp; EPC, European Policy Centre",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM2xLSW0tQ1Zmd3Y2NHI4allTSjg5VjdpRGl2bkRYaUc3QVZGeWJqWFJyeUtqMjcwaFhtaXZfT0lLTjBMb0l4SldsOTduM3JTamk5TzcwMnZHRS1uRU1wbHkwbnJ3V3ZFNFRhc2dob0E4RWJkLVpqSXZXTnJobGZfMmk4bkRjMUNHSDhhVWdxZ21zVHl1YWxneHJwLUR4WmV6QnNVcVpLUGJVbE9jN3c?oc=5",
-      "date": "2026-03-17",
-      "source": "European Policy Centre (EPC)",
-      "source_type": "tt",
-      "region": "EU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "8405f3f1df737aa6",
       "title": "Sweden joins Pax Silica initiative",
       "summary": "Sweden joins Pax Silica initiative &nbsp;&nbsp; Government.se",
@@ -11357,6 +11123,19 @@
       "source": "CEPS",
       "source_type": "tt",
       "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "f3f6e89e1a03cce9",
+      "title": "RIAC and SVI Hold a Round Table “Russia-Pakistan Relations amid Changing Global and Regional Dynamics”",
+      "summary": "RIAC and SVI Hold a Round Table “Russia-Pakistan Relations amid Changing Global and Regional Dynamics” &nbsp;&nbsp; Российский совет по международным делам",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObno1b3V5LV83dzI3a0kybXRxX2g4UlQyVkkwVWFabUdjbjR4R2JIazFRVDVoZkpjZlpXWXlSUnhIWVY4LXFxbWlHWEpxLXpDOFAzZVJJZWgwLXZmRUFmM3hNVUJ1WlBvcHNMOVBqWTV1TUQwVHFHVlM4WC1XclA4UGhOSlpndXh6aTh1enRHWHhvd3Y5bmhwc3JkVGZkSEtJejZ2OG82ZjA5SG9HMEJ4WlRWbW5VQkdsdXJkVmMtOVVLT2VHT1RzRXhQSVFEcjBB?oc=5",
+      "date": "2026-03-12",
+      "source": "RIAC — Russian Int. Affairs Council",
+      "source_type": "tt",
+      "region": "RU",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -11466,6 +11245,19 @@
       "via_gnews": true
     },
     {
+      "id": "d4f76ad32fa09ba8",
+      "title": "U.S. Snaps up Venezuela’s Oil and Rare Minerals in Race for Supplies",
+      "summary": "U.S. Snaps up Venezuela’s Oil and Rare Minerals in Race for Supplies &nbsp;&nbsp; International Crisis Group",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNVhnZkYwSzVZdTQyNk5SdU9WUDJWRERLcmRSc29WeTVGT1BYRllydUp5aVF2VWhCVUdsbGoxQW9haDlBcGlZUzN4LUUyblpEbEdqWWJHVTE1YkxRcVl3eEhyY21ob1ZXdGlfTXNKWWk5Y3l5eTJEMUloZ01NcEpETmtBNDFFNXJTUm95anZvVGlDYUUtQzcwWGFadVFqTjB0RXBmZnF3eGlxT3FKRW96NmRsRWttWmZjVG5NeWFB?oc=5",
+      "date": "2026-03-06",
+      "source": "International Crisis Group",
+      "source_type": "tt",
+      "region": "Global",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "59ecdf2f521ec53a",
       "title": "Final Communiqué",
       "summary": "Final Communiqué &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
@@ -11541,6 +11333,19 @@
       "region": "DK",
       "lang": "en",
       "theme": "diplomacy",
+      "via_gnews": true
+    },
+    {
+      "id": "33545dcda280af58",
+      "title": "Latest Analysis: War with Iran",
+      "summary": "Latest Analysis: War with Iran &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54ZF9Nc3pZaUlyQVBMck1pWWJSblZvQ01CdXNSN1JsUUhZdEdQUjdQd2pfUThPQndVYzdOc1QzWlVXdlZlM3Y2VUJJQTAxbnBnZTVKNzRvVC1rcGpYSFV6VUxiUFA?oc=5",
+      "date": "2026-03-02",
+      "source": "CSIS",
+      "source_type": "tt",
+      "region": "US",
+      "lang": "en",
+      "theme": "security",
       "via_gnews": true
     },
     {
@@ -11700,6 +11505,19 @@
       "via_gnews": true
     },
     {
+      "id": "b3a76cc179d9441e",
+      "title": "RIAC ::",
+      "summary": "RIAC :: &nbsp;&nbsp; Российский совет по международным делам",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVVpJaUxPZlh6cWV3X2pNS3RUWjRUb3pZbGx4eWg4MS12N0ZESDJDMHJjaUktMDNpU3MxYU9zaTZpNEUtR3hqY2Eyd2pVeS1wa1VsS1NibFUwcC1MeGswaEVXQ2p2OXpjTGRYcEVNNVROb2s1S3hCTFJKRm1xYjlPbDFCb2dIeUk?oc=5",
+      "date": "2026-02-16",
+      "source": "RIAC — Russian Int. Affairs Council",
+      "source_type": "tt",
+      "region": "RU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "b8a85491b1e9e098",
       "title": "How middle powers can weather US and Chinese AI dominance",
       "summary": "How middle powers can weather US and Chinese AI dominance &nbsp;&nbsp; Chatham House",
@@ -11739,19 +11557,6 @@
       "via_gnews": true
     },
     {
-      "id": "c3d5168141b0451e",
-      "title": "Occasional Papers - MP-IDSA",
-      "summary": "Occasional Papers &nbsp;&nbsp; MP-IDSA",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hX3VwQmdjWGYxUDM3S1pSQUhEYWk1MVJETWdLOThlYmtTY2l4SU82MF9iUWdKS2lZUUdBMFBiSGtjcEVSNTdWa1JRWE5QVV9xaGtwaTE2a0h3SmJv?oc=5",
-      "date": "2026-02-13",
-      "source": "IDSA — Manohar Parrikar Institute",
-      "source_type": "tt",
-      "region": "IN",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "fdafd993a244bf14",
       "title": "Consulado-Geral do Brasil em Atlanta — Ministério das Relações Exteriores",
       "summary": "Consulado-Geral do Brasil em Atlanta — Ministério das Relações Exteriores &nbsp;&nbsp; Governo Federal",
@@ -11761,6 +11566,19 @@
       "source_type": "gov",
       "region": "LatAm",
       "lang": "pt",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "81516df4ec58d8b5",
+      "title": "After Orbán: why Péter Magyar would not be an easy partner for the EU",
+      "summary": "After Orbán: why Péter Magyar would not be an easy partner for the EU &nbsp;&nbsp; EPC, European Policy Centre",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaFNZTTVQVlVTT251ZDIzYXp5MWFKbFI3VzY2Z1BscFZjV3Rkek55VzI4ckhuMGxRbjF2c1JfX0dLWHc4T1JJRHNkR19pMTdvcmxucmFwYWp3dlY3ZXdIaXgwOE01R3psaW0tekdZR2dVS19BU0V2QS0ybk5nLUZCbkJPWjI3WEwtOVl4WmtwVjUxZ1l4c3VOSUJYclZneDZaLUE?oc=5",
+      "date": "2026-02-13",
+      "source": "European Policy Centre (EPC)",
+      "source_type": "tt",
+      "region": "EU",
+      "lang": "en",
       "theme": null,
       "via_gnews": true
     },
@@ -12025,6 +11843,19 @@
       "via_gnews": true
     },
     {
+      "id": "01ea387d982d2b21",
+      "title": "HUMAN RESOURCES - MP-IDSA",
+      "summary": "HUMAN RESOURCES &nbsp;&nbsp; MP-IDSA",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE01ZGZVZlhNZkE3RjladFZTbXJWbWtXOUV4d3VZMkgtdFdYb1ZJajZqNTlMV2QzNExFRXNSQnpIY1hST1Y3UkE?oc=5",
+      "date": "2026-02-05",
+      "source": "IDSA — Manohar Parrikar Institute",
+      "source_type": "tt",
+      "region": "IN",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "4e0df11548760281",
       "title": "A New Era of Cybersecurity – National Strategy for Cybersecurity 2025-2029",
       "summary": "A New Era of Cybersecurity – National Strategy for Cybersecurity 2025-2029 &nbsp;&nbsp; Government.se",
@@ -12124,19 +11955,6 @@
       "source": "ISS Africa",
       "source_type": "tt",
       "region": "Africa",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "f7cd2fd136d29f72",
-      "title": "2nd EEAS Report on Foreign Information Manipulation and Interference Threats",
-      "summary": "2nd EEAS Report on Foreign Information Manipulation and Interference Threats &nbsp;&nbsp; EUvsDisinfo",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GX1NBYkFwVndxMm9lRTJFSjREM1g5NGlvelFOVElPcnBCcXVxNEp4UlEtcHJCU1N5aG9BUlJoZElNY093dlJkMERPeDRseWhoN096bXlOU0pBdGxvWE9FaGpSVDg3X1hyVVg0MHV2ajZWdw?oc=5",
-      "date": "2026-02-04",
-      "source": "European External Action Service",
-      "source_type": "gov",
-      "region": "EU",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -12363,6 +12181,19 @@
       "via_gnews": true
     },
     {
+      "id": "0069994edfa94c5a",
+      "title": "America’s new Defence Strategy and Europe’s moment of truth",
+      "summary": "America’s new Defence Strategy and Europe’s moment of truth &nbsp;&nbsp; EPC, European Policy Centre",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOamtNWjhrYXYyVUtVV3B5WkZlNXUwUmtrSFIxOVM3LXpqcDdjUzZ0UVJua0JrN2gteXBwTTNvbWlyUWVwSHNVa01NS0l6M3Y2M2sxeVlxVU5qdDVRQXF6anBPdTU0R1VWWjBBR1UzWGxCTEo1b1hoNFBDdUlsN2VGUlhJS2paMmprV0VFNkh6S2FFaUk?oc=5",
+      "date": "2026-01-26",
+      "source": "European Policy Centre (EPC)",
+      "source_type": "tt",
+      "region": "EU",
+      "lang": "en",
+      "theme": "security",
+      "via_gnews": true
+    },
+    {
       "id": "b353f9d1e2d15f88",
       "title": "A Prescription to Relieve Worker Anxiety",
       "summary": "A Prescription to Relieve Worker Anxiety &nbsp;&nbsp; Peterson Institute for International Economics",
@@ -12436,19 +12267,6 @@
       "source": "NUPI (NO)",
       "source_type": "tt",
       "region": "NO",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "87d0116a2b394777",
-      "title": "Values are not a strategy",
-      "summary": "Values are not a strategy &nbsp;&nbsp; EPC, European Policy Centre",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HY3NYMDdtSTBObjB0UlYwYTZlb0VzcjhuYnZWRzdiYU9QSlpKVUl3eGtVNWJWSlZ3UXlBS215UTRDQlhYa0g2VGdsMDJ1dnMwVmNBS21vbW9OVjlBTjZlcGpnTUk1aGN1?oc=5",
-      "date": "2026-01-20",
-      "source": "European Policy Centre (EPC)",
-      "source_type": "tt",
-      "region": "EU",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -12545,6 +12363,19 @@
       "via_gnews": true
     },
     {
+      "id": "c251e60c5fe2664b",
+      "title": "Iran at a crossroads: Repression, resistance and scenarios",
+      "summary": "Iran at a crossroads: Repression, resistance and scenarios &nbsp;&nbsp; EPC, European Policy Centre",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUkJjell2SHplVVB1QnU4MFJual93ZlRoeElzN2VJbUREcUhHWmZyTkFBcUZrTWF4V0czSlFVRjlsX3BHa0gzWjZWaEM0Um9BZXNheWIteXFvVDZiY1hZWGs4RFBCY1dZZWFxZDZUZmNDaWtoS2phdEMzTjhOYjd4OUV4bnc0N3N2bHhQc0tpYU9ldw?oc=5",
+      "date": "2026-01-12",
+      "source": "European Policy Centre (EPC)",
+      "source_type": "tt",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "f55338200a28a247",
       "title": "Paris Declaration: Coalition of the Willing ramps up its action - La France aux États-Unis",
       "summary": "Paris Declaration: Coalition of the Willing ramps up its action &nbsp;&nbsp; La France aux États-Unis",
@@ -12618,6 +12449,19 @@
       "source": "NUPI (NO)",
       "source_type": "tt",
       "region": "IN",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "d7bdc49ce7e58633",
+      "title": "EUSpring | Report on democracy assistance from the European Union to the Middle East and North Africa",
+      "summary": "EUSpring | Report on democracy assistance from the European Union to the Middle East and North Africa &nbsp;&nbsp; EPC, European Policy Centre",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FS0l0S2pyZkg0UkpUTUR2b1ZOX2JlUEFNZUlNM09lcmgtbXR4Y195cFRIci1UYUE0Tk5ubVMtXzBoemd6czBsbUlRbVJ0UzUxTkRvclFSOTF6QklJdGZrenA5a0tacUY4aTgzYnpDMVNLeGR2N2c?oc=5",
+      "date": "2026-01-05",
+      "source": "European Policy Centre (EPC)",
+      "source_type": "tt",
+      "region": "EU",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -12722,6 +12566,19 @@
       "source": "US State Department",
       "source_type": "gov",
       "region": "US",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "0b37a40394f8dacb",
+      "title": "The economics of economic security",
+      "summary": "The economics of economic security &nbsp;&nbsp; EPC, European Policy Centre",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51TURtMnVOOG8tVHVRZHo2NUFmV1dxck41aWRuY01zSlpLVHlvemM5ZHJBQnR5ZmtKWExDeUhSSXUtYU5zMEE1M21FTFdMbVpHUmNscUd0TmJiVE5xMDNRYkZqVlI4Tll6VGJaa2RsaGFoUTkx?oc=5",
+      "date": "2025-12-11",
+      "source": "European Policy Centre (EPC)",
+      "source_type": "tt",
+      "region": "EU",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -12935,19 +12792,6 @@
       "via_gnews": true
     },
     {
-      "id": "c5d9e6cc549c14bf",
-      "title": "EU’s Mogherini and Sannino in custody in fraud probe",
-      "summary": "EU’s Mogherini and Sannino in custody in fraud probe &nbsp;&nbsp; POLITICO.eu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTVVncWJEaFJRUGFtRFM5OWxrUnlPZnBmNXFwd24zZEk2T0RIOEJ2U1M0QU9TeW9fUDFOMVE3ZHdpN1lvaUdqWlVqWkllLXJGUWRTR0ZwTlZPYUZWM0xWeE1leF9fNDVKOUJ6R2ZhTWZ0dnU0d0hLVVpTRWU0UkNLb0lKcTBHeDZVWVMzUg?oc=5",
-      "date": "2025-12-02",
-      "source": "European External Action Service",
-      "source_type": "gov",
-      "region": "EU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "413adee898f4d81f",
       "title": "Belgium: EPPO conducts searches at College of Europe and European External Action Service",
       "summary": "Belgium: EPPO conducts searches at College of Europe and European External Action Service &nbsp;&nbsp; The independent public prosecution office of the EU",
@@ -13065,6 +12909,19 @@
       "via_gnews": true
     },
     {
+      "id": "21deade1bc5a395e",
+      "title": "Europe’s competitiveness challenge: Ensuring patient access to transformative therapies in Europe",
+      "summary": "Europe’s competitiveness challenge: Ensuring patient access to transformative therapies in Europe &nbsp;&nbsp; EPC, European Policy Centre",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN0xlNXNibzdzcHdIN1hfQ19vUW5zYXZRWll1S2pzUkItNzR2dkJfT2JGUmZoWmhueTR0bVpReDNRU2RtTWg0MllfcmxVblRlZEhXTzRKUzh1U1VjaUFYMS1JQ0JhbEpjeE1jTjhnQnZyN1Z0Q3FFZzdJNDREcGNzOWZJUEVCZW8xdGZsNzVHc0JiWUpZbWVBYmxVTWVzaDRISnF0eFlrenlmdm1uRnZsZTA4ZnZBZGZ4WXdoMTFzT0owbkotcHc?oc=5",
+      "date": "2025-11-25",
+      "source": "European Policy Centre (EPC)",
+      "source_type": "tt",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "c5d7ece653131097",
       "title": "Australia’s International Disability Equity and Rights Strategy: Advancing equity to transform lives",
       "summary": "Australia’s International Disability Equity and Rights Strategy: Advancing equity to transform lives &nbsp;&nbsp; Australian Government Department of Foreign Affairs and Trade",
@@ -13169,6 +13026,19 @@
       "via_gnews": true
     },
     {
+      "id": "57615a8178932d2b",
+      "title": "President and Ministerial Committee on Foreign and Security Policy discuss situation in Ukraine - Finnish Government",
+      "summary": "President and Ministerial Committee on Foreign and Security Policy discuss situation in Ukraine - Finnish Government &nbsp;&nbsp; Valtioneuvosto",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZzNXajdRZnVqWERBQXJTd0NrYkMwU2RRTkM4RG10a0huVFI3ZVp5SU1RaDNOVmcwWmhUWTZ6VXBBeEFPbEVrSFFFUXdFXzRiRkpXRDRnSDJyRGFQRkdvVnctYzVKVzhuNEZ1U2RNV2JTT2lxRFdrVlZ5YUV5b0p4Tnh3NmpMV3E5eEswTDRjcWhZdEtoYmpmUGRmZkJwd3VCcjUxNmlqQ282bEJiQzdIRDVIWkEzRnplNTdEd2xsUTd6aGZf?oc=5",
+      "date": "2025-11-18",
+      "source": "Finland — Government",
+      "source_type": "gov",
+      "region": "FI",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "e8a14d021a8843ee",
       "title": "Official texts and resources",
       "summary": "Official texts and resources &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
@@ -13260,6 +13130,19 @@
       "via_gnews": true
     },
     {
+      "id": "31c13698959d3f6f",
+      "title": "A turning point in the EU’s approach to Serbia?",
+      "summary": "A turning point in the EU’s approach to Serbia? &nbsp;&nbsp; EPC, European Policy Centre",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWHJzQXcxenhMX0xjYnZCYXVKdGVrbFJQakFJc2xjdkFuTGpLT2xpUjByZ2RYeG9yUWxnRkR3eHFJeWJyeTFaeWNGeFl3aFhKVV9iQ2VWRlo5c1pCSE5qOWpuLTRBcWQtZWhNTThxQ0NSdjJYMWp2X25ZSTF6eFdfSjdFVQ?oc=5",
+      "date": "2025-11-06",
+      "source": "European Policy Centre (EPC)",
+      "source_type": "tt",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "fa4444dbeafeda51",
       "title": "Keeping Turkey in the fold",
       "summary": "Keeping Turkey in the fold &nbsp;&nbsp; CEPS",
@@ -13321,6 +13204,19 @@
       "source_type": "tt",
       "region": "FR",
       "lang": "fr",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "acfec8bba3a4855b",
+      "title": "The United Nations. RIAC reader",
+      "summary": "The United Nations. RIAC reader &nbsp;&nbsp; Российский совет по международным делам",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4yREdHdnZYeUVoc2N4OHhZLWwxbERQaTFCeHhTNWZZak9KMjcxVGMyNzlVN181Y0JxN1RVU3ptTnRMVE9ZWXg4?oc=5",
+      "date": "2025-10-28",
+      "source": "RIAC — Russian Int. Affairs Council",
+      "source_type": "tt",
+      "region": "RU",
+      "lang": "en",
       "theme": null,
       "via_gnews": true
     },
@@ -13546,19 +13442,6 @@
       "via_gnews": true
     },
     {
-      "id": "f5bb06514b40659f",
-      "title": "Seeking new solution paths for the Kurdish issue",
-      "summary": "Seeking new solution paths for the Kurdish issue &nbsp;&nbsp; EPC, European Policy Centre",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kWHBhRHVQYWJjSmpsMlJOM1MwZmRfbUtLVERwc1lNdE1lUmNUTDl4RnY4OXVPckJlLWpSSzFiME9weDlQcF9jUVpsVkFMU1hsS2Jla0I4Qm01Rjg0bFpoOEs3UjRPOTdWbjBYUmpvN2QwMEQ2ZlQ4aQ?oc=5",
-      "date": "2025-10-18",
-      "source": "European Policy Centre (EPC)",
-      "source_type": "tt",
-      "region": "EU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "232af36c307e03cc",
       "title": "Naples Declaration",
       "summary": "Naples Declaration &nbsp;&nbsp; Ministero degli Affari Esteri e della Cooperazione Internazionale",
@@ -13568,6 +13451,19 @@
       "source_type": "gov",
       "region": "IT",
       "lang": "it",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "12ebaaee7a9edc1b",
+      "title": "Assessing the Union's Rule of Law: Lessons from the 2025 shadow report",
+      "summary": "Assessing the Union's Rule of Law: Lessons from the 2025 shadow report &nbsp;&nbsp; EPC, European Policy Centre",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUm9tN1lMWXZtZ3FrN1FSaFNwZHVDclBIN1BXLTA0ak5sS2UtUnNVUThMLUJFM0w4NGhGX252WGlTVjBMMDJRLXNiRWVhRldxb0tLTUtES216SVNCcnlvOFJ6LWFCZjQteXlyNDJ4d0w4ZHQwRnYwWXV1SGlTYTl4STNRbmxBUGdQR0VfUWR1YTZMTVZnNWZmd1RycjlzZVVpb2gzMnMzSkp1Q1FUSXdZelJtaGhNd0ZhbXdmZlFfZXc4ajA2RUpRR1RfYw?oc=5",
+      "date": "2025-10-16",
+      "source": "European Policy Centre (EPC)",
+      "source_type": "tt",
+      "region": "EU",
+      "lang": "en",
       "theme": null,
       "via_gnews": true
     },
@@ -13624,19 +13520,6 @@
       "via_gnews": true
     },
     {
-      "id": "225ccc4829560294",
-      "title": "Sovereignty in All but Name: Israel’s Quickening Annexation of the West Bank",
-      "summary": "Sovereignty in All but Name: Israel’s Quickening Annexation of the West Bank &nbsp;&nbsp; International Crisis Group",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVjZITnNGVUxyZzVydVVldUQ0TWFNN1pUdk5oWGZzWDZPVHZQSkN5VzB3S01WRm1MMWxkQ2gyRzBBcGlMd0NERVkwbFVUQVdFQ3o3NWZwdkZuMUFsYzdwTHJPeVBOV3JnOHozUThWZjQ1bkNZUXBsaWJvMkp5ckVJY2Q1SExIODRwWmswYVVmYjJLVlQ1Q3pjSzBfOEJhaHpZMzlTNVpaMkdqT2hKelJEbHR2NW81NGg0QmIxM2EwenoxYTJzY0xwcFBUWjE4bllvRV9z?oc=5",
-      "date": "2025-10-09",
-      "source": "International Crisis Group",
-      "source_type": "tt",
-      "region": "Global",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "96089e9d8b3c4b3a",
       "title": "The African Union stabilization mission",
       "summary": "The African Union stabilization mission &nbsp;&nbsp; DIIS",
@@ -13645,6 +13528,19 @@
       "source": "DIIS (DK)",
       "source_type": "tt",
       "region": "DK",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "835ec7d2cc342087",
+      "title": "Fourth EU Indo-Pacific Ministerial Forum",
+      "summary": "Fourth EU Indo-Pacific Ministerial Forum &nbsp;&nbsp; European External Action Service (EEAS)",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNDBHTTF4YzlkcHBvZnY1a1hYMThFd2NqZE1iQ0tTYzhORWhHSEo1Vmg1RGZJLS1xUmdXbDJ6NjRCZVRubHJSaWtmb25FaHd6bXY5UXFSZFRtRG9qVzVIbUM5enBZZENISEJ1ZE9qSDlsbkluMXBPZlhES0VpNFQ0Mg?oc=5",
+      "date": "2025-10-07",
+      "source": "European External Action Service",
+      "source_type": "gov",
+      "region": "EU",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -13659,6 +13555,19 @@
       "source_type": "gov",
       "region": "IT",
       "lang": "it",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "c5c8600c13e4b287",
+      "title": "The new Visegrad axis: Czechia’s illiberal turn weakens EU cohesion",
+      "summary": "The new Visegrad axis: Czechia’s illiberal turn weakens EU cohesion &nbsp;&nbsp; EPC, European Policy Centre",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ01XZmp2MnItTGRJdUJyYm94TnRQUEU1M2g3RnBINlFxdkl5c3V6dW5vaUxCRDVVbEM4dXVZeURuOGdJaTQ1LXo5dWJPU29qNFNvcF9NR0hDeGtDN196OU1IcWk3aVR0Z1ZiZTBVT0dKeVZEazdPMzVPV3RmWjh1aHIzSWs4SC01SFZfQlotQUVFM0JhcmItSUl3VjN4dw?oc=5",
+      "date": "2025-10-06",
+      "source": "European Policy Centre (EPC)",
+      "source_type": "tt",
+      "region": "EU",
+      "lang": "en",
       "theme": null,
       "via_gnews": true
     },
@@ -13819,19 +13728,6 @@
       "via_gnews": true
     },
     {
-      "id": "928d3c98e172f017",
-      "title": "Europe’s Housing Crisis: Denmark leading the way?",
-      "summary": "Europe’s Housing Crisis: Denmark leading the way? &nbsp;&nbsp; EPC, European Policy Centre",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdzBhdF92bE93OEtYeWtjVWtucFVHTUlWODRYSjhWVkNiZ0M0UW4yM0NfYUdLb2RfX0N2NFhpVktVUmJObElvbXdXa0Ezc09PV3FZaFFDaFhJa2VHb1JMaHBrLWxXSldoU1lCa0JHNlJoZkRDdmxGa2R3TGV4WGxsenBnSVI?oc=5",
-      "date": "2025-09-24",
-      "source": "European Policy Centre (EPC)",
-      "source_type": "tt",
-      "region": "EU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "bbc111e475167c03",
       "title": "Regulating General Purpose AI in the EU: An Analysis of the AI Code of Practice",
       "summary": "Regulating General Purpose AI in the EU: An Analysis of the AI Code of Practice &nbsp;&nbsp; EPC, European Policy Centre",
@@ -13851,6 +13747,19 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMVVzejZYX1lwdDFjQmZpTkNDSFdiMkludHBFdXllUDhydlRZMjM5aHpFazNDbUo0VnMwME85VlpvOG5hNy1pNUhsd1NJWWpyQUFNcWw3UUhDbE0yUl9nOG5nZHFHT0NOVXhXSTVrOEVWTjlGSmNQOVRBZ3k5S19VaTN6VzNWSkE0aEE?oc=5",
       "date": "2025-09-22",
       "source": "SIPRI",
+      "source_type": "tt",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "b48dd54c80dbd109",
+      "title": "Accelerating Women’s Health: The urgent need for a dedicated Women’s Health Strategy at EU level",
+      "summary": "Accelerating Women’s Health: The urgent need for a dedicated Women’s Health Strategy at EU level &nbsp;&nbsp; EPC, European Policy Centre",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWHprQ0dLVUNnazBuSnltR3NvWV9YTUZOSnF4NUJSWW1KeTBoT2Rtb196THpiRG1oMjdMVGNqNi1xdGQxYXp3QWc5WFRDd29LSzFWT0U0M213TXR3OHN5djZBdFpWMnpqc09Pd2tJcXUxazE1ZWRMRXU1UzlkaDRJZXhrSEtPa0RIMk42TFk0bVhybWZOTUFQQnlodC0wd1IteTJfVm5WeFJwSFBwcTBZZXlYSVdUVDZWVzZjdGFUanlrZVk?oc=5",
+      "date": "2025-09-22",
+      "source": "European Policy Centre (EPC)",
       "source_type": "tt",
       "region": "EU",
       "lang": "en",
@@ -14076,6 +13985,19 @@
       "region": "Africa",
       "lang": "en",
       "theme": "diplomacy",
+      "via_gnews": true
+    },
+    {
+      "id": "18dce51c7b97a531",
+      "title": "Asia – Pacific",
+      "summary": "Asia – Pacific &nbsp;&nbsp; EEAS",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JS3o3bUphMkJreG5INGxsdy1FcmNqRDF4eFh0NUVTUzM3TTc2U20xeVhYTm5yMHhieklBRzVBYURpSmU4MmRmZ19ZZVo3YVdFamp0TXJtV09hdUlGMUhuOUU2cS1kaVJY?oc=5",
+      "date": "2025-08-27",
+      "source": "European External Action Service",
+      "source_type": "gov",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
       "via_gnews": true
     },
     {
@@ -14326,6 +14248,19 @@
       "via_gnews": true
     },
     {
+      "id": "beff2ff5515c4501",
+      "title": "EU-China: 50 years without fireworks",
+      "summary": "EU-China: 50 years without fireworks &nbsp;&nbsp; EPC, European Policy Centre",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJd1hRVUpsWDVjZ1l5bm5XZk1pNjJ2amJhVlQ4YXlsYnFIX3NhUVlPUjBqUWhTdGFPWXlnZ2VWU19aSWNhc25abjNEVG9BLTBMUFFsZHZaRG13aUphaW5VSmtwb3g2RzVWUW9fYTRycVU0ZHhYZWc?oc=5",
+      "date": "2025-07-25",
+      "source": "European Policy Centre (EPC)",
+      "source_type": "tt",
+      "region": "CN",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "e75859953af6d4a1",
       "title": "Could old alliances bridge West Africa’s security cooperation gaps?",
       "summary": "Could old alliances bridge West Africa’s security cooperation gaps? &nbsp;&nbsp; ISS Africa",
@@ -14360,6 +14295,19 @@
       "source": "Valdai Club",
       "source_type": "tt",
       "region": "RU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "beb6ad30b80aaa98",
+      "title": "The 2025 Rule of Law report: Full use of the EU toolbox?",
+      "summary": "The 2025 Rule of Law report: Full use of the EU toolbox? &nbsp;&nbsp; EPC, European Policy Centre",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZEJxY1BrYWJTSjVtQzBCTTJOQkhtZkctTWpxMVlnX09rR2lXbHhzVU1ZT00zYmxicmx4bk9BdThvZmtaS3oxLVFTVkRLYUQxWlg1MnFWLV9VSWU1SmNadHJmZHEtbXZMM2pRQWZkN05Ja29ueG5JU0l2b25TNlRCZEpHUjlQekRXX0pUNkRBQQ?oc=5",
+      "date": "2025-07-16",
+      "source": "European Policy Centre (EPC)",
+      "source_type": "tt",
+      "region": "EU",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -14583,6 +14531,19 @@
       "region": "Africa",
       "lang": "en",
       "theme": "diplomacy",
+      "via_gnews": true
+    },
+    {
+      "id": "e20f0d6e3f2f4239",
+      "title": "From mission polity to mission economy: Making the EU a strategic investment power",
+      "summary": "From mission polity to mission economy: Making the EU a strategic investment power &nbsp;&nbsp; EPC, European Policy Centre",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRUl4SVpzY0Y0MjREVVhmVTk2ejJuS1psYnphTWVnNXRoSkpYTXQ0QmdxMjNHZ3Fvek5FMm53N0Y5enNET1ZSY19Mcm9UMnZtZ0dER1NRTHdmQm40R1hvQi0zUUlqWXBZZ1N0TkV6TlJZcTk3T0VGSTlaNGJwWXdzYnZQQmRJRWVoRENIUzdQOVJ6c0xFX1JpT2plalktU1RQTWRKU1czU09SdlJ4MVZ4MEdsaw?oc=5",
+      "date": "2025-07-08",
+      "source": "European Policy Centre (EPC)",
+      "source_type": "tt",
+      "region": "EU",
+      "lang": "en",
+      "theme": "economy",
       "via_gnews": true
     },
     {
@@ -15054,19 +15015,6 @@
       "via_gnews": true
     },
     {
-      "id": "0ed38661e1170d84",
-      "title": "COURTESY VISIT BY THE CATHOLIC WOMEN ORGANISATION OF NIGERIA",
-      "summary": "COURTESY VISIT BY THE CATHOLIC WOMEN ORGANISATION OF NIGERIA &nbsp;&nbsp; Nigeria's Ministry of Foreign Affairs",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZFRDTDBRcDlpalM5RGRMQVBEalZmMnJIUEEzV0ZscTFWXzhVdF9wcERXc2lyVTVxZUJpRlg3MWhoeFJGT2QycDZFN2ZncnJXT1hqcExqX3lHZUsxRmRpejduZ1BlSWZyakNMelZzRjNBc2pSYlJPdS01emp0ZVNrXzVDTkdBejRZY0ZLMFo5VEJ3eC1KWWFLRTZOMGZMZw?oc=5",
-      "date": "2025-06-09",
-      "source": "Nigeria — MFA",
-      "source_type": "gov",
-      "region": "Africa",
-      "lang": "en",
-      "theme": "diplomacy",
-      "via_gnews": true
-    },
-    {
       "id": "7809fef0fe636e55",
       "title": "Age Declaration – Embassy of Federal Republic of Nigeria, Athens",
       "summary": "Age Declaration – Embassy of Federal Republic of Nigeria, Athens &nbsp;&nbsp; Nigeria's Ministry of Foreign Affairs",
@@ -15280,6 +15228,45 @@
       "summary": "Annual Report 2023 &nbsp;&nbsp; EPC, European Policy Centre",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wdkxjVUpEZ2wycTRvV05JTFZDV2JvMHplck8tcmxvQ3pDSEZPbElWN195UFF4OWFUYlh2MnhDNXUzUFZsRHpKSWpfaEROUGM3eVZXa01nQXFvQzZaMXRpRzY1SmFHNGhk?oc=5",
       "date": "2025-05-17",
+      "source": "European Policy Centre (EPC)",
+      "source_type": "tt",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "bde1b3d65bfa5730",
+      "title": "Annual Report 2022",
+      "summary": "Annual Report 2022 &nbsp;&nbsp; EPC, European Policy Centre",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zZFpSejlLRGJpMnllYS1WVjJ4UlE3NWhTN1RpTmhqR2VrOE92ZWxENVhERDBQWUdGS0xTVUFIWlpYX1lDdjExMGNTc2ZRX0RHOHF5RzZZREw1S3duN1F4QkJWbTNQbEFJ?oc=5",
+      "date": "2025-05-17",
+      "source": "European Policy Centre (EPC)",
+      "source_type": "tt",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "87c6d700a4a644ea",
+      "title": "Conference on the Future of Europe: What worked, what now, what next?",
+      "summary": "Conference on the Future of Europe: What worked, what now, what next? &nbsp;&nbsp; EPC, European Policy Centre",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOEsyTUw4ZzlhaVo1dC13TE02ck52RDhjYnVpT0pUNV9uVjNCdlg1MjRDV2Z6dEVCd0xkeDQxMVJwNWFWMld2NXpZSXBoSVFqMko3bGxfbjhHMkVEZTlQS0JmUVB1aFladjBBRjhpUWgyR2VuZEhxSDVRSTJBRUlsTUtFbFR2eS0xZlBZMjlvdFcta1U2S0Ria0F6dEpMUVktd2ZFSEJLZw?oc=5",
+      "date": "2025-05-16",
+      "source": "European Policy Centre (EPC)",
+      "source_type": "tt",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "bcaf119606a20f53",
+      "title": "ANNUAL REPORT 2024",
+      "summary": "ANNUAL REPORT 2024 &nbsp;&nbsp; EPC, European Policy Centre",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1RSllXLUtpTWFGTXBkQjdBbmhfM19hSWVBQi1ZQmRyMktzREdZNzZWMFpLOTFxbVVFMzQ4aXYzU3ZJYUpIcEZWOQ?oc=5",
+      "date": "2025-05-16",
       "source": "European Policy Centre (EPC)",
       "source_type": "tt",
       "region": "EU",
@@ -15522,6 +15509,19 @@
       "via_gnews": true
     },
     {
+      "id": "d749b5275595f6d5",
+      "title": "Kenya and France to co-host historic France-Africa Summit",
+      "summary": "Kenya and France to co-host historic France-Africa Summit &nbsp;&nbsp; Kenya Ministry of Foreign Affairs",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1uZ1JBdHBLUktoQi1Mbk1vQ01JejlfcE9zSlZYS2pjUzdIa3dOalM1RXpvUVNyU1FMd1NCcUpPTFJ4a0JPa1huNjZsUTJVaXZaT25zTVlpNlJmZlFEZEgxQ09Xc2JzU01CNzNscU04bGlpR2ptVENtX1QxTnA?oc=5",
+      "date": "2025-04-30",
+      "source": "Kenya — MFA",
+      "source_type": "gov",
+      "region": "Africa",
+      "lang": "en",
+      "theme": "diplomacy",
+      "via_gnews": true
+    },
+    {
       "id": "67d98a3f90090efa",
       "title": "Kenya China Relations",
       "summary": "Kenya China Relations &nbsp;&nbsp; Kenya Ministry of Foreign Affairs",
@@ -15678,6 +15678,19 @@
       "via_gnews": true
     },
     {
+      "id": "a903ca64682db667",
+      "title": "Signin | e-deleGATE",
+      "summary": "Signin | e-deleGATE &nbsp;&nbsp; Welcome to the United Nations",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBqUU1JOThnNmVTOGhnNWI1MWg5YW1ReDMxSThmSWJDcTFTa19Kc2lKb29vNHoyaFVCWTI1X1Nqbw?oc=5",
+      "date": "2025-04-11",
+      "source": "United Nations",
+      "source_type": "io",
+      "region": "Global",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "dc81a95f644f2f68",
       "title": "Resolution 2600 (2025)",
       "summary": "Resolution 2600 (2025) &nbsp;&nbsp; Parliamentary Assembly",
@@ -15685,6 +15698,19 @@
       "date": "2025-04-10",
       "source": "Council of Europe",
       "source_type": "io",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "e5756020501e61ee",
+      "title": "From Provider to Precarious: How young men’s economic decline fuels the anti-feminist backlash",
+      "summary": "From Provider to Precarious: How young men’s economic decline fuels the anti-feminist backlash &nbsp;&nbsp; EPC, European Policy Centre",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcjFYSEw2d1VxUm1JTFZpeUlURk5ZMzcyTVJSM1pHekt0NGh0TjdPZlJuS09teG82UHZJMlpKV2pLMXpENTdaWDFjd1V3bWk2Z2o2bjZqbFNRSjFhOU9BSENfQVo0SjQ2M3pfZWcxVXVkOFJ3a0ZaTzBEbFZ0UGliMVNzazZYZUpqOE9kN1UxdXZUc005XzVWSHRrNmhCUG1GQTFXZUZUUTZrV1E?oc=5",
+      "date": "2025-04-09",
+      "source": "European Policy Centre (EPC)",
+      "source_type": "tt",
       "region": "EU",
       "lang": "en",
       "theme": null,
@@ -16211,6 +16237,19 @@
       "via_gnews": true
     },
     {
+      "id": "e84a9cc7f5f6e49a",
+      "title": "Overcoming security dilemmas in the Great Lakes region",
+      "summary": "Overcoming security dilemmas in the Great Lakes region &nbsp;&nbsp; ISS Africa",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWDc2TUxqcXJDclFGQUszYm1mRFNOWEk5SlBLMFF2b3k1Ri1wTU5QN1RZRlkwYlVkb2hyRWg4Y1ZENUREbklsLWlkYUhaN1U2YzZvY3ZFQmZLZU9QV2NzOTRuaGFXMVpNS25pQnVKRzYwd0ZObEI0OWxJMXJfQUphVmNQMTRVc0dEVEs3c1dSSQ?oc=5",
+      "date": "2025-02-11",
+      "source": "ISS Africa",
+      "source_type": "tt",
+      "region": "Africa",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "8ff8dfc2cbaafcc3",
       "title": "RSIS Publications for the Year",
       "summary": "RSIS Publications for the Year &nbsp;&nbsp; S. Rajaratnam School of International Studies (RSIS)",
@@ -16284,6 +16323,19 @@
       "source": "Chatham House",
       "source_type": "tt",
       "region": "UK",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "0d8bd44e30c1379c",
+      "title": "EU statement on Georgia",
+      "summary": "EU statement on Georgia &nbsp;&nbsp; European External Action Service (EEAS)",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV0MtQVVSd0RnY0JWejRVVzhLMWxUeks2VW5fRG90OHNhaFRfTHYwd2lUQzd4RnJTNndMczdNTDBKZG5lelZKR3Y1cFB3UXJXVEdzZ0JjdGlOYkE0a1RsQ2JROThsMlBiYTJNcmQ5Tk9XX2lRUXhBZUdnd2ZwbG84bFV4QQ?oc=5",
+      "date": "2025-01-22",
+      "source": "European External Action Service",
+      "source_type": "gov",
+      "region": "EU",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -16991,6 +17043,32 @@
       "via_gnews": true
     },
     {
+      "id": "d28ec230555ed1f3",
+      "title": "Res. 2576 - Resolution - Adopted text",
+      "summary": "Res. 2576 - Resolution - Adopted text &nbsp;&nbsp; Parliamentary Assembly",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQVkVkTE1uQk5pZEQ3WWx6SlNjVVZrZzBzcHAxUlI0Mi1CSzRaY2paalgyTEcxclFadE5LMUtTb2FtOVd1Zm52STYxTDZ0UQ?oc=5",
+      "date": "2024-10-03",
+      "source": "Council of Europe",
+      "source_type": "io",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "a451f50e482ee0ba",
+      "title": "More diverse than united? A comparative analysis of the EU elections 2024",
+      "summary": "More diverse than united? A comparative analysis of the EU elections 2024 &nbsp;&nbsp; EPC, European Policy Centre",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPblRRT0dfcF9vQVlORjlxRDhDOWJQYzV2TE1MNHBMQ0ptSkQ0M0hRUGJneWV3SUw3ZFNxXzZuRElVSFVCdzZJRXJMX3c0Q2xJbG5aTXBWeWVzMnJTV2xqYkhlRFVHSDBzNThydW8tYmJZcmp6QVZ3WjAyMGNaeUFUd0IzOUE2WmhmZ1l3SDVIRXpLenNwR2NnTEhkREZ1Qk5yUlJ3?oc=5",
+      "date": "2024-10-03",
+      "source": "European Policy Centre (EPC)",
+      "source_type": "tt",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "6f63f380ac86c91e",
       "title": "Facilitation advantage for operators of the Domiciliary Customs Regime with OEA-Security Certification",
       "summary": "Facilitation advantage for operators of the Domiciliary Customs Regime with OEA-Security Certification &nbsp;&nbsp; Aduana News",
@@ -17264,16 +17342,16 @@
       "via_gnews": true
     },
     {
-      "id": "bdc26ab42cd68121",
-      "title": "OAS Adopts Resolution on the Situation in Venezuela",
-      "summary": "OAS Adopts Resolution on the Situation in Venezuela &nbsp;&nbsp; U.S. Mission to the Organization of American States (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVk9hbllITTZHcmdsM2x1WTNfVFJlSm01WnRXNGtISUg5VHZBTENWNWE0SUxNMnZueTFQVTViTkhSTUdQNURRYUtiLWNDTXJHQ3lDb1QzOTFFVVNFQlphdWtEeDRCNzVYRGlDRVRCdVUwRVRnMnZhWEtkVnVOejlpTUxmMk9BR2M?oc=5",
-      "date": "2024-08-16",
-      "source": "OAS — Organization of American States",
-      "source_type": "io",
-      "region": "LatAm",
+      "id": "563333a02b81494b",
+      "title": "History – Embassy of Nigeria, Tokyo, Japan",
+      "summary": "History – Embassy of Nigeria, Tokyo, Japan &nbsp;&nbsp; Federal Ministry of Foreign Affairs",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iVzBMUlRpNUZQMTBLN1BVby1qRUF1RkN0Yy05S3RuNFRjVDVfa2VWc19PLTluZlpWU3hhRVpiXzVHT0I2UE5ZRHNnUGxaT285ZXZWUEx3VFJSSmVJdTR0eGJDYTkxalFSclhv?oc=5",
+      "date": "2024-08-17",
+      "source": "Nigeria — MFA",
+      "source_type": "gov",
+      "region": "Africa",
       "lang": "en",
-      "theme": null,
+      "theme": "diplomacy",
       "via_gnews": true
     },
     {
@@ -17407,6 +17485,19 @@
       "via_gnews": true
     },
     {
+      "id": "79dad0db043a8301",
+      "title": "Security for Greater Eurasia",
+      "summary": "Security for Greater Eurasia &nbsp;&nbsp; Российский совет по международным делам",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY1h2RG5HcGw5MmdRdlVuRVo3X3BReVVtbzJmMlRDUTRMblctMFZPbi1Md2FhalQzcTIta0NkcWJJWlpBaTVLU3Fpdmc3anFkQ3ViZXVQVlFfU3k3c1RIbjlaaXExSU5YbENhTThmc1prWHR6U1FKWVBxaXVlS2dkd1BVVWFkZXRZLUcycE42NUFEOUdKb1E?oc=5",
+      "date": "2024-07-23",
+      "source": "RIAC — Russian Int. Affairs Council",
+      "source_type": "tt",
+      "region": "RU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "80763631233e0a55",
       "title": "IRREGULARISED MIGRATION AND THE NEXT EUROPEAN COMMISSION",
       "summary": "IRREGULARISED MIGRATION AND THE NEXT EUROPEAN COMMISSION &nbsp;&nbsp; cdn.ceps.eu",
@@ -17469,6 +17560,19 @@
       "region": "Global",
       "lang": "en",
       "theme": "security",
+      "via_gnews": true
+    },
+    {
+      "id": "06ed55cda3d54ee7",
+      "title": "Investing in Climate, Investing in Growth",
+      "summary": "Investing in Climate, Investing in Growth &nbsp;&nbsp; OECD",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYllNYXF4Ujl1eXRtVGFVYnZ2ZDJJVFhhRm5xWm1YTUs3QWU5SUJNcUNUODJUMHlhVXRQejluSWNGbVVNLTBQNzRlX1ByQ0dWYTZOODMtbWhFMktlbXJ6a2E1akc5RHN0VXNILUxVYm5Dai1jNm9TMTNfRnAwYmc4ZTZXendCbF9HQVFPaVNsOWI5bHhiZ3RRSjNVOElKbk9s?oc=5",
+      "date": "2024-07-11",
+      "source": "OECD",
+      "source_type": "io",
+      "region": "Global",
+      "lang": "en",
+      "theme": "climate",
       "via_gnews": true
     },
     {
@@ -17715,19 +17819,6 @@
       "source_type": "gov",
       "region": "FR",
       "lang": "fr",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "58c0d5ef31d5e0e3",
-      "title": "Crossing Thresholds: Ukrainian Resistance to Russian Occupation",
-      "summary": "Crossing Thresholds: Ukrainian Resistance to Russian Occupation &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaXVsemowV3RYMG5BeUhDbkE2RTJSMVZOejhXZUNRUEU2VjU4Ykt4ekJiOXMwNHlscU1fMzh0MEdUVjB5QUNDMkJNckFBZ2tRVklheHNoeUxqcV9fbHowQU9ja3R2azlfaHBDdUpsVFF6U2ZqQkx6TnFFNVpsODNDZ2lLYUN3bVozOWRaMUNnMUdjdkk?oc=5",
-      "date": "2024-06-18",
-      "source": "CSIS",
-      "source_type": "tt",
-      "region": "RU",
-      "lang": "en",
       "theme": null,
       "via_gnews": true
     },
@@ -18260,6 +18351,19 @@
       "source": "CEPS",
       "source_type": "tt",
       "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "63c780643cab0c42",
+      "title": "Positions of BRICS Nations on UN Security Council Reform",
+      "summary": "Positions of BRICS Nations on UN Security Council Reform &nbsp;&nbsp; Российский совет по международным делам",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeElVUUVrLXN1bFVUc2kwZjg2Y25OVUNTcTVDUklXbnJ6Rk84T1FPWVBqQjRtVm5Lc0VndmJVNGxNRGU3UW1vSjh2Z05uZzJTd2RwbGpLaUptWkhfSVFWMmxNRU84ck9wLTNrTVlTcnRBdU9oV2U0QmVDOE16QkRsdEZObUNkMmVfYXhjek9FSkZ3dTlRWVhCN0tKbnBsWWY1Um9jelRpRkZGemVQdkNwY0hMaWtFMGhOSzNv?oc=5",
+      "date": "2024-03-26",
+      "source": "RIAC — Russian Int. Affairs Council",
+      "source_type": "tt",
+      "region": "RU",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -19084,6 +19188,19 @@
       "via_gnews": true
     },
     {
+      "id": "6cc70fcc5cfa5d31",
+      "title": "RIAC :: Glenn Diesen",
+      "summary": "RIAC :: Glenn Diesen &nbsp;&nbsp; Российский совет по международным делам",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwM2xuZGo4dTlIaDVheDVZVkxGcFZWaFRoY3lCQi1GTDRmWEZOOGp5RjVQZzZVUFJ0VWVJWXdLdjZQcXNRMng2amhvamllV2wyVEZyMg?oc=5",
+      "date": "2023-12-05",
+      "source": "RIAC — Russian Int. Affairs Council",
+      "source_type": "tt",
+      "region": "RU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "959727d3f6ddeb68",
       "title": "How Has China’s Belt and Road Initiative Impacted Southeast Asian Countries?",
       "summary": "How Has China’s Belt and Road Initiative Impacted Southeast Asian Countries? &nbsp;&nbsp; Carnegie Endowment for International Peace",
@@ -19266,19 +19383,6 @@
       "via_gnews": true
     },
     {
-      "id": "374a280b7e3bd303",
-      "title": "Apply Now",
-      "summary": "Apply Now &nbsp;&nbsp; UN Careers",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1EV0dZalhXVS10NjhPVjhnOUpsVW1mZy1wMmsxVEJ5cC1TZGhLczNLSEZVbnhGOXJUSWxBR0E2N1BHTHNBS2Q0Yg?oc=5",
-      "date": "2023-11-09",
-      "source": "United Nations",
-      "source_type": "io",
-      "region": "Global",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "a1184f8261407861",
       "title": "The Organization of American States warns Nicaragua it will keep watching even as the country exits",
       "summary": "The Organization of American States warns Nicaragua it will keep watching even as the country exits &nbsp;&nbsp; EL PAÍS English",
@@ -19327,6 +19431,19 @@
       "source_type": "gov",
       "region": "AT",
       "lang": "de",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "a2950e5ce4bb0c69",
+      "title": "Event Finder",
+      "summary": "Event Finder &nbsp;&nbsp; World Bank Live",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DZkdBQXRVbGxSZzVVNzktUlN0YmlmbVJXMVFnNEJBSzBxWGwySTM1cTVmZU95VXFnNmVtM3U1emJUNUs3cUNNd3VyNjlfaERpV0lWRw?oc=5",
+      "date": "2023-11-03",
+      "source": "World Bank",
+      "source_type": "io",
+      "region": "Global",
+      "lang": "en",
       "theme": null,
       "via_gnews": true
     },
@@ -19523,6 +19640,19 @@
       "region": "Africa",
       "lang": "en",
       "theme": "diplomacy",
+      "via_gnews": true
+    },
+    {
+      "id": "9151b3f72db55e72",
+      "title": "Resource library search",
+      "summary": "Resource library search &nbsp;&nbsp; Royal United Services Institute (RUSI)",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVzBiaTJUeXFyVWtTNk1pdnBLM3RwOThSaTNtUE9vcjFRZERlbHVZcU9Mb2toZVRDRld1d2hmNXNEVktqUXNHcHBhZjNHVEc0NndBd3lvRFozRDlIcjBpQUF3VUl1NUpuZWE2X252ZzBZQmxXMDByMURlT01XZExXU2tIeXd4bWYwU2luVFhISk9PWFpEWEdTLUVKWlFoM2hDaEpCb1dqaw?oc=5",
+      "date": "2023-09-25",
+      "source": "RUSI",
+      "source_type": "tt",
+      "region": "UK",
+      "lang": "en",
+      "theme": null,
       "via_gnews": true
     },
     {
@@ -20020,19 +20150,6 @@
       "via_gnews": true
     },
     {
-      "id": "08faa05da5651466",
-      "title": "Making sense of the EU’s Nature Restoration Law",
-      "summary": "Making sense of the EU’s Nature Restoration Law &nbsp;&nbsp; EPC, European Policy Centre",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONVZPekI2YzFVQktxNWFxXzRSVXVjc3gzOUlycWcwZy1pc21UTHBTUGI3ZUVMVlRia1FucnI0aG1rblpsajllU1B6RkRfQ3RuOGE2d2ZEVEJmZE44bWVlWGFxVS1ocFNCRnNOTUVja3N6UmJyV1F1eE04b3MwcUVpYlI5dUM2endtQ0JuSWtR?oc=5",
-      "date": "2023-07-14",
-      "source": "European Policy Centre (EPC)",
-      "source_type": "tt",
-      "region": "EU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "cc2899fde421a3c8",
       "title": "The 2023 Federal Government Strategy on China - Federal Foreign Office",
       "summary": "The 2023 Federal Government Strategy on China - Federal Foreign Office &nbsp;&nbsp; Auswärtiges Amt",
@@ -20423,19 +20540,6 @@
       "via_gnews": true
     },
     {
-      "id": "b3f2a846113de8b4",
-      "title": "Mapping the Semiconductor Supply Chain: The Critical Role of the Indo-Pacific Region",
-      "summary": "Mapping the Semiconductor Supply Chain: The Critical Role of the Indo-Pacific Region &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMW9OMWRUSTFkRHRxZktEeDM0VEZ1cjhqRktPYWxvN1RQY1RPcHRxUTFIVlc3MHMwU1dtY0dnbV9wdThiRVI0dEpIaWdDWlBvek9tSEd0V21XeGhCbFE5aEtPak9VMUJBVjBaM0RvVW9BMXVHN01PX1dxZkRJcGZHYkNRZ2NLaGJUa3FtVlZTRlMzczg5Y0VYb3M1NUtHa2c?oc=5",
-      "date": "2023-05-30",
-      "source": "CSIS",
-      "source_type": "tt",
-      "region": "US",
-      "lang": "en",
-      "theme": "technology",
-      "via_gnews": true
-    },
-    {
       "id": "2a5857f11bee1bd7",
       "title": "De Nederlandse Afrikastrategie 2023-2032",
       "summary": "De Nederlandse Afrikastrategie 2023-2032 &nbsp;&nbsp; Rijksoverheid.nl",
@@ -20639,6 +20743,19 @@
       "source": "Brookings",
       "source_type": "tt",
       "region": "US",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "162381f15e597697",
+      "title": "RIAC :: Igor Yushkov",
+      "summary": "RIAC :: Igor Yushkov &nbsp;&nbsp; Российский совет по международным делам",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WS0Z4Vm9vTXJzeWJGTVR2ZWdzUDcxVWxjbzJ5dXJhallCNlJvRllHVkY0NHZnOUpsS0lXYmF0RXpXZW1JcU5YR1NyeXRoSlZGUlRQMg?oc=5",
+      "date": "2023-04-26",
+      "source": "RIAC — Russian Int. Affairs Council",
+      "source_type": "tt",
+      "region": "RU",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -21541,19 +21658,6 @@
       "via_gnews": true
     },
     {
-      "id": "eb42d77106840f2a",
-      "title": "Keeping promises while keeping score: Gauging the impacts of policy proposals on racial equity",
-      "summary": "Keeping promises while keeping score: Gauging the impacts of policy proposals on racial equity &nbsp;&nbsp; Brookings",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeVJPMF8tN1owTGpYcl8zZ0NHQmRxNGFrVHdydVRfekM1QWxfTVhlYTd6NTUtUk5qUlFWR2p2UW9EWWNlMTFHVmZBWlJrVkNnWVhLR042M01NUGtyc1R6WFJGNGgxRDZWMUVlTlVNRm1iQk4wUFRXQkN0TkhYLTNYeTBfcVozMElMcHIxNDkzb1lnQ1JiaVI5dDhQYTVlUlhxMmloQmhIdENyaUdG?oc=5",
-      "date": "2022-10-11",
-      "source": "Brookings",
-      "source_type": "tt",
-      "region": "US",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "0df3f1cc386fcc71",
       "title": "Internationale Klimaatstrategie",
       "summary": "Internationale Klimaatstrategie &nbsp;&nbsp; Rijksoverheid.nl",
@@ -21642,6 +21746,19 @@
       "region": "PL",
       "lang": "en",
       "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "6cfe26eda690353d",
+      "title": "Why the Zaporizhzhia Nuclear Power Plant Matters…for the Whole World",
+      "summary": "Why the Zaporizhzhia Nuclear Power Plant Matters…for the Whole World &nbsp;&nbsp; wilsoncenter.org",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQU1NYS1KMmJSSVcwei13Z3FqVzZfY1dZRkpXT0VKTDJYM2JXRjEwY2ttcGVtUzQ2b3YtYUU4dkZqVFlPaWJ5QUdIRVpERnZjM25IaGJsd212eUpYTnYzMXNsUTRvNm1jcGNibzROREZ2dFdydkVDV0ZLU3U2Nmx2V1dLUXlqR1lpRUI5eVdiNHdjU3pDeVRMcThWd2lPelk?oc=5",
+      "date": "2022-09-19",
+      "source": "Wilson Center",
+      "source_type": "tt",
+      "region": "US",
+      "lang": "en",
+      "theme": "security",
       "via_gnews": true
     },
     {
@@ -21749,10 +21866,10 @@
       "via_gnews": true
     },
     {
-      "id": "9d1ad39a740a57df",
+      "id": "219c7ebc87136301",
       "title": "Foreign Affairs ID Card Portal – Secure Government Verification",
       "summary": "Foreign Affairs ID Card Portal – Secure Government Verification &nbsp;&nbsp; Nigeria's Ministry of Foreign Affairs",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBob0xDbFdsTDh4WlluZHNhcnZPYWM1T2xYS0hXRU9KRjdUMkhuUnFza0JCWUNSMnl5Ml9ZU3QxNHczNjhXQUtTS3RjVQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1OWTItMzJOVWlseFctd2JXWEZlR2xNc01CQ0p3eGEzSlJ5dVVpZmdJX1NCY1FORXpxVHp0eVpNeU5FRzV0cVdmbTZoemJGT19i?oc=5",
       "date": "2022-08-19",
       "source": "Nigeria — MFA",
       "source_type": "gov",
@@ -22104,19 +22221,6 @@
       "title": "Embaixada do Brasil em Bangkok — Ministério das Relações Exteriores",
       "summary": "Embaixada do Brasil em Bangkok — Ministério das Relações Exteriores &nbsp;&nbsp; www.gov.br",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtc1BkVTl0WHp3RXZpZ0RuemgzSi1qYlMxZDlYUF92WlJVVm4xN3FCUjZkMDNCU3hBOWdtY18tbi1EQTYwMW5QbnB3ajNTaDhCa211Z3QtMEVadw?oc=5",
-      "date": "2022-06-28",
-      "source": "Brazil — Itamaraty",
-      "source_type": "gov",
-      "region": "LatAm",
-      "lang": "pt",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "b94855ce3b6a1da1",
-      "title": "Embaixada do Brasil em Abuja — Ministério das Relações Exteriores",
-      "summary": "Embaixada do Brasil em Abuja — Ministério das Relações Exteriores &nbsp;&nbsp; www.gov.br",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KTlRUeHpxTkxpek16ZXpaZ1hGb0d5cUJhTFRtUl9aMGk1U2VKWDZzNUZsVkhWNVRtamZzU09lZ1p1TzNIcmdNdk5IMlI0THQ2LTAtUzRZcw?oc=5",
       "date": "2022-06-28",
       "source": "Brazil — Itamaraty",
       "source_type": "gov",
@@ -22581,19 +22685,6 @@
       "via_gnews": true
     },
     {
-      "id": "1cd915bfc8c648a0",
-      "title": "Programme biologique militaire en Ukraine, histoire d’une désinformation russe",
-      "summary": "Programme biologique militaire en Ukraine, histoire d’une désinformation russe &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX0daUWtscXhPQlBkUEh2VXVqcnJuS0NfeklpVFVreHJSdUhkbGQ0VXQ5UERhYmJ6YVlkeUREYnN3VHJiUzU3aFVzbXBCdUdxNldmeFd3M0ZTUFZaSTd4MkwyWU9LV25RM3Y0Qkd1SGxhd3VUY0JPT2NMNVlvalBtWVNhM2tRZFFQSk9PSGJhSnhkcFdUUEdrRzNjYnR3RmZWdk5XbnYweVE1eEVsellBQlJFalQ5S1VXdzl1UmdoUzJOZw?oc=5",
-      "date": "2022-03-17",
-      "source": "FRS — Recherche Stratégique (FR)",
-      "source_type": "tt",
-      "region": "RU",
-      "lang": "fr",
-      "theme": "security",
-      "via_gnews": true
-    },
-    {
       "id": "7fcf63d19f3006f2",
       "title": "Embajada de España en Arabia Saudí",
       "summary": "Embajada de España en Arabia Saudí &nbsp;&nbsp; Ministerio de Asuntos Exteriores, Unión Europea y Cooperación",
@@ -22650,19 +22741,6 @@
       "title": "Embajada de España Nigeria",
       "summary": "Embajada de España Nigeria &nbsp;&nbsp; Ministerio de Asuntos Exteriores, Unión Europea y Cooperación",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0ZGFkVGRCZWl5UkdoakdqTnFJSktLMFlRX1JrTTYxa0pfUmt5QnRPbTY1OWRhQ3lMbGRXN2VDX1pBRGNEWGFwVGVhY0FaZ2xSWi10OHFLMV8?oc=5",
-      "date": "2022-03-15",
-      "source": "Spain — MAEC",
-      "source_type": "gov",
-      "region": "ES",
-      "lang": "es",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "ec2cf3aab0a93862",
-      "title": "EMBAJADA DE ESPAÑA EN LA REPÚBLICA DE GUINEA BISSAU",
-      "summary": "EMBAJADA DE ESPAÑA EN LA REPÚBLICA DE GUINEA BISSAU &nbsp;&nbsp; Ministerio de Asuntos Exteriores, Unión Europea y Cooperación",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZaEQ4MjNLdm8yd0M3cDNvQXM5cE14YTVXR255VFpuWUtwNHE0OUUwZFRIZHN5cFNSQUNESlViQjhJZ19mMnJ3Z3hIbVRfNFlNWVYxUXpiNmpWQQ?oc=5",
       "date": "2022-03-15",
       "source": "Spain — MAEC",
       "source_type": "gov",
@@ -22832,6 +22910,19 @@
       "title": "Embajada de España en Mauritania",
       "summary": "Embajada de España en Mauritania &nbsp;&nbsp; Ministerio de Asuntos Exteriores, Unión Europea y Cooperación",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsT1NVMnh6amR0bEdyTm5BdkVzbVV5N2JpdDN1VzBoaEt4aXgtNjc4QS1RbTlsWHhCX2NXeUpydFVaQWlIcUpEWkJ6a0NhRUxrYmtCbnlydnhueGhjSjRPV0duSQ?oc=5",
+      "date": "2022-03-09",
+      "source": "Spain — MAEC",
+      "source_type": "gov",
+      "region": "ES",
+      "lang": "es",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "2c31fcd608f7964f",
+      "title": "Consulado General de España en Toronto",
+      "summary": "Consulado General de España en Toronto &nbsp;&nbsp; Ministerio de Asuntos Exteriores, Unión Europea y Cooperación",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Pa3A2UjBXN3U1Wm9vcnZndXlxZVB0T0RDNlowQncxV2xvRnZ1NEJJMVFQRUdSUUFGbFhYTVc1RnVkeUU1WUU2VkotQnQ0R1VjN3E1NmxYWTdKYnl3RHFjai1qVzNzMGRtU2pVbFJTcGpGVm12LVNnZGx3?oc=5",
       "date": "2022-03-09",
       "source": "Spain — MAEC",
       "source_type": "gov",
@@ -23920,19 +24011,6 @@
       "via_gnews": true
     },
     {
-      "id": "6bdfb115e64a9563",
-      "title": "Report on the Implementation of the Recommendation OF THE COUNCIL concerning Guidelines Governing the Protection of Privacy and",
-      "summary": "Report on the Implementation of the Recommendation OF THE COUNCIL concerning Guidelines Governing the Protection of Privacy and &nbsp;&nbsp; OECD",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nSHBZNkszWVUtYk0tYWI4eXVzQktNcGUtbFNRWWxrV3hLZ1FOS2VIMU5xTVo3Zmh0UjdrU3JTVU9NWU4xODljaktINHo0NFdaOW1aYnJMUy1Mdw?oc=5",
-      "date": "2021-03-17",
-      "source": "OECD",
-      "source_type": "io",
-      "region": "Global",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "1c8404822efb1b18",
       "title": "Universal Declaration of Human Rights",
       "summary": "Universal Declaration of Human Rights &nbsp;&nbsp; Welcome to the United Nations",
@@ -23942,6 +24020,19 @@
       "source_type": "io",
       "region": "Global",
       "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "7b6076bbe8d91316",
+      "title": "e-consular - ec-losangeles.itamaraty.gov.br",
+      "summary": "e-consular &nbsp;&nbsp; ec-losangeles.itamaraty.gov.br",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41YVZHUUZtd1FZTUNGSmtDeTRFZ1FFY0piY1gxWTg3MVpoc2JRTWZyOEUzYVZVenJjalVsZWc4UVh1VjJERldxQVB5VmRSTnFK?oc=5",
+      "date": "2021-03-13",
+      "source": "Brazil — Itamaraty",
+      "source_type": "gov",
+      "region": "LatAm",
+      "lang": "pt",
       "theme": null,
       "via_gnews": true
     },
@@ -24297,19 +24388,6 @@
       "via_gnews": true
     },
     {
-      "id": "98c15d50e63e1675",
-      "title": "Europe’s pivot to Africa: Shaping the future of the strategic partnership",
-      "summary": "Europe’s pivot to Africa: Shaping the future of the strategic partnership &nbsp;&nbsp; EPC, European Policy Centre",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMUl2RlE4MmlhbG4wNHpnc21NXzgtRVVGa3ZZOEF0emxoUHQyYTA5MV9tcVJvX2xmVjJxRTJTUnhJRjQ3VFpUZlRBamJzYThoY3RmX0tWSVRDeTVucDlBYTItNVBNcGhQVUQ1NE5hUHR4dzhEVWc2YjdjMnVxUUU0Y2QzV0Y5SkhrbFZXeTZyemJQWGpYOXdzeW5PS2NqZ0FPMnRsUmdmMi1SY1U?oc=5",
-      "date": "2020-10-16",
-      "source": "European Policy Centre (EPC)",
-      "source_type": "tt",
-      "region": "EU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "87a867ff732c570c",
       "title": "Australia",
       "summary": "Australia &nbsp;&nbsp; Lowy Institute Asia Power Index",
@@ -24318,19 +24396,6 @@
       "source": "Lowy Institute (AU)",
       "source_type": "tt",
       "region": "AU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "282a401ad6d2b8d6",
-      "title": "Eight Principles of the “Greater Eurasian Partnership”",
-      "summary": "Eight Principles of the “Greater Eurasian Partnership” &nbsp;&nbsp; Российский совет по международным делам",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORnl0YVBPRGM3dVN6RDluRWJ1eGxERHlUYVcyLW9SbFA1dldYbFlwcHNFcjgwMWNCZWFxbHN0TGpMNnhld1NLeXpFZTNZbXRjakNaT2R4c1FGY3lTd2FxaDJ3dWFuQVl4QjRHOFQzSE1kbnNRUDBDWDhXXzdTRWtWYUhQMmpNRGpzOXBjcXJXcnRpTWdHMlRGQU1HS1V4Yk9QQ3lEa2JqeU5fLUNXdDZyeTZXV0Z6UQ?oc=5",
-      "date": "2020-09-28",
-      "source": "RIAC — Russian Int. Affairs Council",
-      "source_type": "tt",
-      "region": "RU",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -24544,6 +24609,32 @@
       "via_gnews": true
     },
     {
+      "id": "fa881efbc1d7c5c1",
+      "title": "Archive Press",
+      "summary": "Archive Press &nbsp;&nbsp; Gob MX",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJRTFIVGJqVFFvbHFkMUVEY3FrcDRIbF9jdkdwMDBSVHNCS0FvTXUtMWNrdkNRMl9UUXliQlc3ay16OEhTdjVDOTNobUpnVXBWTkUxeFZjVU10OW56a2JXWktvRW1PaFZGTlNodF9hVjU0VE5YVXA3OA?oc=5",
+      "date": "2020-05-28",
+      "source": "Mexico — SRE",
+      "source_type": "gov",
+      "region": "LatAm",
+      "lang": "es",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "612092e8a98708a6",
+      "title": "Dr. Robert Zubrin: We Will Be on Mars Before the End of the Next Decade",
+      "summary": "Dr. Robert Zubrin: We Will Be on Mars Before the End of the Next Decade &nbsp;&nbsp; Российский совет по международным делам",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU2xPc0Z0aHI5ODlPYnNlZnkzOHpGdWVnYzJjR21lamhvUlhqX0pmeFpaaDhNZXlhNWdUZEItbDVxYnJOQmsyMWxJUW90bk0yQzUzM014cENGMzZjSG9GVkZvSlItR08tSUFVekpFODBGUGNYdlpsbDVwdGhmWGtRdUJfTmNLajczdkxIQ1RpWlhFVEt5eklzMldCd015aGhQdDl1eS12NWd5RS14MUJaUTljb05WWFZEdWdMR3R4NWNnZWZkRmc?oc=5",
+      "date": "2020-05-15",
+      "source": "RIAC — Russian Int. Affairs Council",
+      "source_type": "tt",
+      "region": "RU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "3ca0125c8fcf216a",
       "title": "Rebooting Europe: a framework for a post COVID-19 economic recovery",
       "summary": "Rebooting Europe: a framework for a post COVID-19 economic recovery &nbsp;&nbsp; Bruegel",
@@ -24635,6 +24726,19 @@
       "via_gnews": true
     },
     {
+      "id": "63c163912236837e",
+      "title": "French Nuclear Deterrence Policy, Forces, And Future: A Handbook",
+      "summary": "French Nuclear Deterrence Policy, Forces, And Future: A Handbook &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOFRDc01PRGhHakVrT3VHTjZLbVg1TjNxaDNaSndnMU1BdVdxOV9wVVQxUERDbkhhdjM0cS1kaUxqWnhOLW5lTVR1QXNnTk9jc3NFbUdnTUlGX1NVUEZMdnF5M2tHak5jSDFUUVRNMUk3cDlWVl9LWlN0OFNLdDB6cW9BZWVGMGphOXBWT1VzUHBCUlFZZGlYUVU1Xzc0QzRVNjFLTzJueEZWb0p6aXUyMnI0VHBlcnViczhDNnlUc2lHWThfYU1VQ2o3ZWg?oc=5",
+      "date": "2020-03-25",
+      "source": "FRS — Recherche Stratégique (FR)",
+      "source_type": "tt",
+      "region": "FR",
+      "lang": "fr",
+      "theme": "security",
+      "via_gnews": true
+    },
+    {
       "id": "5ad94081d2791693",
       "title": "Emergency telephone numbers for Mexico's representations abroad",
       "summary": "Emergency telephone numbers for Mexico's representations abroad &nbsp;&nbsp; Gob MX",
@@ -24710,6 +24814,19 @@
       "region": "US",
       "lang": "en",
       "theme": "security",
+      "via_gnews": true
+    },
+    {
+      "id": "3fb7822bf73b4265",
+      "title": "RIAC :: Developing Russia's Relations with African Countries",
+      "summary": "RIAC :: Developing Russia's Relations with African Countries &nbsp;&nbsp; Российский совет по международным делам",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YcEhYeHdrSWtOUERlVWlqcVI5V3BOdUgza2lyOEQ1SGItSXB0Qnlmd0pKRXBsa0dsVm1Vc0oxVnFCOUJrZnBUWEpZZ0paTDBWS3B1c0RtdDVPdDMxek1uMDZjQ1Q5WUZmMnY5aUJB?oc=5",
+      "date": "2020-02-12",
+      "source": "RIAC — Russian Int. Affairs Council",
+      "source_type": "tt",
+      "region": "RU",
+      "lang": "en",
+      "theme": null,
       "via_gnews": true
     },
     {
@@ -25259,19 +25376,6 @@
       "via_gnews": true
     },
     {
-      "id": "dca02a6694912716",
-      "title": "RIAC :: Julia Melnikova",
-      "summary": "RIAC :: Julia Melnikova &nbsp;&nbsp; Российский совет по международным делам",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fYjFwUTRsNUJKbElCZm5EX3RnS2E2SmkzR3ZMOEg1MWswcGtjak03T19UcXhhOTMwX21iYlBZVzFIdUlMbXB1YnBSd1o3SE4tZ0c0Y3B3ME4?oc=5",
-      "date": "2019-06-25",
-      "source": "RIAC — Russian Int. Affairs Council",
-      "source_type": "tt",
-      "region": "RU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "bf977b8633bd83d2",
       "title": "Modernization of world nuclear forces continues despite overall decrease in number of warheads: New SIPRI Yearbook out now",
       "summary": "Modernization of world nuclear forces continues despite overall decrease in number of warheads: New SIPRI Yearbook out now &nbsp;&nbsp; Stockholm International Peace Research Institute",
@@ -25425,19 +25529,6 @@
       "region": "DK",
       "lang": "en",
       "theme": "diplomacy",
-      "via_gnews": true
-    },
-    {
-      "id": "c7589bffab9aef52",
-      "title": "Meeting of the Council at Ministerial Level, 22-23 May 2019 MAKING OECD STANDARDS AND POLICIES COUNT ON A GLOBAL SCALE",
-      "summary": "Meeting of the Council at Ministerial Level, 22-23 May 2019 MAKING OECD STANDARDS AND POLICIES COUNT ON A GLOBAL SCALE &nbsp;&nbsp; OECD",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZSGtwU2pxeUs3VnVOQS0tc2hYRXlfN3hqZ19TaHBEZ1gwNkJCd3c4bnF1OE1uZm9RZnBYbHpZQ19oT1ZQLXQwZlJXNHdialRKZGRzWVRoSkRBTnZpdmZv?oc=5",
-      "date": "2019-05-07",
-      "source": "OECD",
-      "source_type": "io",
-      "region": "Global",
-      "lang": "en",
-      "theme": null,
       "via_gnews": true
     },
     {
@@ -25779,6 +25870,45 @@
       "via_gnews": true
     },
     {
+      "id": "28501051b611fe92",
+      "title": "Topic: Global governance",
+      "summary": "Topic: Global governance &nbsp;&nbsp; Российский совет по международным делам",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWakE4bDd4WVZJY0JfNFdWMHJFc1RmMk0wMGRVb2FWRGJVQ2dJeWVoRW9tSDdCa2M2UE9QcUVtX1czNExXWVR6VkhnYnJIQ2JOMTRwTWFQSEJ4eV93NExuM25nUQ?oc=5",
+      "date": "2019-03-31",
+      "source": "RIAC — Russian Int. Affairs Council",
+      "source_type": "tt",
+      "region": "RU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "ee7a766d2a9c779f",
+      "title": "RIAC :: RIAC Library",
+      "summary": "RIAC :: RIAC Library &nbsp;&nbsp; Российский совет по международным делам",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0tYVdFdkZfWHdnV2ZyRVJpNXJsb3Z5dVUtNnlRSGhkWDhGTGhMeWdRSksyNG1wLXdGQ2FuXzBhd1diNVVQMFVoaHg3YTdXZw?oc=5",
+      "date": "2019-03-30",
+      "source": "RIAC — Russian Int. Affairs Council",
+      "source_type": "tt",
+      "region": "RU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "b48353059675583f",
+      "title": "RIAC :: Sergey Balmasov",
+      "summary": "RIAC :: Sergey Balmasov &nbsp;&nbsp; Российский совет по международным делам",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3YnI5WnpTQ244cG1jUWp1amcxZjQ5aExURW5RSEotVFAybVNXa2xYaFlNMU1zUlhfdWxCVTJWYkYzNjJ2VVBMbzBGMmtqS0hIRTJfdlFCbk4?oc=5",
+      "date": "2019-03-29",
+      "source": "RIAC — Russian Int. Affairs Council",
+      "source_type": "tt",
+      "region": "RU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "9d7697ee9d9f9ee0",
       "title": "RIAC :: Ivan Timofeev",
       "summary": "RIAC :: Ivan Timofeev &nbsp;&nbsp; Российский совет по международным делам",
@@ -25805,10 +25935,23 @@
       "via_gnews": true
     },
     {
-      "id": "b113f3188f7b682a",
-      "title": "RIAC :: Reports",
-      "summary": "RIAC :: Reports &nbsp;&nbsp; Российский совет по международным делам",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OYmVIeWNzd1ZNa2RBTGx1OF9iR25zTnhXQThYT1dHcGY4NS14S245cjBXMU1Ha2VMaUNJTWZldm03Y1RoRTJaQ25ISnRqWks5VkJQQk9VX3hMV1RaRnZHVA?oc=5",
+      "id": "fe9af6f1212a3b57",
+      "title": "RIAC :: Analytical articles",
+      "summary": "RIAC :: Analytical articles &nbsp;&nbsp; Российский совет по международным делам",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NU1FXUERPUkpnc3ZHcFhSc1VHd1EweDJfX1hET1d6SFZVc0NrS19hN1FTc0NhZFJzWXMwRHphVl85MmhWUnpnaVkyZ3pEcHd2OEV3bVQxbjc0Y2tkV00wdGNUWXktNWZhYW9fdnpETQ?oc=5",
+      "date": "2019-03-29",
+      "source": "RIAC — Russian Int. Affairs Council",
+      "source_type": "tt",
+      "region": "RU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "dc308c3ef711af24",
+      "title": "RIAC :: Sergey Brilev",
+      "summary": "RIAC :: Sergey Brilev &nbsp;&nbsp; Российский совет по международным делам",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54ZGlTd0stYThnWlUydy10WDBHNGtEYThybEJnNXJYV0Y0R2xTTnJYdzR6TGJ6TTdKWFNjZUFMWkplU1Nfc2NHcENSMlVRajlRTzJXTkhn?oc=5",
       "date": "2019-03-28",
       "source": "RIAC — Russian Int. Affairs Council",
       "source_type": "tt",
@@ -25818,10 +25961,10 @@
       "via_gnews": true
     },
     {
-      "id": "3f22d4ecb629c743",
-      "title": "RIAC :: RIAC Staff",
-      "summary": "RIAC :: RIAC Staff &nbsp;&nbsp; Российский совет по международным делам",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vZzJZWlpKNmhpbGlJSUFJZGhtX0pCYnQyN1JhSHc3UVM2WWJBalBBd0ROX3FFSnFnWGhJbVJ2QW9FVzhTWnZleWFTOHpXaWlIV010cDc5c2RqUQ?oc=5",
+      "id": "ea7839cf6adbb2ac",
+      "title": "RIAC :: Russia's Foreign Policy",
+      "summary": "RIAC :: Russia's Foreign Policy &nbsp;&nbsp; Российский совет по международным делам",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qckMtNU96MlEwOUM5aUFoM2Q0STZDQzF3WWVObnlZeGhlU3FxZndHWXV3bHczc2ZTWmJGdXM1YVY4ZUVhQ1psdXBmOEpyRDZTLWlaTUZNcmtacnJaQktlZHdqVHZRZHhq?oc=5",
       "date": "2019-03-28",
       "source": "RIAC — Russian Int. Affairs Council",
       "source_type": "tt",
@@ -25831,10 +25974,10 @@
       "via_gnews": true
     },
     {
-      "id": "dbf8454eafb9d941",
-      "title": "RIAC :: General Information",
-      "summary": "RIAC :: General Information &nbsp;&nbsp; Российский совет по международным делам",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5OY3JHRkltaW5yVEQyTUw5XzlzNlc3enp3bDN5bGhjandFM1NyRzAwUXpfNHNZZ05UVDhkS1owY3dtdld2QjRhTmJjNA?oc=5",
+      "id": "fa393f1e953b040c",
+      "title": "RIAC :: Partners",
+      "summary": "RIAC :: Partners &nbsp;&nbsp; Российский совет по международным делам",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzOEtnaWJxZ29qUEVvRzYtRUtCa2ZXVXJKNm5nWldlRFVWNHhIYV9ubnJEblZOb2NWNFFNeWlaWVZmRk1nb1Y1aGYtRkRvWUpkd245aDlqVQ?oc=5",
       "date": "2019-03-28",
       "source": "RIAC — Russian Int. Affairs Council",
       "source_type": "tt",
@@ -25844,10 +25987,10 @@
       "via_gnews": true
     },
     {
-      "id": "e9978eefaa9b0527",
-      "title": "RIAC :: Fyodor Lukyanov",
-      "summary": "RIAC :: Fyodor Lukyanov &nbsp;&nbsp; Российский совет по международным делам",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QbGUwbmlFeGdlZ1RVNU5mWGpCU0ttbUZTOGFLZ0czSnpLWnRQQWFid0RwN1IzOGRMTFh2U21hQXNZbVo3dV9OZFczSTUxcE9BdkxSeVlJVQ?oc=5",
+      "id": "736fdf097c6b7e99",
+      "title": "RIAC :: Ivan Polyakov",
+      "summary": "RIAC :: Ivan Polyakov &nbsp;&nbsp; Российский совет по международным делам",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SR1NZYzBTTWQydlNrZ2NsS0lsbFF3dTR5MWNqcEZWbGlkMEd6YVhrRTBNeENKbjVTSTA3OURwWWM3UDU4SVpoaXlTSHBZeUllcXItUXVB?oc=5",
       "date": "2019-03-28",
       "source": "RIAC — Russian Int. Affairs Council",
       "source_type": "tt",
@@ -25857,10 +26000,10 @@
       "via_gnews": true
     },
     {
-      "id": "9575bbcb4d0fab80",
-      "title": "RIAC :: Dmitriy Trenin",
-      "summary": "RIAC :: Dmitriy Trenin &nbsp;&nbsp; Российский совет по международным делам",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Id1Q2ek5RdzI0SktrckY4cVBEZVFKbERWWW94NWZtSkt4UG96a2ZjZ2p0OVNCdGJ1NUg1WmJLbFBNRlhlYTFhX1d3RkVpVHhwU2FpQ2JLRQ?oc=5",
+      "id": "cc24e4ba74f6e732",
+      "title": "RIAC :: Blogs",
+      "summary": "RIAC :: Blogs &nbsp;&nbsp; Российский совет по международным делам",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE10MjNqRzVYdzlyYjdSWnZqd2ptZEN2TlB5R2hCRGxIT3lpQ0otSGZScEdtdzFneXR3R1lycFhScFQ2U0RtQ3o1VDcxUQ?oc=5",
       "date": "2019-03-28",
       "source": "RIAC — Russian Int. Affairs Council",
       "source_type": "tt",
@@ -25874,6 +26017,19 @@
       "title": "RIAC :: Andrey Kortunov",
       "summary": "RIAC :: Andrey Kortunov &nbsp;&nbsp; Российский совет по международным делам",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FWjd0U2t6YndMclFZN3R1NG5vaS1Zc2tWeFNvMWF1UTJrOG5BUUdTNXdZVnV0Ykt4N1UxSlFNemx5T1pRQy1QU2Rqb2taallkYkZuZUtVVEY?oc=5",
+      "date": "2019-03-28",
+      "source": "RIAC — Russian Int. Affairs Council",
+      "source_type": "tt",
+      "region": "RU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "49b8296f0cced7f2",
+      "title": "RIAC :: Analytics and comments",
+      "summary": "RIAC :: Analytics and comments &nbsp;&nbsp; Российский совет по международным делам",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwYWc1Z3pxMWVGUnBQS29HdlpIa0JnZTVtbWtYcmhxMmJidTg1MzV3S3IyYkdRaGdTYVVwWG1fZWZsNUtzSXJrbXVfbWlQWkxXTjdwYTM1ZHlOLVBaZEZ3bEln?oc=5",
       "date": "2019-03-28",
       "source": "RIAC — Russian Int. Affairs Council",
       "source_type": "tt",
@@ -26299,22 +26455,9 @@
       "via_gnews": true
     },
     {
-      "id": "5e9a0397c3c4f68d",
-      "title": "Abkhazia and South Ossetia: Time to Talk Trade",
-      "summary": "Abkhazia and South Ossetia: Time to Talk Trade &nbsp;&nbsp; International Crisis Group",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTTEzZmJUaTVkVktVZHdkaXo5RnBuRUZHeWgtYlktT0lVNXNFeEZ2bm5jLXdJMmg2T1ZqSU04S25RdVV2TlBfa0pzX2hJRWlkWlFnUmc2X1JzdVVOQVdyRmpDWHlrSm9SNS1LSUVDZUV3SkIxQnRqVllCUHMzdmZhbnFZMVJNUmk3T3hrV0hSbDg2VWtmVXBwODZxVDJnY1lpUU01b1Z1WDBWQQ?oc=5",
-      "date": "2018-05-24",
-      "source": "International Crisis Group",
-      "source_type": "tt",
-      "region": "Global",
-      "lang": "en",
-      "theme": "economy",
-      "via_gnews": true
-    },
-    {
       "id": "a951b4a48c770e82",
       "title": "Ministry of Foreign Affairs",
-      "summary": "Ministry of Foreign Affairs &nbsp;&nbsp; Federal Ministry of Foreign Affairs",
+      "summary": "Ministry of Foreign Affairs &nbsp;&nbsp; Nigeria's Ministry of Foreign Affairs",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBldzZhYmFYM3k2Vzg5VElXcE1fSjRpVGdpeldIYXI0U3hwc08yeUtrZ0NYVXoyMTBqZFIxZVIzVmIwTHpETEpZdEVR?oc=5",
       "date": "2018-05-19",
       "source": "Nigeria — MFA",
@@ -26425,19 +26568,6 @@
       "source_type": "tt",
       "region": "LatAm",
       "lang": "es",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "71e86bb32ebfbc68",
-      "title": "Who Controls Syria? The Al-Assad family, the Inner Circle, and the Tycoons",
-      "summary": "Who Controls Syria? The Al-Assad family, the Inner Circle, and the Tycoons &nbsp;&nbsp; Российский совет по международным делам",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZmZQQmg1RVBhbTBGQ05LM3BwOGFOOVMwMWdSTjJoSjBlTm1sNS1LM3JpTjltZDlRelhfODg3WGFSWUdpUnFNMXJQQ050cVhJcFA4NDNzOXMtZjVDVXppbEt5X3NlbTlSMzFUdV95c1RVVGlGVGhUVkJxYVczN0RQOHhPaWpiaGh5VWdwSjNDUWdSOVpEMjRQUElhamkwVXVCS2JOWlJ6blJXTy00S09hZy1XZk9FUEEtdGZTcFpvLUdnUGVVMThfeExheWJZZ0E?oc=5",
-      "date": "2018-02-12",
-      "source": "RIAC — Russian Int. Affairs Council",
-      "source_type": "tt",
-      "region": "RU",
-      "lang": "en",
       "theme": null,
       "via_gnews": true
     },
@@ -26702,19 +26832,6 @@
       "via_gnews": true
     },
     {
-      "id": "9ba2340a9b87ee36",
-      "title": "Greater Eurasia: Perceptions from Russia, the European Union, and China",
-      "summary": "Greater Eurasia: Perceptions from Russia, the European Union, and China &nbsp;&nbsp; Российский совет по международным делам",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObFZsNUVwSkk2M29NVDMybHBHWURRczlEQXkwalV0aUVVTEJGWlhqNkFmSGI2OHRvdTEzcGsySVpkekVFT1dudDRWSl9mQVhJc0ctNzBpQlhoUTVBZHdpOTBQdFpVdXNJQ2FuaUQ0aG5SQmE2c0R2Y1ZBUkZtMEhKZHJnX01nZ1I5bEthNDJ3TU9zNHlBTFBpTVpwcndUV1VsUDk1OS0xYndmTUNfOENZa0JuVXU0dEZEZTY0UjVlZzJ4c3hNZHZ4Vno4TQ?oc=5",
-      "date": "2017-09-01",
-      "source": "RIAC — Russian Int. Affairs Council",
-      "source_type": "tt",
-      "region": "RU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "6154a4fa7763f517",
       "title": "fr - Fondation pour la Recherche Stratégique",
       "summary": "fr - Fondation pour la Recherche Stratégique &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
@@ -26806,19 +26923,6 @@
       "via_gnews": true
     },
     {
-      "id": "00d61a96fc8c6245",
-      "title": "Intentional homicides (per 100,000 people)",
-      "summary": "Intentional homicides (per 100,000 people) &nbsp;&nbsp; World Bank Open Data",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NMXJwV1p6VWdqb1JsNUtYZUd0MXBzYTdFSk1sYXJjN25VSTBtR0xFbnFfaE1hZXEwOU5MeWVVdXBPQ1RJNUZMdXFkb2xhOWUxa29jeEEyT0VaTW9tUU12Yw?oc=5",
-      "date": "2017-07-02",
-      "source": "World Bank",
-      "source_type": "io",
-      "region": "Global",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "1a2ef464255db38f",
       "title": "Annual report - 2015",
       "summary": "Annual report - 2015 &nbsp;&nbsp; Centre for European Reform (CER)",
@@ -26866,6 +26970,19 @@
       "source": "Centre for European Reform (CER)",
       "source_type": "tt",
       "region": "UK",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "e321a7fc865b7766",
+      "title": "RIAC :: Theses on Russia’s Foreign Policy and Global Positioning (2017–2024)",
+      "summary": "RIAC :: Theses on Russia’s Foreign Policy and Global Positioning (2017–2024) &nbsp;&nbsp; Российский совет по международным делам",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPakFZTl9vZkQ4RjdWeF9xSjk0R0xabEpaMS12VUxvcGpPSWpqOFJrb1BOU3ItOHEzamo3ZTNueGhMcmNDYnB6ajlEMWNmQlo0M0U3aVFVY0pNeENGQzZwcEJoYXJ4QnJOcTJIdXNDQzU3T2dWMmR5RVFNUW5UVGdmM0xZTm1pTVBBMW5ac0h0RTlYS2JZNThuTXhySHpWR0t5QXNuZ1JERHhjUGFicnJCaTdtdEN6TjhoR2c?oc=5",
+      "date": "2017-06-30",
+      "source": "RIAC — Russian Int. Affairs Council",
+      "source_type": "tt",
+      "region": "RU",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -27222,19 +27339,6 @@
       "via_gnews": true
     },
     {
-      "id": "9e4185e01d2dc2b1",
-      "title": "63rd anniversary of women's suffrage in Mexico",
-      "summary": "63rd anniversary of women's suffrage in Mexico &nbsp;&nbsp; Gob MX",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVXJhSy03MlBKYmZCWHVwQkpJTmh1QXRld3hYaXJ4bWdYWkRldldvMHpYa0tHLVRxeVVkRGxYMHA4cGRoQy03VGV4aVREbkhOZEt1TlpMaFVmOFYtY1lhUHE3UVdORHNpLWFWUWl0TWo3eGtqbnZ1emlPZUZkYjlURUllQjFpZw?oc=5",
-      "date": "2016-10-18",
-      "source": "Mexico — SRE",
-      "source_type": "gov",
-      "region": "LatAm",
-      "lang": "es",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "e625f2d858a58b81",
       "title": "The power analysis of power politics and the power politics of power analysis",
       "summary": "The power analysis of power politics and the power politics of power analysis &nbsp;&nbsp; DIIS",
@@ -27449,19 +27553,6 @@
       "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1KSmlmak9RSXUxalk0LXNsODhIakdrX2h0VlVsUDIxQlV1eU9KZUxlUWNrb1BQQ196VEE?oc=5",
       "date": "2016-06-07",
       "source": "SIPRI",
-      "source_type": "tt",
-      "region": "EU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "c71931e2e72a35a5",
-      "title": "EU visa-liberalisation for Turks: Just around the corner?",
-      "summary": "EU visa-liberalisation for Turks: Just around the corner? &nbsp;&nbsp; EPC, European Policy Centre",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOHoxVkFyOU5tZ3NtTlFla2d0QVJfMXZ4VDdjOV9CQ04xLWlXaktDcTM1bGdjWUZPdVlQUzB2Q2VEMUpOaEFuYU1TYUtoS0NWZk10VnpPdjYtZld5d2hZbmhjLW9iZVpvZTZXdVQxUTBhUEJfcjZLX0hXYWdkNWEzVHk4TFhQbTYzMjJ6OC1aUFZZZ1FXWk44YkNn?oc=5",
-      "date": "2016-05-03",
-      "source": "European Policy Centre (EPC)",
       "source_type": "tt",
       "region": "EU",
       "lang": "en",
@@ -27698,6 +27789,19 @@
       "source": "CEPS",
       "source_type": "tt",
       "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "1894a39b490a88ea",
+      "title": "RIAC :: Yevgeny Primakov (1929-2015)",
+      "summary": "RIAC :: Yevgeny Primakov (1929-2015) &nbsp;&nbsp; Российский совет по международным делам",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01V1JFUm50ejdsWW03bHgtSHZqSERqVzg2SGU4LWJWZWN2WGJCZ3VnUGFYSFBpWnExUkJENmhIOEVFU2U5WWFNYUVxYmRLU0swUlc0em5WZlp4aVp3NEdEUFkxOTBtS2ZWX2JJelBn?oc=5",
+      "date": "2015-06-26",
+      "source": "RIAC — Russian Int. Affairs Council",
+      "source_type": "tt",
+      "region": "RU",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -28181,6 +28285,19 @@
       "region": "CN",
       "lang": "en",
       "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "0558a81400db21b8",
+      "title": "The effectiveness of EU sanctions - An analysis of Iran, Belarus, Syria and Myanmar (Burma)",
+      "summary": "The effectiveness of EU sanctions - An analysis of Iran, Belarus, Syria and Myanmar (Burma) &nbsp;&nbsp; EPC, European Policy Centre",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSUd3OU5uVl9YYV9McUVjSENTamk5QWxBQTdtbThVcnVtT3hNbnJ3NDRyTUt1ZXN1Y3NvQ3BYWlcwX2sxVWpScmxvYzNWbTZUZ1dyRFAwZ3A0c1RZUGw0VS1fUG5FLVU2Z3BUa0xyQURWNzMwUFNDVWhnMEMyR3JYSXZwOERsZTR4cE5UWUdaQldkWTlYbko2ak1FeGFBanhGN2RPM1hyc2swZw?oc=5",
+      "date": "2013-11-18",
+      "source": "European Policy Centre (EPC)",
+      "source_type": "tt",
+      "region": "EU",
+      "lang": "en",
+      "theme": "economy",
       "via_gnews": true
     },
     {
@@ -29169,6 +29286,19 @@
       "region": "Global",
       "lang": "en",
       "theme": "security",
+      "via_gnews": true
+    },
+    {
+      "id": "3f5f088b4a719679",
+      "title": "Newsroom",
+      "summary": "Newsroom &nbsp;&nbsp; OSCE Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyU1BsNWItRUxyOGxweVNzUDZYV25CYy1Sb3RYTWhIbzVoWVhETGhnYllVc2tKbEhUdGhJSG40ck1xdzJESXMtY1c1alhMc0ZabktHakQ0R09VamhreTF6UmkyLTl6Q2pUeHRmZVZQOFNBaWQ2c2p0eklpeEE?oc=5",
+      "date": "1995-01-03",
+      "source": "OSCE",
+      "source_type": "io",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
       "via_gnews": true
     },
     {
