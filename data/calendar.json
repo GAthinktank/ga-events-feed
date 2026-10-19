@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-19T16:09:10.428151+00:00",
-    "duration_seconds": 89.899258,
+    "generated_at": "2026-10-19T21:58:11.029625+00:00",
+    "duration_seconds": 89.140327,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2286,
-      "items_strict": 577,
-      "events_detected": 2
+      "items_total": 2289,
+      "items_strict": 573,
+      "events_detected": 4
     },
     "source_count": 99
   },
@@ -91,6 +91,40 @@
       "featured": false,
       "confirmed": true,
       "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "ec6828ad995ac8e1-evt",
+      "title": "24th Recovery and Resilience Dialogue introductory remarks by Commissioner Dombrovskis",
+      "date": "2026-10-19",
+      "end_date": "2026-10-19",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2196",
+      "summary": "European Commission Speech Strasbourg, 19 Oct 2026 Honourable co-chairs, Honourable Members, I am pleased to return to this House for our 24th Dialogue. We have come a long way in implementing the RRF, with EUR ...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "561047baa68eeeb9-evt",
+      "title": "Employment, Social Policy, Health and Consumer Affairs Council (Employment and social policy), 19 October 2026",
+      "date": "2026-10-19",
+      "end_date": "2026-10-19",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YSnBkLURfbGVpNUxMMmlvZ0t2OHU2Y3V4WG4xZF9pWnV3eEVkSXJFSWh5d0x5MlNNNGtQb2JBZGl4TU9yYXJQbXZuYkFtRE9BLTM5T1VMZ0lmb0d4eTQwbFBpQ0JIdVdxemlqQ0pB?oc=5",
+      "summary": "Employment, Social Policy, Health and Consumer Affairs Council (Employment and social policy), 19 October 2026 &nbsp;&nbsp; Consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
       "kind": "diplomatic-event",
       "lang": "en"
     },
