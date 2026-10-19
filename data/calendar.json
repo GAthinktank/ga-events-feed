@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-19T08:38:20.185211+00:00",
-    "duration_seconds": 84.734521,
+    "generated_at": "2026-10-19T16:09:10.428151+00:00",
+    "duration_seconds": 89.899258,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2282,
-      "items_strict": 581,
-      "events_detected": 0
+      "items_total": 2286,
+      "items_strict": 577,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -59,6 +59,40 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "b222ecbcfc3fb3d9-evt",
+      "title": "Commissioner Roswall's address at an event to mark the outcomes of the Structured Dialogue on Water in Belgium",
+      "date": "2026-10-19",
+      "end_date": "2026-10-19",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2198",
+      "summary": "European Commission Speech Leuven, 19 Oct 2026 Minister Bruns and representatives of the regions of Bruxelles and Wallonia. Ladies and gentlemen. I'm delighted to start this week signing the Joint Declarat...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "c3659ad757de5f63-evt",
+      "title": "EU Leaders discuss energy prices, budget, Ukraine during two-day summit in Brussels",
+      "date": "2026-10-19",
+      "end_date": "2026-10-19",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_2197",
+      "summary": "European Commission News Brussels, 19 Oct 2026 European Commission President Ursula von der Leyen participated in the meeting of the European Council of 16-17 October, a dense summit that touched on current...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "eu-council-2026-10",
