@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-19T21:58:11.029625+00:00",
-    "duration_seconds": 89.140327,
+    "generated_at": "2026-10-20T03:09:16.938327+00:00",
+    "duration_seconds": 88.522101,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2289,
-      "items_strict": 573,
-      "events_detected": 4
+      "items_total": 2298,
+      "items_strict": 575,
+      "events_detected": 0
     },
     "source_count": 99
   },
@@ -59,74 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "b222ecbcfc3fb3d9-evt",
-      "title": "Commissioner Roswall's address at an event to mark the outcomes of the Structured Dialogue on Water in Belgium",
-      "date": "2026-10-19",
-      "end_date": "2026-10-19",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2198",
-      "summary": "European Commission Speech Leuven, 19 Oct 2026 Minister Bruns and representatives of the regions of Bruxelles and Wallonia. Ladies and gentlemen. I'm delighted to start this week signing the Joint Declarat...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "c3659ad757de5f63-evt",
-      "title": "EU Leaders discuss energy prices, budget, Ukraine during two-day summit in Brussels",
-      "date": "2026-10-19",
-      "end_date": "2026-10-19",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_2197",
-      "summary": "European Commission News Brussels, 19 Oct 2026 European Commission President Ursula von der Leyen participated in the meeting of the European Council of 16-17 October, a dense summit that touched on current...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "ec6828ad995ac8e1-evt",
-      "title": "24th Recovery and Resilience Dialogue introductory remarks by Commissioner Dombrovskis",
-      "date": "2026-10-19",
-      "end_date": "2026-10-19",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2196",
-      "summary": "European Commission Speech Strasbourg, 19 Oct 2026 Honourable co-chairs, Honourable Members, I am pleased to return to this House for our 24th Dialogue. We have come a long way in implementing the RRF, with EUR ...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "561047baa68eeeb9-evt",
-      "title": "Employment, Social Policy, Health and Consumer Affairs Council (Employment and social policy), 19 October 2026",
-      "date": "2026-10-19",
-      "end_date": "2026-10-19",
-      "location": "",
-      "organizer": "European Council",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YSnBkLURfbGVpNUxMMmlvZ0t2OHU2Y3V4WG4xZF9pWnV3eEVkSXJFSWh5d0x5MlNNNGtQb2JBZGl4TU9yYXJQbXZuYkFtRE9BLTM5T1VMZ0lmb0d4eTQwbFBpQ0JIdVdxemlqQ0pB?oc=5",
-      "summary": "Employment, Social Policy, Health and Consumer Affairs Council (Employment and social policy), 19 October 2026 &nbsp;&nbsp; Consilium.europa.eu",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Council",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "eu-council-2026-10",
