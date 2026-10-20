@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-20T10:51:59.976086+00:00",
-    "duration_seconds": 90.630427,
+    "generated_at": "2026-10-20T16:16:14.542839+00:00",
+    "duration_seconds": 89.476491,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2299,
-      "items_strict": 584,
-      "events_detected": 6
+      "items_total": 2298,
+      "items_strict": 583,
+      "events_detected": 7
     },
     "source_count": 99
   },
@@ -91,6 +91,23 @@
       "featured": false,
       "confirmed": true,
       "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "43db80959f8a757f-evt",
+      "title": "Secretary-General of ASEAN attends the Welcoming Reception of the Inaugural ASEAN Prosecutors/Attorneys General Meeting",
+      "date": "2026-10-20",
+      "end_date": "2026-10-20",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/secretary-general-of-asean-attends-the-welcoming-reception-of-the-inaugural-asean-prosecutors-attorneys-general-meeting/",
+      "summary": "On 20 October 2026, Secretary-General of ASEAN, Dr. Kao Kim Hourn, along with Prosecutors General and Attorney Generals of ASEAN Member States, attended the welcoming reception hosted by the Honourable Datin Seri Paduka Dayang Hajah Nor Hashimah binti Haji Muhammed Taib, Attorney General of Brunei T",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
       "kind": "diplomatic-event",
       "lang": "en"
     },
