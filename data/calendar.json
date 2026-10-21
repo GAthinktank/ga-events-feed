@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-21T11:04:11.266760+00:00",
-    "duration_seconds": 88.745327,
+    "generated_at": "2026-10-21T16:31:18.401394+00:00",
+    "duration_seconds": 102.206591,
     "stats": {
-      "ok": 84,
-      "fail": 15,
-      "items_total": 2298,
-      "items_strict": 571,
-      "events_detected": 3
+      "ok": 83,
+      "fail": 16,
+      "items_total": 2254,
+      "items_strict": 572,
+      "events_detected": 5
     },
     "source_count": 99
   },
@@ -61,6 +61,57 @@
       "kind": "diplomatic-event"
     },
     {
+      "id": "a00caf25e4e59cb3-evt",
+      "title": "Keynote speech by Commissioner Kubilius at Future Forces Forum 2026",
+      "date": "2026-10-21",
+      "end_date": "2026-10-21",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2229",
+      "summary": "European Commission Speech Prague, 21 Oct 2026 Good afternoon, It is my great pleasure to be here at this prominent Future Forces Forum. It's great to be part of this discussion on the Future of Civilian Sec...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "e8b8719ac229fadc-evt",
+      "title": "Commission welcomes political agreement on rules enhancing stability and long-term resilience of EU carbon market",
+      "date": "2026-10-21",
+      "end_date": "2026-10-21",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "climate",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2206",
+      "summary": "European Commission Press release Brussels, 21 Oct 2026 The European Commission welcomes the provisional political agreement reached by the European Parliament and the Council on a targeted amendment to strengthen the Market Stability Reserve (MSR) of the EU's Emissions Trading System (EU ETS).",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "7f3284c3a2d9f1df-evt",
+      "title": "Deputy Secretary-General of ASEAN for ASEAN Economic Community Meets President of the German Academic Exchange Service to Advance Cooperation in Higher Education, Research and Innovation",
+      "date": "2026-10-21",
+      "end_date": "2026-10-21",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/deputy-secretary-general-of-asean-for-asean-economic-community-meets-president-of-the-german-academic-exchange-service-to-advance-cooperation-in-higher-education-research-and-innovation/",
+      "summary": "Deputy Secretary-General of ASEAN for ASEAN Economic Community, H.E. Satvinder Singh, met with Prof. Dr. Joybrato Mukherjee, President of the German Academic Exchange Service (DAAD), at the ASEAN Secretariat in Jakarta on 21 October 2026. The two sides discussed opportunities to deepen cooperation T",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
       "id": "ddf65369d7f8ba40-evt",
       "title": "Secretary-General of ASEAN meets with Minister for Foreign Affairs of Japan",
       "date": "2026-10-21",
@@ -109,23 +160,6 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "e0f1c0dc9f1e58c7-evt",
-      "title": "Secretary General of ASEAN to participate in the 9th World Investment Forum in Doha, Qatar",
-      "date": "2026-10-25",
-      "end_date": "2026-10-25",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "Asia",
-      "theme": "economy",
-      "link": "https://asean.org/secretary-general-of-asean-to-participate-in-the-9th-world-investment-forum-in-doha-qatar/",
-      "summary": "At the invitation of H.E. Rebeca Grynspan, Secretary-General of UN Trade and Development (UNCTAD), Dr. Kao Kim Hourn, Secretary-General of ASEAN, will lead the ASEAN Secretariat’s delegation to participate in the 9th World Investment Forum (WIF), to be held in Doha, Qatar, on 25 October 2026. At The",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "cop-2026",
