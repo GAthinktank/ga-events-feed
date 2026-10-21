@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-21T03:03:58.799476+00:00",
-    "duration_seconds": 87.324451,
+    "generated_at": "2026-10-21T11:04:11.266760+00:00",
+    "duration_seconds": 88.745327,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2299,
-      "items_strict": 579,
-      "events_detected": 1
+      "items_total": 2298,
+      "items_strict": 571,
+      "events_detected": 3
     },
     "source_count": 99
   },
@@ -61,6 +61,40 @@
       "kind": "diplomatic-event"
     },
     {
+      "id": "ddf65369d7f8ba40-evt",
+      "title": "Secretary-General of ASEAN meets with Minister for Foreign Affairs of Japan",
+      "date": "2026-10-21",
+      "end_date": "2026-10-21",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/secretary-general-of-asean-meets-with-minister-for-foreign-affairs-of-japan-2/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 21 October 2026, met with Minister for Foreign Affairs of Japan, H.E. Motegi Toshimitsu, in Tokyo, Japan. Both sides exchanged views on ASEAN-Japan relations, and ways to further strengthen the ASEAN-Japan Comprehensive Strategic Partnership that is ",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "d4d53ea6fbff6436-evt",
+      "title": "Secretary-General of ASEAN meets with the Honorary Chairman of Keidanren",
+      "date": "2026-10-21",
+      "end_date": "2026-10-21",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/secretary-general-of-asean-meets-with-the-honorary-chairman-of-keidanren/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 21 October 2026, met with Mr. Masakazu Tokura, Honorary Chairman of Keidanren (Japan Business Federation), in Tokyo, Japan, to exchange views on strengthening ASEAN–Japan economic cooperation. The discussion focused on potential modernisati The post ",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
       "id": "eu-council-2026-10",
       "title": "European Council 2026-10",
       "date": "2026-10-22",
@@ -75,6 +109,23 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "e0f1c0dc9f1e58c7-evt",
+      "title": "Secretary General of ASEAN to participate in the 9th World Investment Forum in Doha, Qatar",
+      "date": "2026-10-25",
+      "end_date": "2026-10-25",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "economy",
+      "link": "https://asean.org/secretary-general-of-asean-to-participate-in-the-9th-world-investment-forum-in-doha-qatar/",
+      "summary": "At the invitation of H.E. Rebeca Grynspan, Secretary-General of UN Trade and Development (UNCTAD), Dr. Kao Kim Hourn, Secretary-General of ASEAN, will lead the ASEAN Secretariat’s delegation to participate in the 9th World Investment Forum (WIF), to be held in Doha, Qatar, on 25 October 2026. At The",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "cop-2026",
@@ -139,23 +190,6 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "6e080d9b27ce6272-evt",
-      "title": "Media advisory - Accreditation for the Special European Council, 26 and 27 November 2026",
-      "date": "2026-11-27",
-      "end_date": "2026-11-27",
-      "location": "",
-      "organizer": "European Council",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYWRETG5IeF9IMWZaWl9SOFJlRG80cm5MTnVuTzdSUUIyZUNKTkZSVHZ6OUFLcWhwM1pPekRzS1AwVEx2OFpnS3lNcGdFQVFsQnQ3Z1djZHhuZ3VmRGFEcmQwVGVmcDdqLUJOanM2YUtyQ3d3cFBsaGVfZGJLY3BCLXpWNC1JQzg4bWZQUnVfRThNcXoyTzdGb2pZTl8zajVzLTkzand6TWxRb1VxbnNLMGtpMHRlSjliMUhQbnhsY09UbU9mX1pwSkhPaWMwUkt0aHNSd3RzLUZhUzBzMXZVY1A4TF9zOV8w?oc=5",
-      "summary": "Media advisory - Accreditation for the Special European Council, 26 and 27 November 2026 &nbsp;&nbsp; Consilium.europa.eu",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Council",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "doha-2026",
