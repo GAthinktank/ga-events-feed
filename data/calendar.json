@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-22T11:03:04.765790+00:00",
-    "duration_seconds": 84.055849,
+    "generated_at": "2026-10-22T16:31:58.672132+00:00",
+    "duration_seconds": 99.533168,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2281,
-      "items_strict": 589,
-      "events_detected": 6
+      "items_total": 2310,
+      "items_strict": 579,
+      "events_detected": 8
     },
     "source_count": 99
   },
@@ -61,6 +61,23 @@
       "kind": "diplomatic-event"
     },
     {
+      "id": "c41b19ac251f8135-evt",
+      "title": "Speech by Commissioner Lahbib at the Resilient Europe Conference",
+      "date": "2026-10-22",
+      "end_date": "2026-10-22",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2239",
+      "summary": "European Commission Speech Prague, 22 Oct 2026 When you arrived today, I hope you looked up at the roof of this palace. Four stone statues stand along the top. They represent the four elements: fire, water, ...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
       "id": "ecf666ccb0adae4f-evt",
       "title": "Commission welcomes commitments of Coca-Cola, Nestlé, and Danone to modify recycling claims on plastic bottles",
       "date": "2026-10-22",
@@ -88,6 +105,23 @@
       "theme": "diplomacy",
       "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2237",
       "summary": "European Commission Speech Online, 22 Oct 2026 Good morning, ladies and gentlemen, I very much wish I could be with you in beautiful Reykjavík this morning. Hopefully we will be able to make that happen in t...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "5bc6431b4746cf4d-evt",
+      "title": "Joint press release following General Secretary of the Central Committee of the Communist Party of Viet Nam and President of the Socialist Republic of Viet Nam Lam Tô Lâm's visit to the European Commission and the European Council",
+      "date": "2026-10-22",
+      "end_date": "2026-10-22",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/jp_26_2234",
+      "summary": "European Commission Joint press release Brussels, 22 Oct 2026 On 22 October 2026, General Secretary of the Central Committee of the Communist Party of Viet Nam and President of the Socialist Republic of Viet Nam Tô Lâm visited the European Union and held talks in Brussels with European Commission Pr",
       "featured": false,
       "confirmed": true,
       "source": "European Commission — Press",
