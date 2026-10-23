@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-23T10:56:16.838944+00:00",
-    "duration_seconds": 78.583604,
+    "generated_at": "2026-10-23T16:21:44.095773+00:00",
+    "duration_seconds": 90.591353,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2283,
-      "items_strict": 563,
-      "events_detected": 4
+      "items_total": 2285,
+      "items_strict": 552,
+      "events_detected": 8
     },
     "source_count": 99
   },
@@ -77,6 +77,57 @@
       "kind": "diplomatic-event"
     },
     {
+      "id": "cabb42c2a2d197b9-evt",
+      "title": "Remarks by Commissioner Šefčovič at the press conference following the informal Foreign Affairs Council (Trade)",
+      "date": "2026-10-23",
+      "end_date": "2026-10-23",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2252",
+      "summary": "European Commission Speech Dublin, 23 Oct 2026 Good afternoon and thank you, Minister – dear Helen – for your hospitality. I always leave Dublin impressed by its positive energy and this time, also grateful ...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "f106ebce59b255d3-evt",
+      "title": "Secretary-General of ASEAN meets with Minister of Internal Affairs and Communications of Japan",
+      "date": "2026-10-23",
+      "end_date": "2026-10-23",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/secretary-general-of-asean-meets-with-minister-of-internal-affairs-and-communications-of-japan/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 23 October 2026, met with the Minister of Internal Affairs and Communications of Japan, H.E. Fujii Hisayuki, in Tokyo, Japan. The two sides exchanged views to strengthen practical cooperation, particularly through capacity-building and exchanges on T",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "740861e65489f8db-evt",
+      "title": "Secretary-General of ASEAN meets with Minister of Education, Culture, Sports, Science and Technology of Japan",
+      "date": "2026-10-23",
+      "end_date": "2026-10-23",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/secretary-general-of-asean-meets-with-minister-of-education-culture-sports-science-and-technology-of-japan/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 23 October 2026, met with Minister of Education, Culture, Sports, Science and Technology of Japan, H.E. Seki Yoshihiro, in Tokyo, Japan. During the meeting, the two sides discussed ways to strengthen ASEAN–Japan cooperation in education and cultur Th",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
       "id": "220d344b2647d035-evt",
       "title": "Secretary-General of ASEAN meets with Executive Acting Secretary-General of Japan’s Liberal Democratic Party (LDP) and Chairman of the ERIA Parliamentary League",
       "date": "2026-10-23",
@@ -141,6 +192,23 @@
       "featured": false,
       "confirmed": true,
       "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "2ac8455018285be6-evt",
+      "title": "Agriculture and Fisheries Council, 26-27 October 2026",
+      "date": "2026-10-27",
+      "end_date": "2026-10-27",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BcXY1TXh2OWZ6SzhPY3hyWFZlNW1NaGh3NVhfckZKbjNLSl9rZTFFYUs5RzBZdVlmN0RDbk5uNlRPTG1scUhmQVJsWk82R1NKSHVpNXJvNTRDZDVSSTJxa3o3QTlKVUg1SGppMDJwbFFQdUlucUE?oc=5",
+      "summary": "Agriculture and Fisheries Council, 26-27 October 2026 &nbsp;&nbsp; Consilium.europa.eu",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
       "kind": "diplomatic-event",
       "lang": "en"
     },
