@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-23T03:06:53.613071+00:00",
-    "duration_seconds": 84.061381,
+    "generated_at": "2026-10-23T10:56:16.838944+00:00",
+    "duration_seconds": 78.583604,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2292,
-      "items_strict": 565,
-      "events_detected": 1
+      "items_total": 2283,
+      "items_strict": 563,
+      "events_detected": 4
     },
     "source_count": 99
   },
@@ -77,6 +77,74 @@
       "kind": "diplomatic-event"
     },
     {
+      "id": "220d344b2647d035-evt",
+      "title": "Secretary-General of ASEAN meets with Executive Acting Secretary-General of Japan’s Liberal Democratic Party (LDP) and Chairman of the ERIA Parliamentary League",
+      "date": "2026-10-23",
+      "end_date": "2026-10-23",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/secretary-general-of-asean-meets-with-executive-acting-secretary-general-of-japans-liberal-democratic-party-ldp-and-chairman-of-the-eria-parliamentary-league/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 23 October 2026, met with Executive Acting Secretary-General of Japan’s Liberal Democratic Party (LDP) and Chairman of the ERIA Parliamentary League, H.E. Hagiuda Koichi, in Tokyo, Japan. Both sides took the opportunity to exchange views on the AS Th",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "29d2d91af163ae26-evt",
+      "title": "Secretary-General of ASEAN meets with State Minister of Economy, Trade and Industry of Japan",
+      "date": "2026-10-23",
+      "end_date": "2026-10-23",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "economy",
+      "link": "https://asean.org/secretary-general-of-asean-meets-with-state-minister-of-economy-trade-and-industry-of-japan-2/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 23 October 2026, met with State Minister of Economy, Trade and Industry of Japan, H.E. Miyamoto Shuji, in Tokyo, Japan. The two sides exchanged views on the possible upgrade of the ASEAN-Japan Comprehensive Economic Partnership (AJCEP) Agreement and ",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "273602e41d3b0754-evt",
+      "title": "Secretary-General of ASEAN meets with President of the University of Tokyo",
+      "date": "2026-10-23",
+      "end_date": "2026-10-23",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/secretary-general-of-asean-meets-with-president-of-the-university-of-tokyo/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 23 October 2026, met with the President of the University of Tokyo, Prof. Dr. Teruo Fujii, in Tokyo, Japan, to discuss opportunities to strengthen ASEAN–Japan academic cooperation. The discussion highlighted the importance of research collaboratio Th",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "e85e9ef82b1627e6-evt",
+      "title": "Secretary-General of ASEAN gives media interview to Nikkei",
+      "date": "2026-10-23",
+      "end_date": "2026-10-23",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/secretary-general-of-asean-gives-media-interview-to-nikkei/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 23 October 2026, had a media interview with Nikkei in Tokyo, Japan. During the media interview, Dr. Kao addressed a way range of issues on ASEAN-Japan Dialogue Relations, as well as regional and global challenges and opportunities facing the two sid ",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
       "id": "cop-2026",
       "title": "UN Climate Conference (COP) 2026",
       "date": "2026-11-10",
@@ -139,23 +207,6 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "6e080d9b27ce6272-evt",
-      "title": "Media advisory - Accreditation for the Special European Council, 26 and 27 November 2026",
-      "date": "2026-11-27",
-      "end_date": "2026-11-27",
-      "location": "",
-      "organizer": "European Council",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYWRETG5IeF9IMWZaWl9SOFJlRG80cm5MTnVuTzdSUUIyZUNKTkZSVHZ6OUFLcWhwM1pPekRzS1AwVEx2OFpnS3lNcGdFQVFsQnQ3Z1djZHhuZ3VmRGFEcmQwVGVmcDdqLUJOanM2YUtyQ3d3cFBsaGVfZGJLY3BCLXpWNC1JQzg4bWZQUnVfRThNcXoyTzdGb2pZTl8zajVzLTkzand6TWxRb1VxbnNLMGtpMHRlSjliMUhQbnhsY09UbU9mX1pwSkhPaWMwUkt0aHNSd3RzLUZhUzBzMXZVY1A4TF9zOV8w?oc=5",
-      "summary": "Media advisory - Accreditation for the Special European Council, 26 and 27 November 2026 &nbsp;&nbsp; Consilium.europa.eu",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Council",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "doha-2026",
