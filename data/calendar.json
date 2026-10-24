@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-24T10:11:12.111423+00:00",
-    "duration_seconds": 82.902457,
+    "generated_at": "2026-10-24T15:18:27.310285+00:00",
+    "duration_seconds": 91.988659,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2285,
+      "items_total": 2303,
       "items_strict": 580,
-      "events_detected": 2
+      "events_detected": 5
     },
     "source_count": 99
   },
@@ -59,6 +59,57 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "9a2f2d4e6f94209a-evt",
+      "title": "Secretary-General of ASEAN meets with the Acting Secretary-General of the United Nations Conference Trade and Development",
+      "date": "2026-10-24",
+      "end_date": "2026-10-24",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "economy",
+      "link": "https://asean.org/secretary-general-of-asean-meets-with-the-acting-secretary-general-of-the-united-nations-conference-trade-and-development/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 24 October 2026, met with Mr. Pedro Manuel Moreno, Acting Secretary-General of the UN Conference Trade and Development (UNCTAD), on the sidelines of the 9th World Investment Forum in Doha, Qatar. They exchanged views on current cooperation activitie ",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "92191d4e34269869-evt",
+      "title": "Secretary-General of ASEAN Meets with the Assistant Secretary-General for Council Affairs – National Planning Council of the State of Qatar",
+      "date": "2026-10-24",
+      "end_date": "2026-10-24",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "economy",
+      "link": "https://asean.org/secretary-general-of-asean-meets-with-the-assistant-secretary-general-for-council-affairs-national-planning-council-of-the-state-of-qatar/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 24 October 2026, met with Assistant Secretary-General for Council Affairs – National Planning Council of the State of Qatar, Mr. Abdulaziz Ahmed Al-Fehani, in Doha, Qatar, on the sidelines of the 9th World Investment Forum (WIF). They exchanged vi Th",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "cb047ccbea7ba778-evt",
+      "title": "Secretary-General of ASEAN meets with Minister of State for Foreign Trade of the State of Qatar",
+      "date": "2026-10-24",
+      "end_date": "2026-10-24",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "economy",
+      "link": "https://asean.org/secretary-general-of-asean-meets-with-minister-of-state-for-foreign-trade-of-the-state-of-qatar/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 24 October 2026, met with Minister of State for Foreign Trade at the Ministry of Commerce and Industry of the State of Qatar, H.E. Dr. Ahamd bin Mohammed Al-Sayed, on the sidelines of the 9th World Investment Forum (WIF) in Doha, Qatar. They exchang ",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "2ac8455018285be6-evt",
