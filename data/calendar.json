@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-25T08:04:14.680913+00:00",
-    "duration_seconds": 82.098107,
+    "generated_at": "2026-10-25T13:32:37.631684+00:00",
+    "duration_seconds": 83.238162,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2299,
-      "items_strict": 577,
-      "events_detected": 2
+      "items_total": 2292,
+      "items_strict": 559,
+      "events_detected": 4
     },
     "source_count": 99
   },
@@ -59,6 +59,40 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "81ac72d7d75b81b2-evt",
+      "title": "Secretary-General of ASEAN meets with the Secretary-General of the International Chamber of Commerce",
+      "date": "2026-10-25",
+      "end_date": "2026-10-25",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "economy",
+      "link": "https://asean.org/secretary-general-of-asean-meets-with-the-secretary-general-of-the-international-chamber-of-commerce/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 25 October 2026 met with Secretary-General of the International Chamber of Commerce (ICC), John W.H. Denton, on the sidelines of the 9th World Investment Forum in Doha, Qatar, where they exchanged views on ASEAN’s economic priorities and explore o Th",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "f122b259cb1e66ab-evt",
+      "title": "Secretary-General of ASEAN calls on Prime Minister and Minister of Foreign Affairs of the State of Qatar",
+      "date": "2026-10-25",
+      "end_date": "2026-10-25",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/secretary-general-of-asean-calls-on-prime-minister-and-minister-of-foreign-affairs-of-the-state-of-qatar/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 25 October 2026, met with Prime Minister and Minister of Foreign Affairs of the State of Qatar, H.E. Sheikh Mohammed bin Abdulrahman bin Jassim Al-Thani, in Doha, Qatar, on the sidelines of his participation in the 9th World Investment Forum (WIF). T",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "2ac8455018285be6-evt",
