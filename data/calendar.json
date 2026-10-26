@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-26T15:47:23.651684+00:00",
-    "duration_seconds": 83.714488,
+    "generated_at": "2026-10-26T22:14:41.258089+00:00",
+    "duration_seconds": 89.954689,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2277,
-      "items_strict": 561,
-      "events_detected": 2
+      "items_total": 2270,
+      "items_strict": 553,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -524,23 +524,6 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "05b70e22f40cf612-evt",
-      "title": "Press briefing - EU-Canada summit of 29-30 October 2026",
-      "date": "2029-10-30",
-      "end_date": "2029-10-30",
-      "location": "",
-      "organizer": "European Council",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ2tzbkVlYlg2WmNPbjRIRmxBemRJSldWODVtTlFIM05INldRNHpYYmF0WWVsaDJFbUQ1d3Q4M3ZXWWt4STl4aS0xWk15MEQwaElidGVyX1VBY055Z0hjMG1wNW9wQUVJaWtRWHBJZnpEQ0JQTmlodFFxWVpaYnMwR1p6cmg0YkNVa3V6YVpuTzQwc09jM0xWRXE0MGwwVnlCY20zMEJXQmVvQkFzbmhWS3o2WW9nREVMWnZpazd3?oc=5",
-      "summary": "Press briefing - EU-Canada summit of 29-30 October 2026 &nbsp;&nbsp; Consilium.europa.eu",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Council",
-      "kind": "diplomatic-event",
-      "lang": "en"
     }
   ]
 }
