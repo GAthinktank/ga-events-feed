@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-26T22:14:41.258089+00:00",
-    "duration_seconds": 89.954689,
+    "generated_at": "2026-10-27T03:28:10.041162+00:00",
+    "duration_seconds": 80.0952,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2270,
-      "items_strict": 553,
-      "events_detected": 1
+      "items_total": 2227,
+      "items_strict": 572,
+      "events_detected": 0
     },
     "source_count": 99
   },
@@ -59,23 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "7bae38a50bbae348-evt",
-      "title": "Secretary-General of ASEAN meets with Chair of the French Energy Regulatory Commission",
-      "date": "2026-10-26",
-      "end_date": "2026-10-26",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "Asia",
-      "theme": "diplomacy",
-      "link": "https://asean.org/secretary-general-of-asean-meets-with-chair-of-the-french-energy-regulatory-commission/",
-      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 26 October 2026, met with Ms. Emmanuelle Wargon, Chair of the French Energy Regulatory Commission, on the sidelines of Singapore International Energy Week (SIEW), in Singapore. They exchanged views on global energy developments and regulatory perspe ",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "cop-2026",
