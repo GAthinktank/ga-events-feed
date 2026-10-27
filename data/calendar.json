@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-27T11:31:13.252705+00:00",
-    "duration_seconds": 82.210508,
+    "generated_at": "2026-10-27T17:20:42.030369+00:00",
+    "duration_seconds": 77.663952,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2220,
+      "items_total": 2224,
       "items_strict": 555,
-      "events_detected": 1
+      "events_detected": 5
     },
     "source_count": 99
   },
@@ -61,6 +61,40 @@
       "kind": "diplomatic-event"
     },
     {
+      "id": "80cd57c585510261-evt",
+      "title": "Speech by Commissioner Dombrovskis at the annual conference of the Regulatory Scrutiny Board",
+      "date": "2026-10-27",
+      "end_date": "2026-10-27",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2273",
+      "summary": "European Commission Speech Brussels, 27 Oct 2026 Thank you, Chair. Ladies and gentlemen, distinguished guests, It is my pleasure join you today for the eighth annual conference of the Regulatory Scrutiny Board...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "e291fd185336387e-evt",
+      "title": "Remarks by Executive Vice-President Ribera and Commissioner Hoekstra at the press conference on the EU framework for climate resilience",
+      "date": "2026-10-27",
+      "end_date": "2026-10-27",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "climate",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2264",
+      "summary": "European Commission Speech Brussels, 27 Oct 2026 Executive Vice-President Ribera The two main topics we have been discussing this morning are adaptation and resilience to climate risks, addressed in the packag...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
       "id": "d9201553314e3ee3-evt",
       "title": "ASEAN launches its Labour Statisticians Network to strengthen labour market information and prepare for the future of work",
       "date": "2026-10-27",
@@ -74,6 +108,23 @@
       "featured": false,
       "confirmed": true,
       "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "c60ae145f9fdb5cf-evt",
+      "title": "Press briefing - Transport, Telecommunications and Energy Council (Energy) of 29 October 2026",
+      "date": "2026-10-29",
+      "end_date": "2026-10-29",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZG9YUGFCa1J2VDZ3Z3JlWE1fck5SR1dUU2l3YlJMeFZGbVJEQWx0STJ0T0JhSV9sOEd0RVJxWGVBT0MyVzlOY0FnLUxqd0JzMzMtSzlDdUs5d1VWLWx6SXJmWFE0RkVCSW1GSUlpbklaTUQzMGVPNWs3NlBWM3cwUnZwU05EYnZHbWZIRDdDMWM4aV84dEZxRDdPTkQ3NkFLb3Nod3J4bGxZZXpLRFN3aGVCV1Y4ejBRXzBmRHJVQ3RvTDdicUF1M0NLdGdCeXZZR2JhX0tfZVhDMk9Kc2xISy1lRTlON2U3VUpsYw?oc=5",
+      "summary": "Press briefing - Transport, Telecommunications and Energy Council (Energy) of 29 October 2026 &nbsp;&nbsp; Council, European Union",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
       "kind": "diplomatic-event",
       "lang": "en"
     },
@@ -412,6 +463,23 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "e07ef2c2ae3022c8-evt",
+      "title": "Secretary-General of ASEAN Delivers Pre-Recorded Remarks at the 4th ASEAN-EU Policy Dialogue on Higher Education",
+      "date": "2027-10-28",
+      "end_date": "2027-10-28",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/secretary-general-of-asean-delivers-pre-recorded-remarks-at-the-4th-asean-eu-policy-dialogue-on-higher-education/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, today delivered pre-recorded remarks at the 4th ASEAN-EU Policy Dialogue on Higher Education, themed “Advancing Innovation and Skills for a Sustainable Blue Economy,” which is being held on 27–28 October 2026 in Manila, the Philippines. Or The post Secr",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "eu-council-2027-10",
