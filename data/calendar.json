@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-28T12:00:56.828541+00:00",
-    "duration_seconds": 87.29353,
+    "generated_at": "2026-10-28T18:16:40.482522+00:00",
+    "duration_seconds": 91.175559,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2236,
+      "items_total": 2245,
       "items_strict": 577,
-      "events_detected": 4
+      "events_detected": 5
     },
     "source_count": 99
   },
@@ -59,6 +59,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "708bb1d2b16614df-evt",
+      "title": "Address by Commissioner Valdis Dombrovskis to the 111th conference of Directors General of the National Statistical Institutes",
+      "date": "2026-10-28",
+      "end_date": "2026-10-28",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2279",
+      "summary": "European Commission Speech Brussels, 28 Oct 2026 Presidents and Directors General, distinguished guests, ladies and gentlemen. Good morning. Thank you for inviting me to the 111th conference of Directors Gener...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "9d6c0bcf3d391791-evt",
