@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-28T03:44:38.642443+00:00",
-    "duration_seconds": 79.812512,
+    "generated_at": "2026-10-28T12:00:56.828541+00:00",
+    "duration_seconds": 87.29353,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2233,
-      "items_strict": 565,
-      "events_detected": 2
+      "items_total": 2236,
+      "items_strict": 577,
+      "events_detected": 4
     },
     "source_count": 99
   },
@@ -59,6 +59,40 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "9d6c0bcf3d391791-evt",
+      "title": "Press remarks by Commissioner Jørgensen following the Dialogue with European refineries",
+      "date": "2026-10-28",
+      "end_date": "2026-10-28",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2278",
+      "summary": "European Commission Statement Brussels, 28 Oct 2026 Once again, due to geopolitical turbulence, Europe faces another energy crisis. As in 2022, after the Russia's illegal invasion of Ukraine, prices of crude oil ...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "ce18686f9d56d787-evt",
+      "title": "Secretary-General of ASEAN participates in the 20th ASEAN Defence Ministers’ Meeting in Cebu, the Philippines",
+      "date": "2026-10-28",
+      "end_date": "2026-10-28",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "security",
+      "link": "https://asean.org/secretary-general-of-asean-participates-in-the-20th-asean-defence-ministers-meeting-in-cebu-the-philippines/",
+      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 28 October 2026, together with the Defence Ministers of ASEAN Member States, participated in the 20th&#160;ASEAN Defence Ministers’ Meeting (ADMM), in Cebu, the Philippines. The Meeting was chaired by the Philippines under the theme “Navigating The p",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "c60ae145f9fdb5cf-evt",
