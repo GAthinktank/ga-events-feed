@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-27T21:45:50.003400+00:00",
-    "duration_seconds": 81.381997,
+    "generated_at": "2026-10-28T03:44:38.642443+00:00",
+    "duration_seconds": 79.812512,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2202,
-      "items_strict": 579,
-      "events_detected": 4
+      "items_total": 2233,
+      "items_strict": 565,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -59,40 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "80cd57c585510261-evt",
-      "title": "Speech by Commissioner Dombrovskis at the annual conference of the Regulatory Scrutiny Board",
-      "date": "2026-10-27",
-      "end_date": "2026-10-27",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2273",
-      "summary": "European Commission Speech Brussels, 27 Oct 2026 Thank you, Chair. Ladies and gentlemen, distinguished guests, It is my pleasure join you today for the eighth annual conference of the Regulatory Scrutiny Board...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "d9201553314e3ee3-evt",
-      "title": "ASEAN launches its Labour Statisticians Network to strengthen labour market information and prepare for the future of work",
-      "date": "2026-10-27",
-      "end_date": "2026-10-27",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "Asia",
-      "theme": "diplomacy",
-      "link": "https://asean.org/asean-launches-its-labour-statisticians-network-to-strengthen-labour-market-information-and-prepare-for-the-future-of-work/",
-      "summary": "Deputy Secretary-General of ASEAN for ASEAN Socio-Cultural Community, H.E. San Lwin, delivered remarks at the launch of the ASEAN Labour Statisticians Network (ALSN) and the inaugural ALSN Expert Forum on 27 October 2026 in Singapore. He highlighted the importance of reliable labour market data int ",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "c60ae145f9fdb5cf-evt",
