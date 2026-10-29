@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-29T09:16:18.118232+00:00",
-    "duration_seconds": 82.345758,
+    "generated_at": "2026-10-29T17:57:28.890612+00:00",
+    "duration_seconds": 81.958835,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2246,
-      "items_strict": 564,
-      "events_detected": 3
+      "items_total": 2229,
+      "items_strict": 573,
+      "events_detected": 6
     },
     "source_count": 99
   },
@@ -59,6 +59,40 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "faf4bc6e7f42cd8c-evt",
+      "title": "Speech by Commissioner Lahbib at the UNESCO Global Forum against Racism and Discrimination",
+      "date": "2026-10-29",
+      "end_date": "2026-10-29",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2286",
+      "summary": "European Commission Speech The Hague, 29 Oct 2026 Angela Bib. Do any of you know her? You won't. She never existed. But she came very close to existing because Angela Bib was almost me. Before politics, I was a...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "4959757c2b8051d9-evt",
+      "title": "Joint Statement by the ASEAN Defence Ministers’ Meeting Plus on Youth, Peace and Security",
+      "date": "2026-10-29",
+      "end_date": "2026-10-29",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "security",
+      "link": "https://asean.org/joint-statement-by-the-asean-defence-ministers-meeting-plus-on-youth-peace-and-security/",
+      "summary": "The Thirteenth ASEAN Defence Ministers’ Meeting Plus (hereinafter referred to as the “ADMM-Plus”) convened in Cebu, Philippines on 29 October 2026; NOTING increasing threats to regional and international peace and stability, and that the youth account for many of those adversely affected by t The po",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "da1a5553b4ba3982-evt",
@@ -222,6 +256,23 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "6f7e1bda7ae25349-evt",
+      "title": "Press statement by Eurogroup President Kyriakos Pierrakakis following the announcement of the President of the European Central Bank, Christine Lagarde, to step down on 7 February 2027",
+      "date": "2027-02-07",
+      "end_date": "2027-02-07",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQTEtkVTdsV0dCbGpNVncyY3dwd1lpcTFVYTdqb25OR3d4dnBBbXhWX09SbzFpR0VJZkFXNHY2emNPMzd4WVVZSWhzMnZmVERhVFpVc19QQ1VJcDAyQzZtNElTbjJ4dzR3SFRMUi15OUtuQW42Q19LcFlOVjhVcHBlNDBDZklCSjYzSkpYa2c0WkwydEdYMi1obDdRNzhsOGs1MExPVW5KTTJiSVdMbExKcGpCSFVXZWlRMVVyZzItSmZ2ZmdESjRiYkV0YXc2ODVGXzdVdk5rYWV5b1lNOXVvT1R6WHFxNmxjckszUzBwdHozNGQ2YWlzNW1ZQlJIY2hsa1FFT1hHLWVtV1I4TTBDRWJOMmRhWEd4OEZPYWFQcHlsdGdya1luUkdHOEI1QU9NdGIyaEZUcEVXbGhzdjdlN0ctanJobU9VcF9TcWNyNHJNTHkxWXZIMTI5UVp4SHBpOHAzVEJwVGhiZw?oc=5",
+      "summary": "Press statement by Eurogroup President Kyriakos Pierrakakis following the announcement of the President of the European Central Bank, Christine Lagarde, to step down on 7 February 2027 &nbsp;&nbsp; Council, European Union",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "msc-report-2027",
