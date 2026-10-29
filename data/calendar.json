@@ -1,12 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-10-29T00:35:00.144888+00:00",
-    "duration_seconds": 84.548435,
+    "generated_at": "2026-10-29T09:16:18.118232+00:00",
+    "duration_seconds": 82.345758,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2224,
-      "items_strict": 572,
+      "items_total": 2246,
+      "items_strict": 564,
       "events_detected": 3
     },
     "source_count": 99
@@ -59,6 +59,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "da1a5553b4ba3982-evt",
+      "title": "Media advisory - Transport, Telecommunications and Energy Council (Energy) 29 October 2026",
+      "date": "2026-10-29",
+      "end_date": "2026-10-29",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNLUp4X2ZvRnpRQ05xZU9VaDJGUW94R200azZYSVotZGY1OUpRbFg3NGZtblNYUVNmbU1Va2lGWlB3MVNGVWdJcTdzbXdfYWpxckVyMXVZeHJiUHlRRmZFa3ZKVGduMG1nQnhUcWNDWFBRNGIyamNSYTE3UnpiQmxpdlc4UHo5aWdqOFdyQWlQSnJXcDNhTlE2SkljeDhWanB5dWY2WVJVb1dybXBFQjdRRDJQRGxuSGJNNnJpWnR4NEZfWXVmQnIzVjRldXdFNkRiMkp1aXQzWTdRQ2dLcHAzN045VXpiY2h5?oc=5",
+      "summary": "Media advisory - Transport, Telecommunications and Energy Council (Energy) 29 October 2026 &nbsp;&nbsp; Council, European Union",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "c60ae145f9fdb5cf-evt",
@@ -429,23 +446,6 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "e07ef2c2ae3022c8-evt",
-      "title": "Secretary-General of ASEAN Delivers Pre-Recorded Remarks at the 4th ASEAN-EU Policy Dialogue on Higher Education",
-      "date": "2027-10-28",
-      "end_date": "2027-10-28",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "Asia",
-      "theme": "diplomacy",
-      "link": "https://asean.org/secretary-general-of-asean-delivers-pre-recorded-remarks-at-the-4th-asean-eu-policy-dialogue-on-higher-education/",
-      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, today delivered pre-recorded remarks at the 4th ASEAN-EU Policy Dialogue on Higher Education, themed “Advancing Innovation and Skills for a Sustainable Blue Economy,” which is being held on 27–28 October 2026 in Manila, the Philippines. Or The post Secr",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "eu-council-2027-10",
