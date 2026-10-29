@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-28T18:16:40.482522+00:00",
-    "duration_seconds": 91.175559,
+    "generated_at": "2026-10-29T00:35:00.144888+00:00",
+    "duration_seconds": 84.548435,
     "stats": {
       "ok": 84,
       "fail": 15,
-      "items_total": 2245,
-      "items_strict": 577,
-      "events_detected": 5
+      "items_total": 2224,
+      "items_strict": 572,
+      "events_detected": 3
     },
     "source_count": 99
   },
@@ -61,57 +61,6 @@
       "kind": "diplomatic-event"
     },
     {
-      "id": "708bb1d2b16614df-evt",
-      "title": "Address by Commissioner Valdis Dombrovskis to the 111th conference of Directors General of the National Statistical Institutes",
-      "date": "2026-10-28",
-      "end_date": "2026-10-28",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2279",
-      "summary": "European Commission Speech Brussels, 28 Oct 2026 Presidents and Directors General, distinguished guests, ladies and gentlemen. Good morning. Thank you for inviting me to the 111th conference of Directors Gener...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "9d6c0bcf3d391791-evt",
-      "title": "Press remarks by Commissioner Jørgensen following the Dialogue with European refineries",
-      "date": "2026-10-28",
-      "end_date": "2026-10-28",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2278",
-      "summary": "European Commission Statement Brussels, 28 Oct 2026 Once again, due to geopolitical turbulence, Europe faces another energy crisis. As in 2022, after the Russia's illegal invasion of Ukraine, prices of crude oil ...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "ce18686f9d56d787-evt",
-      "title": "Secretary-General of ASEAN participates in the 20th ASEAN Defence Ministers’ Meeting in Cebu, the Philippines",
-      "date": "2026-10-28",
-      "end_date": "2026-10-28",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "Asia",
-      "theme": "security",
-      "link": "https://asean.org/secretary-general-of-asean-participates-in-the-20th-asean-defence-ministers-meeting-in-cebu-the-philippines/",
-      "summary": "Secretary-General of ASEAN, Dr. Kao Kim Hourn, on 28 October 2026, together with the Defence Ministers of ASEAN Member States, participated in the 20th&#160;ASEAN Defence Ministers’ Meeting (ADMM), in Cebu, the Philippines. The Meeting was chaired by the Philippines under the theme “Navigating The p",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
       "id": "c60ae145f9fdb5cf-evt",
       "title": "Press briefing - Transport, Telecommunications and Energy Council (Energy) of 29 October 2026",
       "date": "2026-10-29",
@@ -125,6 +74,23 @@
       "featured": false,
       "confirmed": true,
       "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "b8963dc4f596aed8-evt",
+      "title": "Russia: 22 African heads of state expected at the 3rd Russia-Africa Summit in Moscow, 28 and 29 October 2026",
+      "date": "2026-10-29",
+      "end_date": "2026-10-29",
+      "location": "",
+      "organizer": "African Union",
+      "region": "RU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaHczRUg4N0IyQmw3MV9RMUpMVWJsMXMySDlSZEZYa01STXJhSlZtWUxWb0FjcHRxR253ZE5haEh0SWxLTmRXNWx1X19FYWVscXBxSGpVMDU2ZVhrX2ZyWVBDU0c3cGlvQzYzMFdxUkNieUNaaHFsTXlLdlRTYVJjVGxfTlkxNHF6X19NWUFtNkxTRTNHQmJBVjM5U3hiV2NHM1RYNXRxRk5lYXRXTzV2QUxWbHV6bElpX3A5SkluaE5QRlpFZkJTb2d5NThjdEF6c0RRZQ?oc=5",
+      "summary": "Russia: 22 African heads of state expected at the 3rd Russia-Africa Summit in Moscow, 28 and 29 October 2026 &nbsp;&nbsp; Africa News Agency",
+      "featured": false,
+      "confirmed": true,
+      "source": "African Union",
       "kind": "diplomatic-event",
       "lang": "en"
     },
