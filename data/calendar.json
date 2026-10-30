@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-30T04:06:02.126997+00:00",
-    "duration_seconds": 77.494921,
+    "generated_at": "2026-10-30T12:02:29.649582+00:00",
+    "duration_seconds": 101.774335,
     "stats": {
-      "ok": 84,
-      "fail": 15,
-      "items_total": 2243,
-      "items_strict": 575,
-      "events_detected": 2
+      "ok": 83,
+      "fail": 16,
+      "items_total": 2235,
+      "items_strict": 563,
+      "events_detected": 3
     },
     "source_count": 99
   },
@@ -59,6 +59,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "5cdf6ea907119d8e-evt",
+      "title": "Joint Press Statement of the Twenty-Sixth Meeting of the ASEAN Ministers on Agriculture and Forestry and the Ministers of Agriculture of the People’s Republic of China, Japan and the Republic of Korea (26th AMAF Plus Three)",
+      "date": "2026-10-30",
+      "end_date": "2026-10-30",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "CN",
+      "theme": "diplomacy",
+      "link": "https://asean.org/joint-press-statement-the-twenty-sixth-meeting-of-the-asean-ministers-on-agriculture-and-forestry-and-the-ministers-of-agriculture-of-the-peoples-republic-of-china-japan-and-the-republic-of-korea/",
+      "summary": "The Twenty-Sixth Meeting of the ASEAN Ministers on Agriculture and Forestry Plus Three (26th AMAF Plus Three) was held on 30 October 2026 in Singapore, hosted by the Government of Singapore. The Meeting was attended by the ASEAN Ministers on Agriculture and Forestry and the Ministers of Agriculture ",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "cop-2026",
