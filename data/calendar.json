@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-10-31T09:14:37.039140+00:00",
-    "duration_seconds": 106.387953,
+    "generated_at": "2026-10-31T16:44:18.999249+00:00",
+    "duration_seconds": 83.803651,
     "stats": {
-      "ok": 82,
-      "fail": 17,
-      "items_total": 2225,
-      "items_strict": 577,
-      "events_detected": 1
+      "ok": 83,
+      "fail": 16,
+      "items_total": 2206,
+      "items_strict": 591,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -59,6 +59,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "7cfecf63d436196c-evt",
+      "title": "EU-Canada Summit 2026: Leaders mark a historic moment in bilateral relations",
+      "date": "2026-10-31",
+      "end_date": "2026-10-31",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_2318",
+      "summary": "European Commission News Brussels, 31 Oct 2026 Commission President Ursula von der Leyen, along with European Council President António Costa, took part in the EU-Canada Summit hosted by Canadian Prime Mini...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "cop-2026",
