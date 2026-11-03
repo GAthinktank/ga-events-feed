@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-11-03T05:04:38.312812+00:00",
-    "duration_seconds": 91.772009,
+    "generated_at": "2026-11-03T13:31:49.989871+00:00",
+    "duration_seconds": 97.581985,
     "stats": {
       "ok": 83,
       "fail": 16,
-      "items_total": 2280,
-      "items_strict": 588,
-      "events_detected": 0
+      "items_total": 2236,
+      "items_strict": 581,
+      "events_detected": 3
     },
     "source_count": 99
   },
@@ -59,6 +59,57 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "762f3bedbd9d64e9-evt",
+      "title": "Speech by Commissioner Lahbib at the Opening of the European Civil Protection Forum",
+      "date": "2026-11-03",
+      "end_date": "2026-11-03",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "security",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2320",
+      "summary": "European Commission Speech Brussels, 03 Nov 2026 Allow me to start with a personal memory. Twenty-five years ago, I was in Afghanistan as a young reporter for Belgian television. It was autumn 2001. The war ha...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "958636780636c58f-evt",
+      "title": "Keynote speech by President von der Leyen at the WinWin Brussels Summit",
+      "date": "2026-11-03",
+      "end_date": "2026-11-03",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2319",
+      "summary": "European Commission Speech Brussels, 03 Nov 2026 “Check against delivery” Ladies and Gentlemen, It is a pleasure to be with you today. Europe has always been a continent of great ideas. And Brussels has a lo...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "d95bae0a9a84727a-evt",
+      "title": "Deputy Secretary-General of ASEAN for ASCC highlights skills and employment priorities at the 2026 ASEAN+3 HRD Forum",
+      "date": "2026-11-03",
+      "end_date": "2026-11-03",
+      "location": "",
+      "organizer": "ASEAN",
+      "region": "Asia",
+      "theme": "diplomacy",
+      "link": "https://asean.org/deputy-secretary-general-of-asean-for-ascc-highlights-skills-and-employment-priorities-at-the-2026-asean3-hrd-forum/",
+      "summary": "H.E. San Lwin, Deputy Secretary-General of ASEAN for ASEAN Socio-Cultural Community, delivered pre-recorded remarks at the opening of the 2026 ASEAN+3 Human Resource Development Forum in Seoul, the Republic of Korea, on 3 November 2026. In line with the Forum’s theme “From Skills to Jobs: Build The ",
+      "featured": false,
+      "confirmed": true,
+      "source": "ASEAN",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "cop-2026",
