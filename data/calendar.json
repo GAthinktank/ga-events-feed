@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-11-03T13:31:49.989871+00:00",
-    "duration_seconds": 97.581985,
+    "generated_at": "2026-11-03T20:46:15.663114+00:00",
+    "duration_seconds": 77.195199,
     "stats": {
-      "ok": 83,
-      "fail": 16,
-      "items_total": 2236,
-      "items_strict": 581,
-      "events_detected": 3
+      "ok": 82,
+      "fail": 17,
+      "items_total": 2198,
+      "items_strict": 565,
+      "events_detected": 4
     },
     "source_count": 99
   },
@@ -95,23 +95,6 @@
       "lang": "en"
     },
     {
-      "id": "d95bae0a9a84727a-evt",
-      "title": "Deputy Secretary-General of ASEAN for ASCC highlights skills and employment priorities at the 2026 ASEAN+3 HRD Forum",
-      "date": "2026-11-03",
-      "end_date": "2026-11-03",
-      "location": "",
-      "organizer": "ASEAN",
-      "region": "Asia",
-      "theme": "diplomacy",
-      "link": "https://asean.org/deputy-secretary-general-of-asean-for-ascc-highlights-skills-and-employment-priorities-at-the-2026-asean3-hrd-forum/",
-      "summary": "H.E. San Lwin, Deputy Secretary-General of ASEAN for ASEAN Socio-Cultural Community, delivered pre-recorded remarks at the opening of the 2026 ASEAN+3 Human Resource Development Forum in Seoul, the Republic of Korea, on 3 November 2026. In line with the Forum’s theme “From Skills to Jobs: Build The ",
-      "featured": false,
-      "confirmed": true,
-      "source": "ASEAN",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
       "id": "cop-2026",
       "title": "UN Climate Conference (COP) 2026",
       "date": "2026-11-10",
@@ -126,6 +109,23 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "b9bb06d3a98ddf35-evt",
+      "title": "Informal meeting of Heads of State or Government of 13 November 2026 - Invitation letter by President António Costa to the members of the European Council",
+      "date": "2026-11-13",
+      "end_date": "2026-11-13",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOVTNuUFN1RFAzWlZsejRRQWYtVVBuZkljM1AtaVBLeG5pRWJwbEtzc0ZsVnVZSXI0VkpteWcwbkZBN010MmlicG41T3lwYjlLNEgtckNNYW0tQUVFQnBhWWtfNVhVNEIzYzVQOXFnZk5kbjRrWUw1S3FNam9yTTdKa045OWxjWWpRTFRoN3BjakJsWG9YeDI0QnlVeXRiSHUyNWdTR2VEMThZTXhUdEZKWVUzNHVyeGF0Y1otUmdVOGlMc1BONDMxS2FzQ0wxcmRXNEJnNTZkenc3WGdUeEpHTlJRLU91YzFzS0djRERCNWF6dngyZklGcW9iMkVUOTdLZGdJN1BDYmpvZmhVbjBvTkRPZ1dOU0RYX200WGxqZjRpWTlvdDVCRlhOVE1ldWM0eU5QNzlENjhrZ2c3d0duZjNR?oc=5",
+      "summary": "Informal meeting of Heads of State or Government of 13 November 2026 - Invitation letter by President António Costa to the members of the European Council &nbsp;&nbsp; Council, European Union",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "apec-2026",
@@ -190,6 +190,23 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "7c9f4e7ce7585419-evt",
+      "title": "International ministerial meetings - Press conference - Accession Conference with Montenegro - 2026-10-12",
+      "date": "2026-12-10",
+      "end_date": "2026-12-10",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGejk1NlUzNTBmWXpIeTJrajY3NXJWMjNrN05PSUkxbENlNkszSk84ZDBpNTBkYnNFV0xKb2NKckxRaXI0MFd1T3VCcE5aenJqYjVMejRVSDI4WkVi?oc=5",
+      "summary": "International ministerial meetings - Press conference - Accession Conference with Montenegro - 2026-10-12 &nbsp;&nbsp; Council Live",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "eu-council-2026-12",
