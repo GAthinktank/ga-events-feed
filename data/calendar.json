@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-11-02T21:20:03.688528+00:00",
-    "duration_seconds": 84.725507,
+    "generated_at": "2026-11-03T05:04:38.312812+00:00",
+    "duration_seconds": 91.772009,
     "stats": {
       "ok": 83,
       "fail": 16,
-      "items_total": 2237,
-      "items_strict": 582,
-      "events_detected": 1
+      "items_total": 2280,
+      "items_strict": 588,
+      "events_detected": 0
     },
     "source_count": 99
   },
@@ -171,23 +171,6 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "6f7e1bda7ae25349-evt",
-      "title": "Press statement by Eurogroup President Kyriakos Pierrakakis following the announcement of the President of the European Central Bank, Christine Lagarde, to step down on 7 February 2027",
-      "date": "2027-02-07",
-      "end_date": "2027-02-07",
-      "location": "",
-      "organizer": "European Council",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQTEtkVTdsV0dCbGpNVncyY3dwd1lpcTFVYTdqb25OR3d4dnBBbXhWX09SbzFpR0VJZkFXNHY2emNPMzd4WVVZSWhzMnZmVERhVFpVc19QQ1VJcDAyQzZtNElTbjJ4dzR3SFRMUi15OUtuQW42Q19LcFlOVjhVcHBlNDBDZklCSjYzSkpYa2c0WkwydEdYMi1obDdRNzhsOGs1MExPVW5KTTJiSVdMbExKcGpCSFVXZWlRMVVyZzItSmZ2ZmdESjRiYkV0YXc2ODVGXzdVdk5rYWV5b1lNOXVvT1R6WHFxNmxjckszUzBwdHozNGQ2YWlzNW1ZQlJIY2hsa1FFT1hHLWVtV1I4TTBDRWJOMmRhWEd4OEZPYWFQcHlsdGdya1luUkdHOEI1QU9NdGIyaEZUcEVXbGhzdjdlN0ctanJobU9VcF9TcWNyNHJNTHkxWXZIMTI5UVp4SHBpOHAzVEJwVGhiZw?oc=5",
-      "summary": "Press statement by Eurogroup President Kyriakos Pierrakakis following the announcement of the President of the European Central Bank, Christine Lagarde, to step down on 7 February 2027 &nbsp;&nbsp; Council, European Union",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Council",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "msc-report-2027",
