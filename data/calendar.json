@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-11-04T01:01:24.045628+00:00",
-    "duration_seconds": 85.002783,
+    "generated_at": "2026-11-04T10:21:56.629339+00:00",
+    "duration_seconds": 79.785123,
     "stats": {
       "ok": 82,
       "fail": 17,
-      "items_total": 2251,
-      "items_strict": 566,
-      "events_detected": 2
+      "items_total": 2206,
+      "items_strict": 573,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -77,7 +77,7 @@
       "kind": "diplomatic-event"
     },
     {
-      "id": "b9bb06d3a98ddf35-evt",
+      "id": "15a7a83606a0ac70-evt",
       "title": "Informal meeting of Heads of State or Government of 13 November 2026 - Invitation letter by President António Costa to the members of the European Council",
       "date": "2026-11-13",
       "end_date": "2026-11-13",
@@ -85,7 +85,7 @@
       "organizer": "European Council",
       "region": "EU",
       "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOVTNuUFN1RFAzWlZsejRRQWYtVVBuZkljM1AtaVBLeG5pRWJwbEtzc0ZsVnVZSXI0VkpteWcwbkZBN010MmlicG41T3lwYjlLNEgtckNNYW0tQUVFQnBhWWtfNVhVNEIzYzVQOXFnZk5kbjRrWUw1S3FNam9yTTdKa045OWxjWWpRTFRoN3BjakJsWG9YeDI0QnlVeXRiSHUyNWdTR2VEMThZTXhUdEZKWVUzNHVyeGF0Y1otUmdVOGlMc1BONDMxS2FzQ0wxcmRXNEJnNTZkenc3WGdUeEpHTlJRLU91YzFzS0djRERCNWF6dngyZklGcW9iMkVUOTdLZGdJN1BDYmpvZmhVbjBvTkRPZ1dOU0RYX200WGxqZjRpWTlvdDVCRlhOVE1ldWM0eU5QNzlENjhrZ2c3d0duZjNR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNdmpYS0t3RVRRTWdJeWFOWnBDM1RhRUZZOXpydy12TXpScmJQVXJqYWYtWW9JNldyRXZXTDlZRm5kR0xKNFdGTE9NcmJaM3dPQXFpTmxzNzVEdjVrMF8yU2ZpLVJNMGZRUHZBYzJ6bG5MdVJfWHB6NU10TDlnMjdpd3lhb3RDS200SUE3TkNfM1VVVGlIQ2ZzdXRVSjBZcjBHUDVjLVllNktxTWtJSWpRY2lKSU9TN0pPNFZiOExxSjFJZWx1NG80Vm0tT2ZBb2xDNzdkOHpZWlB6SHF6NXplTUFLN2VWNlNuemI4eFdhVU0yUUNRbHpOM280WF81V2hRUWhPc2hQSHE0eDl5THh1M3FCa2FtMWVxaGZidTBjdFQ1MHZvdWNza2dUNWVZRXdlOENuOUFDRGVoQnpVR3h5ZWxR?oc=5",
       "summary": "Informal meeting of Heads of State or Government of 13 November 2026 - Invitation letter by President António Costa to the members of the European Council &nbsp;&nbsp; Council, European Union",
       "featured": false,
       "confirmed": true,
@@ -156,23 +156,6 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "7c9f4e7ce7585419-evt",
-      "title": "International ministerial meetings - Press conference - Accession Conference with Montenegro - 2026-10-12",
-      "date": "2026-12-10",
-      "end_date": "2026-12-10",
-      "location": "",
-      "organizer": "European Council",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGejk1NlUzNTBmWXpIeTJrajY3NXJWMjNrN05PSUkxbENlNkszSk84ZDBpNTBkYnNFV0xKb2NKckxRaXI0MFd1T3VCcE5aenJqYjVMejRVSDI4WkVi?oc=5",
-      "summary": "International ministerial meetings - Press conference - Accession Conference with Montenegro - 2026-10-12 &nbsp;&nbsp; Council Live",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Council",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "eu-council-2026-12",
