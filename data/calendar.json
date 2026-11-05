@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-11-05T10:15:36.435396+00:00",
-    "duration_seconds": 76.914915,
+    "generated_at": "2026-11-05T19:25:29.303274+00:00",
+    "duration_seconds": 76.99914,
     "stats": {
       "ok": 82,
       "fail": 17,
-      "items_total": 2143,
-      "items_strict": 575,
-      "events_detected": 6
+      "items_total": 2131,
+      "items_strict": 570,
+      "events_detected": 9
     },
     "source_count": 99
   },
@@ -59,6 +59,74 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "9f1a73fc10e2f3ea-evt",
+      "title": "International Development Minister speech at Education Cannot Wait Replenishment Conference",
+      "date": "2026-11-05",
+      "end_date": "2026-11-05",
+      "location": "",
+      "organizer": "UK FCDO",
+      "region": "UK",
+      "theme": "diplomacy",
+      "link": "https://www.gov.uk/government/speeches/international-development-minister-speech-at-education-cannot-wait-replenishment-conference",
+      "summary": "Kirsty McNeill made a speech at the Education Cannot Wait Replenishment Conference on 05 November 2026. She outlined the UK's commitment to supporting the continued provision of education during times of crisis.",
+      "featured": false,
+      "confirmed": true,
+      "source": "UK FCDO",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "15dbf33e3f6d074b-evt",
+      "title": "Remarks by Commissioner Serafin during the Budget Committee meeting at the European Parliament",
+      "date": "2026-11-05",
+      "end_date": "2026-11-05",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2358",
+      "summary": "European Commission Speech Brussels, 05 Nov 2026 OPENING REMARKS Dear Chair, Honourable Members, I am very pleased to join you today to discuss the state of play on the next multi-annual EU budget. Our common ...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "c96d67dd30801835-evt",
+      "title": "Daily News 05 / 11 / 2026",
+      "date": "2026-11-05",
+      "end_date": "2026-11-05",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2355",
+      "summary": "European Commission Daily news Brussels, 05 Nov 2026 European Innovation Council launches €1.8 billion in funding for 2027 The European Commission has adopted the 2027 European Innovation Council (EIC) Work Progra...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "bcd5054c625a99a4-evt",
+      "title": "European Innovation Council launches €1.8 billion in funding for 2027",
+      "date": "2026-11-05",
+      "end_date": "2026-11-05",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2352",
+      "summary": "European Commission Press release Brussels, 05 Nov 2026 The European Commission has adopted the 2027 European Innovation Council (EIC) Work Programme, unlocking €1.8 billion to support Europe's most promising deep tech entrepreneurs and researchers.",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "0e7f3eb3560756ba-evt",
@@ -224,23 +292,6 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "7c9f4e7ce7585419-evt",
-      "title": "International ministerial meetings - Press conference - Accession Conference with Montenegro - 2026-10-12",
-      "date": "2026-12-10",
-      "end_date": "2026-12-10",
-      "location": "",
-      "organizer": "European Council",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGejk1NlUzNTBmWXpIeTJrajY3NXJWMjNrN05PSUkxbENlNkszSk84ZDBpNTBkYnNFV0xKb2NKckxRaXI0MFd1T3VCcE5aenJqYjVMejRVSDI4WkVi?oc=5",
-      "summary": "International ministerial meetings - Press conference - Accession Conference with Montenegro - 2026-10-12 &nbsp;&nbsp; Council Live",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Council",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "eu-council-2026-12",
