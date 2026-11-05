@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-11-05T01:15:53.833851+00:00",
-    "duration_seconds": 79.781459,
+    "generated_at": "2026-11-05T10:15:36.435396+00:00",
+    "duration_seconds": 76.914915,
     "stats": {
       "ok": 82,
       "fail": 17,
-      "items_total": 2141,
-      "items_strict": 578,
-      "events_detected": 1
+      "items_total": 2143,
+      "items_strict": 575,
+      "events_detected": 6
     },
     "source_count": 99
   },
@@ -59,6 +59,74 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "0e7f3eb3560756ba-evt",
+      "title": "Keynote address by Commissioner Kubilius at the Konrad Adenauer Stiftung's Global Security Forum",
+      "date": "2026-11-05",
+      "end_date": "2026-11-05",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2350",
+      "summary": "European Commission Speech Brussels, 05 Nov 2026 It's a big honour for me to be invited to give the opening speech at the first ever Global Security Forum, organized by the Konrad Adenauer foundation. First ma...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "2b4db4580dd8d91c-evt",
+      "title": "30th Accession Conference with Montenegro, 6 November 2026",
+      "date": "2026-11-06",
+      "end_date": "2026-11-06",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa0tkYUYwMG1fUTJTSTlIYlpTaEU5dktDYVJfMEE5dGlnWFdpSVJCYWw2WENaRHNUUmFyNlczck4tcXBtM19wU3VWS3hFbDFld2dMRFEtWjNRTGJOYkl3LUVoZDctd3dGVzE1Y1FDUlV2OE1IcDkzaEpucEJUZ2RlYk1Kc3VlZEtncEdsOEZLQ2Mwc0hqQ2k2cVF5MDJRek94dmcw?oc=5",
+      "summary": "30th Accession Conference with Montenegro, 6 November 2026 &nbsp;&nbsp; Council, European Union",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "935930161efd35a6-evt",
+      "title": "Press briefing - Eurogroup meeting of 9 November 2026",
+      "date": "2026-11-09",
+      "end_date": "2026-11-09",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQajV6MXNNbTVqUllIamEtLTAxVWp2Z3ZsTThOcjZvN1hJYVBBWWNQRS03b2l4R3lRSUF1UElhaG5DY1E1ZS1CYjVjLW1XNEh5QXR3MFdvYmQ1bENZd3RlWGU5UWxiSjFfM0h2dXE3WlJ0S2NDMEJGVjBCcGhid294SmFmYlFNTEk5YzJ6VC1B?oc=5",
+      "summary": "Press briefing - Eurogroup meeting of 9 November 2026 &nbsp;&nbsp; Council, European Union",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "db223af4453ce5fb-evt",
+      "title": "Letter convening the General Assembly meeting on the use of the veto, 10 November 2026",
+      "date": "2026-11-10",
+      "end_date": "2026-11-10",
+      "location": "",
+      "organizer": "United Nations",
+      "region": "Global",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbFVzeUEzenIza25ZSFczeGlDcjBFN2N6M1IxcXVNMEVyMDlLVXdUM3FTTllfX3BPeUwxTHRVbXFkNHhvdTFoSURhb3Fnd2tHZUlfa0M2TGcwUkpFTTRPM2VxekVwTWh6WGkwRVRQZDFRTXZ0SVZxczZtNUpWYVZvZ3N3WEl6YXJ2b3B6SFFJNThSYklpd1E?oc=5",
+      "summary": "Letter convening the General Assembly meeting on the use of the veto, 10 November 2026 &nbsp;&nbsp; Welcome to the United Nations",
+      "featured": false,
+      "confirmed": true,
+      "source": "United Nations",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "cop-2026",
@@ -156,6 +224,23 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "7c9f4e7ce7585419-evt",
+      "title": "International ministerial meetings - Press conference - Accession Conference with Montenegro - 2026-10-12",
+      "date": "2026-12-10",
+      "end_date": "2026-12-10",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGejk1NlUzNTBmWXpIeTJrajY3NXJWMjNrN05PSUkxbENlNkszSk84ZDBpNTBkYnNFV0xKb2NKckxRaXI0MFd1T3VCcE5aenJqYjVMejRVSDI4WkVi?oc=5",
+      "summary": "International ministerial meetings - Press conference - Accession Conference with Montenegro - 2026-10-12 &nbsp;&nbsp; Council Live",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "eu-council-2026-12",
