@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-11-04T19:16:36.896709+00:00",
-    "duration_seconds": 76.016509,
+    "generated_at": "2026-11-05T01:15:53.833851+00:00",
+    "duration_seconds": 79.781459,
     "stats": {
       "ok": 82,
       "fail": 17,
-      "items_total": 2142,
-      "items_strict": 579,
-      "events_detected": 3
+      "items_total": 2141,
+      "items_strict": 578,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -59,40 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "d89ed23bf1f94e27-evt",
-      "title": "Statement following meeting on prosperity talks today",
-      "date": "2026-11-04",
-      "end_date": "2026-11-04",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2348",
-      "summary": "European Commission Statement Brussels, 04 Nov 2026 Today, the European Commission hosted talks as part of ongoing efforts to secure a sustainable peace for Ukraine. Delegations from the EU, Ukraine, Germany, Fra...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "6518af94873aa84d-evt",
-      "title": "Closing Speech by Commissioner Lahbib at the European Civil Protection Forum",
-      "date": "2026-11-04",
-      "end_date": "2026-11-04",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2346",
-      "summary": "European Commission Speech Brussels, 04 Nov 2026 What a fantastic way to end this Forum. I have just come from our workshop with 100 young people. Their energy is contagious. These two days have been unforgett...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "cop-2026",
