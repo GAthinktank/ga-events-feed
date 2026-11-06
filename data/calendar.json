@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-11-06T01:21:20.407082+00:00",
-    "duration_seconds": 79.297426,
+    "generated_at": "2026-11-06T10:18:41.021799+00:00",
+    "duration_seconds": 76.764318,
     "stats": {
       "ok": 82,
       "fail": 17,
-      "items_total": 2128,
-      "items_strict": 568,
-      "events_detected": 3
+      "items_total": 2144,
+      "items_strict": 581,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -59,40 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "2b4db4580dd8d91c-evt",
-      "title": "30th Accession Conference with Montenegro, 6 November 2026",
-      "date": "2026-11-06",
-      "end_date": "2026-11-06",
-      "location": "",
-      "organizer": "European Council",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa0tkYUYwMG1fUTJTSTlIYlpTaEU5dktDYVJfMEE5dGlnWFdpSVJCYWw2WENaRHNUUmFyNlczck4tcXBtM19wU3VWS3hFbDFld2dMRFEtWjNRTGJOYkl3LUVoZDctd3dGVzE1Y1FDUlV2OE1IcDkzaEpucEJUZ2RlYk1Kc3VlZEtncEdsOEZLQ2Mwc0hqQ2k2cVF5MDJRek94dmcw?oc=5",
-      "summary": "30th Accession Conference with Montenegro, 6 November 2026 &nbsp;&nbsp; Council, European Union",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Council",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "935930161efd35a6-evt",
-      "title": "Press briefing - Eurogroup meeting of 9 November 2026",
-      "date": "2026-11-09",
-      "end_date": "2026-11-09",
-      "location": "",
-      "organizer": "European Council",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQajV6MXNNbTVqUllIamEtLTAxVWp2Z3ZsTThOcjZvN1hJYVBBWWNQRS03b2l4R3lRSUF1UElhaG5DY1E1ZS1CYjVjLW1XNEh5QXR3MFdvYmQ1bENZd3RlWGU5UWxiSjFfM0h2dXE3WlJ0S2NDMEJGVjBCcGhid294SmFmYlFNTEk5YzJ6VC1B?oc=5",
-      "summary": "Press briefing - Eurogroup meeting of 9 November 2026 &nbsp;&nbsp; Council, European Union",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Council",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "cop-2026",
