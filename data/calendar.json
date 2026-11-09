@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-11-08T19:18:37.528539+00:00",
-    "duration_seconds": 73.312998,
+    "generated_at": "2026-11-09T00:27:33.990955+00:00",
+    "duration_seconds": 72.605326,
     "stats": {
       "ok": 82,
       "fail": 17,
-      "items_total": 2144,
-      "items_strict": 587,
-      "events_detected": 2
+      "items_total": 2143,
+      "items_strict": 596,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -156,23 +156,6 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "7c9f4e7ce7585419-evt",
-      "title": "International ministerial meetings - Press conference - Accession Conference with Montenegro - 2026-10-12",
-      "date": "2026-12-10",
-      "end_date": "2026-12-10",
-      "location": "",
-      "organizer": "European Council",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGejk1NlUzNTBmWXpIeTJrajY3NXJWMjNrN05PSUkxbENlNkszSk84ZDBpNTBkYnNFV0xKb2NKckxRaXI0MFd1T3VCcE5aenJqYjVMejRVSDI4WkVi?oc=5",
-      "summary": "International ministerial meetings - Press conference - Accession Conference with Montenegro - 2026-10-12 &nbsp;&nbsp; Council Live",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Council",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "eu-council-2026-12",

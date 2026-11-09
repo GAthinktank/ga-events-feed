@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-11-08T19:18:37.528539+00:00",
-    "duration_seconds": 73.312998,
+    "generated_at": "2026-11-09T00:27:33.990955+00:00",
+    "duration_seconds": 72.605326,
     "stats": {
       "ok": 82,
       "fail": 17,
-      "items_total": 2144,
-      "items_strict": 587,
-      "events_detected": 2
+      "items_total": 2143,
+      "items_strict": 596,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -21,19 +21,6 @@
       "source": "US White House",
       "source_type": "gov",
       "region": "US",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "89e7bf4e2c5fd995",
-      "title": "Trump lost the midterms – not his grip on foreign policy",
-      "summary": "Trump lost the midterms – not his grip on foreign policy &nbsp;&nbsp; Lowy Institute",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR0dfeV9paHJSMXlndUVDaXRkSWRDX05ZNFNjMnhFZmpINHlTa1ptd0FwOTJuSGhocENfaFpvLWJpUGNyWWM3TVBUN2hudlhVLWl3NXZaTHpSQ0dCME03eXJiaG5oSmFnTTdhMWdXMVhIMjRwTUJUX3oxWlU1RFpvdUxuWndYbmJvZk1mRzNCZFhtbmQ5TzhNVGtfNi0wcUJOc0E?oc=5",
-      "date": "2026-11-06",
-      "source": "Lowy Institute (AU)",
-      "source_type": "tt",
-      "region": "AU",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -219,19 +206,6 @@
       "lang": "fr",
       "theme": "diplomacy",
       "via_gnews": false
-    },
-    {
-      "id": "2c9cbdd13f1187c0",
-      "title": "BII launches new investment strategy for growth in Kenya",
-      "summary": "BII launches new investment strategy for growth in Kenya &nbsp;&nbsp; GOV.UK",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR2dFYW9aUFFEaDltaFlVY0RtQXQ1ZE9teElrVjJOU1VERkdTajg1WkpiVFRrTlUxZng3VGk5UldEU2pvc0o5NlhxZTFwa1l4dExKVm5Dc2N1T1NPR1l2TGdlM1hVejlwMlVtclpKc3JuY2dyQ1FHQWpkWXRPSm42c3Vvcm9yQTJCeHZjQW5MWWY1V3lodUE?oc=5",
-      "date": "2026-11-06",
-      "source": "UK gov.uk announcements",
-      "source_type": "gov",
-      "region": "UK",
-      "lang": "en",
-      "theme": "economy",
-      "via_gnews": true
     },
     {
       "id": "6c8a7f3b57f0483a",
@@ -923,6 +897,19 @@
       "via_gnews": true
     },
     {
+      "id": "0107e3101b7602dd",
+      "title": "How War, Tariffs, and Other Foreign Policy Issues Could Affect the U.S. Midterms",
+      "summary": "How War, Tariffs, and Other Foreign Policy Issues Could Affect the U.S. Midterms &nbsp;&nbsp; Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLVlPVkVnYnAxQlg3WXpENjk5YlhnM1M5eXYwYm9hektFZjNEeHU5ZkI0NVZCVzBZR25jdmJSdVFnVW1jOUZnUVV6Tm1aVFpMdG9MVGpMYjNPeGxDX19RSWxEdFRQc3BXenktMkpMVUhPNHZHNURzek1sdmgxemwtYmtLTmduSzdlZTA0UG12YTFhc3ZOT0pmRjkyTXBNRXJyWTgxeFg3MnN2VmNN?oc=5",
+      "date": "2026-10-29",
+      "source": "Council on Foreign Relations",
+      "source_type": "tt",
+      "region": "US",
+      "lang": "en",
+      "theme": "security",
+      "via_gnews": true
+    },
+    {
       "id": "faf9c6594c4b6ecb",
       "title": "Fast Following: Military Emulation and Twenty-First-Century Transformation",
       "summary": "Fast Following: Military Emulation and Twenty-First-Century Transformation &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
@@ -971,6 +958,19 @@
       "source_type": "gov",
       "region": "FR",
       "lang": "fr",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "8be276ac67f7bd3c",
+      "title": "SIPRI Yearbook 2026, Summary in Japanese",
+      "summary": "SIPRI Yearbook 2026, Summary in Japanese &nbsp;&nbsp; Stockholm International Peace Research Institute",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUjdQYmI2bGF3WEZUNnZaLUlfVnlDajh1Q0dzWmxBWEZFVjMtWWdVT3hVNV9paVJ2ODNDWlQ5YURodEEtd3Vwd2xtSkJwS3MyNFlEbE1fTkNXTVZEY0Zrc20xRDhwQUVtVTVsNTNLNXlzVDNTbEpJMmh6b3I3RHMta1Y5LUlrbG5NbGtZ?oc=5",
+      "date": "2026-10-27",
+      "source": "SIPRI",
+      "source_type": "tt",
+      "region": "EU",
+      "lang": "en",
       "theme": null,
       "via_gnews": true
     },
@@ -1209,19 +1209,6 @@
       "via_gnews": true
     },
     {
-      "id": "7c9f4e7ce7585419",
-      "title": "International ministerial meetings - Press conference - Accession Conference with Montenegro - 2026-10-12",
-      "summary": "International ministerial meetings - Press conference - Accession Conference with Montenegro - 2026-10-12 &nbsp;&nbsp; Council Live",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGejk1NlUzNTBmWXpIeTJrajY3NXJWMjNrN05PSUkxbENlNkszSk84ZDBpNTBkYnNFV0xKb2NKckxRaXI0MFd1T3VCcE5aenJqYjVMejRVSDI4WkVi?oc=5",
-      "date": "2026-10-12",
-      "source": "European Council",
-      "source_type": "gov",
-      "region": "EU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "6afcc1b659418b68",
       "title": "2026 Southeast Asia Aid Map Report",
       "summary": "2026 Southeast Asia Aid Map Report &nbsp;&nbsp; Lowy Institute",
@@ -1231,6 +1218,19 @@
       "source_type": "tt",
       "region": "AU",
       "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "7fb789bb3612c84f",
+      "title": "Joint statement of the foreign minister of Canada, Denmark, Germany, France, Italy, Japan, The Netherlands, United Kingdom | France Diplomatie",
+      "summary": "Joint statement of the foreign minister of Canada, Denmark, Germany, France, Italy, Japan, The Netherlands, United Kingdom | France Diplomatie &nbsp;&nbsp; Ministère de l'Europe et des Affaires étrangères",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNUjJrd2R6b3lURGttS0RCTFBsRm9wTEc1bEJYZmhRNE9sSHBSdExzTzRBYmE5ZHlaczZmTlZVUnRtSVZhTktJN0p5aXg0dGpGRWJ1SUtfdmxncUwtdVRNZk1VS3dhdkt4QWE4TzhKRTZXUF9QdkhQaVc1Zmp2Wk1LQ19MOXpQZURkdmpxaFJJU0xNRmJLU01IN2pDSHVpYmVpUC1TZXpVN2RyenhLdzFDS2VEdWZBX3NGQWsyMlEtcGJZMVdSa1pLdkdBZmdoamN5SkU5OEtMWU5VSi03c0ZSNXRMUmlvb1UtN3dWLUhpaVZPMGNVa1FiUU04czBFeXpGaV80cXd5T2xfOEduNWdxV0o5T2ZmMEU?oc=5",
+      "date": "2026-10-09",
+      "source": "France — MEAE (Diplomatie)",
+      "source_type": "gov",
+      "region": "FR",
+      "lang": "fr",
       "theme": null,
       "via_gnews": true
     },
@@ -1378,6 +1378,19 @@
       "via_gnews": true
     },
     {
+      "id": "7bdb6ec1a984e8c9",
+      "title": "OECD Economic Outlook, Interim Report September 2026",
+      "summary": "OECD Economic Outlook, Interim Report September 2026 &nbsp;&nbsp; OECD",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNODBqVE51UFpMN1NxdzVHTmxIUlNRc3J1YUZxVllseEh2bzQ0eGpWTHF3b2VueTdCUHV3SUZuSFBPdVZDaWJUMGJmM05PcDgxNURqS3p5YlNHOWNUcGdXSjFyYUdOaUtrWjRhYzNPSGRCbFgzNEFwVFk1QWdUcVZKdHhfUmFuaW81RFducW5PRWl6ZDMxRS1nb2NHaG8yRnJ4NllBZXk2LWQ?oc=5",
+      "date": "2026-09-22",
+      "source": "OECD",
+      "source_type": "io",
+      "region": "Global",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "392b0bb5a2e8c9b1",
       "title": "Russia Officially Recognizes the Grand Strategic Challenge Posed by Poland",
       "summary": "Russia Officially Recognizes the Grand Strategic Challenge Posed by Poland &nbsp;&nbsp; Российский совет по международным делам",
@@ -1453,6 +1466,19 @@
       "region": "SE",
       "lang": "en",
       "theme": "security",
+      "via_gnews": true
+    },
+    {
+      "id": "9b09fb1f2c62477b",
+      "title": "Full Report: PISA 2025 Results (Volume I)",
+      "summary": "Full Report: PISA 2025 Results (Volume I) &nbsp;&nbsp; OECD",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ29kN2JxdUNMdjNnWjlJWENkbWtLX3BvN2pqSGRnZC1IN3ZSeGJwUTNvR25pMVhaUUNKNGEwUGJ6OHhJY3VfRDFvZkJicVNXRGlERkthcVBKRUt4OUczc0kxNmtrdDFuUjlMb2hpUkoxS3ZFV3JZQXh6UGtmZnd1NWVsVTVCeHIwbWZDLWoyNnF1bURlWmdV?oc=5",
+      "date": "2026-09-08",
+      "source": "OECD",
+      "source_type": "io",
+      "region": "Global",
+      "lang": "en",
+      "theme": null,
       "via_gnews": true
     },
     {
@@ -2002,19 +2028,6 @@
       "via_gnews": true
     },
     {
-      "id": "2999acac52a24894",
-      "title": "Increasing focus on nuclear weapons amid heightened escalation risks—new SIPRI Yearbook out now",
-      "summary": "Increasing focus on nuclear weapons amid heightened escalation risks—new SIPRI Yearbook out now &nbsp;&nbsp; Stockholm International Peace Research Institute",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMjc4SnBTbzE3Ni0wcmtPeWo4LWtTMEFNX0NrVk4xM1RqcVYwQmNobnNpaFN2b01GZVB4WFc4d1VZbTlGVEVwM0ZvRTBhMjEwaU4yQjhIalNHZGQwNVVfdzNXemkwLVZIVU12VzRSZEpIWmJHbm5HMEMzN3NXUnhvQWp1eGpQNjVrdGFVdDQ0QW9DUk9tZjlIclV6RmdUSVZpcHJnTFRVWldqYWl0aHBJWFUwMk9Ca0JyVXF5czh0VlR3MVg2bzlRQy03WWt3ZmxyenZ2UkNB?oc=5",
-      "date": "2026-06-08",
-      "source": "SIPRI",
-      "source_type": "tt",
-      "region": "EU",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": true
-    },
-    {
       "id": "27349875a1e822a8",
       "title": "SIPRI Yearbook 2026",
       "summary": "SIPRI Yearbook 2026 &nbsp;&nbsp; Stockholm International Peace Research Institute",
@@ -2275,19 +2288,6 @@
       "via_gnews": true
     },
     {
-      "id": "775a6762d0f29d68",
-      "title": "Government report on changes in the foreign and security policy environment submitted to Parliament",
-      "summary": "Government report on changes in the foreign and security policy environment submitted to Parliament &nbsp;&nbsp; Valtioneuvosto",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOWhTQ3lLbEtrOVlaam1GYmVnV0pidHU0LXVKZDUwQkJQYW9vclJZZ3hhS0daWk43ZDNIaDJmX21xUU8za2RIaVRXLXN2ZTRBcHNSTHgyWmw3NmNwT3hUSUU1ZjB2c1hWaVo4elRhbGdJdzVLWVVlTmJqREFBdDdZWEthOXp5UTE5Mkdza0UtM0hUYlhQRTZkTnhWUW9NVFc4MmdrczhURjNJMmpQZUZrb0lnbk5YTXd1clI2d2dYTF93Mzk3Q01ldERR?oc=5",
-      "date": "2026-04-16",
-      "source": "Finland — Government",
-      "source_type": "gov",
-      "region": "FI",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "d4e517a31e297048",
       "title": "Joint Statement – Lebanon – Latest Developments | France Diplomatie",
       "summary": "Joint Statement – Lebanon – Latest Developments | France Diplomatie &nbsp;&nbsp; Ministère de l'Europe et des Affaires étrangères",
@@ -2331,19 +2331,6 @@
       "title": "Joint statement on protection of journalists",
       "summary": "Joint statement on protection of journalists &nbsp;&nbsp; Ministère de l'Europe et des Affaires étrangères",
       "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPcF9Nd3VIT0JRWEgxRVh3Slk5dzBnWFdBeUg5THdsZ3l0VDhXWHV4dWpVdUhGMkY3QzBvNkJ2amRFS2xvTTJVbWNobDBSWkQ5R0ZqNnNPY1RoUTBsejljODhudmd5YzVlUUgyX0lGT0dzaEluczN2TW1BdjE1Ym42RFRSampoYkxxTUE0Nm5FblpoRXhWYlZPWVYybHROaEJYRm9abi1TYU1TdV9jUHZ1c2VjQUZZdk81b3hjSFl5aTcxTkpjLTFuNVlBREZQX2swZ1RwdWd0WEVZckNwLXBqcm5KLVJGZ1NiOVBwNWhrcUIyd3FDVi1VQWxsdEg1a1VVZHdYZllwa2dfSVZ0c0VKUUhOTE0?oc=5",
-      "date": "2026-04-07",
-      "source": "France — MEAE (Diplomatie)",
-      "source_type": "gov",
-      "region": "FR",
-      "lang": "fr",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "359692754da8bb53",
-      "title": "Joint statement on Lebanon | France Diplomatie",
-      "summary": "Joint statement on Lebanon | France Diplomatie &nbsp;&nbsp; Ministère de l'Europe et des Affaires étrangères",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNdmoyNUpaWDUtVThNYUpBVW1xdHowSEx5dkV3bnFlZjJSNW1rUW5XUkg2X0FVUnEyeWZ0bkt3UXJBYmd1aWM2TmJqeDQwSjJhSW1JMjBBcEFCUDJ0bUhUNGJlU294OHhRSGZ1TDZTMXNLblcwcXFHR0Z0V00waElqTGVRRUFPTl82ODJVRzd2emVGUEdqLWJVcjE0a1ZVMlJrZC1rdFFIeDB5WDgzVEhwSmMtaWg5dnppLWhiRmpxNGxiRmNHSGtUZHMzSmt5eXB4SjE3bjBBYThtQVRoakJmZDBVV2h3Rm92eHljcHRRV3FUWG1ndVJrSzQyMGtwdVk0U1hZSkdmZnZRanhUVk5fTldoZEV6dkE?oc=5",
       "date": "2026-04-07",
       "source": "France — MEAE (Diplomatie)",
       "source_type": "gov",
@@ -2418,6 +2405,19 @@
       "via_gnews": true
     },
     {
+      "id": "192a70bab09395cc",
+      "title": "OECD Economic Outlook, Interim Report March 2026",
+      "summary": "OECD Economic Outlook, Interim Report March 2026 &nbsp;&nbsp; OECD",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTXY2a1g2SmZOME41V3RtVG9FU2dlZ1BGSmJMR19ncHhuV09uUzRvRGtUc2VBc3ozbHNKTmFDdjRLTzVDbjBzcFJuNmdPaWRJSUVOaHk3aTlZY0hma0w0Q3ZLOHk0NURELUQyNTBfSDg0ZzZkNFBRbDZXcHg3RzZ6ZGpGSG5xWS1wR3JZNWxBN0tuQkE0SnNfeDF2TS0yR2VuVzBv?oc=5",
+      "date": "2026-03-26",
+      "source": "OECD",
+      "source_type": "io",
+      "region": "Global",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "734599fa6c5dc3ad",
       "title": "Strategy - Ministry of Foreign Affairs Republic of Poland - Gov.pl website",
       "summary": "Strategy - Ministry of Foreign Affairs Republic of Poland - Gov.pl website &nbsp;&nbsp; Gov.pl",
@@ -2428,6 +2428,19 @@
       "region": "PL",
       "lang": "en",
       "theme": "diplomacy",
+      "via_gnews": true
+    },
+    {
+      "id": "1a5ddc77bef3be11",
+      "title": "OECD Economic Outlook, Interim Report March 2026 (EN)",
+      "summary": "OECD Economic Outlook, Interim Report March 2026 (EN) &nbsp;&nbsp; OECD",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNX1BwcnVtTTBpajFIVGdNS3RUc0xtTzhVWWhqZmQxeUZPaWM2VHF6clRoM1RQM2lnVl85bDZTZmZ4ejd1MXN6RTlZTllZVDEzYkdlaU55MnJHWjJ2RWdadi05eHZQWmpFXzdQY0NtQzRDbzU2bFJvQzRxRC12YzZhbTg1SkNPM1U0VEpCMGsxMl9sRWEwUjgzM0owX29hZVo3QWpSQV9DY1d3QUt6ZFJxc1h5SkJrcDk3S3h4cGdaVnFvVFVOQ19laXF3dENGVDFJZjN2U2hyeEdUdw?oc=5",
+      "date": "2026-03-23",
+      "source": "OECD",
+      "source_type": "io",
+      "region": "Global",
+      "lang": "en",
+      "theme": null,
       "via_gnews": true
     },
     {
@@ -2467,6 +2480,19 @@
       "region": "CN",
       "lang": "en",
       "theme": "diplomacy",
+      "via_gnews": true
+    },
+    {
+      "id": "2b0f21f012883362",
+      "title": "Global Debt Report 2026",
+      "summary": "Global Debt Report 2026 &nbsp;&nbsp; OECD",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZFY0ZmhZd0MwWlVVUUNQUkswLWtSb2Fmalhja1NyWXRvT2s2WlZJck1xUC1SdU5TSm9ja0hSUi1GX2NhRDNZMDFMQ2hvV0lMczRrQzFxOVZVV2N2RVZodmp1N24tR2hIbHZPSGtiM0xiY0QtU0dKbWl3NkpMYTdwb3ViVQ?oc=5",
+      "date": "2026-03-04",
+      "source": "OECD",
+      "source_type": "io",
+      "region": "Global",
+      "lang": "en",
+      "theme": null,
       "via_gnews": true
     },
     {
@@ -2608,19 +2634,6 @@
       "source": "Council on Foreign Relations",
       "source_type": "tt",
       "region": "CN",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": true
-    },
-    {
-      "id": "bb88ae8941373876",
-      "title": "Russia’s Grinding War in Ukraine",
-      "summary": "Russia’s Grinding War in Ukraine &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WcVYzS00zd1JRSndRTUp5cXRjX29SRFlXZHVuRF9PZFg0RHY0VVlrelJaeGVhUGFFWnVBd3dqQzB0M1pBMVRIZ3lnRW1rVXVSdUVUM0lyd2FKTjlHSmc5N1AyNFlxdng4UXc?oc=5",
-      "date": "2026-01-27",
-      "source": "CSIS",
-      "source_type": "tt",
-      "region": "RU",
       "lang": "en",
       "theme": "security",
       "via_gnews": true
@@ -2782,19 +2795,6 @@
       "via_gnews": true
     },
     {
-      "id": "857a28c6fed6f3a2",
-      "title": "National Security Strategy",
-      "summary": "National Security Strategy &nbsp;&nbsp; The White House (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeEo1TE9CNW0wNHlRUUVPQjFjZmp2aVBPRDYwSUJoNnNLUS1tNE4yQUNReVFHQUNOd28zdFlDazJGQWpUZEZvRUlZLUtfc0FGcEI1dUtSWkx2LTMtTlJfU3YtaFNzSllxMVJvMUNlUEJydnhSdS1zVFdHQVo0MEltclItRXdfNWNhN0pKRmhrWXcxOU03Q25PalI0bUlPaWZDaXMzV3dxUXE0UHJrY0tiWnFFUFFsOC1lOFk5aDlvcnM1TDFG?oc=5",
-      "date": "2025-12-06",
-      "source": "US White House",
-      "source_type": "gov",
-      "region": "US",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "7ea97c6158a7e465",
       "title": "Roads to Readiness: Can the EU Move Fast Enough? ― Policy Brief",
       "summary": "Roads to Readiness: Can the EU Move Fast Enough? ― Policy Brief &nbsp;&nbsp; GLOBSEC",
@@ -2803,6 +2803,19 @@
       "source": "GLOBSEC",
       "source_type": "tt",
       "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "fa97628e66b95a32",
+      "title": "National Security Strategy",
+      "summary": "National Security Strategy &nbsp;&nbsp; The White House (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVDhEN3Y4Q3hiNlFERWpxV0UwVjNsUTFiU0hpNE1uS19iT2xpQXhFV1IwcVRFSEprVG5lclZSZHpSMzF6RFZuVWt5WXdQdFBWd3AwRk15alByNjFzSW1JdmZFU0V6Qy1MaUpueVJYM1pBQ1FqQ1dpWjczVkpJSExDQVVNUFNna3ZFYXluaW1IWWNlZFk?oc=5",
+      "date": "2025-12-05",
+      "source": "US White House",
+      "source_type": "gov",
+      "region": "US",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -2890,6 +2903,19 @@
       "title": "The Armed Conflict Survey 2025 : Europe and Eurasia",
       "summary": "The Armed Conflict Survey 2025 : Europe and Eurasia &nbsp;&nbsp; The International Institute for Strategic Studies",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSGQ4c0l4bFpIV0ViLV9xT2QtdzBXTVk0cEQ5UERCMktjenF6M2RYY0FRRG1JV3RNMXNQeHJaRWJhSThfc3lKWEJQWnltV0lMYW5nbW9HZ1pteEk3Q2l3VzBSNGpQdnA1QkoxMUJqc2M3UDVTQlhQRDdmMnhJWXJtNkt2SEVwRXhzYUdjanhqWTNpSUxGeHBJNVVWX3BLZGlLenVRZnJ4XzRGdGY0anBJN1FnR1FzNnd3T1B3R1p4ai1MQXM?oc=5",
+      "date": "2025-11-25",
+      "source": "IISS",
+      "source_type": "tt",
+      "region": "UK",
+      "lang": "en",
+      "theme": "security",
+      "via_gnews": true
+    },
+    {
+      "id": "477eb341c2bec890",
+      "title": "The Armed Conflict Survey 2025 : Editor’s Introduction",
+      "summary": "The Armed Conflict Survey 2025 : Editor’s Introduction &nbsp;&nbsp; The International Institute for Strategic Studies",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSXd4aDRXSzByazNsalFfZXdGUXpQNmRFUXVZLVJxZDYwd3doOU1LOE1KeUt0LWtxeC1XY3pOaVVNMEVycUVxLWUzeTU4ZXNDZy1wdjVPcDY0cnVlSzNBb3R1Nlpqcm5nNDdpa3ZUY1JmS25MVHBvT1FvVWNjeHY2cEFualVXX1ZxclFHZmUtbkxUdmpkR2dFTXhyLW9NcFU2Q2xHTWVOaUlJcjBvcEE?oc=5",
       "date": "2025-11-25",
       "source": "IISS",
       "source_type": "tt",
@@ -3003,19 +3029,6 @@
       "via_gnews": true
     },
     {
-      "id": "8704b2e1367b1449",
-      "title": "Revisionists Rising: An Analysis of Behaviour, Strategies, and Consequences",
-      "summary": "Revisionists Rising: An Analysis of Behaviour, Strategies, and Consequences &nbsp;&nbsp; orfonline.org",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ3lselM5WmlvTTloOUJpc05Bd3luTDNqb2VPVHhGZGNfQXJhSTNOajJlUnhwMWhCekt6SnFkS042S3NBRXhLd1FtOGFpSDI2NUt6a2xqc3VVdHZkc2ZZNFI4YnM3aXpwWkVEa1dyU3h5Y1JvMHl4TVhHWHlwX0szRENfZGx5X2RxWnFudmtqMklDeE1lRlNMNFl5akVuOFVDYkJFUUthMUJXNTQ?oc=5",
-      "date": "2025-11-18",
-      "source": "ORF — Observer Research Foundation",
-      "source_type": "tt",
-      "region": "IN",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "ee9dcbb97c0952d6",
       "title": "COP30: France joins declaration on information integrity on climate change",
       "summary": "COP30: France joins declaration on information integrity on climate change &nbsp;&nbsp; Ministère de l'Europe et des Affaires étrangères",
@@ -3078,6 +3091,19 @@
       "region": "CN",
       "lang": "en",
       "theme": "security",
+      "via_gnews": true
+    },
+    {
+      "id": "6660b93107aa5354",
+      "title": "Global Corporate Sustainability Report 2025",
+      "summary": "Global Corporate Sustainability Report 2025 &nbsp;&nbsp; OECD",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX3Q5UDFZV3puSGtJVGJKcmVqLUJNTFFvakE1NG96UndOVy16cTEyTGtOOW5wZGNaYXZpZE44WjNtTDdRSFNNbkpxUkxTY3RaLWc2LTY3d21wcFplcDdNVnRPbHFkNHBCWHRvWW1YSkhhYV8ta0JmMUR6bGNLcmYybVNscTdPRzB0NEl3ZVVqZloyQmlRUEZqZWZOZzRSUQ?oc=5",
+      "date": "2025-10-29",
+      "source": "OECD",
+      "source_type": "io",
+      "region": "Global",
+      "lang": "en",
+      "theme": null,
       "via_gnews": true
     },
     {
@@ -3172,6 +3198,19 @@
       "via_gnews": true
     },
     {
+      "id": "cf93d6eadb05f912",
+      "title": "Southeast Asia Influence Index - Key Findings Report",
+      "summary": "Southeast Asia Influence Index - Key Findings Report &nbsp;&nbsp; Lowy Institute",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNElKWVp4dHZYOUp0VzVzMU13RHJyYXFyWGFuYi1lZGg3WTBNWDQ0TG5CTl8ydUFkcTAydWluSHBhUFlKelo5c0dKTjh1d0VQRkhZSlEwMG9vQ0ZZTy15N0JkWHJYdWY2bDJ3eVREekJlZ1FJekFsSXhpYW5nd3lfQWFudUxpWDg3TGFFYmt1ZDBGdXBMcnAzeA?oc=5",
+      "date": "2025-09-30",
+      "source": "Lowy Institute (AU)",
+      "source_type": "tt",
+      "region": "AU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "774109d4cf874e74",
       "title": "Co-chairs’ statement on the occasion of the Ministerial Meeting on Coordinating Efforts for De-Escalation in Sudan",
       "summary": "Co-chairs’ statement on the occasion of the Ministerial Meeting on Coordinating Efforts for De-Escalation in Sudan &nbsp;&nbsp; Ministère de l'Europe et des Affaires étrangères",
@@ -3181,6 +3220,19 @@
       "source_type": "gov",
       "region": "FR",
       "lang": "fr",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "0f8440c6f828563c",
+      "title": "Full Report: OECD Economic Outlook, Interim Report September 2025",
+      "summary": "Full Report: OECD Economic Outlook, Interim Report September 2025 &nbsp;&nbsp; OECD",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRHBCbnVLc3AxOTk1bThhWl9OcTFkVWswNVdnSDhuejVJbHdQNHhXWkFITm5pMXlOby1ULVU1Z1BHQVRsdngtN1hnUTZYN1h3cmMwbUJXQVpyMVJUakpPNGQteTV4dTV5ZWt2algtdW1ab29abXoxTmEtZGFpc1p3Wm1IejF2VllodG5UUGo1dDF1LU51U041QzVwOVE1bTZmR2xnaXpJeXVSRXhmZGpSdm81NWY1ano5?oc=5",
+      "date": "2025-09-23",
+      "source": "OECD",
+      "source_type": "io",
+      "region": "Global",
+      "lang": "en",
       "theme": null,
       "via_gnews": true
     },
@@ -3406,6 +3458,19 @@
       "via_gnews": true
     },
     {
+      "id": "728f085db9e3b3e5",
+      "title": "Cuts in official development assistance: Full Report",
+      "summary": "Cuts in official development assistance: Full Report &nbsp;&nbsp; OECD",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQjJWX01zbDFhazMxQVc4VEhmRTBKRUpzWHBDUGtZcGtyS01SMHFwUFpLNF9SVVhSWGdOV0EzYl9GQU14SlUwVDFYVGpoTDdwdWVzeTJOMFNHQzdGXzFIa0htWVY1Qi14eEU4dm1WUXlmbk5oMEpHVFVBWU9mWlpTemZOV3I2QThVai1xellhbjA0T29zdENwX2ZYbm53eTM1a0FLZTBkb0Q?oc=5",
+      "date": "2025-06-26",
+      "source": "OECD",
+      "source_type": "io",
+      "region": "Global",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "2ccab5e251fece4a",
       "title": "The Hague Summit Declaration",
       "summary": "The Hague Summit Declaration &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
@@ -3519,6 +3584,19 @@
       "source_type": "gov",
       "region": "FR",
       "lang": "fr",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "77138c1fbeba09ba",
+      "title": "Demography: the Hidden Strategic Factor for Europe’s Democracy, Competitiveness, and Security",
+      "summary": "Demography: the Hidden Strategic Factor for Europe’s Democracy, Competitiveness, and Security &nbsp;&nbsp; GLOBSEC",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUHFONDEyeFN3SG54Q0tfMVViN1VDUmxfRUdyYmQ0MTgxSHhSaHE5N3VMSVRKYkRWZjlWdWlRNWVWR1NZMVNBWDZ4UW5JSjdaV1lDRTkyRGVQLVlPeXF4OUJ0MV93Z0xDSTRPWEtWV1ozeGdrcUtBMFJaSmNTZHFoT1dnM2JONm9nSzA4MEU2YWdGVjBIbUpLTm4zWWtsYjQwZ0FQOU1xMjBnUDZnWDgwY1M4SWJKcDZWaFhRRQ?oc=5",
+      "date": "2025-06-10",
+      "source": "GLOBSEC",
+      "source_type": "tt",
+      "region": "EU",
+      "lang": "en",
       "theme": null,
       "via_gnews": true
     },
@@ -3679,6 +3757,19 @@
       "via_gnews": true
     },
     {
+      "id": "48891b5892380c12",
+      "title": "OECD Economic Outlook, Interim Report March 2025",
+      "summary": "OECD Economic Outlook, Interim Report March 2025 &nbsp;&nbsp; OECD",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdFZSUGpwd1hHaloyNXowdVBYRmNjTGlSMXJxSkZqeWtIcFRVb3k4aGhHUndUem52SjM3RmM5ajIwYkVsMndDbGw5M2VwUnFaNWRDYUlsV3lhdHg5eGhGeXR3S2h6Vk5jbWFWVF9ld1YtZDZGTDNkQS05ZFZkVFhUYzJERXZJQWV1c195T2ZjekRoZ3dFcWhWV3ZCc1N5R1dwSUJB?oc=5",
+      "date": "2025-03-17",
+      "source": "OECD",
+      "source_type": "io",
+      "region": "Global",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "22e9847a51aeda8f",
       "title": "What future for Europe in the 2040 Sahel? | Note de la FRS | Foundation for Strategic Research | FRS",
       "summary": "What future for Europe in the 2040 Sahel? | Note de la FRS | Foundation for Strategic Research | FRS &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
@@ -3702,6 +3793,19 @@
       "region": "US",
       "lang": "en",
       "theme": "technology",
+      "via_gnews": true
+    },
+    {
+      "id": "d18ef71b519bdafd",
+      "title": "Joint Declaration on Enhanced Defence Cooperation between Denmark and Finland on 4 March 2025",
+      "summary": "Joint Declaration on Enhanced Defence Cooperation between Denmark and Finland on 4 March 2025 &nbsp;&nbsp; Valtioneuvosto",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR3VNS1RDcW1kUTJQbjRqZXVkSHJBUXN2OUJ3djc0azAyYV9BV3NDT1lNSHNfeGhPMTVKdU9WTFp2WjhiYnNNNTM5NlQtYTY4SGFDRUM4REFXMTY1U0s3R1dFSjFwNVByNW9fbGNQY3drUDNCT2VmUW9YeG5pbkxfNm04Mk9UalRCSDdVTGZTMGVORHNQc2VnVE56LVZQM0dlZzMyTkNvbjBBZ29BcmRlSzR2NzRZVHE1RHRjRk1KQlpHNldLMi1wa3JUTXhPV2s?oc=5",
+      "date": "2025-03-04",
+      "source": "Finland — Government",
+      "source_type": "gov",
+      "region": "FI",
+      "lang": "en",
+      "theme": "security",
       "via_gnews": true
     },
     {
@@ -3754,6 +3858,19 @@
       "region": "SE",
       "lang": "en",
       "theme": "security",
+      "via_gnews": true
+    },
+    {
+      "id": "6bbc49072657f6e2",
+      "title": "Consolidated Report on Amount B",
+      "summary": "Consolidated Report on Amount B &nbsp;&nbsp; OECD",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNnoxSklHeS0xc0tGdU9hVzB2dUtudEZTaERYcVF1RVlNWGdSZmVudHFzQ05lSDBralgxRHlmQ1hjRDNUbFNGWXIyQnFGSlQ5eTNnYVlfOHFRdG0wcEtNOWI1N3VIYzk3THVOWFNGZDZ1M0V0T3pRTU9qd0RQYjRwZVNnT3Bzc0lvSXllUVdR?oc=5",
+      "date": "2025-02-16",
+      "source": "OECD",
+      "source_type": "io",
+      "region": "Global",
+      "lang": "en",
+      "theme": null,
       "via_gnews": true
     },
     {
@@ -3884,32 +4001,6 @@
       "region": "FR",
       "lang": "fr",
       "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "a7bcfb1bdca727ec",
-      "title": "Government Defence Report outlines development of Finland’s defence as part of NATO",
-      "summary": "Government Defence Report outlines development of Finland’s defence as part of NATO &nbsp;&nbsp; Valtioneuvosto",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb3BaTGxURzd5LUUwZVNwNmJxZ0tvR2FWdVB1WEFENmFxaFQ0bFVRZ3F6SUs3Rk82a0VNMW5xNG5rM2VSY1BsNk1BSTlrSGQyNVdQNm1VVkItZkc5XzlGaWhYWWt1NkhFRXVxVlE0azN4TmQ1NXBfSlhSMmVQRnhLdlJYdldtSEM0YVpGUjhneEp4UWpmcVJhX1V2aFpCNm5IREliUmIwY3EyckVsOFU1bHdJd2tRaFdGQlBHcERxcGRZQQ?oc=5",
-      "date": "2024-12-19",
-      "source": "Finland — Government",
-      "source_type": "gov",
-      "region": "FI",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": true
-    },
-    {
-      "id": "d2f3a0ce2f6659b6",
-      "title": "Working Paper 24-22: Fiscal policy and the pandemic-era surge in US inflation: Lessons for the future",
-      "summary": "Working Paper 24-22: Fiscal policy and the pandemic-era surge in US inflation: Lessons for the future &nbsp;&nbsp; Peterson Institute for International Economics",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82dkxNcjEyVnNSbUxoRXR6Y25fd1F2WlpNUTFEWkNEMndueldaUEMzclZxUUo0Z2Z0U2UyaVNPLTdKVHhxbllkS3hBX3pHRUlWREVoV3F2OEJTb1FaWGRtMFltRDgwOXBPU2lNag?oc=5",
-      "date": "2024-12-16",
-      "source": "PIIE — Peterson Institute",
-      "source_type": "tt",
-      "region": "US",
-      "lang": "en",
-      "theme": "economy",
       "via_gnews": true
     },
     {
@@ -4238,6 +4329,19 @@
       "via_gnews": true
     },
     {
+      "id": "dc60c917c4ca926b",
+      "title": "Tax Challenges Arising from Digitalisation – Report on Pillar One Blueprint",
+      "summary": "Tax Challenges Arising from Digitalisation – Report on Pillar One Blueprint &nbsp;&nbsp; OECD",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdDFpUzhHZmZFZGpNdzlQMVBKdVBLYTBXZXotS0s4eWFyR0xtMGptR2hfck96UUhtOXNiUFZOZzAteEQ5VC1zOU1XQVJRcHVnWG5Pc294UHhJb1BJNnlWWFdiQXBhdWdMV1RDdk1UcTRDM2o5S29oWUdsZFRsY1dyT241QXJLQ0w5T0NCUVAzU091c3VQWmxmYTVuOVhrNHFJUnFUTGtOZ3R0bGhta1RFajBmUS13ZmFuUk5rMC10VVU0dUZzRFE?oc=5",
+      "date": "2024-07-05",
+      "source": "OECD",
+      "source_type": "io",
+      "region": "Global",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "9ee2d9d77b0dbc34",
       "title": "Dichiarazione di Valore in Loco (Degree Validation)",
       "summary": "Dichiarazione di Valore in Loco (Degree Validation) &nbsp;&nbsp; Consolato d'Italia a Manchester",
@@ -4285,19 +4389,6 @@
       "source": "SIPRI",
       "source_type": "tt",
       "region": "EU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "56bfcd43b14215af",
-      "title": "Government Report on Finnish Foreign and Security Policy submitted to Parliament",
-      "summary": "Government Report on Finnish Foreign and Security Policy submitted to Parliament &nbsp;&nbsp; Valtioneuvosto",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdlg1ekl1eTZhd3NXNy03cVFaMTNkcTQ4WVhCUzJLeEk0bHRnMkhhNHVjMjlDN19LN0xnVkZEa2lwTVZSbF9EM0tFWk5zUnFLM1JhVWMxaGs1VGlDMG5adC1ySnhTOWZsRDdYcDhPajMzQnNSMGRaM2lyUjlFbXVHb2Y1UWZXc1gtM0FSUVhJUVU1d3h3RHN4Ti1zWDZsQmNGR0t1YVNucWQweDdDSFB5Tg?oc=5",
-      "date": "2024-06-20",
-      "source": "Finland — Government",
-      "source_type": "gov",
-      "region": "FI",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -4823,6 +4914,19 @@
       "via_gnews": true
     },
     {
+      "id": "83c412211644b1f8",
+      "title": "Work on new Government's Defence Report to begin - Finnish Government",
+      "summary": "Work on new Government's Defence Report to begin - Finnish Government &nbsp;&nbsp; Valtioneuvosto",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWU84dzhuclowMEFMcWd3YnY4a0p5STlhZ1JHMHhRX1lvcUdkWFJuSENHY1dtOHlOdjliYnZTTkFpLU1UMXd1akdnR0ZmODRvRk5pUFp4dktYdzRxaVNJQ2oyUnlSYVpua3VfSUdfNjZZcTczZ0Zzalp4Z0xFNjRRNFJLRUJ3SXJrMnQwR045d1BranM?oc=5",
+      "date": "2023-09-19",
+      "source": "Finland — Government",
+      "source_type": "gov",
+      "region": "FI",
+      "lang": "en",
+      "theme": "security",
+      "via_gnews": true
+    },
+    {
       "id": "17b6c0c022d0be75",
       "title": "PC Declaration on Guatemala",
       "summary": "PC Declaration on Guatemala &nbsp;&nbsp; U.S. Mission to the Organization of American States (.gov)",
@@ -4896,6 +5000,19 @@
       "source": "CSIS",
       "source_type": "tt",
       "region": "CN",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "41bc7686d0887b82",
+      "title": "Report",
+      "summary": "Report &nbsp;&nbsp; World Bank Group",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aV3RUMF9namV6X2JvS0gwdnEzRW50bS1zblZrNUtfVENkdHlJaGhNd2RCVGVMZnZkM2lQaC1nUVk5d1ZrT0hZVk85dXlreFhvQXZfTHZ6TkoxU20yd01BRUtFYzBScVB4VVl0Ug?oc=5",
+      "date": "2023-07-30",
+      "source": "World Bank",
+      "source_type": "io",
+      "region": "Global",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -5291,6 +5408,19 @@
       "via_gnews": true
     },
     {
+      "id": "3514160a1ccff04d",
+      "title": "Analysis",
+      "summary": "Analysis &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYNnhXLV92T19GSW9PWFpRMFJBTXA5QXk5Zzg0dTJmZ0lpWVFBYzBDeFh6YnVQbUFxd3VDQVJDOXRMSkJJaWI2eWxZdXhodXVGZ1V0TFVyQXhReVdUZ2RzSUFwZUpfZWlPdnZQdVhxWVJxUnViaWFNRA?oc=5",
+      "date": "2023-01-19",
+      "source": "CSIS",
+      "source_type": "tt",
+      "region": "US",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "ec20bf74f2ca689e",
       "title": "Mixed report card: China’s influence at the United Nations",
       "summary": "Mixed report card: China’s influence at the United Nations &nbsp;&nbsp; Lowy Institute",
@@ -5373,19 +5503,6 @@
       "title": "The Armed Conflict Survey 2022: Middle East and North Africa Regional Analysis",
       "summary": "The Armed Conflict Survey 2022: Middle East and North Africa Regional Analysis &nbsp;&nbsp; The International Institute for Strategic Studies",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMzVsUGZ4WFRMZF9GZ3k2emtNV0VGZUNndGY4UWNjb2g4aF9xSEJvS2UtTlNvaDl1TlFoUktXOFFHMGNwUG0zOTAyTFBJd1p2M1prblJrZ0M4NG40Y1NLQlNwb2ZlNHdBQ3RiSU1QM3plMGxsOTYwMjU5cGVsS3kzU3Q0WG1Ed3Y3cEk0Q0FEVEdOTmlFZ0VocWMzdE42TDNs?oc=5",
-      "date": "2022-11-18",
-      "source": "IISS",
-      "source_type": "tt",
-      "region": "UK",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": true
-    },
-    {
-      "id": "f30b67c8197644fa",
-      "title": "The Armed Conflict Survey 2022: Asia Regional Analysis",
-      "summary": "The Armed Conflict Survey 2022: Asia Regional Analysis &nbsp;&nbsp; The International Institute for Strategic Studies",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcjVqdDNPb3JyOEFnU2ViSEVDdjQzUjNzLU1hX3NZcm1OaG1PRThQNmtUQWhNbjNBWFRRU1N2eFJkb0FMdkMwcUZWeGRreXE2RW52cktxakxKdDMtMmtDWWJPdGxHdUdCYy1vd1BSVS1hTzhmek1WazZINUtZQzZZUQ?oc=5",
       "date": "2022-11-18",
       "source": "IISS",
       "source_type": "tt",
@@ -5824,19 +5941,6 @@
       "via_gnews": true
     },
     {
-      "id": "e446ecd2b508aa96",
-      "title": "European Union - African Union summit, 17-18 February 2022",
-      "summary": "European Union - African Union summit, 17-18 February 2022 &nbsp;&nbsp; Council, European Union",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeUdxS1h1enM4RDFsdW5GcGxoLU9zT0VwcnN5cGYzQ1VGaUF4Z0hFektURVQ3STFfQURLUkZkOTN4Y1ZxWFJLUkRpZEhvdzRzSXNVRVV5eUhrUHc0bFN0NWdBMDlGSzVFX1hmanNySFdERkxZLTNOVWxHRmtRaHJMZUM3UXNJZw?oc=5",
-      "date": "2022-02-17",
-      "source": "African Union",
-      "source_type": "io",
-      "region": "Africa",
-      "lang": "en",
-      "theme": "diplomacy",
-      "via_gnews": true
-    },
-    {
       "id": "c88e27f80b851363",
       "title": "Statement of Foreign Policy",
       "summary": "Statement of Foreign Policy &nbsp;&nbsp; Government.se",
@@ -6149,19 +6253,6 @@
       "via_gnews": true
     },
     {
-      "id": "f71ebb77f791bdfb",
-      "title": "New report on West African migrants' use of information along the routes to Europe",
-      "summary": "New report on West African migrants' use of information along the routes to Europe &nbsp;&nbsp; DIIS",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWRoakNMVUZnVTVuNWZlZWQ0TXdtd0hDcXR0aVNCRWhmcUxLYy1NdHZIRUlJSGpvNXR0UTR2R21qa21UWGlqTUdZYjJFT0l5Wm5VZXlCR0ptUENaY3Q3NWpxelJzaWxCQjVkNUxUS29mSDcxeWJHY0xCdEVJbVJyTEM2VVBQVjNtSVlvYW8wQURpbVpjLUVJb05CY25GX3RxSGJuajVUdkI0WXgtQ0VGMlNkdw?oc=5",
-      "date": "2021-02-24",
-      "source": "DIIS (DK)",
-      "source_type": "tt",
-      "region": "DK",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "5f00c2e18350c9b5",
       "title": "Strategic Survey 2018 : The Annual Assessment of Geopolitics",
       "summary": "Strategic Survey 2018 : The Annual Assessment of Geopolitics &nbsp;&nbsp; The International Institute for Strategic Studies",
@@ -6383,6 +6474,19 @@
       "via_gnews": true
     },
     {
+      "id": "b091dc0288b5d48a",
+      "title": "Policy Brief 19-15: The Amazon Is a Carbon Bomb: How Can Brazil and the World Work Together to Avoid Setting It Off?",
+      "summary": "Policy Brief 19-15: The Amazon Is a Carbon Bomb: How Can Brazil and the World Work Together to Avoid Setting It Off? &nbsp;&nbsp; Peterson Institute for International Economics",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4S2hCMU9wWVNJeTVCcUhFS1pGSTMtZVAydk1lSTN0QTF2OEhqNE1VTHQ5UmdZVTVqSVV1bG9OTjU3ajlwaTdLcXFIb19UZmxteDg4WHFMbzBvMGZva1hHT01ROUgtRDNjSE5FWTdpTQ?oc=5",
+      "date": "2019-10-05",
+      "source": "PIIE — Peterson Institute",
+      "source_type": "tt",
+      "region": "US",
+      "lang": "en",
+      "theme": "climate",
+      "via_gnews": true
+    },
+    {
       "id": "c37bba7dad888501",
       "title": "The “tactical cloud”, a key element of the future combat air system",
       "summary": "The “tactical cloud”, a key element of the future combat air system &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
@@ -6418,19 +6522,6 @@
       "source_type": "tt",
       "region": "FR",
       "lang": "fr",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "6a348586be276796",
-      "title": "Policy Brief 19-13: Hyperinflation in Venezuela: A Stabilization Handbook",
-      "summary": "Policy Brief 19-13: Hyperinflation in Venezuela: A Stabilization Handbook &nbsp;&nbsp; Peterson Institute for International Economics",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyUlUtYUxPQjFhcHlVaEd6X2pUbktHZ1dDUTFweER2VHZJbDg4eWgtaHJ3RVVBTDlzdEpzTFlSSnRNZ1J5T1BYRFZHZWZnM2dZOHlzbFp4TkpFenNKQWhxTVJraHpaUFZoakVpTllRNA?oc=5",
-      "date": "2019-09-13",
-      "source": "PIIE — Peterson Institute",
-      "source_type": "tt",
-      "region": "US",
-      "lang": "en",
       "theme": null,
       "via_gnews": true
     },
@@ -6484,6 +6575,19 @@
       "region": "CN",
       "lang": "en",
       "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "d2510e809d3f3808",
+      "title": "2019 Progress Report on Tax Certainty (IMF/OECD)",
+      "summary": "2019 Progress Report on Tax Certainty (IMF/OECD) &nbsp;&nbsp; OECD",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbTFUcGF6VnhIVkxmWmVudGtaMFBQaTZWU3dVQU56WEZ2REJwTEJsenZLenFpQmNGeXpTUURCN0NEei11NUVoMjRobjFRNmgtSHkzdXJjNlljNmR6ZXpwR0RzNXVoOXI2alh3emlVdVhkdTRrWTl5WnpVZkp6cjhvLXFlRVFiTHBETkNjaE9ORlF4UFBYcmVScHEyby1TNkNmc0FyQzVCaWc0WEstbzNRVFZiRjAzV3NVMmdSN3J2UDhTcmRab2FGcVRNTQ?oc=5",
+      "date": "2019-06-20",
+      "source": "OECD",
+      "source_type": "io",
+      "region": "Global",
+      "lang": "en",
+      "theme": "economy",
       "via_gnews": true
     },
     {
@@ -6916,6 +7020,19 @@
       "via_gnews": true
     },
     {
+      "id": "a744595f8cd2809e",
+      "title": "UNEP's GEO-6 North American Report: Informing the 2030 Development Agenda",
+      "summary": "UNEP's GEO-6 North American Report: Informing the 2030 Development Agenda &nbsp;&nbsp; wilsoncenter.org",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeXhMNkNpOGJ6Z0ZMaDBOT3VqM3dCeU5nUEF4cHBBcEl5Z0RweHd0ZUJOU2l2M0pYaFNDSFdUaUJ2WjZ5TEo5RGw3SlBtTGtpSG4zbTRvS3RpT2lKR0tMUHJWQkJ0bGlVaDA0TUtPczhrVllDX0s4M3duYVdlQW9TNGRheEhqNERBNnNzV0daMU1XQ2hEYkNhQWVJZFZNTDNwNVR3dk1ieGJLdw?oc=5",
+      "date": "2016-07-21",
+      "source": "Wilson Center",
+      "source_type": "tt",
+      "region": "US",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "94f2f92608a60b6e",
       "title": "Warsaw Summit Communiqué",
       "summary": "Warsaw Summit Communiqué &nbsp;&nbsp; North Atlantic Treaty Organization | NATO",
@@ -7013,6 +7130,19 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wcF9GTEtTaTY3QU9sOVV0S3Q1eDRVSzZ6elNxamJPQlZKQTBqY1BORjJMRjQySDktZjBSLTNEdnRrcDZjQWhvS2FUMjRmMzZDdWJqZmZ1Mm1iSFJx?oc=5",
       "date": "2016-01-10",
       "source": "World Bank",
+      "source_type": "io",
+      "region": "Global",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "b58725750b0bea82",
+      "title": "Transfer Pricing Documentation and Country-by‑Country Reporting, Action 13 ‑ 2015 Final Report",
+      "summary": "Transfer Pricing Documentation and Country-by‑Country Reporting, Action 13 ‑ 2015 Final Report &nbsp;&nbsp; OECD",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNV90QXR5ZzdRQnNCVzcwWnpHeE5tcHFWNHZSOElsRkJXYzlCUWtuMDQxeG1zaEZUMmtHMFk5ZHc5ZWNvMkJjc3hHdjFNLXRLRW9wWkxmWFZ5T2FCLU1VU05jSDhlWWNabWVQaW9aUFRuS0hxX3FQUmtiRUtEUUFYRkZMY2ktaEZIVldTN1JZQ1B5SWs3cEkyekZFME80Vk5scnlhT1JBTTZhMWtpUThSQ3IwTTk0WFdQOE9CUy1PUXk0ZGlGb3dmbU9EeW02ZGQxeGJjWVZCQ3RhYndNMEpjaWU3eTQ?oc=5",
+      "date": "2015-10-05",
+      "source": "OECD",
       "source_type": "io",
       "region": "Global",
       "lang": "en",
@@ -7132,19 +7262,6 @@
       "source": "Sweden — Government",
       "source_type": "gov",
       "region": "SE",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "aa9e6943b2c7d63b",
-      "title": "Report: More than 20,000 Foreign Fighters in Syria/Iraq",
-      "summary": "Report: More than 20,000 Foreign Fighters in Syria/Iraq &nbsp;&nbsp; www.wilsoncenter.org",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWVRSMTZaOEJ0SWdzS04wTXJEX1hTcTV4c0M5NzRzWXNYclAtVmc5aHFUQVNNWUxwckdJd0w5Qmx3WExVN2xmZUhzTGVad2RpNktmWVY0WlB2WHdHTEIwY2d5eUhidG1PeXJ4MXZ5N0NBckJiSS1YRjhOQXBYWnloWXlpM2ZHVTlT?oc=5",
-      "date": "2015-01-26",
-      "source": "Wilson Center",
-      "source_type": "tt",
-      "region": "US",
       "lang": "en",
       "theme": null,
       "via_gnews": true
