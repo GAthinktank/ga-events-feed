@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-11-10T14:13:05.157219+00:00",
-    "duration_seconds": 79.569447,
+    "generated_at": "2026-11-10T21:10:48.956574+00:00",
+    "duration_seconds": 78.719163,
     "stats": {
       "ok": 82,
       "fail": 17,
       "items_total": 2137,
-      "items_strict": 580,
-      "events_detected": 4
+      "items_strict": 583,
+      "events_detected": 5
     },
     "source_count": 99
   },
@@ -59,6 +59,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "648b32635bdb8f17-evt",
+      "title": "Opening remarks by Commissioner Kubilius at the second board meeting of the EU-Ukraine drone alliance",
+      "date": "2026-11-10",
+      "end_date": "2026-11-10",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2398",
+      "summary": "European Commission Speech Brussels, 10 Nov 2026 Ladies and gentlemen, Welcome back. Since our first Board Meeting, the Alliance has turned ambition into action. Companies are signing up. Others outside this r...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "5152be036b0c09c7-evt",
