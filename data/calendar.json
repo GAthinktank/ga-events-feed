@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-11-10T05:45:03.321351+00:00",
-    "duration_seconds": 70.338329,
+    "generated_at": "2026-11-10T14:13:05.157219+00:00",
+    "duration_seconds": 79.569447,
     "stats": {
-      "ok": 81,
-      "fail": 18,
-      "items_total": 2119,
-      "items_strict": 578,
-      "events_detected": 2
+      "ok": 82,
+      "fail": 17,
+      "items_total": 2137,
+      "items_strict": 580,
+      "events_detected": 4
     },
     "source_count": 99
   },
@@ -59,6 +59,40 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "5152be036b0c09c7-evt",
+      "title": "Commissioner Šuica addresses the Senior Officials Meeting on the launch of the second iteration of the Action Plan of the Pact of the Mediterranean",
+      "date": "2026-11-10",
+      "end_date": "2026-11-10",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2395",
+      "summary": "European Commission Speech Brussels, 10 Nov 2026 Thank you, Michael, and Hélène, Dear Acting Secretary-General the Union for the Mediterranean, Ambassador Hajali, Dear Rapporteur of ARLEM, President Maupertuis...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "dd057f4fbdf74b1f-evt",
+      "title": "Statement on today's meeting in Abu Dhabi between the EU, France, Germany, Italy, United Kingdom, Ukraine, United States and NATO",
+      "date": "2026-11-10",
+      "end_date": "2026-11-10",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "security",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2390",
+      "summary": "European Commission Statement Abu Dhabi, 10 Nov 2026 Ahead of the upcoming trilateral discussions with Russia, representatives of the European partners, Ukraine and the United States met to continue their close co...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "cop-2026",
