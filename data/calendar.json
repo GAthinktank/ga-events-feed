@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-11-13T13:50:49.871592+00:00",
-    "duration_seconds": 76.797696,
+    "generated_at": "2026-11-13T21:09:32.372267+00:00",
+    "duration_seconds": 72.746366,
     "stats": {
       "ok": 82,
       "fail": 17,
-      "items_total": 2144,
+      "items_total": 2148,
       "items_strict": 590,
-      "events_detected": 3
+      "events_detected": 6
     },
     "source_count": 99
   },
@@ -77,6 +77,23 @@
       "kind": "diplomatic-event"
     },
     {
+      "id": "293b97c007050338-evt",
+      "title": "Statement by President von der Leyen at the joint press conference with President Costa following the informal meeting of the European Council of November 2026",
+      "date": "2026-11-13",
+      "end_date": "2026-11-13",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2441",
+      "summary": "European Commission Statement Dublin, 13 Nov 2026 First of all, I also want to thank you dear Taoiseach, dear Micheál for the fantastic hospitality and the fantastic atmosphere in which we spent the last two da...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
       "id": "c4af2fe7913fca87-evt",
       "title": "Commissioner Roswall's address at the Circular Valley Forum",
       "date": "2026-11-13",
@@ -107,6 +124,40 @@
       "featured": false,
       "confirmed": true,
       "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "10ffee29e1f0623b-evt",
+      "title": "Keynote speech by Commissioner Serafin at the European Court of Auditors conference: Shaping the next Multiannual Financial Framework – Performance and accountability",
+      "date": "2026-11-13",
+      "end_date": "2026-11-13",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2426",
+      "summary": "European Commission Speech Luxembourg, 13 Nov 2026 Dear Chair, President Murphy, Honourable Members of the European Court of Auditors, Ladies and Gentlemen, It is a great pleasure to be with you today to reflect...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "9ed6496dca4fba76-evt",
+      "title": "Remarks by President António Costa at the press conference following the informal meeting of Heads of State or Government of 13 November 2026",
+      "date": "2026-11-13",
+      "end_date": "2026-11-13",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOYklpSTgzQXRyT3ZuU3RPQ0wyNFU2U182SUp6dFN0VExrUW9OQXNka0xqT2NMQVYzSG5EVWFUNWJlTndIeGNZUlAxeDBKQlROYzBHbUtEMnlSOHdxLVdya3k2Y2JFTmRTQmNnWWczb0xOOWNLa2RWRGZvdFBqeE9sTHgxV2dVU0VYWFl6d2lOWVI1VE1HMEI0S0wwNjBVNjZhUUFILVJkSkR3bV9OeDFqaG5SRW84S1VMYnpXSWlDT25WMnEyYi1VcUo3MUJ4ckJDZXY4RWd2bXkyVlZsQXRLWWJENUtGREx4NzZSWTd3ZVFUUGZjTzk3QzA0U1VGSTRUcjZUX19zdVA5b0VLV0ZEeWZBQVpjc0JBenhSNlhxQ2s4cElZS3ptejl3STQ2b0VaMDln?oc=5",
+      "summary": "Remarks by President António Costa at the press conference following the informal meeting of Heads of State or Government of 13 November 2026 &nbsp;&nbsp; Council, European Union",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
       "kind": "diplomatic-event",
       "lang": "en"
     },
