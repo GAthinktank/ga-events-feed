@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-11-13T04:48:22.495574+00:00",
-    "duration_seconds": 77.57832,
+    "generated_at": "2026-11-13T13:50:49.871592+00:00",
+    "duration_seconds": 76.797696,
     "stats": {
       "ok": 82,
       "fail": 17,
-      "items_total": 2142,
-      "items_strict": 586,
-      "events_detected": 1
+      "items_total": 2144,
+      "items_strict": 590,
+      "events_detected": 3
     },
     "source_count": 99
   },
@@ -75,6 +75,40 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "c4af2fe7913fca87-evt",
+      "title": "Commissioner Roswall's address at the Circular Valley Forum",
+      "date": "2026-11-13",
+      "end_date": "2026-11-13",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2437",
+      "summary": "European Commission Speech Düsseldorf, 13 Nov 2026 Ministers, Mayor, Ladies and gentlemen, dear guests, Guten morgen to you all. I am delighted to be here in Wuppertal. This city – and this region – have long be...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "d1d5cb9cd84606dd-evt",
+      "title": "Doorstep by President von der Leyen ahead of the informal meeting of the European Council of 13 November",
+      "date": "2026-11-13",
+      "end_date": "2026-11-13",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "technology",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2431",
+      "summary": "European Commission Statement Dublin, 13 Nov 2026 Today, we are going to discuss AI. It is going to be very interesting. Of course, we are going to discuss the risks, like, for example, runaway AI, but also the...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "15a7a83606a0ac70-evt",

@@ -1,26 +1,91 @@
 {
   "meta": {
-    "generated_at": "2026-11-13T04:48:22.495574+00:00",
-    "duration_seconds": 77.57832,
+    "generated_at": "2026-11-13T13:50:49.871592+00:00",
+    "duration_seconds": 76.797696,
     "stats": {
       "ok": 82,
       "fail": 17,
-      "items_total": 2142,
-      "items_strict": 586,
-      "events_detected": 1
+      "items_total": 2144,
+      "items_strict": 590,
+      "events_detected": 3
     },
     "source_count": 99
   },
   "items": [
     {
-      "id": "3b8872f48eac4631",
-      "title": "William Daley and Paul Ryan Named Chair and Vice Chair of the CSIS Board of Trustees",
-      "summary": "William Daley and Paul Ryan Named Chair and Vice Chair of the CSIS Board of Trustees &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYmY1MmZTaU1hc1oxWE9GSXFMRHVIdlEyUWVmUTZkbHI3Y1pINXlJMnhmOU9CTGFSWnNiazlJb2Z5ZVZGSU16VnlYV3BkUVRrc28tMmt5c2NRR2QxU1dRWUlFcWlXeUg5ZlFKSEkwRWM1R0M2T0pLY1N2WnJZdTRZZDB4TEhSLXlfQ1hNZm51eUk2a3lXbV9DS1NZMFhkbUxqRUE?oc=5",
-      "date": "2026-11-12",
-      "source": "CSIS",
+      "id": "37cd5bd74ec8c065",
+      "title": "UK-Ukraine joint statement: Strategic Dialogue, November 2026",
+      "summary": "UK-Ukraine joint statement: Strategic Dialogue, November 2026 &nbsp;&nbsp; GOV.UK",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOakdXUWd4YnhWWWFfUkhnWkhldlh2YkxUNjg5XzVaTFFzMUNER0xmNTczUGhZZnNyV21PS2VpeU1qNmNmMjhEa2QwMG5xLXA5MW40ZXJSVzZRTnVqdnpNMHVoMmJGalN6TFJ3eDI3djFEN19zdExBVnQ0NGpvd3hWd1JDWlJCRW4zdEpoZ1BSSWItNVF5X0tWWWJVSTR6N3N1VFAycA?oc=5",
+      "date": "2026-11-13",
+      "source": "UK gov.uk announcements",
+      "source_type": "gov",
+      "region": "UK",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "387589e73e408b32",
+      "title": "Policy paper: UK-Ukraine joint statement: Strategic Dialogue, November 2026",
+      "summary": "Ukrainian and UK officials met in Kyiv on 11 and 12 November 2026 for the annual Ukraine-UK Strategic Dialogue.",
+      "link": "https://www.gov.uk/government/publications/uk-ukraine-joint-statement-strategic-dialogue-november-2026",
+      "date": "2026-11-13",
+      "source": "UK FCDO",
+      "source_type": "gov",
+      "region": "UK",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": false
+    },
+    {
+      "id": "f3d146301ae181a1",
+      "title": "National Youth Strategy: Upper-Tier Local Authority Analysis",
+      "summary": "National Youth Strategy: Upper-Tier Local Authority Analysis &nbsp;&nbsp; GOV.UK",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQmUzMy1nUHVRQ0YySm1YemxpbmY1WURhNzFjN0NTSy1WV0ZtNk9YczJxakZxVEU4c284RHdaLWVpcEZIX294dElnY3pOMjd0N1B3d19lZXg5YzJhTE5iallVSklkT0Z0Y3RWYllXLWo4SWx1TXlQVlRlQVBZRy1Td1dUSC1TczBIQUFnRkx2d0tLZHZWMXBFQ0xQU0tHaHU5LUxtag?oc=5",
+      "date": "2026-11-13",
+      "source": "UK gov.uk announcements",
+      "source_type": "gov",
+      "region": "UK",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "4affb93bc8c2897b",
+      "title": "Kenya pushes for AU financial independence as Mudavadi attends Ghana summit",
+      "summary": "Kenya pushes for AU financial independence as Mudavadi attends Ghana summit &nbsp;&nbsp; The Kenyan Diaspora Media",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZHRoSlh1VVBneXlPaTNNOEhvc2pwZG9uSXViajRhbm50V1ZXeE9Cc2F4aDFkTHFubjR5bUVvVUd1MDVyNGlHNFJGX1lTbUZhLTVTdE1YVFJhWEFWamRsVTlJMzROY0pDVzVaRHJHOW5QMzhPR2JTX09iZVhsd2hYblVxSUd2UmF5ZkhSWUVjelJZdGIzRlpzZkxoM2FGV09hSkEzY0VZV3czYjduY3hvN3NrQWVwcW9DcWc?oc=5",
+      "date": "2026-11-13",
+      "source": "African Union",
+      "source_type": "io",
+      "region": "Africa",
+      "lang": "en",
+      "theme": "diplomacy",
+      "via_gnews": true
+    },
+    {
+      "id": "8f6114e2508c5ba7",
+      "title": "FIIA is seeking two researchers",
+      "summary": "The Finnish Institute of International Affairs is seeking researchers for two-year fixed-term positions. The positions are in two research programmes, with one vacancy in each programme. Finland and Northern European Security research programme The regional focus of the programme is Finland’s immediate security environment, developments in which have direct implications for Finland’s national security. The [&#8230;]",
+      "link": "https://fiia.fi/en/news/fiia-is-seeking-two-researchers",
+      "date": "2026-11-13",
+      "source": "FIIA (FI)",
       "source_type": "tt",
-      "region": "US",
+      "region": "FI",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": false
+    },
+    {
+      "id": "5701ac3ba8d4ce5d",
+      "title": "Can one security force implement Resolution 1701 and the Framework Agreement in Southern Lebanon?",
+      "summary": "Can one security force implement Resolution 1701 and the Framework Agreement in Southern Lebanon? &nbsp;&nbsp; Arab News",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbE1sTlpXOHRlRy1YQ2J1YmpPREJwNFFWM2ZXQ2h4T3Q2dlRUNkw1bXRHcUVtNThvd0Y4Z2I2SUtsZlVHYmhneVlNLXpMUnhodTF1Unpfd2F1bmdhdExvUnVOT3FkRjd3SmdLZ0JSSGNhVXZ6Z1NaZGZBZHZteWpULUtya09GUXBQU0VRb0w4WXQ0WVBDd3JYVzRvdDBZRWVRQjc0cW1JSU85Z2lobUZTX3RiclZCQklxamplM0h0N2k5OC1JS19HZmZ1MlFKY21nVVN4N25jbWg?oc=5",
+      "date": "2026-11-13",
+      "source": "UN Security Council",
+      "source_type": "io",
+      "region": "Global",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -37,6 +102,32 @@
       "lang": "en",
       "theme": null,
       "via_gnews": false
+    },
+    {
+      "id": "905bb8c6fc082d68",
+      "title": "Ukraine set to be focus of EPC summit as UK sanctions Russia's top ten oil producers",
+      "summary": "Ukraine set to be focus of EPC summit as UK sanctions Russia's top ten oil producers &nbsp;&nbsp; GOV.UK",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc0RZTS1sNkhOenRxVGhaU1NmVm56YUttbkR3SEwzRFhiMmdnZ0x6bDhsSFJNdjhlcEVUOV84cEstd2VsN0FBZkp1bXJpSXRtakRzdTBSMnJFTExnRkc5Wjd6REV1VGpmQlNXcHpxOWtJSGlzQlpPWjh3eGQ1bUJoeWxvbVhsaXFjdDRpY1dZYk1EbzlVTEwwOTJCNlg4c0Nfc1RJM3l2RHZVaUoxRjB3T3Y3NVR4LWMyN2c?oc=5",
+      "date": "2026-11-12",
+      "source": "UK gov.uk announcements",
+      "source_type": "gov",
+      "region": "UK",
+      "lang": "en",
+      "theme": "diplomacy",
+      "via_gnews": true
+    },
+    {
+      "id": "ed5ad5b5ef340095",
+      "title": "Trump, Xi, and Putin: What to expect from the APEC summit",
+      "summary": "Trump, Xi, and Putin: What to expect from the APEC summit &nbsp;&nbsp; Brookings",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVTF3bzN2UHIzWkxmQjl6RTJzTUs4aFg0T0NVUnQ1SGtrLWxYRnlfLS13S19LaHZsNzZxeTBRcjRrNXpfb2Jta1MzUUFfSnZvd3Q4WUp3VmJ2WVlOYVJWUUZzSWFXTUVFOUV6VHpBdUlFYnFaVjF4RzNLUW9BSkVWLWJud3Y1MENITzFIZlhDOWxpU0Vt?oc=5",
+      "date": "2026-11-12",
+      "source": "Brookings",
+      "source_type": "tt",
+      "region": "RU",
+      "lang": "en",
+      "theme": "diplomacy",
+      "via_gnews": true
     },
     {
       "id": "a35ed8e8c0401202",
@@ -102,6 +193,19 @@
       "lang": "en",
       "theme": "diplomacy",
       "via_gnews": false
+    },
+    {
+      "id": "da540845ab8a4719",
+      "title": "Predvolebný monitoring Facebooku Sept monthly report.pdf",
+      "summary": "Predvolebný monitoring Facebooku Sept monthly report.pdf &nbsp;&nbsp; GLOBSEC",
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOZE03bnNfenVHbFJkVjNVcG52NHJWOVgySURyM28wQjBlNXBkVEFpS3p5SmxUQ2NTZVpMOHROeVlWaUxfVHV6dzBtQVlSTGl1WVU5YmxWdjBZSEg3SmRpaWo0cld0c3h5RFYySy1zRUN3T01iV2g3SkxTRWpPYXluWkFSN3pxd2Y3NXpTN08wNnBkcUR0Q0JJV2ZDX1dwT1pvVEtFMHkwaDBPT3dpNTFSSEIxT0h4M2UtcWlEOEFobFVhNmpPVGNfbkhRMHU3S282VlZRb3RCNHJhalphQUF5b2ZLS0pnaTlfVjRUT2MzMWJobGlleEF4TmI5bVpwS1lKMXdrb0FNci03eVB1cGl6VUVxdTNDSG5ZcUNLdzBBN2dxSWMzNnhjblAwTDRCZjVpcmI0TzhlTDIxQnM?oc=5",
+      "date": "2026-11-12",
+      "source": "GLOBSEC",
+      "source_type": "tt",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
     },
     {
       "id": "22faa33cf942c064",
@@ -208,32 +312,6 @@
       "via_gnews": true
     },
     {
-      "id": "eef3598d96600bc6",
-      "title": "Joint Declaration on a Strategic Partnership between the United Kingdom of Great Britain and Northern Ireland and the Republic of Azerbaijan",
-      "summary": "Joint Declaration on a Strategic Partnership between the United Kingdom of Great Britain and Northern Ireland and the Republic of Azerbaijan &nbsp;&nbsp; GOV.UK",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQcWxGVDhyTVd1R3pwZmxLMVRuTVR2SWY1N2lzZWNjS3FlLXFGUTRyZDdCMkY5cUdOaGwtUVU4aDlvajB4TG56S2QyV1BLZkNKcjJ2anZGMTFVc3FQUW1GRk1rSGliZ085bDI4R2F0b0RZVG1uVjcxNXk3UDdGeGNRT0VYenlBS3F0WmY2Z0VZZlFiYjJmOHRDTE02R1JCcTFCbjdsaU5Jc09rWFNld2YzTVRBTDBLdHFGVjBMaUhQM3JHYWJyalhRTGFKZml4ajYzNW04VENZZkxPU0ZweGwtNmZTZS0xS1hDR3E3d2h6SW1tOE10bVAzN05iYkhoSVg3R3dDSDFn?oc=5",
-      "date": "2026-11-12",
-      "source": "UK gov.uk announcements",
-      "source_type": "gov",
-      "region": "UK",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "a7e988e4cac5a76d",
-      "title": "Israel’s Elections and the Future of the Middle East",
-      "summary": "Israel’s Elections and the Future of the Middle East &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pQVNWbnZEcUprQTBzSkptSzVyeDNrQTUwbDBOUkpJZkZzTlVtRjZfT2FQd1IwM1phN3Zya3ZZT3NKbm1qbkhuWG9xelhpLU9zM0dEWkkwQkc0TmhPTDlLTDNoSWpFcDNEWDl2cWpTZ1NnZEJfNzVz?oc=5",
-      "date": "2026-11-12",
-      "source": "CSIS",
-      "source_type": "tt",
-      "region": "US",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "294058c58a2d176a",
       "title": "International treaty: Agreement on Electronic Commerce [MS No.13/2026]",
       "summary": "This treaty was presented to Parliament in November 2026.",
@@ -299,19 +377,6 @@
       "via_gnews": true
     },
     {
-      "id": "860d2622e518a0fc",
-      "title": "Full Report: Digitalisation and Digital Transformation in Tax Administrations",
-      "summary": "Full Report: Digitalisation and Digital Transformation in Tax Administrations &nbsp;&nbsp; OECD",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS01oWTZjcmhGM0ZYQjgxTUU0a1JGay1pNHhJR0xRQy1PYjVzSWl2bWU3RlhQT1VOMV9CdGNqTi1QZktpMFQ1WFB4blJlNjRCSHlHRmdKYnEwMzhSWlZXV3AtR0xBWm0wWFB1aGhjOXpGUk9kZG9kNE9JeEFKUUtQRGVlUE05VVNyNXVwT0xuRi0yXzNwV3pZb1JyM1BXUlhtaEhTTFF6a2w3VGZTYl9IZ29UUGFKZ2NhT2tiZDZvZXl3d2Z0Y2N3LU9n?oc=5",
-      "date": "2026-11-12",
-      "source": "OECD",
-      "source_type": "io",
-      "region": "Global",
-      "lang": "en",
-      "theme": "technology",
-      "via_gnews": true
-    },
-    {
       "id": "28f88accabe465cd",
       "title": "Foreign Secretary speech on climate security at COP31",
       "summary": "Foreign Secretary Ed Miliband delivered a speech at the 'Delivering Climate Security in Fragile Contexts' ministerial roundtable at COP31 in Antalya on 12 November 2026.",
@@ -338,42 +403,16 @@
       "via_gnews": true
     },
     {
-      "id": "e1e46c03690f6042",
-      "title": "EU and Australia deepen science and innovation ties with Horizon Europe Agreement",
-      "summary": "European Commission Press release Brussels, 12 Nov 2026 The European Union and Australia have signed an agreement paving the way for Australian researchers and organisations to join and lead projects under Horizon Europe, the EU's flagship research and innovation programme.",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2418",
+      "id": "cb4feb96849e0a12",
+      "title": "Foreign Policy in the American Heartland: Issues for the 120th Congress",
+      "summary": "Foreign Policy in the American Heartland: Issues for the 120th Congress &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY0dqTWJtMXR2N3hCOWlNOUJQM3dyWmdBd3ZGZ1lOX3ktaUNrUTd0WXpFT3RvbkVkajkzYk9Ybjd5VGNoUmVFZkJYdnhyMlY1TTNxU1liOWdyWENnU2VRUU42UjI4UnpOVTdmcGlSWDJ4VThLRktGWmdOTDNTcWJBb01JQWpkQXllRTFuZER3?oc=5",
       "date": "2026-11-12",
-      "source": "European Commission — Press",
-      "source_type": "gov",
-      "region": "EU",
+      "source": "CSIS",
+      "source_type": "tt",
+      "region": "US",
       "lang": "en",
       "theme": null,
-      "via_gnews": false
-    },
-    {
-      "id": "1899892f79f60c48",
-      "title": "Daily News 12 / 11 / 2026",
-      "summary": "European Commission Daily news Brussels, 12 Nov 2026 Commission to examine European citizens' initiative calling for the suspension of the EU-Israel Association Agreement Today, the European citizens' initiative (...",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2420",
-      "date": "2026-11-12",
-      "source": "European Commission — Press",
-      "source_type": "gov",
-      "region": "EU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": false
-    },
-    {
-      "id": "74f035c1a68da747",
-      "title": "County-wide climate adaptation strategy in development as Dorset organisations unite",
-      "summary": "County-wide climate adaptation strategy in development as Dorset organisations unite &nbsp;&nbsp; Dorset Council",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN2hmbUM5T0FIS0ppSmdGX05wU19SMWY4dURmX1BjUVd0MFdELVB5UEVwR1pWLTBsT1BlZXUxelliUjdMUHRsekc0dlpzQWFlNWk1MUZLQlFXNk8yeS1tTzV1bmZHYm1uYjU1TE9fZWhfNVRFOS1LczhHMU5TLU1wRmhPQ29xZFktLXU1RlNGMS1PM2d1aVRsMUVCT0VhaV80TldUR1d2dXBIaDhTdDFvNUQyUnVJaEtTcTMzRTR2SQ?oc=5",
-      "date": "2026-11-12",
-      "source": "UK gov.uk announcements",
-      "source_type": "gov",
-      "region": "UK",
-      "lang": "en",
-      "theme": "climate",
       "via_gnews": true
     },
     {
@@ -414,6 +453,19 @@
       "lang": "en",
       "theme": "diplomacy",
       "via_gnews": false
+    },
+    {
+      "id": "6e06f0f38d0521a5",
+      "title": "Call to Action Joint Statement on health and humanitarian access into Gaza",
+      "summary": "Call to Action Joint Statement on health and humanitarian access into Gaza &nbsp;&nbsp; GOV.UK",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX3RFLVlYMnp3M09FYmlEZHRxelJNQ2VzcjhHV1hNX2t1R2hyWGZsUWx0YlJUWWNPbjdFaEV2UkZJUkNvWkJWOTZqZkpJejZXMXRJREItem9BdVo5SUw1azJyRFczTEJDeWpJV1hyS054RGp2UU02NGcwLUdmTWZpdkpkZy1qZV9WOFR5Sjd4VmhiNWhzZzhSSFVLQThqUzZxWFZLblpPT1FMTmZQU21jbmZMdw?oc=5",
+      "date": "2026-11-12",
+      "source": "UN Security Council",
+      "source_type": "io",
+      "region": "Global",
+      "lang": "en",
+      "theme": "development",
+      "via_gnews": true
     },
     {
       "id": "1ebec2b10a89e2da",
@@ -478,6 +530,19 @@
       "region": "Africa",
       "lang": "en",
       "theme": "diplomacy",
+      "via_gnews": true
+    },
+    {
+      "id": "fbd653e9438a9410",
+      "title": "The UN secretary-general selection process and its implications for the future of multilateralism",
+      "summary": "The UN secretary-general selection process and its implications for the future of multilateralism &nbsp;&nbsp; The International Institute for Strategic Studies",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSUhsX3pXcXAyQkJlNlltUkFnODBqQjkwd2NXZGZvQ05mZEZEbFhMMnZ4eG1HTGNLTjhXZHdHZFpaMTI0bElQWlJlejBKamM3dXhlNUh2WVhZMUJSOWYwNTVOcGcyQ2NmWXJ5ekdTYVA0MTRvQWxHQnB0YWFIUmdwOURNVW04MEltS2lfZmxhTGExNXRVYk5qOTFrQzdjY1NXWmNMNm43dWxOTjRFYjg1TVdxTktwVjNPVGd0VUY3a3NrSTg5UkQ3dUFQUWxwYjgzSXdXR2xIdUNJUlgwOVM1RnUzYjRmU2lNZUtiSXZTR2c?oc=5",
+      "date": "2026-11-11",
+      "source": "IISS",
+      "source_type": "tt",
+      "region": "UK",
+      "lang": "en",
+      "theme": null,
       "via_gnews": true
     },
     {
@@ -689,6 +754,19 @@
       "via_gnews": false
     },
     {
+      "id": "9ea065d23853ab7c",
+      "title": "Proposed new Climate and Nature Strategy sets out greener, healthier and more resilient future",
+      "summary": "Proposed new Climate and Nature Strategy sets out greener, healthier and more resilient future &nbsp;&nbsp; Bath and North East Somerset",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT3E0dlhoU1pNTmVBSVYwTzRSbF8zUWtkcWJhYlVnNmtLVjRJTnFLS3ROdmMyQWpPdXR5eWxzR1REQVI4Q1JCQ3BGMG5rMkJMTjNoMW9SZDRiT3NfaHNOV0t3RzhLeHZxeWRXcUVJWlhKQl9CQS1IcW4yRlQwb01zeWdwQXhvTVRKVkgyN2V3dmZjdEs0c2ljYVBaVWg5ck1YaW9keEE3V05tTjREaUtSX3BfUnhZbGJvd1FiSFp5VmR6YW1ubXAtY0Zn?oc=5",
+      "date": "2026-11-09",
+      "source": "UK gov.uk announcements",
+      "source_type": "gov",
+      "region": "UK",
+      "lang": "en",
+      "theme": "climate",
+      "via_gnews": true
+    },
+    {
       "id": "d18dc6529c8b76a1",
       "title": "Piasecki’s research on Venezuela’s debt restructuring cited in a Congressional Research Service report",
       "summary": "Read the full article here The post Piasecki’s research on Venezuela’s debt restructuring cited in a Congressional Research Service report appeared first on Atlantic Council .",
@@ -725,6 +803,19 @@
       "region": "IN",
       "lang": "en",
       "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "bfbf40a9e2551daa",
+      "title": "Japan-Viet Nam Summit Meeting",
+      "summary": "Japan-Viet Nam Summit Meeting &nbsp;&nbsp; Ministry of Foreign Affairs of Japan",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zMU9KdFJ5S1RFVjlWVk1HSUEzOUlqLWxDQ2VJb3Z4ajU0bVZaUDlLNHRIcjY5Y0l0WkRneEJ6MmQzTVg3SFBha1g1eW5lVzQ0Z2hKazVtTW9HNHVtRzRRS0lMNThkVFljOFVsSnhB?oc=5",
+      "date": "2026-11-09",
+      "source": "Japan — MOFA",
+      "source_type": "gov",
+      "region": "JP",
+      "lang": "en",
+      "theme": "diplomacy",
       "via_gnews": true
     },
     {
@@ -871,6 +962,19 @@
       "via_gnews": false
     },
     {
+      "id": "b3e7b5a1c2c965af",
+      "title": "XXX Ibero-American Summit",
+      "summary": "XXX Ibero-American Summit &nbsp;&nbsp; UN Web TV",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1Nktyd1pETERjNkhwOUxwako4ZGtZQnRqOHRuanJMdTE4X3JoWElKNE1qbEl6VFYzRFltX21WcWh4cTMxZUZERVpTaDdBR211ODdWWmhRQQ?oc=5",
+      "date": "2026-11-05",
+      "source": "United Nations",
+      "source_type": "io",
+      "region": "Global",
+      "lang": "en",
+      "theme": "diplomacy",
+      "via_gnews": true
+    },
+    {
       "id": "0da3001ddaaa20e2",
       "title": "The Faustian Bargain of Vaping: What the UK’s ONS Report Means for India",
       "summary": "The Faustian Bargain of Vaping: What the UK’s ONS Report Means for India &nbsp;&nbsp; orfonline.org",
@@ -949,19 +1053,6 @@
       "via_gnews": true
     },
     {
-      "id": "83e8bcf07aa1e0f6",
-      "title": "THE AMERICAN DECLARATION OF FREEDOM IN SPACE",
-      "summary": "THE AMERICAN DECLARATION OF FREEDOM IN SPACE &nbsp;&nbsp; The White House (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVDZYTkk0Nm15WXc0VWV1UHFXZG5RN0ktU2ZSZ2JVYjIydkc3bDQ2ekt1VDZZNGtCbzFhRHA5TnNGelVCTFEybmQzZG1BeGM1YWlFSGdVT1lwb3lQc1lyZElDV0twSWpza3FHbWUzSWtPRnZwdFhpYk40cmQtYVFvZ2VMRDRfdlI2X0dOY0Y4VWpXUlk4SHVYSm1OVXlyd04tWGFr?oc=5",
-      "date": "2026-11-03",
-      "source": "US White House",
-      "source_type": "gov",
-      "region": "US",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "c4021f25f0dd8e90",
       "title": "NCSC Annual Review 2026 | Understanding the threat | The impact of AI on cyber threat",
       "summary": "NCSC Annual Review 2026 | Understanding the threat | The impact of AI on cyber threat &nbsp;&nbsp; National Cyber Security Centre",
@@ -1001,19 +1092,6 @@
       "via_gnews": true
     },
     {
-      "id": "96673e49b981a9ef",
-      "title": "Foreign Policy and the 2026 Midterms: A CFR Guide",
-      "summary": "Foreign Policy and the 2026 Midterms: A CFR Guide &nbsp;&nbsp; Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSkQyWlZac01hXy1XLThfSkhPbk1WUVZwWjdfRFpzeHNtSXVVbTBWb1JiUDJvb0laSkxuajdDUWlvWjZSTVR1VlpzOTNwckl6WUJYWjRRTWhjdFNRYWtCblF1b2dUN3BpV2lSUERxcjVZUTdqTVlldmh0NV9yYlJJbU1Ucw?oc=5",
-      "date": "2026-11-03",
-      "source": "Council on Foreign Relations",
-      "source_type": "tt",
-      "region": "US",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "c5bfabb7d01a5952",
       "title": "Australia's Strategy for Global Abolition of the Death Penalty",
       "summary": "Australia's Strategy for Global Abolition of the Death Penalty &nbsp;&nbsp; Australian Government Department of Foreign Affairs and Trade",
@@ -1038,19 +1116,6 @@
       "lang": "en",
       "theme": null,
       "via_gnews": false
-    },
-    {
-      "id": "62041e46444c5e88",
-      "title": "Who Controls Ukraine’s Starlink Access?",
-      "summary": "Who Controls Ukraine’s Starlink Access? &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45dk9SS1VSVUtyU2YtbGx3R3paMEJzOWhtQ1ozeGN2eHZaakJKNm52SHJpeVRDbnNhSEpOT1l0SUF2RWdWeXVIdXNrUGFDd1hvR1NqSGZrd3ZBRDVDMDYyV09QQ2htcTlSUzhuMS1vR2t3eDdfWVE?oc=5",
-      "date": "2026-11-02",
-      "source": "CSIS",
-      "source_type": "tt",
-      "region": "US",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
     },
     {
       "id": "b478bae81581864a",
@@ -1300,19 +1365,6 @@
       "via_gnews": true
     },
     {
-      "id": "1ffdd62b5c96e2c9",
-      "title": "Europe's Northern Neighbourhood – A New Strategy for the Arctic: Remarks by High Representative Kallas at the press conference",
-      "summary": "Europe's Northern Neighbourhood – A New Strategy for the Arctic: Remarks by High Representative Kallas at the press conference &nbsp;&nbsp; European External Action Service (EEAS)",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeDJhbTBaZlotTVMxazZrYUhVYXRMMGJpNGJDVHJ6VWUxMGI4QkVMR3YxMkNFeFRsX2dZWmJFelhadF9vVUt4RGhlNXJaVWFoWFEzVl82S2JXSzRmUllKd0ZHR08zcGdQZXp6Z0VhZmZfQzMtRHJjWllZMWJXZmtMLWEtNC1iS0ljM3BDaU1YYU1yc1RZbERJMVpZSWIzWjFqQk95Zkc3V29acUx3bnRuNWQtclpXV2lZODBGWUdBN2hIZFhH?oc=5",
-      "date": "2026-10-20",
-      "source": "European External Action Service",
-      "source_type": "gov",
-      "region": "EU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "141dfeed5e307caa",
       "title": "België en Turkije hervatten na tien jaar hun ministeriële dialoog om samenwerking te versterken",
       "summary": "La Belgique et la Turquie relancent après dix ans leur dialogue ministériel pour renforcer leur coopération lien.horemans Tue 20/10/2026 - 09:35 Type d'actualité Communiqué de presse Pays Turquie Sujets Coopération BELGIUM FOREIGN AFFAIRS OF BELGIUM_BEM IN TÜRKIYE_DAY 02_0019.jpg Dernière mise à jour le 20 octobre 2026 Pour la première fois depuis dix ans, sept ministres belges et turcs se réuniront ce mardi au Palais d’Egmont, à Bruxelles, pour poursuivre le nouvel élan donné aux relations entre les deux pays. Cette rencontre permettra de renforcer le dialogue politique avec un partenaire ess",
@@ -1330,7 +1382,7 @@
       "title": "The Security Brief | Conversation with Maj Gen Vikas Choudhary, Inspector General, National Security Guard (NSG)",
       "summary": "The Security Brief | Conversation with Maj Gen Vikas Choudhary, Inspector General, National Security Guard (NSG) &nbsp;&nbsp; orfonline.org",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd1NoT29fX0gzYjFCd3prV0t2N0w4cXB6QUpqZW1rNUtYOXlZeWxhQm15dVJBbnJwXzFsaXpXUmR1cGZIOUZhQ2lTV1JOSXRTdTJqYU9lSC0zUDd1NGpKYnpMSXpuSGw0R1loMTBVNmszbERmYnZtY211elJ2enNTWXJlR0dnc2VTVnVJZHVzT0w5aE1ZakV5RGd4Uk5TblVHTzJjQTBBN1luREVFdTJoVkJQZ0V4WkFBOE1oVmFKYTlXRmV6OTNLblNYbk5fMTN1eVNzRQ?oc=5",
-      "date": "2026-10-16",
+      "date": "2026-10-19",
       "source": "ORF — Observer Research Foundation",
       "source_type": "tt",
       "region": "IN",
@@ -1347,19 +1399,6 @@
       "source": "CSIS",
       "source_type": "tt",
       "region": "RU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "6cb094c1e8df28c1",
-      "title": "Launch of EPC-authored report for the Dutch House of Representatives",
-      "summary": "Launch of EPC-authored report for the Dutch House of Representatives &nbsp;&nbsp; EPC, European Policy Centre",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaVg1VFN3NENySmJJNHdxMVIxV2hHTEpZRnNrd2QyRjBlYkdPSWx0Z2lERkN5T3psVDg5eGtTdUp6dHdHQ0pCUEhpOXBKaEx1aFZtZXUxZ2Z1OTd5NE10MFozZ2o0WmdzaGxOT3pBV0N2bElWT2ZJR1J0Vjg4bHZ0a0JBVXA2Mlhy?oc=5",
-      "date": "2026-10-14",
-      "source": "European Policy Centre (EPC)",
-      "source_type": "tt",
-      "region": "EU",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -1482,19 +1521,6 @@
       "via_gnews": true
     },
     {
-      "id": "be700f16cab02f0e",
-      "title": "Opening of the 23nd Annual Meeting of the Valdai Discussion Club and Presentation of the Report ‘Keep Calm: The State and Responsibility for the Future’",
-      "summary": "Opening of the 23nd Annual Meeting of the Valdai Discussion Club and Presentation of the Report ‘Keep Calm: The State and Responsibility for the Future’ &nbsp;&nbsp; Valdai Club",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM3VMcGpld0RpS3V5MTdYVkZ4RDlCRlN0T1o3V3ZHbFhXdlRYbW45TDFRbnBETF9PSHIzQUR1OVowak9LR0FLQ1YzZ0R0MkV1SzN4djljQ0h3OTVNTVZEMjh1MVAxSjdFQkJ6MklpWVN6eGxIZ2V3THd3RDJGWGxNSHhER0lMRTZJYVVWWmdVMFU4eVR6MjA4a2ZOSEMxWWJuYWJNcUl1eHM3TnFtSENmaERjb0dJdlJYZWdhZFBHSQ?oc=5",
-      "date": "2026-09-28",
-      "source": "Valdai Club",
-      "source_type": "tt",
-      "region": "RU",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "92eeeb598c270ed3",
       "title": "The Plaza Accord and Its Relevance for China",
       "summary": "The Plaza Accord and Its Relevance for China &nbsp;&nbsp; Carnegie Endowment for International Peace",
@@ -1599,19 +1625,6 @@
       "via_gnews": true
     },
     {
-      "id": "8d848d8ce6252975",
-      "title": "World Trade Report 2026",
-      "summary": "World Trade Report 2026 &nbsp;&nbsp; World Trade Organization",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeVpXbVZoRUQ3NS1oRWRvNEdMellLdTlpbjR3Sy1yNlExcXF3OWtTNFM0SS1oRTZaMHlIdWJkem9QckFmSWVtbFAwUExyS21SNTI3akQ2Tjlvak9ibUJGSmFTWDd4QTRyTlJHRTUzdDdqMy1ZZkl3MG94X185bWRLWUlndmE?oc=5",
-      "date": "2026-09-09",
-      "source": "WTO",
-      "source_type": "io",
-      "region": "Global",
-      "lang": "en",
-      "theme": "economy",
-      "via_gnews": true
-    },
-    {
       "id": "941106005e050567",
       "title": "Annual Report 2026",
       "summary": "Annual Report 2026 &nbsp;&nbsp; orfonline.org",
@@ -1669,6 +1682,19 @@
       "summary": "19th Annual Meeting of the Valdai Discussion Club &nbsp;&nbsp; Valdai Club",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZUdFaXBzLTdwVENQQjU2X29KQVBQOWZNS2xwcE1JOEw4VVByZ09nMUJaZHM1VW03Y3pManNydW82Smh6R2JpTFVibndPY0EweDhFSTNzNUkxamZoTE5pLUhYSUtJVWN0dWl1S3JJSk5feU1hdk9maTdBcnE0Q1psR0otUHFxZw?oc=5",
       "date": "2026-08-23",
+      "source": "Valdai Club",
+      "source_type": "tt",
+      "region": "RU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "84b163ee1ce4ed99",
+      "title": "The Annual Meeting of the Valdai Discussion Club",
+      "summary": "The Annual Meeting of the Valdai Discussion Club &nbsp;&nbsp; Valdai Club",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XRm5JUHBMTTYybEZncXp0NDBOT0JxWnVVLW5wTTVJWmZMN1B1RS1rcG9Ha3ZCLVIwQmIxUjVuVW4yMnBmU0E4Qld0Q2w4a3A0OG1LMlR6TmlsT3ItVXVaODZqUQ?oc=5",
+      "date": "2026-08-22",
       "source": "Valdai Club",
       "source_type": "tt",
       "region": "RU",
@@ -2119,19 +2145,6 @@
       "via_gnews": true
     },
     {
-      "id": "ef6c356c8b814c92",
-      "title": "Minister of Defence Antti Häkkänen: Having a broad agreement on Finland’s defence development is our key strength",
-      "summary": "Minister of Defence Antti Häkkänen: Having a broad agreement on Finland’s defence development is our key strength &nbsp;&nbsp; Valtioneuvosto",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTHZJU1N0OURxdlU2Z0FmRUZuWTVKd25EMWNtWmwzc0pISmNRS3NhRVZyMms3TVRySzdFblpXWmY3NVRlNjUyeVB5NkhJZndSX0tncGgwVzAwb2Iwa2xvN1hKRkhSVng4SEktUUJPNGhMZ0s5Z0JWQWE5bl9Ielp1NFR4aUhJdHg2cFpzalpzZkJPNjRpU05fS3g3aDdkNldNYUZEUWN5NzJrVDFFaHFVc1hPT005dDFPSWNvcE85ZkNaMzhIM2JCYV96R3VySlZHUmtkWFBIM1k0TlNnOU1sTmpVLW5xd01p?oc=5",
-      "date": "2026-06-02",
-      "source": "Finland — Government",
-      "source_type": "gov",
-      "region": "FI",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": true
-    },
-    {
       "id": "9c4f7871cf190726",
       "title": "Minister for Foreign Affairs announces Government’s new Arctic Strategy in Boden",
       "summary": "Minister for Foreign Affairs announces Government’s new Arctic Strategy in Boden &nbsp;&nbsp; Government.se",
@@ -2168,6 +2181,19 @@
       "region": "FI",
       "lang": "en",
       "theme": "security",
+      "via_gnews": true
+    },
+    {
+      "id": "eca5ea856df3894f",
+      "title": "Peacekeeping in peril amid plummeting troop numbers and geopolitical deadlock: New SIPRI report",
+      "summary": "Peacekeeping in peril amid plummeting troop numbers and geopolitical deadlock: New SIPRI report &nbsp;&nbsp; Stockholm International Peace Research Institute",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQb1AyVmpjY05WWDJaV1RRRTdFQ3p5bHNvTm0tMVFteENnZ0k5MDdoX0JyZjNlREpIOE1YLVlJRXgxSlcyblhfb0JpaEtVQWRyOUlHSi1pSHM2d084Z1JETERjSWpJWU42MWNZcVI2X2FGNE5lQVNHSFFTTmJDUFNQZVdMcTY5WTd1Y3BLOGIzeEJyMXZ2WUo1bnA4NUJNdXZLb3hhSjhaM2puenktOFRlb0lrLV9oaHpPOXowanhuejdTRkM1RGtEN2luby1WVm5rTU1KSg?oc=5",
+      "date": "2026-05-25",
+      "source": "SIPRI",
+      "source_type": "tt",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
       "via_gnews": true
     },
     {
@@ -2951,19 +2977,6 @@
       "via_gnews": true
     },
     {
-      "id": "bcd3b3470391b515",
-      "title": "The Armed Conflict Survey 2025: Asia",
-      "summary": "The Armed Conflict Survey 2025: Asia &nbsp;&nbsp; The International Institute for Strategic Studies",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTVNRRDBzVHdRR3RqT091ZkZZUzE4dE5xVjRvbE8zd2N3eUNacUh4RnJ4TXVmQ2RPcWdqdWRPbHpPaklhXy1vbFRzZU8yVmVwRUF6QWh0eld5N0pkRUJJeGpmX1BPbXg3VXB5T1NIVERFMWgtNEd2TGlGTmpuZl9jY212NGFRSWhkUXhWLXJFTnhzbU54WHNRakY1SnBTSVhMLVZvTkpuMC12MUpuSDFrOQ?oc=5",
-      "date": "2025-11-25",
-      "source": "IISS",
-      "source_type": "tt",
-      "region": "UK",
-      "lang": "en",
-      "theme": "security",
-      "via_gnews": true
-    },
-    {
       "id": "99e1b8a613bebdd5",
       "title": "The Armed Conflict Survey 2025 : Middle East and North Africa",
       "summary": "The Armed Conflict Survey 2025 : Middle East and North Africa &nbsp;&nbsp; The International Institute for Strategic Studies",
@@ -3285,19 +3298,6 @@
       "source_type": "gov",
       "region": "IT",
       "lang": "it",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
-      "id": "774109d4cf874e74",
-      "title": "Co-chairs’ statement on the occasion of the Ministerial Meeting on Coordinating Efforts for De-Escalation in Sudan",
-      "summary": "Co-chairs’ statement on the occasion of the Ministerial Meeting on Coordinating Efforts for De-Escalation in Sudan &nbsp;&nbsp; Ministère de l'Europe et des Affaires étrangères",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQbTI1TGlGSDZINU1Vd1pvUkVsc3lEU1ZFTUx5VnM2cmdIbzdNNmh4RlVsZERiX3lOS21Ic255OUZvYTRtN0ppUVRKUUEyeGZGOGp3RlloNV9ZaGNFQzRPcVozWVVKT3JvZVVEVG90M1RHMEtleWFJNTRYdXNfUXNDZ0NDOGEzNWpSc0YzeGJrMTg4aWxCcVRORVo5X3d3ak93YkVDSnlEelhNVzdaZF9PZDEtaVc3TDlabU9hRGFKMmU4ZzdzUzVLejV6V0dZdVpsMnRuaGJBdkVYSGc2dnFxWU5JMllHcVNiSE5JYmM5bjhlTElnTzJpS29rNnlTUXh6c2lmWWV1QjNnN1BVb1E?oc=5",
-      "date": "2025-09-24",
-      "source": "France — MEAE (Diplomatie)",
-      "source_type": "gov",
-      "region": "FR",
-      "lang": "fr",
       "theme": null,
       "via_gnews": true
     },
@@ -3939,19 +3939,6 @@
       "via_gnews": true
     },
     {
-      "id": "5799c4563891fa64",
-      "title": "UNDP Africa at the 38th African Union Summit",
-      "summary": "UNDP Africa at the 38th African Union Summit &nbsp;&nbsp; United Nations Development Programme",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FVDlJbzZiNzBvcVROaC1qbXN2WmpxcnRKZUZQUTNSaUV1dkRPd293WDVNQ3RZYnZYWWZiUzJWVkVSWm1ueXh5X2d4VnQzZ0dHSmQ2eEZlWHhiR1YxcXcyQU1wQTNDX0tHNEhZd05GS19oQU42V0hqUkcybDE?oc=5",
-      "date": "2025-02-04",
-      "source": "African Union",
-      "source_type": "io",
-      "region": "Africa",
-      "lang": "en",
-      "theme": "diplomacy",
-      "via_gnews": true
-    },
-    {
       "id": "cf2a1cb8ac54b8d7",
       "title": "38th African Union Summit to Focus on Reparatory Justice and Racial Healing Under the Theme: “Justice for Africans and People of African Descent Through Reparations”",
       "summary": "38th African Union Summit to Focus on Reparatory Justice and Racial Healing Under the Theme: “Justice for Africans and People of African Descent Through Reparations” &nbsp;&nbsp; African Union",
@@ -3962,19 +3949,6 @@
       "region": "Africa",
       "lang": "en",
       "theme": "diplomacy",
-      "via_gnews": true
-    },
-    {
-      "id": "eb74f332cf626abb",
-      "title": "Biopharmaceuticals Rising: China’s Strategic Pivot to Southeast Asia Amid Great Power Tech Competition",
-      "summary": "Biopharmaceuticals Rising: China’s Strategic Pivot to Southeast Asia Amid Great Power Tech Competition &nbsp;&nbsp; Carnegie Endowment for International Peace",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVUZpVzl0TGp5Vk0tTmlmQ1JoNW5jZmJZTFBBR2llZ0VhTnJ2NUF3UDQ2TmdlOFk5ZmtncTYtcW0zaEVMOHZrdjlsZ3hySDE4RDFDZEZ5NmJpZlJPd1ZwSHQ3N2N5YmRhUFdzcF9vMkhvemQxTUdGejhTc0pybThlWXlGYnRwVUVUZ09Dc2JYU2EzcExZTFZ1bjlhWmg0SVhhaDhhTklhcjFnQ1lrMTQ4bnZJSnN6SmE4ZW4yR2RtWXhHVjBQMkZYV2ltQktIUW9vT3JVY3pQM0RLUXJsdjI5Z1pHamtCRHkw?oc=5",
-      "date": "2025-01-23",
-      "source": "Carnegie China",
-      "source_type": "tt",
-      "region": "CN",
-      "lang": "en",
-      "theme": null,
       "via_gnews": true
     },
     {
@@ -4001,6 +3975,19 @@
       "region": "FR",
       "lang": "fr",
       "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "bc3c704a64d5ce47",
+      "title": "The African Union adopts ten-year strategy and action plan to transform Africa's agri-food systems and ensure food security",
+      "summary": "The African Union adopts ten-year strategy and action plan to transform Africa's agri-food systems and ensure food security &nbsp;&nbsp; African Union",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZHhGYWE4bWtNTUVSTXJfeGRrbHdvOWlNeEF3Rjh5LV82SXBRTGcyVVNRdkJwOXFPMDd2NGZJOW4xeTdhYkhyNjVUb2JCUTY1X0Y1X0duN3JUaUNQUzY1alV1VUVfZnhJV015djRLeXQxVXpkTzN2TmNVY3RYMkFCR1ExcloxM0FzVmNZWkdObTU4cFVPUWU1bGV4Q0RqbmRHaTF1Wks5Y09ubm91eUd2TG5YSW16Sl85TVE?oc=5",
+      "date": "2025-01-13",
+      "source": "African Union",
+      "source_type": "io",
+      "region": "Africa",
+      "lang": "en",
+      "theme": "development",
       "via_gnews": true
     },
     {
@@ -4134,6 +4121,19 @@
       "via_gnews": true
     },
     {
+      "id": "36de8591a1abcf9c",
+      "title": "SIPRI Yearbook 2024, Summary in Arabic",
+      "summary": "SIPRI Yearbook 2024, Summary in Arabic &nbsp;&nbsp; Stockholm International Peace Research Institute",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVWwwd3VOQ3V3MkhkX2N5ODh3WlJpa2hENFZ5dURHQXBfSXJybmt6bnRUeVNSaUQ4UnlTclQ2dER3dGlUM0ZCT00xR05xU3hJeVl6MFVHaFBRazhvOXlzVXJHVy0xX0M4R2F4VmwxZS1ObkJFUlh5V0xrRERyYTZPX0RUVHlEVkVB?oc=5",
+      "date": "2024-10-27",
+      "source": "SIPRI",
+      "source_type": "tt",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "214666f0de2b78eb",
       "title": "Poverty, Prosperity, and Planet Report 2026",
       "summary": "Poverty, Prosperity, and Planet Report 2026 &nbsp;&nbsp; World Bank Group",
@@ -4147,10 +4147,10 @@
       "via_gnews": true
     },
     {
-      "id": "2218d23394e40a5d",
-      "title": "SIPRI Yearbook 2020, Summary in Dutch",
-      "summary": "SIPRI Yearbook 2020, Summary in Dutch &nbsp;&nbsp; Stockholm International Peace Research Institute",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNUR4WkxBMEU0S2tiOFFrSWFZUTYxOFMxT2NDeVlBZ2ptSVExUzkxZzBuZDdFRjFjdU1YV3IyQU0taHE4QzNmUFZuWjlJSy1FaTNHVkpfZ0FrUHJGdFViNnRrQUZOMUViSnJ1RkJCbGtpbGk0S3pqbks1d0xJZWpxWWlYOHhsS1U?oc=5",
+      "id": "931a7752349b4b16",
+      "title": "SIPRI Yearbook 2020, Summary in Italian",
+      "summary": "SIPRI Yearbook 2020, Summary in Italian &nbsp;&nbsp; Stockholm International Peace Research Institute",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWngxVWVUc2xQUklicGpGaDhpMjgwZXdCcmtWcS15eUdSTEVEcXZLZWRwVWNQTTYzTkJKN1FkOXFBWG45ZDUtNjBSd0M4YlIzeW8zNG5NZG10OVBwTElMT2VQWW1aeVctVDJVMjZaS1hKZnk4Qk9ZWTVjb1M5VkwwakhLdmJpeWxJbHc?oc=5",
       "date": "2024-10-02",
       "source": "SIPRI",
       "source_type": "tt",
@@ -4178,19 +4178,6 @@
       "summary": "TENDER FOR THE SUPPLY & DELIVERY OF GENERAL OFFICE STATIONERY AND ICT RELATED CONSUMABLES UNDER FRAMEWORK AGREEMENT – TENDER NO. MFA.002-OT-2024-2025-1 &nbsp;&nbsp; Kenya Ministry of Foreign Affairs",
       "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE44WHhHdk1lM1JWUEpIa3MtcFgtalA4S1R1VW9NN3RsTHE3UFh5VklQbTBZRk83MnVEaTM5V0pUeXhkTXp2?oc=5",
       "date": "2024-09-27",
-      "source": "Kenya — MFA",
-      "source_type": "gov",
-      "region": "Africa",
-      "lang": "en",
-      "theme": "diplomacy",
-      "via_gnews": true
-    },
-    {
-      "id": "5ce2f475aebf9140",
-      "title": "Kenya-China Relations Deepened at 2024 FOCAC Summit: A Milestone for Infrastructure, Trade, and Economic Cooperation",
-      "summary": "Kenya-China Relations Deepened at 2024 FOCAC Summit: A Milestone for Infrastructure, Trade, and Economic Cooperation &nbsp;&nbsp; Kenya Ministry of Foreign Affairs",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaXVVTlRRbWktZlljNmhoZ096U21HS1dUeC1DUjE2b1ktWGNsUnVmRzdRdElURmNaMzE5S1E5WjZpYXo5MFMtOWxaRDFRUlNlSGY5cDVTQ2NQYm02WFlVT3lXY0huQll5a0hmOHlSVUdyd0tOQWxza0xVb1l5RXZzcks5NDZMeGZaNXV6MERZRkdETnpKeUprbWQwazRHM1dJcWU5VXJXdDFBVm5lR3hR?oc=5",
-      "date": "2024-09-13",
       "source": "Kenya — MFA",
       "source_type": "gov",
       "region": "Africa",
@@ -4416,6 +4403,19 @@
       "source_type": "tt",
       "region": "CN",
       "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "cd0347cb56a3e9ba",
+      "title": "FAQ – Declaration of Value",
+      "summary": "FAQ – Declaration of Value &nbsp;&nbsp; Ambasciata d'Italia Nairobi",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZ0dpU3ZsSUtmV1JqOEdGbHNzMk5CTlVKR1NHWWJRMHJUVkdvb3Q1Q3hscWxyWXRHenA4MHk5MlhxcjZjYTBEVTBib1lta2tNMUltQjNLWE5HYTJ1RnNkaENuV0JSM19NSnNmUTlMbExVYjhSZXBvblhxREhDZnVwT0JPVjhWbGhVZDBNZExRUHhaazhoUXV1U3pHQmRGYXNDYmc4aklWYXVTNXA2NGJOR2ZVVjhMbFBTV01VejAtT0JBVXRXMGFrdTFqazVTS0hSVnlvbkVqc2xOUUJkUEE2TTdPdjRNak41WEpOaVRJVmEtMUlOSGpB?oc=5",
+      "date": "2024-05-23",
+      "source": "Italy — Esteri",
+      "source_type": "gov",
+      "region": "IT",
+      "lang": "it",
       "theme": null,
       "via_gnews": true
     },
@@ -5018,6 +5018,19 @@
       "via_gnews": true
     },
     {
+      "id": "2e013f00cafdc1c7",
+      "title": "Report on National Case Study: Belgium",
+      "summary": "Report on National Case Study: Belgium &nbsp;&nbsp; cdn.ceps.eu",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSkJCUmo2cFR2VUNESHBpU2FTbmQzS1pBTzJRN01OWnpVdnFKaFIyYmlfOVNWc1ZWUEVINndvQk1DYTZ6YzVaNEM1aXRFZEFncG5jQm15clJYSHZrS0hWaFdoQU4xXzMzckNhbUFpMF9paXV2M0ZBUUlacFRTR0RlS180OEFLejFXRjJxcUFualNlT2M2ODNvUTNuYw?oc=5",
+      "date": "2023-07-29",
+      "source": "CEPS",
+      "source_type": "tt",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "cc2899fde421a3c8",
       "title": "The 2023 Federal Government Strategy on China - Federal Foreign Office",
       "summary": "The 2023 Federal Government Strategy on China - Federal Foreign Office &nbsp;&nbsp; Auswärtiges Amt",
@@ -5444,19 +5457,6 @@
       "region": "AU",
       "lang": "en",
       "theme": "diplomacy",
-      "via_gnews": true
-    },
-    {
-      "id": "9309e6374ee93f71",
-      "title": "Forum on the New Industrial Strategy for Europe 2023",
-      "summary": "Forum on the New Industrial Strategy for Europe 2023 &nbsp;&nbsp; CEPS",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNUhmVkZMS1VXUi1DcGY0SURGTFl3X2tydmVLUnlHSXRNNE8tcHM4elk0d2Z3RXVhS0o1Wm0yZVBobzZ5WXI3T0FvR1dLME1QSVhDN2RHbzhSRHhVSkxwdHJyU1Y1NDJXZGdkVWdKZEJVTHZfaVZ5MjllOFdHNGxnM1AybUtfbm8yVU45SFJxcEdMT19y?oc=5",
-      "date": "2022-12-07",
-      "source": "CEPS",
-      "source_type": "tt",
-      "region": "EU",
-      "lang": "en",
-      "theme": null,
       "via_gnews": true
     },
     {
@@ -5954,19 +5954,6 @@
       "via_gnews": true
     },
     {
-      "id": "e446ecd2b508aa96",
-      "title": "European Union - African Union summit, 17-18 February 2022",
-      "summary": "European Union - African Union summit, 17-18 February 2022 &nbsp;&nbsp; Council, European Union",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeUdxS1h1enM4RDFsdW5GcGxoLU9zT0VwcnN5cGYzQ1VGaUF4Z0hFektURVQ3STFfQURLUkZkOTN4Y1ZxWFJLUkRpZEhvdzRzSXNVRVV5eUhrUHc0bFN0NWdBMDlGSzVFX1hmanNySFdERkxZLTNOVWxHRmtRaHJMZUM3UXNJZw?oc=5",
-      "date": "2022-02-17",
-      "source": "African Union",
-      "source_type": "io",
-      "region": "Africa",
-      "lang": "en",
-      "theme": "diplomacy",
-      "via_gnews": true
-    },
-    {
       "id": "8cd470d9afeb41ac",
       "title": "GLOBSEC report: the risk of shell corporations",
       "summary": "GLOBSEC report: the risk of shell corporations &nbsp;&nbsp; GLOBSEC",
@@ -6071,12 +6058,38 @@
       "via_gnews": true
     },
     {
+      "id": "aa0933ff07826923",
+      "title": "The White House Report on Climate Migration, Explained",
+      "summary": "The White House Report on Climate Migration, Explained &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNVJfbDRPSnlid2ZCbUw0Q1J2dmhPNkJnUHZqTlRfYk1mUWYwaXpuSkUwekJkYk5MWHNTMU8zRTNoU3BkNEp5eVZhTkt2WUIxalFYSFJpYmw4cWZzX1BsOVVJQjBUSVg1OXgyWG1ReHN4elVpNnR5aVBnbENobWtoaS13?oc=5",
+      "date": "2021-11-05",
+      "source": "CSIS",
+      "source_type": "tt",
+      "region": "US",
+      "lang": "en",
+      "theme": "climate",
+      "via_gnews": true
+    },
+    {
       "id": "49dcda76edfb4620",
       "title": "The Mosaic Approach: a Multidimensional Strategy for Strengthening America's Critical Minerals Supply Chain",
       "summary": "The Mosaic Approach: a Multidimensional Strategy for Strengthening America's Critical Minerals Supply Chain &nbsp;&nbsp; www.wilsoncenter.org",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRnJhdDdiXzFNZUowOXNBMnQ2X2gwN1dJb3czZFNmTUtkc2cwVWRJWEtJYmUtX0xzMGdtaUw0YTM0MmNDX1dmS2xVcmUtdXFlSmVBdHZMVnVHWVgycGptQWpVRncwSHk0X1FabzhVY3dEWTNLYTBXakx1YmxCeG9qRWpNZUFjbEhUSXNzS21kNm9SV3NwU0tHQWRiYXgtMFRhc05JRW1RNE55bFB5YmNoaTBkaktmd2JUZzg4MDNVOEU?oc=5",
       "date": "2021-10-07",
       "source": "Wilson Center",
+      "source_type": "tt",
+      "region": "US",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "279513e487a44187",
+      "title": "The Real National Security Concerns over Data Localization",
+      "summary": "The Real National Security Concerns over Data Localization &nbsp;&nbsp; CSIS | Center for Strategic and International Studies",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOckZvbi1Cb3B0VVN1YkxvTWlzMmJCY2JSdzRadm91cmVNbjNtdU5KRTk0V3FLWXVaUlpscU5JZ2VlQUhQQzV5em9VZ2JVUlBTblZxazZfcV9KVkRKalZTRzRXSXFzdmpXeHZ3ZTBPSXNLN3pZY1VZblE5QWd5Q2hIVFFVaS1iazY4UXRiMw?oc=5",
+      "date": "2021-07-23",
+      "source": "CSIS",
       "source_type": "tt",
       "region": "US",
       "lang": "en",
@@ -6123,6 +6136,19 @@
       "via_gnews": true
     },
     {
+      "id": "8a04649d6d30bbb9",
+      "title": "SIPRI Yearbook 2021, Summary",
+      "summary": "SIPRI Yearbook 2021, Summary &nbsp;&nbsp; Stockholm International Peace Research Institute",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN05xcFU3WHd6bjNvSVdNdlFFd1I1Z0hoNElZbDEzZ05EZnU5T2tHU2wwNWFqenhRenBOQ3RPRW1pYi14YjNhSjltWHN2NXNpRTZoUE9KQXhYUmRnemRER2ZCdjZWSjlRMTdVSTZMaVRjSHZFSWZKVjMwTGVYMENvcUpOWnY5MUE?oc=5",
+      "date": "2021-06-15",
+      "source": "SIPRI",
+      "source_type": "tt",
+      "region": "EU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "5bd811f20aaebb13",
       "title": "Global nuclear arsenals grow as states continue to modernize–New SIPRI Yearbook out now",
       "summary": "Global nuclear arsenals grow as states continue to modernize–New SIPRI Yearbook out now &nbsp;&nbsp; Stockholm International Peace Research Institute",
@@ -6157,6 +6183,32 @@
       "source": "PIIE — Peterson Institute",
       "source_type": "tt",
       "region": "US",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "a058a8fc668a358a",
+      "title": "Policy Brief 21-8: The evolving gender gap in labor force participation during COVID-19",
+      "summary": "Policy Brief 21-8: The evolving gender gap in labor force participation during COVID-19 &nbsp;&nbsp; Peterson Institute for International Economics",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13YXdVZFpiTzQyYklibUN1NXdiT2JTV05VNHNJYVlNZkJyODFGbWJBWF9fQ2FUR2dabVlWdDgwdUhFRWZDTnJGYWlsblg2Qk5tc1hETzdmUkRBd2pCaXFKYzlLOVdVN0lHSkV2RFBR?oc=5",
+      "date": "2021-04-17",
+      "source": "PIIE — Peterson Institute",
+      "source_type": "tt",
+      "region": "US",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "1c8404822efb1b18",
+      "title": "Universal Declaration of Human Rights",
+      "summary": "Universal Declaration of Human Rights &nbsp;&nbsp; Welcome to the United Nations",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxa1ZTbEx4SC1wN2NkRjlaRlNpSU5KMklxRk9rUlhKU2EwdXdXTEx2WlFscUZSSkc5TEJFZFoxbjdaOERoYWhNQVlMZDVpMVk0NWQ2ZlBNQnBzbHg3N1I4cHRaNk9TWnFSN2RiSG5nc2pVWHJzR2Fn?oc=5",
+      "date": "2021-03-16",
+      "source": "United Nations",
+      "source_type": "io",
+      "region": "Global",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -6224,6 +6276,19 @@
       "region": "PL",
       "lang": "en",
       "theme": "security",
+      "via_gnews": true
+    },
+    {
+      "id": "a48b398a67da6e8e",
+      "title": "The Status of Women in Russian Society | Conference Report",
+      "summary": "The Status of Women in Russian Society | Conference Report &nbsp;&nbsp; Wilson Center",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQemZ6QnJNdk9lbE9pZWJ6OUV3MERxeGtuZDAwTEZmUnU4VmdYVGl0NlBxcExkSGMxMEFUVjFsYmM4Ukwya1czc3NjcHNPQkZiQm5rZGJjYmFUeFJENUVVWTdaa3V3QW8zalUxcHVrSWhYNXRMUWNtci1vZE1DMkxNUnd1ZEtFa21uMEZHal84cGI?oc=5",
+      "date": "2020-12-17",
+      "source": "Wilson Center",
+      "source_type": "tt",
+      "region": "RU",
+      "lang": "en",
+      "theme": null,
       "via_gnews": true
     },
     {
@@ -6643,19 +6708,6 @@
       "via_gnews": true
     },
     {
-      "id": "8ad284cc27109c2e",
-      "title": "United Nations Declaration on the Rights of Indigenous Peoples",
-      "summary": "United Nations Declaration on the Rights of Indigenous Peoples &nbsp;&nbsp; Welcome to the United Nations",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMXpYOTI2NHhBaER6VmhQVldoQ19XRkhlLVJPMXdrdDNKbVRHNno5ejJTU2ExYjlaVFI5aWhYLXFpMzQ4STgtaFJtZnVzXzVlaFFTc1hWY01KUzZaLS1OLVFncmNtdlZYdGZ2eVBLWkVTRnJRV0dRbmRBZGc3Z1AwenVsQk1KcHRieHk3bDhPSTlyekp6Tm5FYWY3ZWp0ckJsNlBrdEpUd2lTQQ?oc=5",
-      "date": "2018-11-23",
-      "source": "United Nations",
-      "source_type": "io",
-      "region": "Global",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "4d9424582a20c6c6",
       "title": "The Enlarged Partial Agreement on Cultural Routes of the Council of Europe",
       "summary": "The Enlarged Partial Agreement on Cultural Routes of the Council of Europe &nbsp;&nbsp; www.coe.int",
@@ -6799,6 +6851,19 @@
       "via_gnews": true
     },
     {
+      "id": "3814643111de94e0",
+      "title": "Report: Toward the Great Ocean - 5: From The Turn To The East To Greater Eurasia",
+      "summary": "Report: Toward the Great Ocean - 5: From The Turn To The East To Greater Eurasia &nbsp;&nbsp; Valdai Club",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcElFa3RyZDJ0RVBhem9hT2d2cFE5OHFhbGJobU9PSWVfVUtJNHV4TlVkVEpnQXp6TmJIYnNUd3c1VndtQzQtdC11cHBTSUZPT2t0T2toc1E3WDMwd0VMTnF6bTlITnQzZEV1eG15SjNjOGZmU3FrdDNFb091Ui1nc1BGbFVZY0dNRnNv?oc=5",
+      "date": "2017-09-06",
+      "source": "Valdai Club",
+      "source_type": "tt",
+      "region": "RU",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "a8a8b0abcf8bf138",
       "title": "Notes de la FRS | Publications | Foundation for Strategic Research",
       "summary": "Notes de la FRS | Publications | Foundation for Strategic Research &nbsp;&nbsp; Fondation pour la Recherche Stratégique",
@@ -6916,19 +6981,6 @@
       "via_gnews": true
     },
     {
-      "id": "b55c11e946873bb8",
-      "title": "SAFE POLICY BRIEF No. 3: ‘Sustainable Coffee’ Exports from Tanzania",
-      "summary": "SAFE POLICY BRIEF No. 3: ‘Sustainable Coffee’ Exports from Tanzania &nbsp;&nbsp; DIIS",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbWR1dDIzS210QkVWRWJiajhobnJiVmlBYnpObXB1YjNCbDlVU2NVU3pqZDZFTlFZWm9pVS1RV2NVN3JyNmlHdUE4V2pRNDV6WkdxMzgxZUhlU3UwZ2RZSnI3MHFqVENwWmVrMWlQSm5YSzNUamwwQjd4MWFUT0JyTg?oc=5",
-      "date": "2017-03-04",
-      "source": "DIIS (DK)",
-      "source_type": "tt",
-      "region": "DK",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "91abf85df5d30cfd",
       "title": "The year of Brexit and Trump: Annual report 2016",
       "summary": "The year of Brexit and Trump: Annual report 2016 &nbsp;&nbsp; Centre for European Reform",
@@ -6937,6 +6989,19 @@
       "source": "Centre for European Reform (CER)",
       "source_type": "tt",
       "region": "UK",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
+      "id": "c3b95f9d49d3be43",
+      "title": "World Development Report 2017: Governance and the Law",
+      "summary": "World Development Report 2017: Governance and the Law &nbsp;&nbsp; World Bank Group",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCemdmcEpWbkdoQ0VwS1JqeTJ2a1EtUnNuTGRUb1BWWXdXcVdDTWJkMlI0Y0NZc09ZT1dselhfSUluMUFpb1owcDJFTDh6b1MzeEZPeUFLdGNNVGpv?oc=5",
+      "date": "2017-01-20",
+      "source": "World Bank",
+      "source_type": "io",
+      "region": "Global",
       "lang": "en",
       "theme": null,
       "via_gnews": true
@@ -7137,19 +7202,6 @@
       "via_gnews": true
     },
     {
-      "id": "aa9e6943b2c7d63b",
-      "title": "Report: More than 20,000 Foreign Fighters in Syria/Iraq",
-      "summary": "Report: More than 20,000 Foreign Fighters in Syria/Iraq &nbsp;&nbsp; wilsoncenter.org",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWVRSMTZaOEJ0SWdzS04wTXJEX1hTcTV4c0M5NzRzWXNYclAtVmc5aHFUQVNNWUxwckdJd0w5Qmx3WExVN2xmZUhzTGVad2RpNktmWVY0WlB2WHdHTEIwY2d5eUhidG1PeXJ4MXZ5N0NBckJiSS1YRjhOQXBYWnloWXlpM2ZHVTlT?oc=5",
-      "date": "2015-01-26",
-      "source": "Wilson Center",
-      "source_type": "tt",
-      "region": "US",
-      "lang": "en",
-      "theme": null,
-      "via_gnews": true
-    },
-    {
       "id": "76837157619937c5",
       "title": "DIIS polIcy brIef Flexicurity in Italy – how far is Rome from Copenhagen?",
       "summary": "DIIS polIcy brIef Flexicurity in Italy – how far is Rome from Copenhagen? &nbsp;&nbsp; DIIS",
@@ -7184,6 +7236,19 @@
       "source": "Lowy Institute (AU)",
       "source_type": "tt",
       "region": "IN",
+      "lang": "en",
+      "theme": "security",
+      "via_gnews": true
+    },
+    {
+      "id": "32cb6f0fa47413f9",
+      "title": "Security Controls for Computer Systems: Report of Defense Science Board Task Force on Computer Security",
+      "summary": "Security Controls for Computer Systems: Report of Defense Science Board Task Force on Computer Security &nbsp;&nbsp; RAND",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pVWkxNHlPNi1JTlZEOVJnUlVQLXFpTHo0ZkJyTjFDdVB5SGVtay1hRUJJN2tEWUtiNmpmeXpWNVB0NVZxdHBZMklOOXFYN1pMRjRNQnBsaTI?oc=5",
+      "date": "2014-03-25",
+      "source": "RAND",
+      "source_type": "tt",
+      "region": "US",
       "lang": "en",
       "theme": "security",
       "via_gnews": true
@@ -7241,6 +7306,19 @@
       "via_gnews": true
     },
     {
+      "id": "7d3d2e0d41fd2c26",
+      "title": "U.S. Report on Religious Freedom in Middle East",
+      "summary": "U.S. Report on Religious Freedom in Middle East &nbsp;&nbsp; www.wilsoncenter.org",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONElHNTJFNkZYQlgwQ29CMU9HeFhpeDBNM3c4RlhLdWdvYjhTSnJkME5YTEFqS2M2Z2xKMFhEVWxjVS1hWFJCX1pNX0o0WEtFVkRpdmJGb1pzcG15dHhoNkZBbWU3cUJhelFMLU1xR0k0M0lwRU9LaGVaMVNJSWNlcF9B?oc=5",
+      "date": "2013-05-20",
+      "source": "Wilson Center",
+      "source_type": "tt",
+      "region": "US",
+      "lang": "en",
+      "theme": null,
+      "via_gnews": true
+    },
+    {
       "id": "8a640a2bd89eafb7",
       "title": "Big enough for all of us: geo-strategic competition in the Pacific Islands",
       "summary": "Big enough for all of us: geo-strategic competition in the Pacific Islands &nbsp;&nbsp; Lowy Institute",
@@ -7277,19 +7355,6 @@
       "region": "Global",
       "lang": "en",
       "theme": "security",
-      "via_gnews": true
-    },
-    {
-      "id": "4579ad7c9814c386",
-      "title": "Special CWIHP Report: The Victims at the Berlin Wall, 1961-1989",
-      "summary": "Special CWIHP Report: The Victims at the Berlin Wall, 1961-1989 &nbsp;&nbsp; www.wilsoncenter.org",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMDc2V1Z6MWZwY0p2eUxCVEJGY3BXOER3ZFFWeTJVZXlhOXBILXRwS0VtbkpQSHVJc3Q3T2ppMl9ESnIyQjVIQmxhdXg2S0dZRFlUMEtOcVYtY21OSnFabDdFeGl2bEpQUTFTeC1SNDJlTUp5NWh2d2FabW1VY01rb2llbWtwbFBuVmdIQk5xLUNhVzYwQnJFQ2Vqbw?oc=5",
-      "date": "2011-08-10",
-      "source": "Wilson Center",
-      "source_type": "tt",
-      "region": "US",
-      "lang": "en",
-      "theme": null,
       "via_gnews": true
     },
     {
@@ -7394,19 +7459,6 @@
       "region": "Global",
       "lang": "en",
       "theme": "security",
-      "via_gnews": true
-    },
-    {
-      "id": "5d6120154e211120",
-      "title": "SWP Research Paper 2009/RP 01, January 2009, 32 pages",
-      "summary": "SWP Research Paper 2009/RP 01, January 2009, 32 pages &nbsp;&nbsp; Stiftung Wissenschaft und Politik (SWP)",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZFhHRjdtZ0xabVVSUnA2X0dLTXRTTGtJOENvalhiUVhlRk5oaGJyS0ZObVJtVGNVVkw4aVhVWmFBdFFzS05ZMnU3TUNheWlqZlVIOGp0d05JYUVXbWhaQldfUk5mZXBXV2FPYzJaaEplRWN4cVkzeGM4a2VEaW9fa1NNVjdEMFFKOU5ySnln?oc=5",
-      "date": "2009-01-01",
-      "source": "SWP Berlin (DE)",
-      "source_type": "tt",
-      "region": "DE",
-      "lang": "en",
-      "theme": null,
       "via_gnews": true
     },
     {
