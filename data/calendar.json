@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-11-16T00:40:45.408387+00:00",
-    "duration_seconds": 70.540448,
+    "generated_at": "2026-11-16T10:34:39.272146+00:00",
+    "duration_seconds": 73.386512,
     "stats": {
-      "ok": 82,
-      "fail": 17,
-      "items_total": 2138,
-      "items_strict": 571,
-      "events_detected": 0
+      "ok": 84,
+      "fail": 15,
+      "items_total": 2167,
+      "items_strict": 588,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -107,6 +107,40 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "094affa1d5f5ba6c-evt",
+      "title": "Keynote speech by Commissioner Albuquerque at the 2nd International Conference on Decarbonisation and Sustainable Finance, Lusíada University",
+      "date": "2026-11-16",
+      "end_date": "2026-11-16",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2443",
+      "summary": "European Commission Speech Lisbon, 16 Nov 2026 Good morning, ladies and gentlemen. It is a particular pleasure to return to Universidade Lusíada, where I studied Economics. Coming back to my alma mater as Eu...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "6af755acaba63cfd-evt",
+      "title": "Speech by President von der Leyen at the Enlargement Forum",
+      "date": "2026-11-16",
+      "end_date": "2026-11-16",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2442",
+      "summary": "European Commission Speech Brussels, 16 Nov 2026 President Stubb, Dear Alex, President Sandu, Dear Maia, Prime Minister Koretsky, Dear Sergii, Prime Minister Mickoski, Dear Hristijan, Dear Marta, Dear Andrius,...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "halifax-2026",
