@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-11-20T02:00:22.706607+00:00",
-    "duration_seconds": 77.91345,
+    "generated_at": "2026-11-20T10:52:03.722300+00:00",
+    "duration_seconds": 76.062486,
     "stats": {
-      "ok": 81,
-      "fail": 18,
-      "items_total": 2122,
-      "items_strict": 575,
-      "events_detected": 2
+      "ok": 79,
+      "fail": 20,
+      "items_total": 2040,
+      "items_strict": 531,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -75,23 +75,6 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "7c1896474aa6a575-evt",
-      "title": "EU-United Kingdom summit, 20 November 2026",
-      "date": "2026-11-20",
-      "end_date": "2026-11-20",
-      "location": "",
-      "organizer": "European Council",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcmVKMmpXSkFaVHlKNk5EcjVESC15OENWb3FaRU9rVlF2b0lYMk8xMXBLWWdsc1ktaEw4SzloTVNvY1dtQms1eDJVYi1zRDNoWmtGT05mUEoxWEhXVXB4aUxsRTR1VFZuY0xxUHd2Ukc3YVBNZk9tZkRFMFRjMDBuNmp3?oc=5",
-      "summary": "EU-United Kingdom summit, 20 November 2026 &nbsp;&nbsp; Council, European Union",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Council",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "5f1a05fd567355bf-evt",
