@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-11-21T10:36:02.880846+00:00",
-    "duration_seconds": 73.070952,
+    "generated_at": "2026-11-21T18:38:27.479337+00:00",
+    "duration_seconds": 70.405125,
     "stats": {
-      "ok": 81,
-      "fail": 18,
-      "items_total": 2138,
+      "ok": 82,
+      "fail": 17,
+      "items_total": 2129,
       "items_strict": 574,
-      "events_detected": 0
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -91,6 +91,23 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "ca799201ad3b60ff-evt",
+      "title": "Remarks by Commissioner Šefčovič at the signature of the EU-Indonesia Comprehensive Economic Partnership Agreement and the Investment Protection Agreement",
+      "date": "2026-11-21",
+      "end_date": "2026-11-21",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "economy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2539",
+      "summary": "European Commission Statement Brussels, 21 Nov 2026 A warm welcome, dear Ministers. I am truly pleased to host you and your delegation. Because today, we seal a friendship and open a new chapter. After nine years...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "doha-2026",
