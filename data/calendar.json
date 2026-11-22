@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-11-21T18:38:27.479337+00:00",
-    "duration_seconds": 70.405125,
+    "generated_at": "2026-11-22T00:53:48.400875+00:00",
+    "duration_seconds": 74.634246,
     "stats": {
-      "ok": 82,
-      "fail": 17,
-      "items_total": 2129,
-      "items_strict": 574,
-      "events_detected": 1
+      "ok": 84,
+      "fail": 15,
+      "items_total": 2169,
+      "items_strict": 601,
+      "events_detected": 0
     },
     "source_count": 99
   },
@@ -61,22 +61,6 @@
       "kind": "diplomatic-event"
     },
     {
-      "id": "cop-2026",
-      "title": "UN Climate Conference (COP) 2026",
-      "date": "2026-11-10",
-      "end_date": "2026-11-21",
-      "location": "Rotating host",
-      "organizer": "UNFCCC",
-      "region": "Global",
-      "theme": "climate",
-      "link": "https://unfccc.int/",
-      "summary": "",
-      "featured": true,
-      "confirmed": false,
-      "source": "recurring-template",
-      "kind": "diplomatic-event"
-    },
-    {
       "id": "halifax-2026",
       "title": "Halifax International Security Forum 2026",
       "date": "2026-11-20",
@@ -91,23 +75,6 @@
       "confirmed": false,
       "source": "recurring-template",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "ca799201ad3b60ff-evt",
-      "title": "Remarks by Commissioner Šefčovič at the signature of the EU-Indonesia Comprehensive Economic Partnership Agreement and the Investment Protection Agreement",
-      "date": "2026-11-21",
-      "end_date": "2026-11-21",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "economy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2539",
-      "summary": "European Commission Statement Brussels, 21 Nov 2026 A warm welcome, dear Ministers. I am truly pleased to host you and your delegation. Because today, we seal a friendship and open a new chapter. After nine years...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "doha-2026",
