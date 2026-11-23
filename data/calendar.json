@@ -1,12 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-11-22T18:58:54.859744+00:00",
-    "duration_seconds": 75.007509,
+    "generated_at": "2026-11-23T01:22:35.794708+00:00",
+    "duration_seconds": 71.557678,
     "stats": {
       "ok": 82,
       "fail": 17,
-      "items_total": 2158,
-      "items_strict": 576,
+      "items_total": 2141,
+      "items_strict": 562,
       "events_detected": 0
     },
     "source_count": 99
@@ -58,22 +58,6 @@
       "featured": true,
       "confirmed": true,
       "source": "manual",
-      "kind": "diplomatic-event"
-    },
-    {
-      "id": "halifax-2026",
-      "title": "Halifax International Security Forum 2026",
-      "date": "2026-11-20",
-      "end_date": "2026-11-22",
-      "location": "Halifax, Canada",
-      "organizer": "Halifax Forum",
-      "region": "Global",
-      "theme": "security",
-      "link": "https://halifaxtheforum.org/",
-      "summary": "",
-      "featured": false,
-      "confirmed": false,
-      "source": "recurring-template",
       "kind": "diplomatic-event"
     },
     {
