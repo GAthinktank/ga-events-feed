@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-11-23T23:18:17.417465+00:00",
-    "duration_seconds": 82.369023,
+    "generated_at": "2026-11-24T08:13:17.987799+00:00",
+    "duration_seconds": 569.365458,
     "stats": {
-      "ok": 82,
-      "fail": 17,
-      "items_total": 2192,
-      "items_strict": 581,
-      "events_detected": 1
+      "ok": 9,
+      "fail": 90,
+      "items_total": 135,
+      "items_strict": 50,
+      "events_detected": 0
     },
     "source_count": 99
   },
@@ -59,23 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "5e76dd6069153f68-evt",
-      "title": "Policy paper: Third UK-Mexico Multilateral and Human Rights Dialogue: Joint Press Statement 2026",
-      "date": "2026-11-23",
-      "end_date": "2026-11-23",
-      "location": "",
-      "organizer": "UK FCDO",
-      "region": "UK",
-      "theme": "diplomacy",
-      "link": "https://www.gov.uk/government/publications/third-uk-mexico-multilateral-and-human-rights-dialogue-joint-press-statement-2026",
-      "summary": "On 23 November 2026, representatives of the governments of Mexico and the United Kingdom held the Third Multilateral and Human Rights Dialogue in London.",
-      "featured": false,
-      "confirmed": true,
-      "source": "UK FCDO",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "doha-2026",
