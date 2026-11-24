@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-11-24T08:13:17.987799+00:00",
-    "duration_seconds": 569.365458,
+    "generated_at": "2026-11-24T19:54:19.779384+00:00",
+    "duration_seconds": 79.440839,
     "stats": {
-      "ok": 9,
-      "fail": 90,
-      "items_total": 135,
-      "items_strict": 50,
-      "events_detected": 0
+      "ok": 83,
+      "fail": 16,
+      "items_total": 2179,
+      "items_strict": 594,
+      "events_detected": 2
     },
     "source_count": 99
   },
@@ -59,6 +59,40 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "415631427b8ab96d-evt",
+      "title": "Health and safety at work: 8 August to become European day of remembrance for victims of accidents at work",
+      "date": "2026-11-24",
+      "end_date": "2026-11-24",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/jp_26_2575",
+      "summary": "European Commission Joint press release Brussels, 24 Nov 2026 The European Commission, European Parliament and Council signed today a joint declaration establishing a European day of remembrance for victims of accidents at work.",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "eb399cc76a458a64-evt",
+      "title": "Special European Council of 26-27 November 2026 - Invitation letter by President António Costa to the members of the European Council",
+      "date": "2026-11-27",
+      "end_date": "2026-11-27",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPa0RMTGFfR3lkb0toN3huUXBNU1pXVExZVS02S05fYjdpVjZRMjRvd25IZVBEOTJFTlg5ZnFXcFp1YkZ6UEtTUlcwTkNWMWJycVY5VGR1dG81OGg3UHpLZWlERGZVa1Fxa3JRNERIRS1zT3ZqR0VHRWpjYm51R1lLM1o4bzNySEI5SXR1SC1RbFp4MVNQS1B6UDV0T1lGZlIzekQzNGtOa1pORGtIVFNfT2dHeUlFSmtabFlEVFZaZzNDaXRhQi03cEtfRU00S0hiUmJqNmw5NVlhOUl5ZU9leE5LMWxuLTdZMTdZaWhTd3F1NFlBTk5VZ0tLYjRTM080dmpLZmNrU3dCbXhESFFQQ3RvZlQ5aVgtTUdKNkQ4NktfXzJUVGc?oc=5",
+      "summary": "Special European Council of 26-27 November 2026 - Invitation letter by President António Costa to the members of the European Council &nbsp;&nbsp; Council, European Union",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "doha-2026",
