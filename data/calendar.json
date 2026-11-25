@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-11-24T19:54:19.779384+00:00",
-    "duration_seconds": 79.440839,
+    "generated_at": "2026-11-25T03:56:23.524528+00:00",
+    "duration_seconds": 73.000031,
     "stats": {
-      "ok": 83,
-      "fail": 16,
-      "items_total": 2179,
-      "items_strict": 594,
-      "events_detected": 2
+      "ok": 82,
+      "fail": 17,
+      "items_total": 2232,
+      "items_strict": 600,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -59,23 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "415631427b8ab96d-evt",
-      "title": "Health and safety at work: 8 August to become European day of remembrance for victims of accidents at work",
-      "date": "2026-11-24",
-      "end_date": "2026-11-24",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/jp_26_2575",
-      "summary": "European Commission Joint press release Brussels, 24 Nov 2026 The European Commission, European Parliament and Council signed today a joint declaration establishing a European day of remembrance for victims of accidents at work.",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "eb399cc76a458a64-evt",
