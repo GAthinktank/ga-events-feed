@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-11-25T16:43:01.401952+00:00",
-    "duration_seconds": 77.70149,
+    "generated_at": "2026-11-26T01:29:37.525920+00:00",
+    "duration_seconds": 73.51294,
     "stats": {
-      "ok": 82,
-      "fail": 17,
-      "items_total": 2228,
-      "items_strict": 599,
-      "events_detected": 3
+      "ok": 81,
+      "fail": 18,
+      "items_total": 2180,
+      "items_strict": 578,
+      "events_detected": 1
     },
     "source_count": 99
   },
@@ -59,40 +59,6 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
-    },
-    {
-      "id": "2028953fc75f52a8-evt",
-      "title": "Keynote speech by Commissioner Kubilius on Defence Readiness in the EU Military Committee meeting at the level of Chiefs of Defence",
-      "date": "2026-11-25",
-      "end_date": "2026-11-25",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "security",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2586",
-      "summary": "European Commission Speech Brussels, 25 Nov 2026 Good to be together again with all of you! You asked us to elaborate on several questions. I am going to do that right away. My major message: we need to intens...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
-    },
-    {
-      "id": "49b8f4468c6c0024-evt",
-      "title": "Remarks by Commissioner Dombrovskis at Eurochambres meeting",
-      "date": "2026-11-25",
-      "end_date": "2026-11-25",
-      "location": "",
-      "organizer": "European Commission — Press",
-      "region": "EU",
-      "theme": "diplomacy",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2582",
-      "summary": "European Commission Speech Strasbourg, 25 Nov 2026 Good morning. It is a pleasure to join you this morning. Because Eurochambres doesn't just tell us that our rules are too complicated. You come back with report...",
-      "featured": false,
-      "confirmed": true,
-      "source": "European Commission — Press",
-      "kind": "diplomatic-event",
-      "lang": "en"
     },
     {
       "id": "eb399cc76a458a64-evt",
