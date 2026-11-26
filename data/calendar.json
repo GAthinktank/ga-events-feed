@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-11-26T01:29:37.525920+00:00",
-    "duration_seconds": 73.51294,
+    "generated_at": "2026-11-26T11:51:16.246516+00:00",
+    "duration_seconds": 100.099323,
     "stats": {
-      "ok": 81,
-      "fail": 18,
-      "items_total": 2180,
-      "items_strict": 578,
-      "events_detected": 1
+      "ok": 80,
+      "fail": 19,
+      "items_total": 2136,
+      "items_strict": 556,
+      "events_detected": 4
     },
     "source_count": 99
   },
@@ -61,6 +61,40 @@
       "kind": "diplomatic-event"
     },
     {
+      "id": "221002cd18bfed0e-evt",
+      "title": "Speech by Commissioner Hoekstra in the European Parliament's Plenary debate on the Outcome of the Antalya UN climate summit (COP 31)",
+      "date": "2026-11-26",
+      "end_date": "2026-11-26",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2593",
+      "summary": "European Commission Speech Strasbourg, 26 Nov 2026 Ladies and gentlemen, Good morning to all of you. In conversations and in negotiations you sometimes arrive at a moment where you simply have to say no. No, bec...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "f67beee8847dac1a-evt",
+      "title": "Media advisory - Special European Council meeting of 26-27 November 2026",
+      "date": "2026-11-27",
+      "end_date": "2026-11-27",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSU8zN2NOdUxLTzR2b1FaNWE0ZzJBelJYT1Q4RHpRanJGV3RrVWlwNE4zVjE0SGxES2VWa280REhobDVoYlN2TkY2Rk8zMTZmWmRPNElrZG5lV19JS2FEeW1ndlBEeks3d3dNQ1hFdHJubDg0cldSellaeVpGY2EtYjU3WFNyaTNzOTNtYkhPV0NMR19MZ0FVdFBMd3hNRnlUZHBMUy0tLTF3RWFGVFluYy1hTXVnQTlFOFBzdExxbktKbVlwYlZIMnJ6SWI1amo5NWpxUg?oc=5",
+      "summary": "Media advisory - Special European Council meeting of 26-27 November 2026 &nbsp;&nbsp; Council, European Union",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
       "id": "eb399cc76a458a64-evt",
       "title": "Special European Council of 26-27 November 2026 - Invitation letter by President António Costa to the members of the European Council",
       "date": "2026-11-27",
@@ -71,6 +105,23 @@
       "theme": "diplomacy",
       "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPa0RMTGFfR3lkb0toN3huUXBNU1pXVExZVS02S05fYjdpVjZRMjRvd25IZVBEOTJFTlg5ZnFXcFp1YkZ6UEtTUlcwTkNWMWJycVY5VGR1dG81OGg3UHpLZWlERGZVa1Fxa3JRNERIRS1zT3ZqR0VHRWpjYm51R1lLM1o4bzNySEI5SXR1SC1RbFp4MVNQS1B6UDV0T1lGZlIzekQzNGtOa1pORGtIVFNfT2dHeUlFSmtabFlEVFZaZzNDaXRhQi03cEtfRU00S0hiUmJqNmw5NVlhOUl5ZU9leE5LMWxuLTdZMTdZaWhTd3F1NFlBTk5VZ0tLYjRTM080dmpLZmNrU3dCbXhESFFQQ3RvZlQ5aVgtTUdKNkQ4NktfXzJUVGc?oc=5",
       "summary": "Special European Council of 26-27 November 2026 - Invitation letter by President António Costa to the members of the European Council &nbsp;&nbsp; Council, European Union",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Council",
+      "kind": "diplomatic-event",
+      "lang": "en"
+    },
+    {
+      "id": "85cdef3d993838f1-evt",
+      "title": "Remarks by President António Costa at the doorstep ahead of the Special European Council meeting of 26-27 November 2026",
+      "date": "2026-11-27",
+      "end_date": "2026-11-27",
+      "location": "",
+      "organizer": "European Council",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNYTRNYzQ1bG8yUEo0OFlLaXNoSGFhTGloZ3cxV3AzaHpnTWhaMEJ3aEhDM1FoVk4yUFdtS0d0S0dPWkt5ZnhQcDNNbVdsLW05anZvZ0FrQVl3R0ZJTF9lN0dZX0VydTNHeWotazdIYW13cHlrZUd3ZGUydDlZTl9qcnhmNWpUczZFSERkTF9TQjZhaDA3XzJRU29ycDJkaUpOamZCMFVVVDJpd1dScXhDQ25sNGY2S3JrYmhaQzMxbWtqTnJQSzQwbmwxMXlyTHh2LURaVnAzZTNRTkZUTUhkbHZTRzJTRVZxVmV2cW0xbVRCSXlSaUFtOHNOWjZsLXA2MDMyVnJJMmYxUUg4WU9KdHExZWVSQQ?oc=5",
+      "summary": "Remarks by President António Costa at the doorstep ahead of the Special European Council meeting of 26-27 November 2026 &nbsp;&nbsp; Council, European Union",
       "featured": false,
       "confirmed": true,
       "source": "European Council",
