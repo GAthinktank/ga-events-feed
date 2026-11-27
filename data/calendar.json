@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-11-27T03:27:43.972624+00:00",
-    "duration_seconds": 76.312774,
+    "generated_at": "2026-11-27T16:01:40.993073+00:00",
+    "duration_seconds": 92.33165,
     "stats": {
-      "ok": 82,
-      "fail": 17,
-      "items_total": 2194,
-      "items_strict": 584,
-      "events_detected": 4
+      "ok": 65,
+      "fail": 34,
+      "items_total": 1661,
+      "items_strict": 491,
+      "events_detected": 5
     },
     "source_count": 99
   },
@@ -59,6 +59,23 @@
       "confirmed": true,
       "source": "manual",
       "kind": "diplomatic-event"
+    },
+    {
+      "id": "2811216acf63bdeb-evt",
+      "title": "Keynote speech by Commissioner Albuquerque at the Training Day' of the 10th Anniversary of the ECB Simulation Conference for University Students",
+      "date": "2026-11-27",
+      "end_date": "2026-11-27",
+      "location": "",
+      "organizer": "European Commission — Press",
+      "region": "EU",
+      "theme": "diplomacy",
+      "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2613",
+      "summary": "European Commission Speech Online, 27 Nov 2026 Good morning, everyone. I am delighted to join you for the opening of the 10th ECB Simulation Conference. Let me begin by congratulating the organisers on a dec...",
+      "featured": false,
+      "confirmed": true,
+      "source": "European Commission — Press",
+      "kind": "diplomatic-event",
+      "lang": "en"
     },
     {
       "id": "5c778bf31929e3d6-evt",
